@@ -1,7 +1,7 @@
 # Tutorial
 ## Python tutorial on Tree classifiers
 
-![tree classifiers](https://www.PeterMossAmlAllResearch.com/media/images/banner.png)
+![tree classifiers](https://github.com/SalvatoreRa/tutorial/blob/main/images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg?raw=true)
 
 Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](https://unsplash.com/)
 
