@@ -1,17 +1,17 @@
 # Tutorial
-## Python tutorial on Tree classifiers
+## Python tutorial on the Genomic series
 
-![tree classifiers](https://github.com/SalvatoreRa/tutorial/blob/main/images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg?raw=true)
+![tree classifiers](https://github.com/SalvatoreRa/tutorial/blob/main/images/anirudh-YQYacLW8o2U-unsplash.jpg?raw=true)
 
-Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](https://unsplash.com/)
+Photo by [lanirudhreddy](https://unsplash.com/@lanirudhreddy) on [Unsplash](https://unsplash.com/)
 
 &nbsp;
 
 # Tutorial
 
-| File | Description | Status |
+| Tutorial | notebook | description |
 | ------- | ----------- | ------ |
-
+| [Complexity reduction techniques](https://medium.com/leukemiaairesearch/complexity-reduction-techniques-with-gene-expression-data-961491979bc8) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/complexity%20reduction%20techniques.ipynb) | Python |
 
 &nbsp;
 
