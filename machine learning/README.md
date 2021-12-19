@@ -17,10 +17,10 @@ You may write me for any request, suggestions and comments.
 
 | Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
-| [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple (not yet published) |
-| [tree classifiers](https://) | [notebook](https://) | training of tree classifiers (not yet published)|
-| [evaluation metrics](https://) | [notebook](https://) | how to calculate, code, and interpret evaluation metrics for classification |
-| [evaluation metrics](https://) | --- | Part II about imbalance dataset and multiclass classification |
+| [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple MEDIUM ARTICLE NOT YET PUBLISHED |
+| [tree classifiers](https://) | [notebook](https://) | training of tree classifiersMEDIUM ARTICLE NOT YET PUBLISHED|
+| [evaluation metrics](https://) | [notebook](https://) | how to calculate, code, and interpret evaluation metrics for classification MEDIUM ARTICLE NOT YET PUBLISHED |
+| [evaluation metrics](https://) | --- | Part II about imbalance dataset and multiclass classification MEDIUM ARTICLE NOT YET PUBLISHED|
 &nbsp;
 
 # Contributing
