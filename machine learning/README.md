@@ -15,10 +15,12 @@ You may write me for any request, suggestions and comments.
 
 # Tutorial
 
-| File | Description | Status |
+| Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
-
-
+| [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple (not yet published) |
+| [tree classifiers](https://) | [notebook](https://) | training of tree classifiers (not yet published)|
+| [evaluation metrics](https://) | [notebook](https://) | how to calculate, code, and interpret evaluation metrics for classification |
+| [evaluation metrics](https://) | --- | Part II about imbalance dataset and multiclass classification |
 &nbsp;
 
 # Contributing
