@@ -18,6 +18,20 @@ Moreover, you may find here some colab notebook without a theoretical tutorial (
 
 You may write me for any request, suggestions and comments. If you find useful please follow and/or share (a star is always really appreciated).
 
+[Medium account](https://medium.com/@salvatore-raieli) 
+&nbsp;
+
+# About me
+
+I am Salvatore Raieli, Senior Data Scientist in a pharmaceutical company. My work consist in applying machine learning and artificial intelligence in drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning and bioinformatics. I have worked in different projects related to machine learning and biology (for work or for passion). I am following a master in Artificial Intelligence to dive inside the theory. I have always been passionated about artificial intelligence, biology and understand how complex systems work.   
+
+I think that artificial intelligence will drive the new wave of innovation and it will revolution biology, medicine and pharma industry. I always thought that science should be more democratic and sharing knowledge is fundamental for the improvement of science. For this reason, I have planned to write tutorials where trying to explain machine learning and artificial intelligence in the easiest way possible. 
+
+[Medium account](https://medium.com/@salvatore-raieli) 
+
+
+&nbsp;
+
 # Tutorials on machine learning
 
 this series of tutorials is focused on classical machine learning (regression, classification, dimentional reduction and so on). I will discuss the basic, the math behind models and how to implement. 
