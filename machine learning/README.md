@@ -18,8 +18,8 @@ You may write me for any request, suggestions and comments.
 | Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
 | [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple MEDIUM ARTICLE NOT YET PUBLISHED |
-| [tree classifiers](https://) | [notebook](https://) | training of tree classifiersMEDIUM ARTICLE NOT YET PUBLISHED|
-| [evaluation metrics](https://) | [notebook](https://) | how to calculate, code, and interpret evaluation metrics for classification MEDIUM ARTICLE NOT YET PUBLISHED |
+| [tree classifiers](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | training of tree classifiersMEDIUM ARTICLE NOT YET PUBLISHED|
+| [evaluation metrics](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/classc_metr.ipynb) | how to calculate, code, and interpret evaluation metrics for classification MEDIUM ARTICLE NOT YET PUBLISHED |
 | [evaluation metrics](https://) | --- | Part II about imbalance dataset and multiclass classification MEDIUM ARTICLE NOT YET PUBLISHED|
 &nbsp;
 
