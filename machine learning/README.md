@@ -17,7 +17,7 @@ You may write me for any request, suggestions and comments.
 
 | Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
-| [data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/data_manipulation.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple - MEDIUM ARTICLE NOT YET PUBLISHED |
 | [tree classifiers](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | training of tree classifiers - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [evaluation metrics for classification - part I](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/classc_metr.ipynb) | how to calculate, code, and interpret evaluation metrics for classification - MEDIUM ARTICLE NOT YET PUBLISHED |
