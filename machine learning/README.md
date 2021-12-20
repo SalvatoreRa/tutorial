@@ -17,10 +17,14 @@ You may write me for any request, suggestions and comments.
 
 | Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
-| [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple MEDIUM ARTICLE NOT YET PUBLISHED |
+| [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple - MEDIUM ARTICLE NOT YET PUBLISHED |
 | [tree classifiers](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | training of tree classifiersMEDIUM ARTICLE NOT YET PUBLISHED|
-| [evaluation metrics](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/classc_metr.ipynb) | how to calculate, code, and interpret evaluation metrics for classification MEDIUM ARTICLE NOT YET PUBLISHED |
-| [evaluation metrics](https://) | --- | Part II about imbalance dataset and multiclass classification MEDIUM ARTICLE NOT YET PUBLISHED|
+| [evaluation metrics for classification - part I](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/classc_metr.ipynb) | how to calculate, code, and interpret evaluation metrics for classification - MEDIUM ARTICLE NOT YET PUBLISHED |
+| [evaluation metrics for classification - part I](https://) | --- | Part II about imbalance dataset and multiclass classification - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Linear Regression -OLS](https://) | --- | Part II about imbalance dataset and multiclass classification - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [evaluation metrics for regression](https://) | --- | evaluation metrics for regression - MEDIUM ARTICLE NOT YET PUBLISHED|
+
+
 &nbsp;
 
 # Contributing
