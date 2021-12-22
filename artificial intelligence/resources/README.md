@@ -11,6 +11,11 @@ In this section, I will suggest and add many resources on artificial intelligenc
 
 &nbsp;
 
+** Table of Contents **
+
+* Scientific articles
+
+
 # Scientific articles
 
 | link | topic | year | description |
@@ -24,7 +29,12 @@ In this section, I will suggest and add many resources on artificial intelligenc
 | [Xception](https://arxiv.org/abs/1610.02357)| computer vision | 2016 |depthwise separable convolution layers |
 | [Inception-v4 ](https://arxiv.org/abs/1602.07261)| computer vision | 2016 |inception block and residual connection |
 | [Inception-ResNet-V2 ](https://arxiv.org/abs/1602.07261)| computer vision | 2016 |Residual Inception blocks |
-
+| [Batch normalization](https://arxiv.org/abs/1502.03167)| computer vision | 2015 |Batch normalization |
+| [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
+| [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
+| [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
+| [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets
+ |
 
 &nbsp;
 
