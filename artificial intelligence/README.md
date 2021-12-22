@@ -1,9 +1,9 @@
 # Tutorial
 ## Python tutorial on the artfificial intelligence
 
-![tree classifiers](https://github.com/SalvatoreRa/tutorial/blob/main/images/anirudh-YQYacLW8o2U-unsplash.jpg?raw=true)
+![artificial intelligence](https://github.com/SalvatoreRa/tutorial/blob/main/images/nn_brain.jpeg?raw=true)
 
-Photo by [lanirudhreddy](https://unsplash.com/@lanirudhreddy) on [Unsplash](https://unsplash.com/)
+Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https://unsplash.com/)
 
 &nbsp;
 
