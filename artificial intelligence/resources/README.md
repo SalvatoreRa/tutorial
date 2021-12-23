@@ -7,7 +7,7 @@ Photo by [lanirudhreddy](https://unsplash.com/@lanirudhreddy) on [Unsplash](http
 
 &nbsp;
 
-In this section, I will suggest and add many resources on artificial intelligence that it can be useful. 
+In this section, I will suggest and add many resources on artificial intelligence that can be useful. The list is not exhaustive and I will expand with time, if you want to suggest other resources, you are welcome.
 
 &nbsp;
 
@@ -33,14 +33,15 @@ In this section, I will suggest and add many resources on artificial intelligenc
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
 | [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
 | [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
-| [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets
- |
+| [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2014 |Frist paper propsing transformers |
+| [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
+| [Dropout](https://jmlr.org/papers/v15/srivastava14a.html)| General interest | 2014 |first paper on dropout |
 
 &nbsp;
 
 # Contributing
 
-
+You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
 
 # License
 
