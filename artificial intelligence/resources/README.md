@@ -33,7 +33,10 @@ In this section, I will suggest and add many resources on artificial intelligenc
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
 | [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
 | [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
-| [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2014 |Frist paper propsing transformers |
+| [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2014 |First paper propsing transformers |
+| [Transformers ](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)| NLP | 2018 |GPT-1 paper |
+| [Transformers ](https://openai.com/blog/better-language-models/)| NLP | 2018 |GPT-2 paper |
+| [Transformers ](https://arxiv.org/abs/2005.14165)| NLP | 2020 |GPT-3 paper |
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
 | [Dropout](https://jmlr.org/papers/v15/srivastava14a.html)| General interest | 2014 |first paper on dropout |
 
