@@ -19,6 +19,10 @@ You may write me for any request, suggestions and comments.
 
 | Tutorial | notebook | description |
 | ------- | ----------- | ------ |
+| [AML introduction](https://medium.com/leukemiaairesearch/acute-myeloid-leukemia-a-general-introduction-9a033502fe47) | -- | Acute Myeloid Leukemia: A general introduction |
+| [Intorduction on AI in leukemia](https://medium.com/leukemiaairesearch/artificial-intelligence-in-leukemia-1c8c189d2ad7) | -- | Artificial intelligence in leukemia |
+| [Introduction on computer vision in AML](https://medium.com/leukemiaairesearch/medical-image-diagnosis-in-leukemia-7797fce237b5) | -- | Medical image diagnosis in leukemia |
+| [Introduction on computer vision in Covid-19](https://towardsdatascience.com/medical-image-diagnosis-in-covid-19-ba5f6664efe9) | -- | Medical Image Diagnosis in COVID-19 |
 | [Complexity reduction techniques](https://medium.com/leukemiaairesearch/complexity-reduction-techniques-with-gene-expression-data-961491979bc8) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/complexity%20reduction%20techniques.ipynb) | Python: PCA, t-SNE, UMAP |
 | [Clustering techniques](https://medium.com/leukemiaairesearch/clustering-techniques-with-gene-expression-data-4b35a04f87d5) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/hierarchical_cluster_and_K_means.ipynb) | Python: Hierarchical clustering, k-means |
 | [Clustering: DBSCAN and GMM](https://medium.com/leukemiaairesearch/clustering-techniques-with-gene-expression-data-4b35a04f87d5) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/DBSCAN_and_GMM.ipynb) | Python: DBSCAN and GMM |
