@@ -11,10 +11,12 @@ In this section, I will suggest and add many resources on artificial intelligenc
 
 &nbsp;
 
-** Table of Contents **
+# **Table of Contents**
 
 * Scientific articles
 
+
+&nbsp;
 
 # Scientific articles
 
