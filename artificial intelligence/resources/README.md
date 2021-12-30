@@ -44,6 +44,7 @@ In this section, I will suggest and add many resources on artificial intelligenc
 | [Transformers ](https://arxiv.org/abs/2005.14165)| NLP | 2020 |GPT-3 paper |
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
 | [Dropout](https://jmlr.org/papers/v15/srivastava14a.html)| General interest | 2014 |first paper on dropout |
+| [Tabular data](https://arxiv.org/abs/2106.03253)| General interest | 2021 |Tabular Data: Deep Learning is Not All You Need (showing that deep learning with tabular data is still not the first choice) |
 
 &nbsp;
 
