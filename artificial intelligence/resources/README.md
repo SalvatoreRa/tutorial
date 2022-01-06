@@ -38,16 +38,20 @@ In this section, I will suggest and add many resources on artificial intelligenc
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
 | [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
 | [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
-| [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2014 |First paper propsing transformers |
+| [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2016 |First paper proposing transformers |
+| [BERT ](https://arxiv.org/abs/1810.04805)| NLP | 2018 | First paper proposing BERT |
 | [Transformers ](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)| NLP | 2018 |GPT-1 paper |
 | [Transformers ](https://openai.com/blog/better-language-models/)| NLP | 2018 |GPT-2 paper |
 | [Transformers ](https://arxiv.org/abs/2005.14165)| NLP | 2020 |GPT-3 paper |
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
-| [Dropout](https://jmlr.org/papers/v15/srivastava14a.html)| General interest | 2014 |first paper on dropout |
-| [Tabular data](https://arxiv.org/abs/2106.03253)| General interest | 2021 |Tabular Data: Deep Learning is Not All You Need (showing that deep learning with tabular data is still not the first choice) |
-| [Tabular data](https://arxiv.org/pdf/2106.01342.pdf)| General interest | 2021 |Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training |
-| [Tabular data](https://arxiv.org/pdf/2110.01889.pdf)| General interest | 2021 | Method's review on Deep Neural Networks and Tabular Data |
-| [Tabular data](https://arxiv.org/pdf/2106.11189.pdf)| General interest | 2021 | how regularization impact Neural Network for tabular data|
+| [GAN ](https://arxiv.org/abs/1511.06434)| Generative Learning | 2015 |original article presenting DC-GAN |
+| [ADAM](https://jmlr.org/papers/v15/srivastava14a.html)| General interest | 2014 |first paper presenting ADAM |
+| [Dropout](https://arxiv.org/abs/1412.6980)| General interest | 2014 |first paper on dropout |
+| [Tabular data](https://arxiv.org/abs/2106.03253)| Tabular data | 2021 |Tabular Data: Deep Learning is Not All You Need (showing that deep learning with tabular data is still not the first choice) |
+| [Tabular data](https://arxiv.org/pdf/2106.01342.pdf)| Tabular data | 2021 |Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training |
+| [Tabular data](https://arxiv.org/pdf/2110.01889.pdf)| Tabular data | 2021 | Method's review on Deep Neural Networks and Tabular Data |
+| [Tabular data](https://arxiv.org/pdf/2106.11189.pdf)| Tabular data | 2021 | how regularization impact Neural Network for tabular data|
+| [RL](https://arxiv.org/abs/1312.5602)| Reinforcement Leqrning | 2013 | Playing Atari with Deep Reinforcement Learning |
 
 &nbsp;
 
