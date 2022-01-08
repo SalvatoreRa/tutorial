@@ -38,9 +38,8 @@ I am providing some useful fuctions and classes that can be ready to use. I am p
 
 For example, if you want to use my regression_report function in Colab you can import in this way:
 
-```
-
-- import sys
+```Python
+import sys
 import os
 
 py_file_location = "https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py"
