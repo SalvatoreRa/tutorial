@@ -67,7 +67,8 @@ def regression_report(test_set = None, target = None, predictions = None ):
 
 
 def MSE(y = None, y_hat = None, avg = True ):
-    """ Mean Square Error """
+    """ Mean Square Error 
+    """
     y = np.array(y)
     y_hat = np.array(y_hat)
     #calculate the squared error
@@ -79,6 +80,7 @@ def MSE(y = None, y_hat = None, avg = True ):
 
 def RMSE(y = None, y_hat = None, avg = True ):
     """ Root Mean Square Error """
+    z = 1
     y = np.array(y)
     y_hat = np.array(y_hat)
     #calculate the squared error
