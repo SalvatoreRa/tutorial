@@ -61,7 +61,7 @@ def regression_report(test_set = None, target = None, predictions = None ):
   df.iloc[8,2] = NRMSE(target, predictions)
   df.iloc[9,2] = NRMSE(target, predictions, norm_method = "quartile")
   df1 = df.copy()
-  df1.value = df1.Value.astype("float32").round(decimals = 3)
+  df1["Metric"]= df1.Value.astype("float32").round(decimals = 3)
   print(df1)
   return df
 
@@ -80,7 +80,7 @@ def MSE(y = None, y_hat = None, avg = True ):
 
 def RMSE(y = None, y_hat = None, avg = True ):
     """ Root Mean Square Error """
-    z = 1
+    
     y = np.array(y)
     y_hat = np.array(y_hat)
     #calculate the squared error
