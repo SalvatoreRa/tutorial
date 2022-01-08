@@ -39,6 +39,7 @@ I am providing some useful fuctions and classes that can be ready to use. I am p
 For example, if you want to use my regression_report function in Colab you can import in this way:
 
 ```
+<span style="color: green"> Some green text </span>
 import sys
 import os
 
