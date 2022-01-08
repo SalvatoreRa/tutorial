@@ -19,22 +19,22 @@ You may write me for any request, suggestions and comments.
 
 | Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
-| [data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/data_manipulation.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
-| [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple - MEDIUM ARTICLE NOT YET PUBLISHED |
-| [tree classifiers](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | training of tree classifiers - MEDIUM ARTICLE NOT YET PUBLISHED|
-| [visualize decision tree](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Visualize_decision_tree.ipynb) | visualization of decision tree - MEDIUM ARTICLE NOT YET PUBLISHED|
-| [tranin and visualize decision tree in R](https://) | [R-script](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/decision_tree_in_R.R) | plot and visualize a decision tree in R - MEDIUM ARTICLE NOT YET PUBLISHED|
-| [evaluation metrics for classification - part I](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/classc_metr.ipynb) | how to calculate, code, and interpret evaluation metrics for classification - MEDIUM ARTICLE NOT YET PUBLISHED |
-| [evaluation metrics for classification - part I](https://) | --- | Part II about imbalance dataset and multiclass classification - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/data_manipulation.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple - MEDIUM ARTICLE NOT YET PUBLISHED |
+| [Tree classifiers](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | Training of tree classifiers - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [visualize decision tree](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Visualize_decision_tree.ipynb) | Visualization of decision tree - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Train and visualize decision tree in R](https://) | [R-script](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/decision_tree_in_R.R) | Plot and visualize a decision tree in R - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Evaluation metrics for classification - part I](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/classc_metr.ipynb) | How to calculate, code, and interpret evaluation metrics for classification - MEDIUM ARTICLE NOT YET PUBLISHED |
+| [Evaluation metrics for classification - part II](https://) | --- | Part II about imbalance dataset and multiclass classification - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Linear Regression - OLS](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Least_squares_regression.ipynb) | Linear regression introduction, least square method - MEDIUM ARTICLE NOT YET PUBLISHED|
-| [evaluation metrics for regression](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/regression_metrics.ipynb)  | evaluation metrics for regression - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Evaluation metrics for regression](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/regression_metrics.ipynb)  | Evaluation metrics for regression - MEDIUM ARTICLE NOT YET PUBLISHED|
 
 
 &nbsp;
 
 # Utility
 
-I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use.
+I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use. You find them in the **utility folder**.
 
 For example, if you want to use my regression_report function in Colab you can import in this way:
 
@@ -49,7 +49,7 @@ sys.path.append(os.path.abspath(py_file_location))
 from regression_report import regression_report
 ```
 
-then you can use as a normal function.
+Then you can use as a normal function.
 
 In the code, I am describing the function, input, output and an example of usage. 
 
