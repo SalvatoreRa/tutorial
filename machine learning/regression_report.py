@@ -150,7 +150,7 @@ def MAPE(y = None, y_hat = None, avg = True ):
     return err
 
 def R_squared(y = None, y_hat = None):
-  """ Calculate R squared """
+    """ Calculate R squared """
     y = np.array(y)
     y_hat = np.array(y_hat)
     #calculate the squared error and sum it
