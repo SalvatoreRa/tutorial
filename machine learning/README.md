@@ -7,7 +7,9 @@ Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
-In this section, you will find the Jupiter Notebook for the the tutorial I published in Medium. I suggest to read the tutorial and the companion tutorial code in the order provided in the table below. For practical reason, I have divided some of the tutorial in more than one part (allowing to concentrate in one of the tutorial on the theoretical part and in the others about the programming). Tutorial dedicated only to the theory have not a linked Jupiter notebook.
+In this section, you will find the Jupiter Notebook for the the tutorial I published in Medium. I suggest to read the tutorial and the companion tutorial code in the order provided in the table below. For practical reason, I have divided some of the tutorial in more than one part (allowing to concentrate in one of the tutorial on the theoretical part and in the others about the programming). Tutorial dedicated only to the theory have not a linked Jupiter notebook containing the Python code used for the model and the graph. I wrote and test the code in Google Colab in order to make it reproducible.
+
+I am progressively adding also some R tutorials, I decided to upload the R-scripts so you can tested them. Check the table below where I list the Colab Notebooks, the R-scripts and the companion articles.
 
 Moreover, you may find here some colab notebook without a theoretical tutorial (yet). I decided to upload the code before I have finish to write the theoretical part (this would be indicated). I am convinced that the code alone is already beneficial. I would successively publish on Medium the written article (with details and comment to the code).
 
@@ -21,7 +23,7 @@ You may write me for any request, suggestions and comments.
 | [tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple - MEDIUM ARTICLE NOT YET PUBLISHED |
 | [tree classifiers](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | training of tree classifiers - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [visualize decision tree](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Visualize_decision_tree.ipynb) | visualization of decision tree - MEDIUM ARTICLE NOT YET PUBLISHED|
-| [tranin and visualize decision tree in R](https://) | [R-script](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Visualize_decision_tree.ipynb) | plot and visualize a decision tree in R - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [tranin and visualize decision tree in R](https://) | [R-script](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/decision_tree_in_R.R) | plot and visualize a decision tree in R - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [evaluation metrics for classification - part I](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/classc_metr.ipynb) | how to calculate, code, and interpret evaluation metrics for classification - MEDIUM ARTICLE NOT YET PUBLISHED |
 | [evaluation metrics for classification - part I](https://) | --- | Part II about imbalance dataset and multiclass classification - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Linear Regression - OLS](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Least_squares_regression.ipynb) | Linear regression introduction, least square method - MEDIUM ARTICLE NOT YET PUBLISHED|
