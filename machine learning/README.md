@@ -7,9 +7,9 @@ Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
-In this section, you will find the Jupiter Notebook for the the tutorial I published in Medium. I suggest to read the tutorial and the companion tutorial code in the order provided in the table below. For practical reason, I have divided some of the tutorial in more than one part (allowing to concentrate in one of the tutorial on the theoretical part and in the others about the programming). Tutorial dedicated only to the theory have not a linked Jupiter notebook containing the Python code used for the model and the graph. I wrote and test the code in Google Colab in order to make it reproducible.
+In this section, you will find the **Jupiter Notebook** for the the tutorial I published in **Medium**. I suggest to read the tutorial and the companion tutorial code in the order provided in the table below. For practical reason, I have divided some of the tutorial in more than one part (allowing to concentrate in one of the tutorial on the theoretical part and in the others about the programming). Tutorial dedicated only to the theory have not a linked Jupiter notebook containing the **Python** code used for the model and the graph. I wrote and test the code in Google Colab in order to make it reproducible.
 
-I am progressively adding also some R tutorials, I decided to upload the R-scripts so you can tested them. Check the table below where I list the Colab Notebooks, the R-scripts and the companion articles.
+I am progressively adding also some **R tutorials**, I decided to upload the R-scripts so you can tested them. Check the table below where I list the Colab Notebooks, the R-scripts and the companion articles.
 
 Moreover, you may find here some colab notebook without a theoretical tutorial (yet). I decided to upload the code before I have finish to write the theoretical part (this would be indicated). I am convinced that the code alone is already beneficial. I would successively publish on Medium the written article (with details and comment to the code).
 
@@ -29,6 +29,15 @@ You may write me for any request, suggestions and comments.
 | [Linear Regression - OLS](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Least_squares_regression.ipynb) | Linear regression introduction, least square method - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [evaluation metrics for regression](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/regression_metrics.ipynb)  | evaluation metrics for regression - MEDIUM ARTICLE NOT YET PUBLISHED|
 
+
+&nbsp;
+
+# Utility
+
+I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file
+
+| file |  Description |
+|----------- | ------ |
 
 &nbsp;
 
