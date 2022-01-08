@@ -34,10 +34,28 @@ You may write me for any request, suggestions and comments.
 
 # Utility
 
-I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file
+I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use.
+
+For example, if you want to use my regression_report function in Colab you can import in this way:
+
+```
+import sys
+import os
+
+py_file_location = "https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py"
+
+sys.path.append(os.path.abspath(py_file_location))
+
+from regression_report import regression_report
+```
+
+then you can use as a normal function.
+
+In the code, I am describing the function, input, output and an example of usage. 
 
 | file |  Description |
 |----------- | ------ |
+| [regression report](https://) | Print different regression metric (similar to classification report of scikit-learn) |
 
 &nbsp;
 

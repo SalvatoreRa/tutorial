@@ -14,7 +14,10 @@ import numpy as np
 
 def regression_report(test_set = None, target = None, predictions = None ):
   """
-  Return the calculation of different regression metric
+  Return the calculation of different regression metric.
+  The function print the metrics as a table, but return also
+  a dataframe for convenience
+  
   INPUT
   test_set = test dataset
   target = the target variable as np.array or a list
