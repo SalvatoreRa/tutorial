@@ -9,6 +9,8 @@ Photo by [lanirudhreddy](https://unsplash.com/@lanirudhreddy) on [Unsplash](http
 
 In this section, I will suggest and add many resources on artificial intelligence that can be useful. The list is not exhaustive and I will expand with time, if you want to suggest other resources, you are welcome.
 
+I am listing seminal articles (the list is clearly not exhaustive), free available books and useful tools that I found.
+
 &nbsp;
 
 # **Table of Contents**
