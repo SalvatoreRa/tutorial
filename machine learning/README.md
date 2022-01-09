@@ -42,20 +42,23 @@ For example, if you want to use my regression_report function in Colab you can i
 import sys
 import os
 
+user = "SalvatoreRa"
+repo = "tutorial"
+src_dir = "machine%20learning/utility/"
+pyfile = "regression_report.py" #here the name of the file py
+
+url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{src_dir}/{pyfile}"
+!wget --no-cache --backups=1 {url}
+#copy here the link of the file
 py_file_location = "https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py"
-
 sys.path.append(os.path.abspath(py_file_location))
-
-from regression_report import regression_report
+#here the importing
+from regression_report import regression_report 
 ```
-
-Then you can use as a normal function.
-
-In the code, I am describing the function, input, output and an example of usage. 
 
 | file |  Description |
 |----------- | ------ |
-| [regression report](https://) | Print different regression metric (similar to classification report of scikit-learn) |
+| [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
 
 &nbsp;
 
