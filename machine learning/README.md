@@ -28,7 +28,7 @@ You may write me for any request, suggestions and comments.
 | [Evaluation metrics for classification - part II](https://) | --- | Part II about imbalance dataset and multiclass classification - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Linear Regression - OLS](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Least_squares_regression.ipynb) | Linear regression introduction, least square method - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Evaluation metrics for regression](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/regression_metrics.ipynb)  | Evaluation metrics for regression - MEDIUM ARTICLE NOT YET PUBLISHED|
-
+| [Evaluation metrics for regression](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/regression_metrics.ipynb)  | Evaluation metrics for regression - MEDIUM ARTICLE NOT YET PUBLISHED|
 
 &nbsp;
 
