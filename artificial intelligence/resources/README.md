@@ -14,6 +14,8 @@ In this section, I will suggest and add many resources on artificial intelligenc
 # **Table of Contents**
 
 * Scientific articles
+* Books
+* Tools
 
 
 &nbsp;
@@ -55,6 +57,18 @@ In this section, I will suggest and add many resources on artificial intelligenc
 | [RL](https://arxiv.org/abs/1312.5602)| Reinforcement Leqrning | 2013 | Playing Atari with Deep Reinforcement Learning |
 
 &nbsp;
+
+# Books
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
+| [Goodfellow and Bengio](https://www.deeplearningbook.org/) | deep learning | 2016 | One of the most famous book about deep learning|
+# Tools
+
+| Link | description | 
+| --------- | ------ | 
+|  [NN drawer](http://alexlenail.me/NN-SVG/LeNet.html) | Draw online your neural network architechture | 
+|  [NN in Latex](http://alexlenail.me/NN-SVG/LeNet.html) | Latex code for drawing neural networks for reports and presentation | 
 
 # Contributing
 
