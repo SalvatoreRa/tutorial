@@ -59,6 +59,9 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | [Tabular data](https://arxiv.org/pdf/2110.01889.pdf)| Tabular data | 2021 | Method's review on Deep Neural Networks and Tabular Data |
 | [Tabular data](https://arxiv.org/pdf/2106.11189.pdf)| Tabular data | 2021 | how regularization impact Neural Network for tabular data|
 | [RL](https://arxiv.org/abs/1312.5602)| Reinforcement Learning | 2013 | Playing Atari with Deep Reinforcement Learning |
+| [GNN](https://arxiv.org/abs/1611.08097)| Geometric learning | 2016 | Geometric deep learning: going beyond Euclidean data |
+| [GNN](https://arxiv.org/abs/1609.02907)| Geometric learning | 2016 | Semi-Supervised Classification with Graph Convolutional Networks |
+
 
 &nbsp;
 
@@ -73,6 +76,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | --------- | ------ | 
 |  [NN drawer](http://alexlenail.me/NN-SVG/LeNet.html) | Draw online your neural network architechture | 
 |  [NN in Latex](http://alexlenail.me/NN-SVG/LeNet.html) | Latex code for drawing neural networks for reports and presentation | 
+
 
 # Contributing
 
