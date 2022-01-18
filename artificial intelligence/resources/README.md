@@ -61,7 +61,9 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | [RL](https://arxiv.org/abs/1312.5602)| Reinforcement Learning | 2013 | Playing Atari with Deep Reinforcement Learning |
 | [GNN](https://arxiv.org/abs/1611.08097)| Geometric learning | 2016 | Geometric deep learning: going beyond Euclidean data |
 | [GNN](https://arxiv.org/abs/1609.02907)| Geometric learning | 2016 | Semi-Supervised Classification with Graph Convolutional Networks |
-
+| [knowledge graph review](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016)| Geometric learning | 2020 | A Survey on Application of Knowledge Graph |
+| [Graph transformer](https://arxiv.org/abs/2106.05234)| Geometric learning | 2021 | A Generalization of Transformer Networks to Graphs |
+| [Graphormer](https://arxiv.org/abs/2106.05234)| Geometric learning | 2021 | Graphormer: graph transformer |
 
 &nbsp;
 
