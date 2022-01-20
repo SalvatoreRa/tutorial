@@ -64,6 +64,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | [GNN](https://arxiv.org/abs/1609.02907)| Geometric learning | 2016 | Semi-Supervised Classification with Graph Convolutional Networks |
 | [Knowledge graph review](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016)| Geometric learning | 2020 | A Survey on Application of Knowledge Graph |
 | [Graph transformer](https://arxiv.org/abs/2012.09699)| Geometric learning | 2020 | A Generalization of Transformer Networks to Graphs |
+| [GNN review](https://arxiv.org/ftp/arxiv/papers/1812/1812.08434.pdf)| Geometric learning | 2020 | Graph neural networks: A review of methods and applications |
 | [Graphormer](https://arxiv.org/abs/2106.05234)| Geometric learning | 2021 | Graphormer: graph transformer |
 
 &nbsp;
