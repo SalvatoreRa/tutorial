@@ -1,5 +1,5 @@
 # Tutorial
-## Python tutorial on Machine Learning
+## Python and R tutorial on Machine Learning
 
 ![tree classifiers](https://github.com/SalvatoreRa/tutorial/blob/main/images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg?raw=true)
 
