@@ -7,22 +7,33 @@ Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
-In this section, you will find a collection of datasets for machine learning project. I am curating here a selection of datasets that you can use for different tasks and I am using in my tutorials. I am adding also some notebook where I show and explain in details the dataset (making easy to use them)
+In this section, you will find a collection of datasets for machine learning project. I am curating here a selection of datasets that you can use for different tasks and I am using in my tutorials. I am adding also some notebook where I show and explain in details the dataset (making easy to use them).
+
+I am storing here the datasets as CSV file, if bigger than 50 MB I uploading the zip file. Check below how to import in Colab a zip file.
 
 You may write me for any request, suggestions and comments.
 
 # Tutorial
 
-| Tutorial | Notebook | Description |
+| dataset | Notebook | Description |
 | ------- | ----------- | ------ |
-| [Data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/data_manipulation.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Data manipulation](https://) | --- | Common data manipulation tasks and data issues - NOTEBOOK NOT READY YET|
 
 
 &nbsp;
 
 # Usage
 
-To use the dataset in your project you can download them 
+To use the dataset in your project you can download them or if you use in colab:
+
+for CSV file 
+
+```Python
+#example for a dataset
+#you can read from directory or directly from url
+data_dir = "https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/Boston.csv"
+df = pd.read_csv(data_dir)
+```
 
 ```Python
 import sys
@@ -42,9 +53,7 @@ sys.path.append(os.path.abspath(py_file_location))
 from regression_report import regression_report 
 ```
 
-| file |  Description |
-|----------- | ------ |
-| [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
+
 
 &nbsp;
 
