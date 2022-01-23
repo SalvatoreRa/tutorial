@@ -7,7 +7,7 @@ Photo by [Iñaki del Olmo](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
-In this section, you will find a collection of datasets for machine learning project. I am curating here a selection of datasets that you can use for different tasks and I am using in my tutorials. I am adding also some notebook where I show and explain in details the dataset (making easy to use them). Check the **Google Colab** notebook, I am presenting the dataset providing information but also showing visualization techniques for exploratory data analysis
+In this section, you will find a collection of datasets for machine learning project. I am curating here a selection of datasets that you can use for different tasks and I am using in my tutorials. I am adding also some notebook where I show and explain in details the dataset (making easy to use them). Check the **Google Colab** notebook, I am presenting the dataset providing information (history, context, additional information) but also showing visualization techniques for exploratory data analysis. The idea is the a ML beginner (but also who is interested in data science) can find a selection of datasets appropriate for different tasks: Moreover, the notebook can help to have a quick view of the datasets, to gain data visualization idea. In addition, I am using these datasets in my tutorial on Machine learning and artificial intelligence, provided real case uses and explain in details algorithm.
 
 I am storing here the datasets as CSV file, if bigger than 50 MB I uploading the zip file. Check below how to import in Colab a zip file.
 
