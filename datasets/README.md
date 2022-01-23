@@ -17,7 +17,7 @@ You may write me for any request, suggestions and comments.
 
 | dataset | Notebook | Source | Description |
 | ------- | ----------- | ------ |
-| [Data manipulation](https://) | --- | --- | Common data manipulation tasks and data issues - NOTEBOOK NOT READY YET|
+| [Boston house price](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Boston.csv) | --- | [source](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html) | Dataset for regression - NOTEBOOK NOT READY YET|
 
 
 &nbsp;
