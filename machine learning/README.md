@@ -20,6 +20,7 @@ You may write me for any request, suggestions and comments.
 | Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
 | [Data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/data_manipulation.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Pandas Cheatsheet](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Pandas_summary.ipynb) | Introduction to Pandas library - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple - MEDIUM ARTICLE NOT YET PUBLISHED |
 | [Tree classifiers](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/training_tree_classifier.ipynb) | Training of tree classifiers - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [visualize decision tree](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Visualize_decision_tree.ipynb) | Visualization of decision tree - MEDIUM ARTICLE NOT YET PUBLISHED|
