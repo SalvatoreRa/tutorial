@@ -11,7 +11,7 @@ In this section, you will find a collection of datasets for machine learning pro
 
 I am storing here the datasets as CSV file, if bigger than 50 MB I uploading the zip file. Check below how to import in Colab a zip file.
 
-You may write me for any request, suggestions and comments.
+I will add other datasets soon. You may write me for any request, suggestions and comments.
 
 # Tutorial
 
@@ -27,7 +27,11 @@ You may write me for any request, suggestions and comments.
 
 &nbsp;
 
-# dataset suggestion
+# Dataset suggestion
+
+A quick chart about which dataset use for different tasks.
+
+&nbsp;
 
 ![dataset task](https://github.com/SalvatoreRa/tutorial/blob/main/images/datasets.png?raw=true)
 
