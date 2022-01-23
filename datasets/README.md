@@ -15,9 +15,9 @@ You may write me for any request, suggestions and comments.
 
 # Tutorial
 
-| dataset | Notebook | Description |
+| dataset | Notebook | Source | Description |
 | ------- | ----------- | ------ |
-| [Data manipulation](https://) | --- | Common data manipulation tasks and data issues - NOTEBOOK NOT READY YET|
+| [Data manipulation](https://) | --- | --- | Common data manipulation tasks and data issues - NOTEBOOK NOT READY YET|
 
 
 &nbsp;
@@ -35,22 +35,16 @@ data_dir = "https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets
 df = pd.read_csv(data_dir)
 ```
 
+If the file is contained in a zip.file, to upload in Google Colab
+
+
 ```Python
 import sys
 import os
-
-user = "SalvatoreRa"
-repo = "tutorial"
-src_dir = "machine%20learning/utility/"
-pyfile = "regression_report.py" #here the name of the file py
-
-url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{src_dir}/{pyfile}"
-!wget --no-cache --backups=1 {url}
-#copy here the link of the file
-py_file_location = "https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py"
-sys.path.append(os.path.abspath(py_file_location))
-#here the importing
-from regression_report import regression_report 
+#this for unzip and read the file
+!wget https://github.com/SalvatoreRa/tutorial/blob/main/datasets/IMDB.zip?raw=true
+!unzip IMDB.zip?raw=true
+imdb_data=pd.read_csv("IMDB Dataset.csv")
 ```
 
 
