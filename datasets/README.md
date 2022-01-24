@@ -76,7 +76,9 @@ I am listing here additional dataset that you can use with the provided link
 
 # Suggested Repositories 
 
-I am listing here additional dataset that you can use with the provided link
+I am listing here additional repositories that you can use with the provided link and a description.
+
+The list is not exhaustive and I am planning to extend, please feel free to suggest addition.
 
 | Repository | Link |  Description |
 | ------- | ----------- | ------ |
