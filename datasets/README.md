@@ -15,7 +15,7 @@ I will add other datasets soon. You may write me for any request, suggestions an
 
 # Tutorial
 
-| dataset | Notebook | Source | Description |
+| Dataset | Notebook | Source | Description |
 | ------- | ----------- | ------ |------ |
 | [Boston house price](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Boston.csv) | --- | [source](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html) | Dataset for regression - NOTEBOOK NOT READY YET|
 | [White wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-white.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/wine_dataset.ipynb)| [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
@@ -85,7 +85,11 @@ I am listing here additional dataset that you can use with the provided link
 | School System Finance | [link](https://archive.ics.uci.edu/ml/index.php) | One of the oldest repository, user contributed. Not all the dataset are clean, but you can download without  |
 | EU Open Data Portal | [link](https://data.europa.eu/en) | More than a 1 million datasets released by the EU about health, finance, science etc... |
 | Data. gov | [link](https://www.data.gov/) | Data from various US government departments, but it can tricky to exploit the data |
-
+| Quandl | [link](https://www.data.gov/) | Great source of economic and financial data |
+| Word Bank | [link](https://data.worldbank.org/) | You can download data about population demographics, global economic and development indicators |
+| IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
+| American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
+| Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
 
 &nbsp;
 
