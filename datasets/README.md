@@ -66,7 +66,7 @@ imdb_data=pd.read_csv("IMDB Dataset.csv")
 
 # Additional Datasets 
 
-I am listing here additional dataset that you can use with the provided link. The datasets listed cover different aspects of Machine learning and Artificial intelligence common tasks (computer Vision, Financial Analysis, Sentimental Analysis, Natural Language Processing, Autonomous Vehicles)
+I am listing here additional dataset that you can use with the provided link. The datasets listed cover different aspects of Machine learning and Artificial intelligence common tasks (computer Vision, Financial Analysis, Sentimental Analysis, Natural Language Processing, Autonomous Vehicles). If the dataset is available in multiple sources I am also adding alternative links (I check regularly and update the links that not working anymore).
 
 | dataset |  Source | Description |
 | ------- |  ------ |------ |
@@ -83,6 +83,13 @@ I am listing here additional dataset that you can use with the provided link. Th
 | Multi-Domain Sentiment Dataset | [link](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) | The Multi-Domain Sentiment Dataset contains product reviews taken from Amazon.com from many product types (domains). Some domains (books and dvds) have hundreds of thousands of reviews. Others (musical instruments) have only a few hundred. A bit old but used in different several scientific articles |
 | Sentiment140  | [link](http://help.sentiment140.com/for-students/) | 160000 tweet, The data is a CSV with emoticons removed and polarity annotated (negative, neutral, positive) |
 | Twitter US Airline Sentiment | [link](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) | A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015  |
+| Enron Email Dataset | [link](https://www.cs.cmu.edu/~./enron/) | It contains data from about 150 users, mostly senior management of Enron, organized into folders. The corpus contains a total of about 0.5M messages.  |
+| Amazon reviews | [link](https://snap.stanford.edu/data/web-Amazon.html) 
+[link](http://jmcauley.ucsd.edu/data/amazon/) | This dataset consists of reviews from amazon. The data span a period of 18 years, including ~35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review |
+| Google Books Ngrams | [link](https://aws.amazon.com/it/datasets/google-books-ngrams/) | A data set containing Google Books n-gram corpora  |
+| Blog Authorship Corpus| [link](https://www.kaggle.com/rtatman/blog-authorship-corpus) | This dataset contains text from blogs written on or before 2004. Posts of 19,320 bloggers gathered from blogger.com in August 2004. The corpus incorporates a total of 681,288 posts and over 140 million words |
+| Wikipedia Links Data | [link](https://code.google.com/archive/p/wiki-links/downloads) [link](http://www.iesl.cs.umass.edu/data/data-wiki-links)|  the Wikilinks dataset comprising of 40 million mentions over 3 million entities  |
+| Wikipedia Links Data | [link](https://code.google.com/archive/p/wiki-links/downloads) [link](http://www.iesl.cs.umass.edu/data/data-wiki-links)|  the Wikilinks dataset comprising of 40 million mentions over 3 million entities  |
 
 &nbsp;
 
@@ -104,6 +111,7 @@ The list is not exhaustive and I am planning to extend, please feel free to sugg
 | IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
 | American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
+| Project Gutenberg| [link](https://www.gutenberg.org/) | Project Gutenberg is a library of over 60,000 free eBooks |
 
 &nbsp;
 
