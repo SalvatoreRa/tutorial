@@ -66,7 +66,7 @@ imdb_data=pd.read_csv("IMDB Dataset.csv")
 
 # Additional Datasets 
 
-I am listing here additional dataset that you can use with the provided link
+I am listing here additional dataset that you can use with the provided link. The datasets listed cover different aspects of Machine learning and Artificial intelligence common tasks (computer Vision, Financial Analysis, Sentimental Analysis, Natural Language Processing, Autonomous Vehicles)
 
 | dataset |  Source | Description |
 | ------- |  ------ |------ |
