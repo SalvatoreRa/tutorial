@@ -89,6 +89,17 @@ I am listing here additional dataset that you can use with the provided link. Th
 | Blog Authorship Corpus| [link](https://www.kaggle.com/rtatman/blog-authorship-corpus) | This dataset contains text from blogs written on or before 2004. Posts of 19,320 bloggers gathered from blogger.com in August 2004. The corpus incorporates a total of 681,288 posts and over 140 million words |
 | Wikipedia Links Data | [link](https://code.google.com/archive/p/wiki-links/downloads) [link](http://www.iesl.cs.umass.edu/data/data-wiki-links)|  the Wikilinks dataset comprising of 40 million mentions over 3 million entities  |
 | Hansards Text Chunks from the Canadian Parliament |  [link](https://metatext.io/datasets/hansards-canadian-parliament)|  Created by Natural Language Group - USC at 2001,  Dataset contains pairs of aligned text chunks (sentences or smaller fragments) from the official recordsof the 36th Canadian Parliament. in English language. Containing 1.3M in Text file format  |
+| Jeopardy |  [link](https://www.kaggle.com/tunguz/200000-jeopardy-questions)|  over 200,000 questions from the Jeopardy quiz show |
+| SMS Spam Compilation in English |  [link](https://www.kaggle.com/uciml/sms-spam-collection-dataset)|  The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages |
+| SMS Spam Compilation in English |  [link](https://www.yelp.com/dataset)|  More than 8 million reviews, 160000 bussiness, are included in an open dataset  by Yelp |
+| Berkeley DeepDrive BDD100k |  [link](https://bdd-data.berkeley.edu/)| More than 100,000 views of driving journeys of over 1,100 hours through various periods of the day and weather conditions |
+| Baidu Apolloscapes |  [link](http://apolloscape.auto/)| Trajectory dataset, 3D Perception Lidar Object Detection and Tracking dataset including about 100K image frames, 80k lidar point cloud and 1000km trajectories for urban traffic. The dataset consisting of varying conditions and traffic densities which includes many challenging scenarios where vehicles, bicycles, and pedestrians move among one another. |
+| comma2k19 |  [link](https://github.com/commaai/comma2k19)|  a dataset of over 33 hours of commute in California's 280 highway |
+| Oxford’s Robotic Car |  [link](https://robotcar-dataset.robots.ox.ac.uk/)| TThe Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. The dataset captures many different combinations of weather, traffic and pedestrians, along with longer term changes such as construction and roadworks. |
+| Cityscape Dataset |  [link](https://www.cityscapes-dataset.com/)| stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames |
+| Traffic Sign Recognition  |  [link](http://apolloscape.auto/)| More than 10000+ traffic sign annotations |
+| LISA traffic light |  [link](https://www.kaggle.com/mbornoe/lisa-traffic-light-dataset)| The database consists of continuous test and training video sequences, totaling 43,007 frames and 113,888 annotated traffic lights. |
+
 
 &nbsp;
 
