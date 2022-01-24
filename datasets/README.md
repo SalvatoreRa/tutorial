@@ -80,6 +80,9 @@ I am listing here additional dataset that you can use with the provided link. Th
 | Stanford Dogs Dataset | [link](http://vision.stanford.edu/aditya86/ImageNetDogs/) | The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world.  |
 | Indoor Scene Recognition | [link](http://web.mit.edu/torralba/www/indoor.html) | The database contains 67 Indoor categories, and a total of 15620 images. The number of images varies across categories, but there are at least 100 images per category |
 | VQA  | [link](https://visualqa.org/) | VQA is a  dataset containing open-ended questions about images. More than 250000 images and questions that require an understanding of vision, language and commonsense knowledge to answer |
+| Multi-Domain Sentiment Dataset | [link](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) | The Multi-Domain Sentiment Dataset contains product reviews taken from Amazon.com from many product types (domains). Some domains (books and dvds) have hundreds of thousands of reviews. Others (musical instruments) have only a few hundred. A bit old but used in different several scientific articles |
+| Sentiment140  | [link](http://help.sentiment140.com/for-students/) | 160000 tweet, The data is a CSV with emoticons removed and polarity annotated (negative, neutral, positive) |
+| Twitter US Airline Sentiment | [link](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) | A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015  |
 
 &nbsp;
 
