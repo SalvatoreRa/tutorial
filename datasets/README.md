@@ -71,6 +71,15 @@ I am listing here additional dataset that you can use with the provided link
 | dataset |  Source | Description |
 | ------- |  ------ |------ |
 | US Healthcare Info | [link](https://www.kaggle.com/maheshdadhich/us-healthcare-data) | A survey of the US school system’s finances |
+| Image net | [link](https://image-net.org/) | The image dataset. If you really do not know: Hundred of thousands of photo from a thousand categories  |
+| LSUN | [link](https://www.tensorflow.org/datasets/catalog/lsun) | Large scale images showing different objects from given categories like bedroom, tower etc.  |
+| MS COCO | [link](https://cocodataset.org/) | Segmentation, comprehension and captioning of pictures.  |
+| COIL-100 | [link](https://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php) | 100 different 360-rotation objects  |
+| Visual Genoma | [link](http://visualgenome.org/) | Visual Genome is a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language. |
+| Google opena dataset| [link](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html) | 9 million URLs to images that have been annotated with labels spanning over 6000 categories  |
+| Stanford Dogs Dataset | [link](http://vision.stanford.edu/aditya86/ImageNetDogs/) | The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world.  |
+| Indoor Scene Recognition | [link](http://web.mit.edu/torralba/www/indoor.html) | The database contains 67 Indoor categories, and a total of 15620 images. The number of images varies across categories, but there are at least 100 images per category |
+| VQA  | [link](https://visualqa.org/) | VQA is a  dataset containing open-ended questions about images. More than 250000 images and questions that require an understanding of vision, language and commonsense knowledge to answer |
 
 &nbsp;
 
