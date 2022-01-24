@@ -1,9 +1,9 @@
 # Additional Resources
-## resources on the artfificial intelligence
+## Resources on the artfificial intelligence
 
-![tree classifiers](https://github.com/SalvatoreRa/tutorial/blob/main/images/anirudh-YQYacLW8o2U-unsplash.jpg?raw=true)
+![Resources](https://images.unsplash.com/photo-1548048026-5a1a941d93d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-Photo by [lanirudhreddy](https://unsplash.com/@lanirudhreddy) on [Unsplash](https://unsplash.com/)
+Photo by [Daniel](https://unsplash.com/@setbydaniel) on [Unsplash](https://unsplash.com/)
 
 &nbsp;
 
@@ -18,6 +18,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 * Scientific articles
 * Books
 * Tools
+* Repositories
+* Free courses
 
 
 &nbsp;
@@ -76,6 +78,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | [Goodfellow and Bengio](https://www.deeplearningbook.org/) | deep learning | 2016 | One of the most famous book about deep learning|
 | [Bishop](https://readyforai.com/download/pattern-recognition-and-machine-learning-pdf/) | Machine learning | 2018 | Pattern Recognition and Machine Learning |
 
+&nbsp;
+
 # Tools
 
 | Link | description | 
@@ -85,6 +89,24 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 |  [Graphs drawer](https://graphonline.ru/en/) | tool to draw graph online | 
 |  [Diagrams in Python](https://diagrams.mingrammer.com/) | library to draw diagrams in python | 
 
+&nbsp;
+
+# Repositories
+
+| Repository | Link |  Description |
+| ------- | ----------- | ------ |
+| Kaggle | [link](https://www.kaggle.com/) | A great source for datasets, with code and competitions. |
+| UCI machine learning | [link](https://archive.ics.uci.edu/ml/index.php) | One of the oldest repository, user contributed. Not all the dataset are clean, but you can download without  |
+| School System Finance | [link](https://archive.ics.uci.edu/ml/index.php) | One of the oldest repository, user contributed. Not all the dataset are clean, but you can download without  |
+| EU Open Data Portal | [link](https://data.europa.eu/en) | More than a 1 million datasets released by the EU about health, finance, science etc... |
+| Data. gov | [link](https://www.data.gov/) | Data from various US government departments, but it can tricky to exploit the data |
+| Quandl | [link](https://www.data.gov/) | Great source of economic and financial data |
+| Word Bank | [link](https://data.worldbank.org/) | You can download data about population demographics, global economic and development indicators |
+| IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
+| American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
+| Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
+
+&nbsp;
 
 # Contributing
 
