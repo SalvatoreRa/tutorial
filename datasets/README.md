@@ -30,7 +30,7 @@ I will add other datasets soon. You may write me for any request, suggestions an
 
 # Dataset suggestion
 
-A quick chart about which dataset use for different tasks.
+A quick chart about which dataset to use for different tasks.
 
 &nbsp;
 
@@ -64,9 +64,27 @@ imdb_data=pd.read_csv("IMDB Dataset.csv")
 ```
 &nbsp;
 
-# Additional Datasets
+# Additional Datasets 
 
-I
+I am listing here additional dataset that you can use with the provided link
+
+| dataset |  Source | Description |
+| ------- |  ------ |------ |
+| US Healthcare Info | [link](https://www.kaggle.com/maheshdadhich/us-healthcare-data) | A survey of the US school system’s finances |
+
+&nbsp;
+
+# Suggested Repositories 
+
+I am listing here additional dataset that you can use with the provided link
+
+| Repository | Link |  Description |
+| ------- | ----------- | ------ |
+| Kaggle | [link](https://www.kaggle.com/) | A great source for datasets, with code and competitions. |
+| UCI machine learning | [link](https://archive.ics.uci.edu/ml/index.php) | One of the oldest repository, user contributed. Not all the dataset are clean, but you can download without  |
+| School System Finance | [link](https://archive.ics.uci.edu/ml/index.php) | One of the oldest repository, user contributed. Not all the dataset are clean, but you can download without  |
+| EU Open Data Portal | [link](https://data.europa.eu/en) | More than a 1 million datasets released by the EU about health, finance, science etc... |
+| Data. gov | [link](https://www.data.gov/) | Data from various US government departments, but it can tricky to exploit the data |
 
 
 &nbsp;
