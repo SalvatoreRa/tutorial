@@ -88,7 +88,7 @@ I am listing here additional dataset that you can use with the provided link. Th
 | Google Books Ngrams | [link](https://aws.amazon.com/it/datasets/google-books-ngrams/) | A data set containing Google Books n-gram corpora  |
 | Blog Authorship Corpus| [link](https://www.kaggle.com/rtatman/blog-authorship-corpus) | This dataset contains text from blogs written on or before 2004. Posts of 19,320 bloggers gathered from blogger.com in August 2004. The corpus incorporates a total of 681,288 posts and over 140 million words |
 | Wikipedia Links Data | [link](https://code.google.com/archive/p/wiki-links/downloads) [link](http://www.iesl.cs.umass.edu/data/data-wiki-links)|  the Wikilinks dataset comprising of 40 million mentions over 3 million entities  |
-| Wikipedia Links Data | [link](https://code.google.com/archive/p/wiki-links/downloads) [link](http://www.iesl.cs.umass.edu/data/data-wiki-links)|  the Wikilinks dataset comprising of 40 million mentions over 3 million entities  |
+| Hansards Text Chunks from the Canadian Parliament |  [link](https://metatext.io/datasets/hansards-canadian-parliament)|  Created by Natural Language Group - USC at 2001,  Dataset contains pairs of aligned text chunks (sentences or smaller fragments) from the official recordsof the 36th Canadian Parliament. in English language. Containing 1.3M in Text file format  |
 
 &nbsp;
 
