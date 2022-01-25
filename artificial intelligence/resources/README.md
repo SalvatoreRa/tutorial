@@ -67,6 +67,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | [Knowledge graph review](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016)| Geometric learning | 2020 | A Survey on Application of Knowledge Graph |
 | [Graph transformer](https://arxiv.org/abs/2012.09699)| Geometric learning | 2020 | A Generalization of Transformer Networks to Graphs |
 | [GNN review](https://arxiv.org/ftp/arxiv/papers/1812/1812.08434.pdf)| Geometric learning | 2020 | Graph neural networks: A review of methods and applications |
+| [GNN benchmark](https://arxiv.org/abs/2003.00982)| Geometric learning | 2020 | Benchmarking Graph Neural Networks |
 | [Graphormer](https://arxiv.org/abs/2106.05234)| Geometric learning | 2021 | Graphormer: graph transformer |
 
 &nbsp;
@@ -77,6 +78,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | --------- | ------ | ------ |------ |
 | [Goodfellow and Bengio](https://www.deeplearningbook.org/) | deep learning | 2016 | One of the most famous book about deep learning|
 | [Bishop](https://readyforai.com/download/pattern-recognition-and-machine-learning-pdf/) | Machine learning | 2018 | Pattern Recognition and Machine Learning |
+| [Bronstein, Bruna, Cohen and Veličković](https://arxiv.org/abs/2104.13478) | Geometric learning | 2021 | Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges |
 
 &nbsp;
 
@@ -107,6 +109,14 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
 
 &nbsp;
+
+# Free Courses
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | a source for statistics |
+| UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep learning with PyTorch |
+
 
 # Contributing
 
