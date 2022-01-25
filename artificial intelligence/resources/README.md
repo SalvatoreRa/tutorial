@@ -69,6 +69,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | [GNN review](https://arxiv.org/ftp/arxiv/papers/1812/1812.08434.pdf)| Geometric learning | 2020 | Graph neural networks: A review of methods and applications |
 | [GNN benchmark](https://arxiv.org/abs/2003.00982)| Geometric learning | 2020 | Benchmarking Graph Neural Networks |
 | [Graphormer](https://arxiv.org/abs/2106.05234)| Geometric learning | 2021 | Graphormer: graph transformer |
+| [Knowledge graph ](http://www.semantic-web-journal.net/system/files/swj2198.pdf)| Geometric learning | 2021 | On The Role of Knowledge Graphs in Explainable AI |
 
 &nbsp;
 
