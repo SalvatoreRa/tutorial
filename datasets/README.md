@@ -24,6 +24,7 @@ I will add other datasets soon. You may write me for any request, suggestions an
 | [IMDB review](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/IMDB.zip) | --- | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for sentimental analysis, NLP tasks - NOTEBOOK NOT READY YET|
 | [Word cities](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/worldcities.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/word_cities_dataset.ipynb) | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset of the cities in the world |
 | [Credit Fraud Detection](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/credit_card.csv) | --- | [source](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-validation-of-deep-feature-engineering-and-learning-solutions-for-fraud-detection/) | imbalanced dataset - NOTEBOOK NOT READY YET|
+| [Penguin](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://cran.r-project.org/web/packages/palmerpenguins/readme/README.html) | classification of the penguin species- NOTEBOOK NOT READY YET|
 
 
 &nbsp;
