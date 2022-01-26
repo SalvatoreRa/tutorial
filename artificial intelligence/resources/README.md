@@ -39,6 +39,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | [Inception-ResNet-V2 ](https://arxiv.org/abs/1602.07261)| computer vision | 2016 |Residual Inception blocks |
 | [Batch normalization](https://arxiv.org/abs/1502.03167)| computer vision | 2015 |Batch normalization |
 | [self attention and convolution](https://arxiv.org/abs/2111.14556)| computer vision | 2021 |On the Integration of Self-Attention and Convolution|
+| [ConvNet versus Transformers](https://arxiv.org/pdf/2201.03545.pdf)| computer vision | 2021 |A ConvNet for the 2020s: interesting paper on the future of convnet|
 | [Word2vec](https://arxiv.org/pdf/1301.3781v3.pdf)| NLP | 2013 | Word2vec, word embedding |
 | [Layer normalization](https://arxiv.org/abs/1607.06450)| NLP | 2013 | layer normalization |
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
