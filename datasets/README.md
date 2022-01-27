@@ -26,7 +26,8 @@ I will add other datasets soon. You may write me for any request, suggestions an
 | [Credit Fraud Detection](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/credit_card.csv) | --- | [source](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-validation-of-deep-feature-engineering-and-learning-solutions-for-fraud-detection/) | imbalanced dataset - NOTEBOOK NOT READY YET|
 | [Penguin](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://cran.r-project.org/web/packages/palmerpenguins/readme/README.html) | classification of the penguin species- NOTEBOOK NOT READY YET|
 | [Mushroom](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/mushrooms.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
-| [Iris dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
+| [Iris dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/iris_flowers.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
+| [FIF21 dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/FIFA_players_21.csv) | --- | [source](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv) | FIF21 player from kaggle- NOTEBOOK NOT READY YET|
 
 &nbsp;
 
