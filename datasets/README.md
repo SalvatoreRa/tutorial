@@ -25,7 +25,8 @@ I will add other datasets soon. You may write me for any request, suggestions an
 | [Word cities](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/worldcities.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/word_cities_dataset.ipynb) | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset of the cities in the world |
 | [Credit Fraud Detection](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/credit_card.csv) | --- | [source](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-validation-of-deep-feature-engineering-and-learning-solutions-for-fraud-detection/) | imbalanced dataset - NOTEBOOK NOT READY YET|
 | [Penguin](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://cran.r-project.org/web/packages/palmerpenguins/readme/README.html) | classification of the penguin species- NOTEBOOK NOT READY YET|
-
+| [Mushroom](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/mushrooms.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
+| [Iris dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
 
 &nbsp;
 
