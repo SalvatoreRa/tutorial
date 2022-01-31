@@ -18,7 +18,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 * Scientific articles
 * Books
 * Tools
-* Repositories
+* Dataset database
 * Free courses
 
 
@@ -95,7 +95,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 &nbsp;
 
-# Repositories
+# Dataset database
 
 | Repository | Link |  Description |
 | ------- | ----------- | ------ |
