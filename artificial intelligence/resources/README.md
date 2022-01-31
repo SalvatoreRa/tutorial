@@ -109,6 +109,10 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
 | American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
+| Health data| [link](https://healthdata.gov/) | health data, including recent datasets for Covid-19, collected from the U.S. Department of Health and Human Services |
+| Human Mortality| [link](https://www.mortality.org/) | information from 41 different countries, this dataset provides detailed mortality and population data |
+| Big city| [link](https://www.mortality.org/) | Big Cities Health Coalition's upgraded data platform allows comparisons of key public health indicators across 28 large, urban cities|
+| National Library of Medicine| [link](https://datadiscovery.nlm.nih.gov/) | BData Discovery is a platform providing access to datasets from selected NLM resources.  Users can explore, filter, visualize, and export data in a variety of formats, including Excel, JSON, XML, as well as access and build with these datasets via API.|
 
 &nbsp;
 
