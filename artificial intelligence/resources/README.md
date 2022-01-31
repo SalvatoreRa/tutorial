@@ -114,6 +114,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | Big city| [link](https://www.mortality.org/) | Big Cities Health Coalition's upgraded data platform allows comparisons of key public health indicators across 28 large, urban cities|
 | National Library of Medicine| [link](https://datadiscovery.nlm.nih.gov/) | BData Discovery is a platform providing access to datasets from selected NLM resources.  Users can explore, filter, visualize, and export data in a variety of formats, including Excel, JSON, XML, as well as access and build with these datasets via API.|
 | National Cancer Institute SEER Data| [link](https://seer.cancer.gov/data-software/) | The Surveillance, Epidemiology, and End Results Program offers population data by age, sex, race, year of diagnosis, and geographic areas|
+| ELVIRA Biomedical Data Set Repository| [link](https://leo.ugr.es/elvira/DBCRepository/) | This is an online repository of high-dimentional biomedical data sets taking from the Kent Ridge Biomedical Data Set Repository,  including gene expression data, protein profiling data and genomic sequence data that are related to classification and that are published recently in Science, Nature and so on prestigious journals|
 
 &nbsp;
 
