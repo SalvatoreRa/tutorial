@@ -116,7 +116,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | National Cancer Institute SEER Data| [link](https://seer.cancer.gov/data-software/) | The Surveillance, Epidemiology, and End Results Program offers population data by age, sex, race, year of diagnosis, and geographic areas|
 | ELVIRA Biomedical Data Set Repository| [link](https://leo.ugr.es/elvira/DBCRepository/) | This is an online repository of high-dimentional biomedical data sets taking from the Kent Ridge Biomedical Data Set Repository,  including gene expression data, protein profiling data and genomic sequence data that are related to classification and that are published recently in Science, Nature and so on prestigious journals|
 | MedPix| [link](https://medpix.nlm.nih.gov/home) | MedPix is a free open-access online database of medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images. |
-| National Institute of Health X-Ray Dataset| [link](https://medpix.nlm.nih.gov/home) | This NIH Chest X-ray Dataset is comprised of 112,120 X-ray images with disease labels from 30,805 unique patients. To create these labels, the authors used Natural Language Processing to text-mine disease classifications from the associated radiological reports. The labels are expected to be >90% accurate and suitable for weakly-supervised learning.  |
+
 
 
 &nbsp;
