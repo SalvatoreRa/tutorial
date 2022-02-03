@@ -127,6 +127,7 @@ The list is not exhaustive and I am planning to extend, please feel free to sugg
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
 | Project Gutenberg| [link](https://www.gutenberg.org/) | Project Gutenberg is a library of over 60,000 free eBooks |
 | LINQS| [link](https://linqs.soe.ucsc.edu/data) | different relational dataset for graph analysis |
+| PyTorch Geometric| [link](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html) | many different relational dataset for graph analysis |
 
 &nbsp;
 
