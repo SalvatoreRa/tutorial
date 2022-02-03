@@ -116,7 +116,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | National Cancer Institute SEER Data| [link](https://seer.cancer.gov/data-software/) | The Surveillance, Epidemiology, and End Results Program offers population data by age, sex, race, year of diagnosis, and geographic areas|
 | ELVIRA Biomedical Data Set Repository| [link](https://leo.ugr.es/elvira/DBCRepository/) | This is an online repository of high-dimentional biomedical data sets taking from the Kent Ridge Biomedical Data Set Repository,  including gene expression data, protein profiling data and genomic sequence data that are related to classification and that are published recently in Science, Nature and so on prestigious journals|
 | MedPix| [link](https://medpix.nlm.nih.gov/home) | MedPix is a free open-access online database of medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images. |
-
+| LINQS| [link](https://linqs.soe.ucsc.edu/data) | different relational dataset for graph analysis |
+| PyTorch Geometric| [link](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html) | many different relational dataset for graph analysis |
 
 
 &nbsp;
