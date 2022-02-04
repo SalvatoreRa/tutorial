@@ -97,6 +97,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 # Dataset database
 
+## Miscellaneous
+
 | Repository | Link |  Description |
 | ------- | ----------- | ------ |
 | Kaggle | [link](https://www.kaggle.com/) | A great source for datasets, with code and competitions. |
@@ -104,11 +106,21 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | School System Finance | [link](https://archive.ics.uci.edu/ml/index.php) | One of the oldest repository, user contributed. Not all the dataset are clean, but you can download without  |
 | EU Open Data Portal | [link](https://data.europa.eu/en) | More than a 1 million datasets released by the EU about health, finance, science etc... |
 | Data. gov | [link](https://www.data.gov/) | Data from various US government departments, but it can tricky to exploit the data |
+
+## Finance and economics
+
+| Repository | Link |  Description |
+| ------- | ----------- | ------ |
 | Quandl | [link](https://www.data.gov/) | Great source of economic and financial data |
 | Word Bank | [link](https://data.worldbank.org/) | You can download data about population demographics, global economic and development indicators |
 | IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
 | American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
+
+## Health and biology
+
+| Repository | Link |  Description |
+| ------- | ----------- | ------ |
 | Health data| [link](https://healthdata.gov/) | health data, including recent datasets for Covid-19, collected from the U.S. Department of Health and Human Services |
 | Human Mortality| [link](https://www.mortality.org/) | information from 41 different countries, this dataset provides detailed mortality and population data |
 | Big city| [link](https://www.mortality.org/) | Big Cities Health Coalition's upgraded data platform allows comparisons of key public health indicators across 28 large, urban cities|
@@ -116,9 +128,19 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | National Cancer Institute SEER Data| [link](https://seer.cancer.gov/data-software/) | The Surveillance, Epidemiology, and End Results Program offers population data by age, sex, race, year of diagnosis, and geographic areas|
 | ELVIRA Biomedical Data Set Repository| [link](https://leo.ugr.es/elvira/DBCRepository/) | This is an online repository of high-dimentional biomedical data sets taking from the Kent Ridge Biomedical Data Set Repository,  including gene expression data, protein profiling data and genomic sequence data that are related to classification and that are published recently in Science, Nature and so on prestigious journals|
 | MedPix| [link](https://medpix.nlm.nih.gov/home) | MedPix is a free open-access online database of medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images. |
+
+## Relational and network analysis
+
+| Repository | Link |  Description |
+| ------- | ----------- | ------ |
 | LINQS| [link](https://linqs.soe.ucsc.edu/data) | different relational dataset for graph analysis |
 | PyTorch Geometric| [link](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html) | many different relational dataset for graph analysis |
 | PyTorch Geometric| [link](https://networkrepository.com/index.php) | interactive data and network data repository with real-time visual analytics, comprehensive collection of network graph data in 30+ domains (network science, bioinformatics, machine learning, data mining, physics, and social science) |
+
+## Natural language processing
+
+| Repository | Link |  Description |
+| ------- | ----------- | ------ |
 
 
 &nbsp;
