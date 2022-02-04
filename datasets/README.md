@@ -13,12 +13,13 @@ I am storing here the datasets as CSV file, if bigger than 50 MB I uploading the
 
 I will add other datasets soon. You may write me for any request, suggestions and comments.
 
-# Tutorial
+# Datasets and Notebooks
 
+Here are listed all the datasets in this repository, there are also the associated colab file. Check also the first notebook to quick check how to load any of this datasets.
 
 | Dataset | Notebook | Source | Description |
 | ------- | ----------- | ------ |------ |
-| [Quick look up](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Quick_lookup.ipynb) | --- | --- | A quick look up to how to upload any of the datasets - NOTEBOOK in construction|
+| [Quick look up](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Quick_lookup.ipynb) | --- | --- | A quick look up to how to read any of the datasets - NOTEBOOK in construction|
 | [Boston house price](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Boston.csv) | --- | [source](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html) | Dataset for regression - NOTEBOOK NOT READY YET|
 | [White wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-white.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/wine_dataset.ipynb)| [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
 | [Red wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-red.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
@@ -137,6 +138,7 @@ The list is not exhaustive and I am planning to extend, please feel free to sugg
 
 # Contributing
 
+Feel free to suggest other datasets and repositories
 
 
 # License
