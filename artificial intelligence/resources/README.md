@@ -135,7 +135,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | ------- | ----------- | ------ |
 | LINQS| [link](https://linqs.soe.ucsc.edu/data) | different relational dataset for graph analysis |
 | PyTorch Geometric| [link](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html) | many different relational dataset for graph analysis |
-| PyTorch Geometric| [link](https://networkrepository.com/index.php) | interactive data and network data repository with real-time visual analytics, comprehensive collection of network graph data in 30+ domains (network science, bioinformatics, machine learning, data mining, physics, and social science) |
+| networkrepository | [link](https://networkrepository.com/index.php) | interactive data and network data repository with real-time visual analytics, comprehensive collection of network graph data in 30+ domains (network science, bioinformatics, machine learning, data mining, physics, and social science) |
+| Network data | [link](http://www-personal.umich.edu/~mejn/netdata/) | a list of network data that can be downloaded |
 
 ## Computer vision
 
@@ -151,6 +152,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | Repository | Link |  Description |
 | ------- | ----------- | ------ |
 | The Big Bad NLP Database| [link](https://index.quantumstat.com/) | a database for NLP containing more than 300 dataset. Most of them are in english, only few in other languages. |
+| Curated NLP Database | [link](https://metatext.io/datasets) | List of 1000+ Natural Language Processing Datasets. Covering tasks from classification to question answering, languages from English, Portuguese to Arabic |
 
 &nbsp;
 
