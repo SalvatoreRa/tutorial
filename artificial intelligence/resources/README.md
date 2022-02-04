@@ -118,6 +118,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | MedPix| [link](https://medpix.nlm.nih.gov/home) | MedPix is a free open-access online database of medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images. |
 | LINQS| [link](https://linqs.soe.ucsc.edu/data) | different relational dataset for graph analysis |
 | PyTorch Geometric| [link](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html) | many different relational dataset for graph analysis |
+| PyTorch Geometric| [link](https://networkrepository.com/index.php) | interactive data and network data repository with real-time visual analytics, comprehensive collection of network graph data in 30+ domains (network science, bioinformatics, machine learning, data mining, physics, and social science) |
 
 
 &nbsp;
