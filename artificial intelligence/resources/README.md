@@ -146,6 +146,11 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | TU Darmstadt dataset| [link](https://www.visinf.tu-darmstadt.de/vi_research/datasets/index.en.jsp) | a list of dataset collected by TU Darmstadt  university |
 | CVonline| [link](https://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm) | Another list of dataset for computer vision |
 
+## Natural Language processing
+
+| Repository | Link |  Description |
+| ------- | ----------- | ------ |
+| The Big Bad NLP Database| [link](https://index.quantumstat.com/) | a database for NLP containing more than 300 dataset. Most of them are in english, only few in other languages. |
 
 &nbsp;
 
