@@ -107,6 +107,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | EU Open Data Portal | [link](https://data.europa.eu/en) | More than a 1 million datasets released by the EU about health, finance, science etc... |
 | Data. gov | [link](https://www.data.gov/) | Data from various US government departments, but it can tricky to exploit the data |
 
+&nbsp;
+
 ## Finance and economics
 
 | Repository | Link |  Description |
@@ -116,6 +118,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
 | American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
+
+&nbsp;
 
 ## Health and biology
 
@@ -128,6 +132,13 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | National Cancer Institute SEER Data| [link](https://seer.cancer.gov/data-software/) | The Surveillance, Epidemiology, and End Results Program offers population data by age, sex, race, year of diagnosis, and geographic areas|
 | ELVIRA Biomedical Data Set Repository| [link](https://leo.ugr.es/elvira/DBCRepository/) | This is an online repository of high-dimentional biomedical data sets taking from the Kent Ridge Biomedical Data Set Repository,  including gene expression data, protein profiling data and genomic sequence data that are related to classification and that are published recently in Science, Nature and so on prestigious journals|
 | MedPix| [link](https://medpix.nlm.nih.gov/home) | MedPix is a free open-access online database of medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images. |
+| WHO| [link](https://www.who.int/data/collections) | The World Health Organization manages and maintains a wide range of data collections related to global health and well-being as mandated by its Member States. |
+| CDC| [link](https://www.cdc.gov/datastatistics/index.html) | the CDC offer a large list of datasetsabout health diseases. |
+| Data Carpentry for Biologists | [link](https://datacarpentry.org/semester-biology/materials/datasets/) | A list of datasets for biology that you can download from the website (in different format csv, excel, zip) |
+| Cancer Image Archive | [link](https://www.cancerimagingarchive.net/) | A large archive of medical images of cencer that are accessible for public download |
+| Image Data Resource | [link](http://idr.openmicroscopy.org/about/) | The Image Data Resource (IDR) is a public repository of reference image datasets from published scientific studies. IDR enables access, search and analysis of these highly annotated datasets. |
+
+&nbsp;
 
 ## Relational and network analysis
 
@@ -138,6 +149,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | networkrepository | [link](https://networkrepository.com/index.php) | interactive data and network data repository with real-time visual analytics, comprehensive collection of network graph data in 30+ domains (network science, bioinformatics, machine learning, data mining, physics, and social science) |
 | Network data | [link](http://www-personal.umich.edu/~mejn/netdata/) | a list of network data that can be downloaded |
 
+&nbsp;
+
 ## Computer vision
 
 | Repository | Link |  Description |
@@ -146,6 +159,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | Yet Another Computer Vision Index To Datasets (YACVID)| [link](http://yacvid.hayko.at/) | a large list of dataset for computer visions, but not all the links work well|
 | TU Darmstadt dataset| [link](https://www.visinf.tu-darmstadt.de/vi_research/datasets/index.en.jsp) | a list of dataset collected by TU Darmstadt  university |
 | CVonline| [link](https://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm) | Another list of dataset for computer vision |
+
+&nbsp;
 
 ## Natural Language processing
 
