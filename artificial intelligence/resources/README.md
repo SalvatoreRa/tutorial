@@ -137,6 +137,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 | Data Carpentry for Biologists | [link](https://datacarpentry.org/semester-biology/materials/datasets/) | A list of datasets for biology that you can download from the website (in different format csv, excel, zip) |
 | Cancer Image Archive | [link](https://www.cancerimagingarchive.net/) | A large archive of medical images of cencer that are accessible for public download |
 | Image Data Resource | [link](http://idr.openmicroscopy.org/about/) | The Image Data Resource (IDR) is a public repository of reference image datasets from published scientific studies. IDR enables access, search and analysis of these highly annotated datasets. |
+| SICAS Medical Image | [link](https://www.smir.ch/) | The SICAS Medical Image Repository host datasets of medical images that you can browse (or where you can store your dataset) |
 
 &nbsp;
 
