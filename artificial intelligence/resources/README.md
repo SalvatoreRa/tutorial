@@ -181,6 +181,16 @@ I am listing here free books or books that you can access for free from the prov
 | OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | a source for statistics |
 | UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep learning with PyTorch |
 
+&nbsp;
+
+# Miscellaneous
+
+Other interesting resources
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+|  The Super Duper NLP Repo | [link](https://notebooks.quantumstat.com/) | a collection of Colab notebooks covering a wide array of NLP task implementations available to launch in Google Colab with a single click. |
+
 
 # Contributing
 
