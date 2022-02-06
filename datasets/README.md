@@ -17,22 +17,22 @@ I will add other datasets soon. You may write me for any request, suggestions an
 
 Here are listed all the datasets in this repository, there are also the associated colab file. Check also the first notebook to quick check how to load any of this datasets.
 
-| Dataset | Notebook | Source | Description |
-| ------- | ----------- | ------ |------ |
-| [Quick look up](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Quick_lookup.ipynb) | --- | --- | A quick look up to how to read any of the datasets - NOTEBOOK in construction|
-| [Boston house price](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Boston.csv) | --- | [source](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html) | Dataset for regression - NOTEBOOK NOT READY YET|
-| [White wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-white.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/wine_dataset.ipynb)| [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
-| [Red wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-red.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
-| [Titanic dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/titanic.csv) | --- | [source](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) | Dataset for classification - NOTEBOOK NOT READY YET|
-| [IMDB review](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/IMDB.zip) | --- | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for sentimental analysis, NLP tasks - NOTEBOOK NOT READY YET|
-| [Word cities](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/worldcities.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/word_cities_dataset.ipynb) | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset of the cities in the world |
-| [Credit Fraud Detection](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/credit_card.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/credit_fraud.ipynb) | [source](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-validation-of-deep-feature-engineering-and-learning-solutions-for-fraud-detection/) | imbalanced dataset |
-| [Penguin](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://cran.r-project.org/web/packages/palmerpenguins/readme/README.html) | classification of the penguin species- NOTEBOOK NOT READY YET|
-| [Mushroom](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/mushrooms.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
-| [Iris dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/iris_flowers.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
-| [FIF21 dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/FIFA_players_21.csv) | --- | [source](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv) | FIF21 player from kaggle- NOTEBOOK NOT READY YET|
-| [CORA dataset: network](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.cites)
-[CORA dataset: Node features](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.content) | --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
+| #| Dataset | Notebook | Source | Description |
+| -| ------- | ----------- | ------ |------ |
+| -| [Quick look up](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Quick_lookup.ipynb) | --- | --- | A quick look up to how to read any of the datasets - NOTEBOOK in construction|
+| 1. | [Boston house price](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Boston.csv) | --- | [source](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html) | Dataset for regression - NOTEBOOK NOT READY YET|
+| 2.| [White wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-white.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/wine_dataset.ipynb)| [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
+| 3.| [Red wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-red.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
+| 4.| [Titanic dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/titanic.csv) | --- | [source](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) | Dataset for classification - NOTEBOOK NOT READY YET|
+| 5.| [IMDB review](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/IMDB.zip) | --- | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for sentimental analysis, NLP tasks - NOTEBOOK NOT READY YET|
+| 6.| [Word cities](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/worldcities.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/word_cities_dataset.ipynb) | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset of the cities in the world |
+| 7.| [Credit Fraud Detection](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/credit_card.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/credit_fraud.ipynb) | [source](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-validation-of-deep-feature-engineering-and-learning-solutions-for-fraud-detection/) | imbalanced dataset |
+| 8.| [Penguin](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://cran.r-project.org/web/packages/palmerpenguins/readme/README.html) | classification of the penguin species- NOTEBOOK NOT READY YET|
+| 9.| [Mushroom](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/mushrooms.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
+| 10.| [Iris dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/iris_flowers.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
+| 11.| [FIF21 dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/FIFA_players_21.csv) | --- | [source](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv) | FIF21 player from kaggle- NOTEBOOK NOT READY YET|
+| 12.| [CORA dataset: network](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.cites)| --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
+| |[CORA dataset: Node features](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.content) | --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
 
 &nbsp;
 
