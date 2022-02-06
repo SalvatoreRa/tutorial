@@ -32,7 +32,7 @@ Here are listed all the datasets in this repository, there are also the associat
 | 10.| [Iris dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/iris_flowers.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
 | 11.| [FIF21 dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/FIFA_players_21.csv) | --- | [source](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv) | FIF21 player from kaggle- NOTEBOOK NOT READY YET|
 | 12.| [CORA dataset: network](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.cites)| --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
-| |[CORA dataset: Node features](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.content) | --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
+|   |[CORA dataset: Node features](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.content) | --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
 
 &nbsp;
 
@@ -74,7 +74,7 @@ imdb_data=pd.read_csv("IMDB Dataset.csv")
 
 # Additional Datasets 
 
-I am listing here additional dataset that you can use with the provided link. The datasets listed cover different aspects of Machine learning and Artificial intelligence common tasks (computer Vision, Financial Analysis, Sentimental Analysis, Natural Language Processing, Autonomous Vehicles). If the dataset is available in multiple sources I am also adding alternative links (I check regularly and update the links that not working anymore).
+I am listing here **additional dataset** that you can use with the provided link. The datasets listed cover different aspects of Machine learning and Artificial intelligence common tasks (computer Vision, Financial Analysis, Sentimental Analysis, Natural Language Processing, Autonomous Vehicles). If the dataset is available in multiple sources I am also adding alternative links (I check regularly and update the links that not working anymore).
 
 | dataset |  Source | Description |
 | ------- |  ------ |------ |
