@@ -76,6 +76,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 # Books
 
+I am listing here free books or books that you can access for free from the provided links.
+
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [Goodfellow and Bengio](https://www.deeplearningbook.org/) | deep learning | 2016 | One of the most famous book about deep learning|
