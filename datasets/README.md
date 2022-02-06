@@ -19,7 +19,7 @@ Here are listed all the datasets in this repository, there are also the associat
 
 | #| Dataset | Notebook | Source | Description |
 | -| ------- | ----------- | ------ |------ |
-| -| [Quick look up](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Quick_lookup.ipynb) | --- | --- | A quick look up to how to read any of the datasets - NOTEBOOK in construction|
+| -| [Quick look up](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Quick_lookup.ipynb) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Quick_lookup.ipynb) | --- | A quick look up to how to read any of the datasets - NOTEBOOK in construction|
 | 1. | [Boston house price](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Boston.csv) | --- | [source](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html) | Dataset for regression - NOTEBOOK NOT READY YET|
 | 2.| [White wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-white.csv) | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/wine_dataset.ipynb)| [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
 | 3.| [Red wine dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/winequality-red.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/wine) | Dataset for regression/classification - NOTEBOOK NOT READY YET|
