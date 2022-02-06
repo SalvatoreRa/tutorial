@@ -26,6 +26,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 # Scientific articles
 
+This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many them present the basis of the artificial intelligence.
+
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [LeNet-5](http://yann.lecun.com/exdb/publis/index.html#lecun-98)| computer vision | 1998 |showing that you can stack convolutional layers instead of dense layers |
@@ -88,6 +90,8 @@ I am listing here free books or books that you can access for free from the prov
 
 # Tools
 
+A list of some useful tools that can be needed in different contexts. 
+
 | Link | description | 
 | --------- | ------ | 
 |  [NN drawer](http://alexlenail.me/NN-SVG/LeNet.html) | Draw online your neural network architechture | 
@@ -98,6 +102,8 @@ I am listing here free books or books that you can access for free from the prov
 &nbsp;
 
 # Dataset database
+
+Here a list of many dataset database/repository for many different fields of artificial intelligence. For a ML/AI task you need two things: data and algorithm. This list is meant to help you witht he first part of the question: the data. I am providing here a list of links to databases where you can find many available to datasets (check the dataset section in the repository where I provide single datasets).
 
 ## Miscellaneous
 
