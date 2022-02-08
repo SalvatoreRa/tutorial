@@ -26,7 +26,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 # Scientific articles
 
-This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many them present the basis of the artificial intelligence.
+This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many them present the basis of the artificial intelligence. I try to cover many field of the actual artificial intelligence research.
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
@@ -48,6 +48,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
 | [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
 | [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2016 |First paper proposing transformers |
+| [Question Answering ](https://arxiv.org/abs/1704.00051)| NLP | 2017 |Reading Wikipedia to Answer Open-Domain Questions |
 | [BERT ](https://arxiv.org/abs/1810.04805)| NLP | 2018 | First paper proposing BERT |
 | [DistilBERT ](https://arxiv.org/abs/1910.01108)| NLP | 2019 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter |
 | [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
