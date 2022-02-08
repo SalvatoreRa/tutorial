@@ -169,6 +169,9 @@ Here a list of many dataset database/repository for many different fields of art
 | Yet Another Computer Vision Index To Datasets (YACVID)| [link](http://yacvid.hayko.at/) | a large list of dataset for computer visions, but not all the links work well|
 | TU Darmstadt dataset| [link](https://www.visinf.tu-darmstadt.de/vi_research/datasets/index.en.jsp) | a list of dataset collected by TU Darmstadt  university |
 | CVonline| [link](https://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm) | Another list of dataset for computer vision |
+| COVE| [link](https://cove.thecvf.com/) | COVE is an online repository for computer vision datasets sponsored by the Computer Vision Foundation. It is intended to aid the computer vision research community and serve as a centralized reference for all datasets in the field |
+| Roboflow| [link](https://public.roboflow.com/) | Roboflow hosts free public computer vision datasets in many popular formats (including CreateML JSON, COCO JSON, Pascal VOC XML, YOLO v3, and Tensorflow TFRecords). |
+
 
 &nbsp;
 
