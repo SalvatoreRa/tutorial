@@ -52,6 +52,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [DistilBERT ](https://arxiv.org/abs/1910.01108)| NLP | 2019 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter |
 | [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
 | [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
+| [ Text Summarization ](https://arxiv.org/abs/2010.04529)| NLP | 2020 | What Have We Achieved on Text Summarization |
 | [Transformers ](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)| NLP | 2018 |GPT-1 paper |
 | [Transformers ](https://openai.com/blog/better-language-models/)| NLP | 2018 |GPT-2 paper |
 | [Transformers ](https://arxiv.org/abs/2005.14165)| NLP | 2020 |GPT-3 paper |
