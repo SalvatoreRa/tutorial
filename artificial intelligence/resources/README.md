@@ -119,6 +119,7 @@ Here a list of many dataset database/repository for many different fields of art
 | School System Finance | [link](https://archive.ics.uci.edu/ml/index.php) | One of the oldest repository, user contributed. Not all the dataset are clean, but you can download without  |
 | EU Open Data Portal | [link](https://data.europa.eu/en) | More than a 1 million datasets released by the EU about health, finance, science etc... |
 | Data. gov | [link](https://www.data.gov/) | Data from various US government departments, but it can tricky to exploit the data |
+| Google Dataset Search | [link](https://datasetsearch.research.google.com/) | Free to search, but does include some fee-based search results.  is like Google’s standard search engine, but strictly for data |
 
 &nbsp;
 
@@ -131,6 +132,7 @@ Here a list of many dataset database/repository for many different fields of art
 | IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
 | American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
+| Datahub.io| [link](https://datahub.io/collections) | Mostly free, no registration required. It covers a variety of topics from climate change to entertainment, it mainly focuses on areas like stock market data, property prices, inflation, and logistics.|
 
 &nbsp;
 
