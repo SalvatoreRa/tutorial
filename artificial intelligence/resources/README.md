@@ -120,6 +120,10 @@ Here a list of many dataset database/repository for many different fields of art
 | EU Open Data Portal | [link](https://data.europa.eu/en) | More than a 1 million datasets released by the EU about health, finance, science etc... |
 | Data. gov | [link](https://www.data.gov/) | Data from various US government departments, but it can tricky to exploit the data |
 | Google Dataset Search | [link](https://datasetsearch.research.google.com/) | Free to search, but does include some fee-based search results.  is like Google’s standard search engine, but strictly for data |
+| Earth Data | [link](https://earthdata.nasa.gov/) | this repository provides access to all of NASA’s satellite observation data for our little blue planet. |
+| CERN Open Data Portal| [link](https://earthdata.nasa.gov/) | Physics data, over two petabytes of information, including datasets from the Large Hadron Collider particle accelerator |
+| CERN Open Data Portal| [link](http://opendata.cern.ch/) | Physics data, over two petabytes of information, including datasets from the Large Hadron Collider particle accelerator |
+| BFI film industry statistics | [link](https://www.bfi.org.uk/industry-data-insights) | Data on everything from UK box office figures, to audience demographics, home entertainment, movie production costs, and more |
 
 &nbsp;
 
@@ -132,7 +136,7 @@ Here a list of many dataset database/repository for many different fields of art
 | IMF statistics | [link](https://www.imf.org/en/Data) | International Monetary Fund data about international finaces, debt rate, etc... |
 | American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
-| Datahub.io| [link](https://datahub.io/collections) | Mostly free, no registration required. It covers a variety of topics from climate change to entertainment, it mainly focuses on areas like stock market data, property prices, inflation, and logistics.|
+| Datahub.io| [link](https://datahub.io/collections) | Mostly free, no registration required. It covers a variety of topics from climate change to entertainment, it mainly focuses on areas like stock market data, property prices, inflation, and logistics. Data are updated frequently (monthly)|
 
 &nbsp;
 
