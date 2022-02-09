@@ -127,7 +127,8 @@ Here a list of many dataset database/repository for many different fields of art
 | FBI Crime Data Explorer | [link](https://crime-data-explorer.fr.cloud.gov/pages/home) |  a broad collection of crime statistics from a variety of state organizations (universities and local law enforcement) and government (on a local, regional, and state-level). There are also guides about the data |
 | Reddit discussion | [link](https://www.reddit.com/r/opendata/) | a discussion about open dataset on Reddit |
 | FiveThirtyEight  | [link](https://data.fivethirtyeight.com/) |  best known for  data journalism,  the site also makes most of the data it uses in its reporting open to the public (mostly on politics, sports and culture)|
-
+| Pew Internet | [link](https://www.pewresearch.org/internet/datasets/) |  data repository with a major focus on culture and media, social media, media consumption. |
+| Data world | [link](https://www.pewresearch.org/internet/datasets/) |  one of the largest collection of open datasets, there are datasets in a large range of categories  |
 
 
 &nbsp;
@@ -197,6 +198,8 @@ Here a list of many dataset database/repository for many different fields of art
 | ------- | ----------- | ------ |
 | The Big Bad NLP Database| [link](https://index.quantumstat.com/) | a database for NLP containing more than 300 dataset. Most of them are in english, only few in other languages. |
 | Curated NLP Database | [link](https://metatext.io/datasets) | List of 1000+ Natural Language Processing Datasets. Covering tasks from classification to question answering, languages from English, Portuguese to Arabic |
+| nlp-datasets | [link](https://metatext.io/datasets) | Github repository,  list of free/public domain datasets with text data for use in Natural Language Processing (NLP).|
+| NLTK Corpora| [link](http://www.nltk.org/nltk_data/) | NLTK has built-in support for dozens of corpora and trained models|
 
 &nbsp;
 
