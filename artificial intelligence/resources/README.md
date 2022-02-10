@@ -129,7 +129,7 @@ Here a list of many dataset database/repository for many different fields of art
 | FiveThirtyEight  | [link](https://data.fivethirtyeight.com/) |  best known for  data journalism,  the site also makes most of the data it uses in its reporting open to the public (mostly on politics, sports and culture)|
 | Pew Internet | [link](https://www.pewresearch.org/internet/datasets/) |  data repository with a major focus on culture and media, social media, media consumption. |
 | Data world | [link](https://www.pewresearch.org/internet/datasets/) |  one of the largest collection of open datasets, there are datasets in a large range of categories  |
-
+| Papers with code| [link](https://paperswithcode.com/datasets) | around 5000 datasets about NLP, computer visions and so on|
 
 &nbsp;
 
@@ -200,6 +200,9 @@ Here a list of many dataset database/repository for many different fields of art
 | Curated NLP Database | [link](https://metatext.io/datasets) | List of 1000+ Natural Language Processing Datasets. Covering tasks from classification to question answering, languages from English, Portuguese to Arabic |
 | nlp-datasets | [link](https://metatext.io/datasets) | Github repository,  list of free/public domain datasets with text data for use in Natural Language Processing (NLP).|
 | NLTK Corpora| [link](http://www.nltk.org/nltk_data/) | NLTK has built-in support for dozens of corpora and trained models|
+| Hugging Face datasets| [link]https://huggingface.co/datasets) | nearly 3000 datasets focused mainly on NLP |
+
+
 
 &nbsp;
 
