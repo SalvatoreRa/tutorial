@@ -78,6 +78,9 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [GNN benchmark](https://arxiv.org/abs/2003.00982)| Geometric learning | 2020 | Benchmarking Graph Neural Networks |
 | [Graphormer](https://arxiv.org/abs/2106.05234)| Geometric learning | 2021 | Graphormer: graph transformer |
 | [Knowledge graph ](http://www.semantic-web-journal.net/system/files/swj2198.pdf)| Geometric learning | 2021 | On The Role of Knowledge Graphs in Explainable AI |
+| [GNN explainaibility](https://arxiv.org/abs/1909.10911)| Geometric learning | 2019 | Layerwise Relevance Visualization in Convolutional Text Graph Classifiers |
+| [GNN explainaibility](https://arxiv.org/abs/1905.13686)| Geometric learning | 2019 | Explainability Techniques for Graph Convolutional Networks |
+| [GNN explainaibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285761/)| Geometric learning | 2021 | Deep Graph Mapper: Seeing Graphs Through the Neural Lens |
 
 &nbsp;
 
