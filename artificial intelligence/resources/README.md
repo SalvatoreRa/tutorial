@@ -81,6 +81,10 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [GNN explainaibility](https://arxiv.org/abs/1909.10911)| Geometric learning | 2019 | Layerwise Relevance Visualization in Convolutional Text Graph Classifiers |
 | [GNN explainaibility](https://arxiv.org/abs/1905.13686)| Geometric learning | 2019 | Explainability Techniques for Graph Convolutional Networks |
 | [GNN explainaibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285761/)| Geometric learning | 2021 | Deep Graph Mapper: Seeing Graphs Through the Neural Lens |
+| [GNN explainaibility](https://arxiv.org/abs/2001.06216)| Geometric learning | 2020 | GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks |
+| [GNN explainaibility](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)| Geometric learning | 2019 | GNNExplainer: Generating Explanations for Graph Neural Networks |
+| [GNN explainaibility](https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html)| Geometric learning | 2017 | Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization |
+| [GNN explainaibility](https://ieeexplore.ieee.org/document/8354201)| Geometric learning | 2018 | Grad-CAM++: Generalized Gradient-Based Visual Explanations for Deep Convolutional Networks |
 
 &nbsp;
 
