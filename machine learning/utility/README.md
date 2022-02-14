@@ -50,6 +50,18 @@ from regression_report import regression_report
 | [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
 | [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
 
+# Example of usage
+
+## Upset plot
+
+You can use the upset plot to visualize missing data. Upset plot are used to visualize overlaps (you can image them as Venn diagram but they are more readable). The plot is showing the number of missing data and overlap between the different columns.
+
+```Python
+import pandas as pd
+df = pd.read_csv("https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/titanic.csv")
+plot_upset(data = df) 
+```
+![upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/images/upset_plot.png?raw=true)
 
 &nbsp;
 
