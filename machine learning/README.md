@@ -40,6 +40,8 @@ You may write me for any request, suggestions and comments.
 
 I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use. You find them in the **utility folder**.
 
+Check in the utiliy folder the example of usages and the explanation about them. Each function is document and you can access the provided documentation.
+
 For example, if you want to use my regression_report function in Colab you can import in this way:
 
 ```Python
