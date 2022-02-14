@@ -52,6 +52,32 @@ from regression_report import regression_report
 
 # Example of usage
 
+## Regression report
+
+You can use regression report to evaluate a regression model. Regression report is returning you a report (similar to the classification report for scikit-learn) with different evaluation metrics. You can also save this regression report.
+
+```Python
+import xgboost
+from xgboost import XGBRegressor
+from sklearn.model_selection import train_test_split
+import pandas as pd
+#boston dataset
+data_dir = "https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/Boston.csv"
+df = pd.read_csv(data_dir)
+#separing the input features from the target variable
+y = df["medv"]
+X = df.drop(["medv"], axis=1)
+#splitting the dataset
+X_train, X_test, y_train, y_test = train_test_split(X, y,test_size = 0.2, random_state = 42) 
+# generate an xgboost regression model
+model = XGBRegressor()
+#fit the model
+model.fit(X_train, y_train)
+#predict for the test dataset
+pred = model.predict(X_test)
+_ = regression_report(test_set = X_test, target = y_test, predictions = pred )
+```
+
 ## Upset plot
 
 You can use the upset plot to visualize missing data. Upset plot are used to visualize overlaps (you can image them as Venn diagram but they are more readable). The plot is showing the number of missing data and overlap between the different columns.
@@ -61,7 +87,9 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/titanic.csv")
 plot_upset(data = df) 
 ```
+
 ![upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/images/upset_plot.png?raw=true)
+
 
 &nbsp;
 
