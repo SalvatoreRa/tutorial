@@ -78,13 +78,15 @@ pred = model.predict(X_test)
 _ = regression_report(test_set = X_test, target = y_test, predictions = pred )
 ```
 
+![regression report](https://github.com/SalvatoreRa/tutorial/blob/main/images/upset_plot.png?raw=true)
+
 ## Upset plot
 
 You can use the upset plot to visualize missing data. Upset plot are used to visualize overlaps (you can image them as Venn diagram but they are more readable). The plot is showing the number of missing data and overlap between the different columns.
 
 ```Python
 import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/titanic.csv")
+df = pd.read_csv("https://github.com/SalvatoreRa/tutorial/blob/main/images/regression_reports.png?raw=true")
 plot_upset(data = df) 
 ```
 
