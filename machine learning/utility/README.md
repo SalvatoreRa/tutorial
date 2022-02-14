@@ -78,7 +78,7 @@ pred = model.predict(X_test)
 _ = regression_report(test_set = X_test, target = y_test, predictions = pred )
 ```
 
-![regression report](https://github.com/SalvatoreRa/tutorial/blob/main/images/upset_plot.png?raw=true)
+![regression report](https://github.com/SalvatoreRa/tutorial/blob/main/images/regression_reports.png?raw=true)
 
 ## Upset plot
 
@@ -86,7 +86,7 @@ You can use the upset plot to visualize missing data. Upset plot are used to vis
 
 ```Python
 import pandas as pd
-df = pd.read_csv("https://github.com/SalvatoreRa/tutorial/blob/main/images/regression_reports.png?raw=true")
+df = pd.read_csv("https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/titanic.csv")
 plot_upset(data = df) 
 ```
 
