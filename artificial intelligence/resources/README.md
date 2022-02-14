@@ -209,8 +209,8 @@ Here a list of many dataset database/repository for many different fields of art
 | Curated NLP Database | [link](https://metatext.io/datasets) | List of 1000+ Natural Language Processing Datasets. Covering tasks from classification to question answering, languages from English, Portuguese to Arabic |
 | nlp-datasets | [link](https://metatext.io/datasets) | Github repository,  list of free/public domain datasets with text data for use in Natural Language Processing (NLP).|
 | NLTK Corpora| [link](http://www.nltk.org/nltk_data/) | NLTK has built-in support for dozens of corpora and trained models|
-| Hugging Face datasets| [link]https://huggingface.co/datasets) | nearly 3000 datasets focused mainly on NLP |
-
+| Hugging Face datasets| [link](https://huggingface.co/datasets) | nearly 3000 datasets focused mainly on NLP |
+| airXiv | [link](https://arxiv.org/help/bulk_data_s3) |  arXiv bulk data available for download (270 GB of text), updated almost each month |
 
 
 &nbsp;
