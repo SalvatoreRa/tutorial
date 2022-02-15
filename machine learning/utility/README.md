@@ -23,7 +23,17 @@ You may write me for any request, suggestions and comments.
 
 # Utility
 
+| file |  Description |
+|----------- | ------ |
+| [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
+| [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
+
+# How to import
+
+
 I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use. You find them in this folder.
+
+## Google Colab
 
 For example, if you want to use my regression_report function in Colab you can import in this way:
 
@@ -45,10 +55,19 @@ sys.path.append(os.path.abspath(py_file_location))
 from regression_report import regression_report 
 ```
 
-| file |  Description |
-|----------- | ------ |
-| [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
-| [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
+## On your personal computer
+
+If you want to import in a Jupyter Notebook or in another IDE, it is very simple. Download the file in the folder of your choice, then to import:
+
+```Python
+import sys  
+sys.path.insert(0, "/path/to/the/folder/of/your/choice/")
+
+#import the file as it was a module
+import regression_report
+#import function or class
+from regression_report import regression_report
+```
 
 # Examples of usage
 
