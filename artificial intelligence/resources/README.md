@@ -30,6 +30,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)| General introduction | 1998 | A very brief introduction on how to read a scientific paper |
 | [LeNet-5](http://yann.lecun.com/exdb/publis/index.html#lecun-98)| computer vision | 1998 |showing that you can stack convolutional layers instead of dense layers |
 | [AlexNet ](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)| computer vision | 2012 |first showing the use of ReLu |
 | [VGG-16 ](https://arxiv.org/abs/1409.1556)| computer vision | 2014 |first very deep network |
