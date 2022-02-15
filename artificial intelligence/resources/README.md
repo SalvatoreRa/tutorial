@@ -92,7 +92,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 # Books
 
-I am listing here free books or books that you can access for free from the provided links.
+I am listing here free books or books that you can access for free from the provided links. I am listing books that are related to statistics, machine learning and artificial intelligence or connected in general to data science.
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
