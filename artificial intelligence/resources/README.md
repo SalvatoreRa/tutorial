@@ -9,7 +9,7 @@ Photo by [Daniel](https://unsplash.com/@setbydaniel) on [Unsplash](https://unspl
 
 In this section, I will suggest and add many resources on artificial intelligence that can be useful. The list is not exhaustive and I will expand with time, if you want to suggest other resources, you are welcome.
 
-I am listing seminal articles (the list is clearly not exhaustive), free available books and useful tools that I found.
+I am listing seminal articles (the list is clearly not exhaustive), free available books, free courses and useful tools that I found. I am also listing a large set of database where you can find dataset for different machine learning tasks.
 
 &nbsp;
 
@@ -26,7 +26,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 # Scientific articles
 
-This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many them present the basis of the artificial intelligence. I try to cover many field of the actual artificial intelligence research.
+This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many them present the basis of the artificial intelligence. I try to cover many field of the actual artificial intelligence research. I am listing free accessible articles that can be accessed by anyone.
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
