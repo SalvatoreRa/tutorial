@@ -65,6 +65,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Group normalization](https://arxiv.org/pdf/1803.08494.pdf)| General interest | 2018 | discussing group normalization |
 | [Dropout](https://arxiv.org/abs/1412.6980)| General interest | 2014 |first paper on dropout |
 | [System design](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)| General interest | 2015 | Hidden Technical Debt in Machine Learning Systems |
+| [Tabular data](https://arxiv.org/abs/2012.06678)| Tabular data | 2020 | TabTransformer: Tabular Data Modeling Using Contextual Embeddings |
 | [Tabular data](https://arxiv.org/abs/2106.03253)| Tabular data | 2021 |Tabular Data: Deep Learning is Not All You Need (showing that deep learning with tabular data is still not the first choice) |
 | [Tabular data](https://arxiv.org/pdf/2106.01342.pdf)| Tabular data | 2021 |Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training |
 | [Tabular data](https://arxiv.org/pdf/2110.01889.pdf)| Tabular data | 2021 | Method's review on Deep Neural Networks and Tabular Data |
