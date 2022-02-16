@@ -219,6 +219,8 @@ Here a list of many dataset database/repository for many different fields of art
 
 # Free Courses
 
+A list of free available courses, the list is not exhaustive. I am not listing Coursera or other MOOC courses (which you can find on the platforms).
+
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | a source for statistics |
