@@ -59,6 +59,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Transformers ](https://openai.com/blog/better-language-models/)| NLP | 2018 |GPT-2 paper |
 | [Transformers ](https://arxiv.org/abs/2005.14165)| NLP | 2020 |GPT-3 paper |
 | [Attention reivew ](https://arxiv.org/abs/1904.02874)| NLP | 2019 | An Attentive Survey of Attention Models |
+| [Transformers ](https://arxiv.org/abs/2105.14103)| NLP | 2021 | An Attention Free Transformer |
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
 | [GAN ](https://arxiv.org/abs/1511.06434)| Generative Learning | 2015 |original article presenting DC-GAN |
 | [ADAM](https://jmlr.org/papers/v15/srivastava14a.html)| General interest | 2014 |first paper presenting ADAM |
