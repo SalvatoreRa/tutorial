@@ -33,6 +33,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)| General introduction | 1998 | A very brief introduction on how to read a scientific paper |
+| [History of Deep learning](https://arxiv.org/abs/1702.07800)| General introduction | 2017 | On the Origin of Deep Learning |
+| [History of Deep learning](https://arxiv.org/abs/1701.05549)| General introduction | 2017 | Deep Neural Networks - A Brief History |
 
 ## General Interest
 
