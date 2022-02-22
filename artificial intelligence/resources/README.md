@@ -28,9 +28,17 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many them present the basis of the artificial intelligence. I try to cover many field of the actual artificial intelligence research. I am listing free accessible articles that can be accessed by anyone.
 
+## General introduction
+
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)| General introduction | 1998 | A very brief introduction on how to read a scientific paper |
+
+
+## Computer vision
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
 | [LeNet-5](http://yann.lecun.com/exdb/publis/index.html#lecun-98)| computer vision | 1998 |showing that you can stack convolutional layers instead of dense layers |
 | [AlexNet ](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)| computer vision | 2012 |first showing the use of ReLu |
 | [VGG-16 ](https://arxiv.org/abs/1409.1556)| computer vision | 2014 |first very deep network |
@@ -43,6 +51,11 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Batch normalization](https://arxiv.org/abs/1502.03167)| computer vision | 2015 |Batch normalization |
 | [self attention and convolution](https://arxiv.org/abs/2111.14556)| computer vision | 2021 |On the Integration of Self-Attention and Convolution|
 | [ConvNet versus Transformers](https://arxiv.org/pdf/2201.03545.pdf)| computer vision | 2021 |A ConvNet for the 2020s: interesting paper on the future of convnet|
+
+## Natural language processing (NLP)
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
 | [Word2vec](https://arxiv.org/pdf/1301.3781v3.pdf)| NLP | 2013 | Word2vec, word embedding |
 | [Layer normalization](https://arxiv.org/abs/1607.06450)| NLP | 2013 | layer normalization |
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
