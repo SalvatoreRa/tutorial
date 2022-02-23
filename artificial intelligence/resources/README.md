@@ -26,7 +26,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 # Scientific articles
 
-This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many them present the basis of the artificial intelligence. I try to cover many field of the actual artificial intelligence research. I am listing free accessible articles that can be accessed by anyone.
+This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many of them present the basis of the artificial intelligence. I try to cover many field of the actual artificial intelligence research. I am listing free accessible articles that can be accessed by anyone.
 
 ## General introduction
 
@@ -44,9 +44,10 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Group normalization](https://arxiv.org/pdf/1803.08494.pdf)| General interest | 2018 | discussing group normalization |
 | [Dropout](https://arxiv.org/abs/1412.6980)| General interest | 2014 |first paper on dropout |
 | [System design](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)| General interest | 2015 | Hidden Technical Debt in Machine Learning Systems |
+| [ELU function](https://arxiv.org/pdf/1511.07289.pdf)| activation function | 2016 | First introduction of ELU |
 | [SELU function](https://arxiv.org/pdf/1706.02515.pdf)| activation function | 2017 | First introduction of SELU |
 | [Swish function](https://arxiv.org/pdf/1710.05941v1.pdf)| activation function | 2017 | Swish: a Self-Gated function |
-| [GELU function](https://arxiv.org/pdf/1606.08415v3.pdf)| activation function | 2017 | GAUSSIAN ERROR LINEAR UNITS (GELUS): First introduction of GELU |
+| [GELU function](https://arxiv.org/pdf/1606.08415v3.pdf)| activation function | 2018 | GAUSSIAN ERROR LINEAR UNITS (GELUS): First introduction of GELU |
 
 ## Computer vision
 
@@ -91,9 +92,10 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [VAE ](https://arxiv.org/abs/1312.6114)| Generative Learning | 2013 |Variational autoencoder first paper|
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
 | [GAN ](https://arxiv.org/abs/1511.06434)| Generative Learning | 2015 |original article presenting DC-GAN |
-
+| [VAE ](https://arxiv.org/abs/1906.02691)| VAE review | 2019 |An Introduction to Variational Autoencoders |
 
 ## Tabular data
 
