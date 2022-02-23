@@ -44,6 +44,9 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Group normalization](https://arxiv.org/pdf/1803.08494.pdf)| General interest | 2018 | discussing group normalization |
 | [Dropout](https://arxiv.org/abs/1412.6980)| General interest | 2014 |first paper on dropout |
 | [System design](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)| General interest | 2015 | Hidden Technical Debt in Machine Learning Systems |
+| [SELU function](https://arxiv.org/pdf/1706.02515.pdf)| activation function | 2017 | First introduction of SELU |
+| [Swish function](https://arxiv.org/pdf/1710.05941v1.pdf)| activation function | 2017 | Swish: a Self-Gated function |
+| [GELU function](https://arxiv.org/pdf/1606.08415v3.pdf)| activation function | 2017 | GAUSSIAN ERROR LINEAR UNITS (GELUS): First introduction of GELU |
 
 ## Computer vision
 
