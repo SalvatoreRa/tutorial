@@ -33,6 +33,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)| General introduction | 1998 | A very brief introduction on how to read a scientific paper |
+| [Matrixes](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)| Introduction to matrix | 2012 | The Matrix Cookbook |
 | [History of Deep learning](https://arxiv.org/abs/1702.07800)| General introduction | 2017 | On the Origin of Deep Learning |
 | [History of Deep learning](https://arxiv.org/abs/1701.05549)| General introduction | 2017 | Deep Neural Networks - A Brief History |
 
@@ -49,6 +50,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [SELU function](https://arxiv.org/pdf/1706.02515.pdf)| activation function | 2017 | First introduction of SELU |
 | [Swish function](https://arxiv.org/pdf/1710.05941v1.pdf)| activation function | 2017 | Swish: a Self-Gated function |
 | [GELU function](https://arxiv.org/pdf/1606.08415v3.pdf)| activation function | 2018 | GAUSSIAN ERROR LINEAR UNITS (GELUS): First introduction of GELU |
+| [DeepLift](https://arxiv.org/abs/1605.01713)| AI explicability | 2016 | Not Just a Black Box: Learning Important Features Through Propagating Activation Differences |
+| [SHAP](https://arxiv.org/abs/1705.07874)| AI explicability | 2017 | A Unified Approach to Interpreting Model Predictions |
 | [AI explicability review](https://www.mdpi.com/2504-4990/3/3/32)| AI explicability | 2021 | Classification of Explainable Artificial Intelligence Methods through Their Output Formats |
 | [AI explicability review](https://www.sciencedirect.com/science/article/pii/S1566253521001093)| AI explicability | 2021 | CNotions of explainability and evaluation approaches for explainable artificial intelligence |
 
@@ -56,6 +59,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [Convolution](https://arxiv.org/abs/1603.07285)| Introduction to convolution | 2016 |A guide to convolution arithmetic for deep learning |
 | [LeNet-5](http://yann.lecun.com/exdb/publis/index.html#lecun-98)| computer vision | 1998 |showing that you can stack convolutional layers instead of dense layers |
 | [AlexNet ](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)| computer vision | 2012 |first showing the use of ReLu |
 | [VGG-16 ](https://arxiv.org/abs/1409.1556)| computer vision | 2014 |first very deep network |
