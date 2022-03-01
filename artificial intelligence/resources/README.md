@@ -80,7 +80,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
-| [Word2vec](https://arxiv.org/pdf/1301.3781v3.pdf)| NLP | 2013 | Word2vec, word embedding |
+| [Word2vec](https://arxiv.org/pdf/1301.3781v3.pdf)|  word embedding | 2013 | Word2vec, word embedding |
+| [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)|  word embedding | 2013 | GloVe: Global Vectors for Word Representation |
 | [Layer normalization](https://arxiv.org/abs/1607.06450)| NLP | 2013 | layer normalization |
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
 | [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
