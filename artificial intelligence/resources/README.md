@@ -87,16 +87,17 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
 | [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2016 |First paper proposing transformers |
 | [Question Answering ](https://arxiv.org/abs/1704.00051)| NLP | 2017 |Reading Wikipedia to Answer Open-Domain Questions |
-| [BERT ](https://arxiv.org/abs/1810.04805)| NLP | 2018 | First paper proposing BERT |
-| [DistilBERT ](https://arxiv.org/abs/1910.01108)| NLP | 2019 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter |
-| [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
-| [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
 | [ Text Summarization ](https://arxiv.org/abs/2010.04529)| NLP | 2020 | What Have We Achieved on Text Summarization |
 | [Transformers ](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)| NLP | 2018 |GPT-1 paper |
 | [Transformers ](https://openai.com/blog/better-language-models/)| NLP | 2018 |GPT-2 paper |
 | [Transformers ](https://arxiv.org/abs/2005.14165)| NLP | 2020 |GPT-3 paper |
 | [Attention review ](https://arxiv.org/abs/1904.02874)| NLP | 2019 | An Attentive Survey of Attention Models |
 | [Transformers ](https://arxiv.org/abs/2105.14103)| NLP | 2021 | An Attention Free Transformer |
+| [BERT ](https://arxiv.org/abs/1810.04805)| NLP | 2018 | First paper proposing BERT |
+| [DistilBERT ](https://arxiv.org/abs/1910.01108)| NLP | 2019 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter |
+| [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
+| [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
+| [GLUE ](https://arxiv.org/abs/1804.07461)| NLP benchmqrk | 2018 | GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding |
 
 ## Generative Learning
 
