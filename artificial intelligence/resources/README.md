@@ -51,6 +51,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Swish function](https://arxiv.org/pdf/1710.05941v1.pdf)| activation function | 2017 | Swish: a Self-Gated function |
 | [GELU function](https://arxiv.org/pdf/1606.08415v3.pdf)| activation function | 2018 | GAUSSIAN ERROR LINEAR UNITS (GELUS): First introduction of GELU |
 | [Mish function](https://arxiv.org/abs/1908.08681)| activation function | 2019 | Mish: A Self Regularized Non-Monotonic Activation Function |
+| [Review activation function](https://arxiv.org/abs/2010.09458)| activation function | 2020 | Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks |
 | [DeepLift](https://arxiv.org/abs/1605.01713)| AI explicability | 2016 | Not Just a Black Box: Learning Important Features Through Propagating Activation Differences |
 | [SHAP](https://arxiv.org/abs/1705.07874)| AI explicability | 2017 | A Unified Approach to Interpreting Model Predictions |
 | [AI explicability review](https://www.mdpi.com/2504-4990/3/3/32)| AI explicability | 2021 | Classification of Explainable Artificial Intelligence Methods through Their Output Formats |
