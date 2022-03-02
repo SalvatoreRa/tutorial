@@ -10,6 +10,8 @@ Photo by [National Cancer Institute
 
 &nbsp;
 
+I decided to collect here a set of tutorial and complementary code about artificial intelligence, machine learning and data science. I have divided this repository in different sections (each one cover a different macro area of data science). You will find tutorial, code and also a list of resources related to the different topics (links to articles, free books, free courses, libraries and so on).
+
 Here, you will find the Jupiter Notebook for the the tutorial I published in Medium. I suggest to read the tutorial and the companion tutorial code in the order provided in the table below. For practical reason, I have divided some of the tutorial in more than one part (allowing to concentrate in one of the tutorial on the theoretical part and in the others about the programming). Tutorial dedicated only to the theory have not a linked Jupiter notebook. 
 
 Most of the code is written in Python, but you can find also some Excel file that I have created to make easier understand some of the concepts. I have also planned to add some script in R (since it is wide used by statistician, biologist and so on).
