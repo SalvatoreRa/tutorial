@@ -7,6 +7,8 @@ Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
+This section is dedicated on tutorial about linear algebra (principle of mathematics for machine learning), machine learning algorithms (clustering, linear regression, classification and so on), data science basics (dataframe etc...), principle of graph theory.
+
 In this section, you will find the **Jupiter Notebook** for the the tutorial I published in **Medium**. I suggest to read the tutorial and the companion tutorial code in the order provided in the table below. For practical reason, I have divided some of the tutorial in more than one part (allowing to concentrate in one of the tutorial on the theoretical part and in the others about the programming). Tutorial dedicated only to the theory have not a linked Jupiter notebook containing the **Python** code used for the model and the graph. I wrote and test the code in Google Colab in order to make it reproducible.
 
 I am progressively adding also some **R tutorials**, I decided to upload the R-scripts so you can tested them. Check the table below where I list the Colab Notebooks, the R-scripts and the companion articles.
