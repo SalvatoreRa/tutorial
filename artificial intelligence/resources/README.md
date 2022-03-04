@@ -28,6 +28,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 This is a list of seminal articles on different fields of artificial intelligence. This is list is not meant to be complete (but I will expand with time and you can suggest additions). I see a starting point of articles that should be read it, I consulted most of them for my tutorials and many of them present the basis of the artificial intelligence. I try to cover many field of the actual artificial intelligence research. I am listing free accessible articles that can be accessed by anyone.
 
+
+
 ## General introduction
 
 | Link | Topic | Year | Description |
