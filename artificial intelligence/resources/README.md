@@ -138,10 +138,11 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [RL](https://arxiv.org/abs/1312.5602)| Reinforcement Learning | 2013 | Playing Atari with Deep Reinforcement Learning |
-| [RL](https://arxiv.org/abs/2201.03916)| Reinforcement Learning | 2022 | Automated Reinforcement Learning (AutoRL): A Survey and Open Problems |
+| [RL](https://arxiv.org/pdf/1511.06581.pdf)| Reinforcement Learning | 2015 | Dueling network architectures for deep reinforcement learning |
 | [AlphaGO](https://www.nature.com/articles/nature16961)| Reinforcement Learning | 2016 | Mastering the game of Go with deep neural networks and tree search |
 | [AlphaGO zero](https://www.nature.com/articles/nature24270)| Reinforcement Learning | 2017 | Mastering the game of Go without human knowledge |
 | [Alpha zero](https://arxiv.org/abs/1712.01815)| Reinforcement Learning | 2017 | Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm |
+| [RL](https://arxiv.org/abs/2201.03916)| Reinforcement Learning | 2022 | Automated Reinforcement Learning (AutoRL): A Survey and Open Problems |
 
 ## Geometric deep learning
 
