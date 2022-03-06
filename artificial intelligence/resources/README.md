@@ -94,10 +94,11 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | --------- | ------ | ------ |------ |
 | [Word2vec](https://arxiv.org/pdf/1301.3781v3.pdf)|  word embedding | 2013 | Word2vec, word embedding |
 | [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)|  word embedding | 2013 | GloVe: Global Vectors for Word Representation |
-| [Layer normalization](https://arxiv.org/abs/1607.06450)| NLP | 2013 | layer normalization |
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
 | [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
 | [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
+| [seq2seq ](https://arxiv.org/pdf/1406.1078.pdf)| NLP | 2014 |first seq2seq model idea paper |
+| [seq2seq ](http://arxiv.org/pdf/1506.05869.pdf)| NLP | 2015 |seq2seq on chatbot |
 | [Transformers ](https://arxiv.org/abs/1706.03762)| NLP | 2016 |First paper proposing transformers |
 | [Question Answering ](https://arxiv.org/abs/1704.00051)| NLP | 2017 |Reading Wikipedia to Answer Open-Domain Questions |
 | [ Text Summarization ](https://arxiv.org/abs/2010.04529)| NLP | 2020 | What Have We Achieved on Text Summarization |
@@ -117,6 +118,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [VAE ](https://arxiv.org/abs/1312.6114)| Generative Learning | 2013 |Variational autoencoder first paper|
+| [VAE ](http://proceedings.mlr.press/v37/gregor15.pdf)| Generative Learning | 2015 |Variational autoencoder with attention|
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
 | [GAN ](https://arxiv.org/abs/1511.06434)| Generative Learning | 2015 |original article presenting DC-GAN |
 | [VAE ](https://arxiv.org/abs/1906.02691)| VAE review | 2019 |An Introduction to Variational Autoencoders |
