@@ -50,8 +50,10 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [Momentum](http://proceedings.mlr.press/v28/sutskever13.pdf)| General interest | 2013 |first paper presenting Momentum in optimization |
 | [ADAM](https://jmlr.org/papers/v15/srivastava14a.html)| General interest | 2014 |first paper presenting ADAM |
-| [Group normalization](https://arxiv.org/pdf/1803.08494.pdf)| General interest | 2018 | discussing group normalization |
+| [Pruning](https://arxiv.org/pdf/1510.00149.pdf)| General interest | 2014 |first paper presenting ADAM |
+| [Group normalization](https://arxiv.org/pdf/1803.08494.pdf)| General interest | 2018 | Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding |
 | [Dropout](https://arxiv.org/abs/1412.6980)| General interest | 2014 |first paper on dropout |
 | [System design](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)| General interest | 2015 | Hidden Technical Debt in Machine Learning Systems |
 | [AI ethics](https://arxiv.org/abs/1602.04938)| AI explicability | 2015 | "Why Should I Trust You?": Explaining the Predictions of Any Classifier |
