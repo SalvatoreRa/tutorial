@@ -125,6 +125,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [VAE ](http://proceedings.mlr.press/v37/gregor15.pdf)| Generative Learning | 2015 |Variational autoencoder with attention|
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
 | [GAN ](https://arxiv.org/abs/1511.06434)| Generative Learning | 2015 |original article presenting DC-GAN |
+| [GAN ](https://arxiv.org/abs/1812.04948)| Generative Learning | 2018 |original article presenting Style-GAN |
 | [VAE ](https://arxiv.org/abs/1906.02691)| VAE review | 2019 |An Introduction to Variational Autoencoders |
 
 ## Tabular data
