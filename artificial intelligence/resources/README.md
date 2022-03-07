@@ -45,6 +45,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [History of Deep learning](https://arxiv.org/abs/1702.07800)| General introduction | 2017 | On the Origin of Deep Learning |
 | [History of Deep learning](https://arxiv.org/abs/1701.05549)| General introduction | 2017 | Deep Neural Networks - A Brief History |
 | [Deep learning](https://arxiv.org/abs/1701.05549)| General introduction | 2015 | Yann LeCun , Yoshua Bengio , Geoffrey Hinton: three giants of the field present deep learning on nature |
+| [Intelligence and artificial intelligence](https://arxiv.org/abs/1911.01547)| General introduction | 2019 | On the Measure of Intelligence, very nice article by Chollect |
 
 ## General Interest
 
