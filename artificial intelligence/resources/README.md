@@ -65,6 +65,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Review activation function](https://arxiv.org/abs/2010.09458)| activation function | 2020 | Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks |
 | [DeepLift](https://arxiv.org/abs/1605.01713)| AI explicability | 2016 | Not Just a Black Box: Learning Important Features Through Propagating Activation Differences |
 | [SHAP](https://arxiv.org/abs/1705.07874)| AI explicability | 2017 | A Unified Approach to Interpreting Model Predictions |
+| [AI explicability review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144864/)| AI explicability | 2020 |Transparency and reproducibility in artificial intelligence. Very good nature review |
 | [AI explicability review](https://www.mdpi.com/2504-4990/3/3/32)| AI explicability | 2021 | Classification of Explainable Artificial Intelligence Methods through Their Output Formats |
 | [AI explicability review](https://www.sciencedirect.com/science/article/pii/S1566253521001093)| AI explicability | 2021 | CNotions of explainability and evaluation approaches for explainable artificial intelligence |
 
@@ -86,6 +87,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Layer normalization](https://arxiv.org/pdf/1607.06450.pdf)| computer vision | 2016 |Layer normalization |
 | [Vision Transformers](https://arxiv.org/pdf/2201.03545.pdf)| computer vision | 2021 ||
 | [self attention and convolution](https://arxiv.org/abs/2010.11929)| computer vision | 2020 |On the Integration of Self-Attention and Convolution|
+| [Rethink Convolution](https://arxiv.org/abs/1912.13200)| computer vision | 2020 |AdderNet: Do We Really Need Multiplications in Deep Learning? authors showed standard convolutions layers can be replaced by a simpler addition-based method with only a marginal accuracy loss |
 | [ConvNet versus Transformers](https://arxiv.org/pdf/2201.03545.pdf)| computer vision | 2021 |A ConvNet for the 2020s: interesting paper on the future of convnet|
 
 ## Natural language processing (NLP)
@@ -111,7 +113,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [DistilBERT ](https://arxiv.org/abs/1910.01108)| NLP | 2019 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter |
 | [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
 | [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
-| [GLUE ](https://arxiv.org/abs/1804.07461)| NLP benchmqrk | 2018 | GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding |
+| [Transformers review ](https://arxiv.org/abs/2106.04554)| NLP | 2021 | A Survey of Transformers |
+| [GLUE ](https://arxiv.org/abs/1804.07461)| NLP benchmark | 2018 | GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding |
 
 ## Generative Learning
 
