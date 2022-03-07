@@ -168,6 +168,12 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [GNN explainaibility](https://arxiv.org/abs/2001.06216)| Geometric learning | 2020 | GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks |
 | [GNN explainaibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285761/)| Geometric learning | 2021 | Deep Graph Mapper: Seeing Graphs Through the Neural Lens |
 
+## Neural network and art
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
+| [DeepDream](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)| art | 2015 | Inceptionism: Going Deeper into Neural Networks, by Google research|
+| [Neural style transfer](https://arxiv.org/pdf/1508.06576.pdf)| art | 2015 | A neural algorithm of artistic style|
 
 
 &nbsp;
