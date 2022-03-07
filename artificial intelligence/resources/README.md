@@ -168,12 +168,14 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [GNN explainaibility](https://arxiv.org/abs/2001.06216)| Geometric learning | 2020 | GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks |
 | [GNN explainaibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285761/)| Geometric learning | 2021 | Deep Graph Mapper: Seeing Graphs Through the Neural Lens |
 
+
 ## Neural network and art
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [DeepDream](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)| art | 2015 | Inceptionism: Going Deeper into Neural Networks, by Google research|
 | [Neural style transfer](https://arxiv.org/pdf/1508.06576.pdf)| art | 2015 | A neural algorithm of artistic style|
+| [Neural style transfer](https://arxiv.org/pdf/1802.06474.pdf)| art | 2018 |A Closed-form Solution to Photorealistic Image Stylization - very fast and accurate by NVIDIA|
 | [Neural style transfer](https://arxiv.org/pdf/1611.07865.pdf)| art | 2016 |Controlling Perceptual Factors in Neural Style Transfer - control style transfer over spatial location,colour information and across spatial scale|
 | [iGAN](https://arxiv.org/pdf/1609.03552.pdf)| art | 2016 | Generative Visual Manipulation on the Natural Image Manifold|
 | [Neural Doodle](https://arxiv.org/pdf/1603.01768.pdf)| art | 2016 | Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks|
