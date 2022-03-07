@@ -174,9 +174,10 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | --------- | ------ | ------ |------ |
 | [DeepDream](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)| art | 2015 | Inceptionism: Going Deeper into Neural Networks, by Google research|
 | [Neural style transfer](https://arxiv.org/pdf/1508.06576.pdf)| art | 2015 | A neural algorithm of artistic style|
+| [Neural style transfer](https://arxiv.org/pdf/1611.07865.pdf)| art | 2016 |Controlling Perceptual Factors in Neural Style Transfer - control style transfer over spatial location,colour information and across spatial scale|
 | [iGAN](https://arxiv.org/pdf/1609.03552.pdf)| art | 2016 | Generative Visual Manipulation on the Natural Image Manifold|
 | [Neural Doodle](https://arxiv.org/pdf/1603.01768.pdf)| art | 2016 | Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks|
-
+| [Coloring black and white images](https://arxiv.org/pdf/1603.08511.pdf)| art | 2016 | Colorful Image Colorization|
 
 &nbsp;
 
