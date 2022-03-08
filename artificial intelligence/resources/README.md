@@ -1,4 +1,4 @@
-# Additional Resources
+# Artificial Intelligence Resources
 ## Resources on the artfificial intelligence
 
 ![Resources](https://images.unsplash.com/photo-1548048026-5a1a941d93d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
@@ -7,7 +7,7 @@ Photo by [Daniel](https://unsplash.com/@setbydaniel) on [Unsplash](https://unspl
 
 &nbsp;
 
-In this section, I will suggest and add many resources on artificial intelligence that can be useful. The list is not exhaustive and I will expand with time, if you want to suggest other resources, you are welcome.
+In this section, I will suggest and add many resources related to artificial intelligence that can be useful. The list is not exhaustive and I will expand with time, if you want to suggest other resources, you are welcome.
 
 I am listing seminal articles (the list is clearly not exhaustive), free available books, free courses and useful tools that I found. I am also listing a large set of database where you can find dataset for different machine learning tasks. These categories are also organized with sub-categories for clarity.
 
