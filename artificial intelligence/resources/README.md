@@ -1,4 +1,4 @@
-# Additional Resources
+# Artificial Intelligence Resources
 ## Resources on the artfificial intelligence
 
 ![Resources](https://images.unsplash.com/photo-1548048026-5a1a941d93d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
@@ -7,7 +7,7 @@ Photo by [Daniel](https://unsplash.com/@setbydaniel) on [Unsplash](https://unspl
 
 &nbsp;
 
-In this section, I will suggest and add many resources on artificial intelligence that can be useful. The list is not exhaustive and I will expand with time, if you want to suggest other resources, you are welcome.
+In this section, I will suggest and add many resources related to artificial intelligence that can be useful. The list is not exhaustive and I will expand with time, if you want to suggest other resources, you are welcome.
 
 I am listing seminal articles (the list is clearly not exhaustive), free available books, free courses and useful tools that I found. I am also listing a large set of database where you can find dataset for different machine learning tasks. These categories are also organized with sub-categories for clarity.
 
@@ -90,6 +90,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [self attention and convolution](https://arxiv.org/abs/2010.11929)| computer vision | 2020 |On the Integration of Self-Attention and Convolution|
 | [Rethink Convolution](https://arxiv.org/abs/1912.13200)| computer vision | 2020 |AdderNet: Do We Really Need Multiplications in Deep Learning? authors showed standard convolutions layers can be replaced by a simpler addition-based method with only a marginal accuracy loss |
 | [ConvNet versus Transformers](https://arxiv.org/pdf/2201.03545.pdf)| computer vision | 2021 |A ConvNet for the 2020s: interesting paper on the future of convnet|
+| [U-net](https://arxiv.org/abs/1505.04597)| segmentation| 2015 |U-Net: Convolutional Networks for Biomedical Image Segmentation|
+
 
 ## Natural language processing (NLP)
 
