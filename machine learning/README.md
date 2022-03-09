@@ -1,4 +1,4 @@
-# Tutorial
+# Tutorial On Machine Learning
 ## Python and R tutorial on Machine Learning
 
 ![tree classifiers](https://github.com/SalvatoreRa/tutorial/blob/main/images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg?raw=true)
@@ -7,7 +7,7 @@ Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
-This section is dedicated on tutorial about linear algebra (principle of mathematics for machine learning), machine learning algorithms (clustering, linear regression, classification and so on), data science basics (dataframe etc...), principle of graph theory.
+This section is dedicated on tutorial about linear algebra (principle of mathematics for machine learning), machine learning algorithms (clustering, linear regression, classification and so on), data science basics (dataframe, data visualization etc...), principle of graph theory.
 
 In this section, you will find the **Jupiter Notebook** for the the tutorial I published in **Medium**. I suggest to read the tutorial and the companion tutorial code in the order provided in the table below. For practical reason, I have divided some of the tutorial in more than one part (allowing to concentrate in one of the tutorial on the theoretical part and in the others about the programming). Tutorial dedicated only to the theory have not a linked Jupiter notebook containing the **Python** code used for the model and the graph. I wrote and test the code in Google Colab in order to make it reproducible.
 
@@ -24,7 +24,7 @@ You may write me for any request, suggestions and comments.
 | [Data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/data_manipulation.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Pandas Cheatsheet](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Pandas_summary.ipynb) | Introduction to Pandas library - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Python Data Visualization](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Python_Data_Visualization.ipynb) | Introduction to data visualization with Python- MEDIUM ARTICLE NOT YET PUBLISHED|
-| [Regular expression in Python](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Regular_expression.ipynb) | regular expression in Python - MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Regular expression in Python](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Regular_expression.ipynb) | Regular expression in Python - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Matrix operations for machine learning](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/matrix_operations.ipynb) | Matrix operations for machine learning in Python - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Matrix operations for machine learning - part 2](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/matrix_operations_part2.ipynb) | Matrix operations for machine learning in Python, the second part - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Tree classifiers](https://) | ---- | Introduction to tree classifiers, theory and math explained simple - MEDIUM ARTICLE NOT YET PUBLISHED |
@@ -67,7 +67,7 @@ sys.path.append(os.path.abspath(py_file_location))
 from regression_report import regression_report 
 ```
 
-| file |  Description |
+| File |  Description |
 |----------- | ------ |
 | [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
 | [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
