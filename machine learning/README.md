@@ -23,7 +23,7 @@ You may write me for any request, suggestions and comments.
 | ------- | ----------- | ------ |
 | [Data manipulation](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/data_manipulation.ipynb) | Common data manipulation tasks and data issues - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Pandas Cheatsheet](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Pandas_summary.ipynb) | Introduction to Pandas library - MEDIUM ARTICLE NOT YET PUBLISHED|
-| [Python Data Visualization](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Pandas_summary.ipynb) | Introduction to data visualization with Python- MEDIUM ARTICLE NOT YET PUBLISHED|
+| [Python Data Visualization](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Python_Data_Visualization.ipynb) | Introduction to data visualization with Python- MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Regular expression in Python](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Regular_expression.ipynb) | regular expression in Python - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Matrix operations for machine learning](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/matrix_operations.ipynb) | Matrix operations for machine learning in Python - MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Matrix operations for machine learning - part 2](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/matrix_operations_part2.ipynb) | Matrix operations for machine learning in Python, the second part - MEDIUM ARTICLE NOT YET PUBLISHED|
