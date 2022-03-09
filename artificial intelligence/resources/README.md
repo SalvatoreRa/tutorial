@@ -206,8 +206,11 @@ A list of some useful tools that can be needed in different contexts.
 | --------- | ------ | 
 |  [NN drawer](http://alexlenail.me/NN-SVG/LeNet.html) | Draw online your neural network architechture | 
 |  [NN in Latex](http://alexlenail.me/NN-SVG/LeNet.html) | Latex code for drawing neural networks for reports and presentation | 
+|  [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) |  a collection of 20+ academic drawing examples for using LaTeX, including Bayesian networks, function plotting, graphical models, tensor structure, and technical frameworks | 
 |  [Graphs drawer](https://graphonline.ru/en/) | tool to draw graph online | 
 |  [Diagrams in Python](https://diagrams.mingrammer.com/) | library to draw diagrams in python | 
+|  [seeing theory](https://seeing-theory.brown.edu/) | A visual introduction to probability and statistics | 
+|  [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/) |a map of mathematics as it stands today | 
 
 &nbsp;
 
