@@ -99,6 +99,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | --------- | ------ | ------ |------ |
 | [Word2vec](https://arxiv.org/pdf/1301.3781v3.pdf)|  word embedding | 2013 | Word2vec, word embedding |
 | [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)|  word embedding | 2013 | GloVe: Global Vectors for Word Representation |
+| [FastText](https://arxiv.org/pdf/1607.04606v2.pdf)|  word embedding | 2017 | Enriching Word Vectors with Subword Informations|
+| [ELMO](https://arxiv.org/abs/1802.05365v2)|  word embedding | 2018 | Deep contextualized word representations|
 | [RNN ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Visualizing and Understanding Recurrent Networks |
 | [LSTM ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2015 |Review about LSTM |
 | [GRU ](https://arxiv.org/pdf/1506.02078v1.pdf)| NLP | 2014 |Gated recurrent unit |
