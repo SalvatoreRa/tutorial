@@ -39,6 +39,9 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Inciteful](https://inciteful.xyz/)| General  | is an academic article network finder with a fast and user friendly interface. The Paper Discovery tool builds a network of papers from citations, uses network analysis algorithms to analyze the network |
 | [JSTOR Labs Text Analyzer](https://www.jstor.org/analyze/)| General  | It is a program that extracts and analyzes text in an article. It can help build better key terms for a systematic review and papers related to the example article analyzed |
 | [Open Knowledge Maps](https://openknowledgemaps.org/)| General  | Open Knowledge Maps promotes research discoverability by showing an overview of topics and relevant concepts using the 100 relevant papers|
+| [Vosviewers](https://www.vosviewer.com/)| General  | VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations|
+| [Citation Gecko](https://www.citationgecko.com/)| General  | Citation Gecko is an easy-to-use online tool that creates focused co-citation networks from seed papers|
+| [GATE - General Architecture for Text Engineering](https://gate.ac.uk/)| General  | GATE platform allows you to assemble a pipeline of prebuilt text mining components (or build your own) which you can run over a collection of documents|
 
 
 ## General introduction
