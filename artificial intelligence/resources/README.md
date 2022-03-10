@@ -34,7 +34,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | --------- | ------ | ------ |
 | [Airxiv Sanity](http://www.arxiv-sanity.com/)| General  | website to keep up pace with airxiv mantaining mental health |
 | [paperswithcode](https://paperswithcode.com/)| General  | website listing articles and corresponding code |
-
+| [CoCites](https://www.cocites.com/index.cfm)| General  | A citation-based method for searching scientific literature: a browser-based extension for Chrome and Firefox which adds an information box for papers in PubMed |
+| [Connected Papers](https://www.connectedpapers.com/)| General  | Explore connected papers in a visual graph: a literature visualization tool, with a search engine connected to multiple databases including PubMed, Semantic Scholar and arXiv |
 
 ## General introduction
 
