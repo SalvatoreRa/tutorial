@@ -32,6 +32,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 | Link | Topic | Description |
 | --------- | ------ | ------ |
+| [Google Scholar](https://scholar.google.com/)| search engine  | search engine that helps researchers find scholarly literature across disciplines using relevant keywords|
+| [PubPeer](https://pubpeer.com/)| search engine  | Researchers can use this platform to search for publications using DOI, PMID, arXiv ID, keyword, or author. You can also provide feedback|
 | [Airxiv Sanity](http://www.arxiv-sanity.com/)| General  | website to keep up pace with airxiv mantaining mental health |
 | [paperswithcode](https://paperswithcode.com/)| General  | website listing articles and corresponding code |
 | [CoCites](https://www.cocites.com/index.cfm)| General  | A citation-based method for searching scientific literature: a browser-based extension for Chrome and Firefox which adds an information box for papers in PubMed |
@@ -42,6 +44,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Vosviewers](https://www.vosviewer.com/)| General  | VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations|
 | [Citation Gecko](https://www.citationgecko.com/)| General  | Citation Gecko is an easy-to-use online tool that creates focused co-citation networks from seed papers|
 | [GATE - General Architecture for Text Engineering](https://gate.ac.uk/)| General  | GATE platform allows you to assemble a pipeline of prebuilt text mining components (or build your own) which you can run over a collection of documents|
+| [Zotero](https://www.zotero.org/)| General  | Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research. You can organize your personal library|
+| [Mendeley ](https://www.mendeley.com/?interaction_required=true)| General  | Commercial alternative solution to Zotero|
 
 
 ## General introduction
