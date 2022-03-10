@@ -36,6 +36,10 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [paperswithcode](https://paperswithcode.com/)| General  | website listing articles and corresponding code |
 | [CoCites](https://www.cocites.com/index.cfm)| General  | A citation-based method for searching scientific literature: a browser-based extension for Chrome and Firefox which adds an information box for papers in PubMed |
 | [Connected Papers](https://www.connectedpapers.com/)| General  | Explore connected papers in a visual graph: a literature visualization tool, with a search engine connected to multiple databases including PubMed, Semantic Scholar and arXiv |
+| [Inciteful](https://inciteful.xyz/)| General  | is an academic article network finder with a fast and user friendly interface. The Paper Discovery tool builds a network of papers from citations, uses network analysis algorithms to analyze the network |
+| [JSTOR Labs Text Analyzer](https://www.jstor.org/analyze/)| General  | It is a program that extracts and analyzes text in an article. It can help build better key terms for a systematic review and papers related to the example article analyzed |
+| [Open Knowledge Maps](https://openknowledgemaps.org/)| General  | Open Knowledge Maps promotes research discoverability by showing an overview of topics and relevant concepts using the 100 relevant papers|
+
 
 ## General introduction
 
