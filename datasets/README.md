@@ -46,9 +46,9 @@ A quick chart about which dataset to use for different tasks.
 
 &nbsp;
 
-# Usage
+# Usage in Python
 
-To use the dataset in your project you can download them or if you use in colab:
+To use the dataset in your project you can download them (but also remember that pandas read also CSV file from the web) or if you use in colab:
 
 for CSV file 
 
@@ -71,6 +71,8 @@ import os
 imdb_data=pd.read_csv("IMDB Dataset.csv")
 ```
 &nbsp;
+
+## usage in R
 
 # Additional Datasets 
 
