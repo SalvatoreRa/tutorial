@@ -73,6 +73,12 @@ imdb_data=pd.read_csv("IMDB Dataset.csv")
 &nbsp;
 
 ## usage in R
+```R
+#example for a dataset
+#you can read from directory or directly from url
+data_dir = "https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/Boston.csv"
+df = pd.read_csv(data_dir)
+```
 
 # Additional Datasets 
 
