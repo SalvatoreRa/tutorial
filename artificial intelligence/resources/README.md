@@ -30,6 +30,8 @@ This is a list of seminal articles on different fields of artificial intelligenc
 
 ## Tools for scientific article
 
+Keep the pace with the number of articles published every year is impossible (it is difficult to identify the most important articles in the field or either to read all). These tools can help to identify important article, organize your library, explore similar articles and much more.
+
 | Link | Topic | Description |
 | --------- | ------ | ------ |
 | [Google Scholar](https://scholar.google.com/)| search engine  | search engine that helps researchers find scholarly literature across disciplines using relevant keywords|
