@@ -133,6 +133,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [DistilBERT ](https://arxiv.org/abs/1910.01108)| NLP | 2019 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter |
 | [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
 | [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
+| [XLNet ](https://arxiv.org/abs/1906.08237)| NLP | 2019 | a large bidirectional transformer that uses improved training methodology, achieved better than BERT prediction metrics on 20 language tasks |
 | [Transformers review ](https://arxiv.org/abs/2106.04554)| NLP | 2021 | A Survey of Transformers |
 | [GLUE ](https://arxiv.org/abs/1804.07461)| NLP benchmark | 2018 | GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding |
 
