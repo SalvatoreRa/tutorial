@@ -61,7 +61,6 @@ df = pd.read_csv(data_dir)
 
 If the file is contained in a zip.file, to upload in Google Colab
 
-
 ```Python
 import sys
 import os
@@ -72,7 +71,7 @@ imdb_data=pd.read_csv("IMDB Dataset.csv")
 ```
 &nbsp;
 
-## usage in R
+## Usage in R
 
 It is very easy to direct in R
 
