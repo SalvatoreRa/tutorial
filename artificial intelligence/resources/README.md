@@ -103,6 +103,7 @@ This is a list of seminal articles on different fields of artificial intelligenc
 | [Rethink Convolution](https://arxiv.org/abs/1912.13200)| computer vision | 2020 |AdderNet: Do We Really Need Multiplications in Deep Learning? authors showed standard convolutions layers can be replaced by a simpler addition-based method with only a marginal accuracy loss |
 | [ConvNet versus Transformers](https://arxiv.org/pdf/2201.03545.pdf)| computer vision | 2021 |A ConvNet for the 2020s: interesting paper on the future of convnet|
 | [U-net](https://arxiv.org/abs/1505.04597)| segmentation| 2015 |U-Net: Convolutional Networks for Biomedical Image Segmentation|
+| [VLP review](https://arxiv.org/abs/2202.09061)| VLP| 2022 |VLP: A Survey on Vision-Language Pre-training|
 
 
 ## Natural language processing (NLP)
