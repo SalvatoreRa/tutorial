@@ -46,9 +46,9 @@ A quick chart about which dataset to use for different tasks.
 
 &nbsp;
 
-# Usage
+# Usage in Python
 
-To use the dataset in your project you can download them or if you use in colab:
+To use the dataset in your project you can download them (but also remember that pandas read also CSV file from the web) or if you use in colab:
 
 for CSV file 
 
@@ -61,7 +61,6 @@ df = pd.read_csv(data_dir)
 
 If the file is contained in a zip.file, to upload in Google Colab
 
-
 ```Python
 import sys
 import os
@@ -69,6 +68,19 @@ import os
 !wget https://github.com/SalvatoreRa/tutorial/blob/main/datasets/IMDB.zip?raw=true
 !unzip IMDB.zip?raw=true
 imdb_data=pd.read_csv("IMDB Dataset.csv")
+```
+&nbsp;
+
+## Usage in R
+
+It is very easy to direct in R
+
+```R
+#example for a dataset
+#you can read from directory or directly from url
+df <-read.csv("https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/iris_flowers.csv")
+head(df)
+
 ```
 &nbsp;
 
