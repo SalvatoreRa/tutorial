@@ -26,6 +26,7 @@ In this section, I will suggest and add many resources on acute myeloid leukemia
 | [Cancer](https://www.nature.com/articles/s43018-020-0034-6)| General Review | 2021 |Artificial intelligence and cancer |
 | [Covid-19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195043/)| General Review | 2021 |Artificial Intelligence (AI) applications for COVID-19 pandemic |
 | [Genomics](https://www.nature.com/articles/s41592-021-01252-x)| Transformers| 2021 |Predicting gene expression with transformers |
+| [dataset](https://www.sciencedirect.com/science/article/pii/S2352340920303681)| Useful dataset| 2020 |A dataset of microscopic peripheral blood cell images for development of automatic recognition systems |
 
 &nbsp;
 
