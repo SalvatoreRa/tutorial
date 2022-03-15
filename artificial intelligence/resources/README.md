@@ -135,6 +135,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
 | [Sentence-BERT ](https://arxiv.org/pdf/1908.10084.pdf)| NLP | 2019 | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks |
 | [Transformers review ](https://arxiv.org/abs/2106.04554)| NLP | 2021 | A Survey of Transformers |
+| [Gopher ](https://arxiv.org/abs/2112.11446)| NLP | 2021 | Scaling Language Models: Methods, Analysis & Insights from Training Gopher|
+| [scaling language model ](https://arxiv.org/abs/2001.08361)| NLP | 2020 | Scaling Laws for Neural Language Models|
 | [GLUE ](https://arxiv.org/abs/1804.07461)| NLP benchmark | 2018 | GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding |
 
 ## Generative Learning
