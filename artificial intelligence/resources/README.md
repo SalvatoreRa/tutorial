@@ -370,6 +370,8 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | Berkeley: Applied Natural Language Processing | [link](https://people.ischool.berkeley.edu/~dbamman/info256.html) | NLP | This course examines the use of natural language processing as a set of methods for exploring and reasoning about text as data |
 | Carnegie Mellon NLP | [link](http://demo.clab.cs.cmu.edu/NLP/) | NLP |  this course is about a variety of ways to represent human languages, and how to exploit those representations to build models to perform translation, summarization, extracting information and so on |
 | Kaggle courses| [link](https://www.kaggle.com/learn) | deep learning | This course examines the use of natural language processing as a set of methods for exploring and reasoning about text as data |
+| Reinforcement Learning by Georgia Tech| [link](https://omscs.gatech.edu/cs-7642-reinforcement-learning) | Reinforcement learning | The course explores automated decision-making from a computational perspective through a combination of classic papers and more recent work |
+
 
 
 # Miscellaneous
