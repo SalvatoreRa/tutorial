@@ -362,6 +362,12 @@ Other interesting resources
 | BertViz | [link]( https://github.com/jessevig/bertviz) | Visualize Attention in NLP Models |
 | A visual introto ML| [link](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) | A visual introduction to machine learning  |
 | Tensorlow playground| [link](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.65445&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Play with neural network in your browser  |
+| Initializing neural networks | [link](https://www.deeplearning.ai/ai-notes/initialization/) | In this post, we'll explain how to initialize neural network parameters effectively (and you can play it)  |
+| Embedding Projector | [link](https://projector.tensorflow.org/) | you can graphically represent high dimensional embeddings  |
+
+
+
+
 
 # Contributing
 
