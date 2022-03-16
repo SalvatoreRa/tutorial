@@ -358,8 +358,8 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-| CNN Explainer| [link](https://poloclub.github.io/ganlab/) | Play with Generative Adversarial Networks (GANs) in your browser |
-| CNN Explainer| [link](https://poloclub.github.io/ganlab/) | Play with Generative Adversarial Networks (GANs) in your browser |
+| GAN Lab| [link](https://poloclub.github.io/ganlab/) | Play with Generative Adversarial Networks (GANs) in your browser |
+| BertViz | [link]( https://github.com/jessevig/bertviz) | Visualize Attention in NLP Models |
 
 
 # Contributing
