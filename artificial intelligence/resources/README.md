@@ -346,34 +346,6 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 
 &nbsp;
 
-# Free Courses
-
-| Name | Link | Topic | Description |
-| ------- | ------| ---- | ------ |
-| Openclassroom| [link](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) | Programming |Free course on programming on python |
-| MIT linear algebra| [link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | linear algebra |Linear algebra course taught by Prof. Gilbert Strang at MIT |
-| MIT Matrix Methods| [link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | linear algebra |Matrix Methods in Data Analysis, Signal Processing, and Machine Learning course taught by Prof. Gilbert Strang at MIT |
-| OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | Statistics| a source for statistics |
-| Statistical Methods Course by Georgia Tech’s | [link](https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m) | Statistics| statistical methods course taught by David Goldsman at Georgia Tech |
-| Probability for Data Science by Harvard| [link](https://pll.harvard.edu/course/data-science-probability?delta=2) | Statistics| Probability for Data Science Course by Harvard |
-| Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
-| Introduction to Deep Learning by MIT| [link](http://introtodeeplearning.com/) | Deep Learning | an introductory course on deep learning methods with applications to computer vision, NLP, biology, etc... |
-| DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning | Deep learning with PyTorch |
-| Deep Learning by Yann LeCun| [link](https://cds.nyu.edu/deep-learning/) | Deep Learning | This course concerns the latest techniques in deep learning and representation learning - NY University course|
-| UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep Learning | latest techniques in deep learning and representation learning |
-| CS231n: CNN for Visual Recognition by Stanford | [link](http://cs231n.stanford.edu/) | Computer vision |onvolutional Neural Networks for Visual Recognition taught by prof.Fei-Fei Li at Stanford |
-| Fastai  | [link](https://www.fast.ai/) | Deep Learning | Deep Learning for Coders corses|
-| Fastai - NLP  | [link](https://www.fast.ai/2019/07/08/fastai-nlp/) | Deep Learning | a code-first introduction to NLP|
-| CS224W: Machine Learning with Graphs | [link](http://snap.stanford.edu/class/cs224w-2020/) | Geometric Learning |Stanford course of Graph neural  network |
-|CS 124: From Languages to Information | [link](https://web.stanford.edu/class/cs224n/) | NLP | The basics of text processing, sentiment analysis, information retrieval, chatbots, and more.  |
-| CS224n: Natural Language Processing with Deep Learning | [link](https://web.stanford.edu/class/cs224n/) | NLP |Stanford course on Natural Language Processing |
-| Berkeley: Applied Natural Language Processing | [link](https://people.ischool.berkeley.edu/~dbamman/info256.html) | NLP | This course examines the use of natural language processing as a set of methods for exploring and reasoning about text as data |
-| Carnegie Mellon NLP | [link](http://demo.clab.cs.cmu.edu/NLP/) | NLP |  this course is about a variety of ways to represent human languages, and how to exploit those representations to build models to perform translation, summarization, extracting information and so on |
-| Kaggle courses| [link](https://www.kaggle.com/learn) | deep learning | This course examines the use of natural language processing as a set of methods for exploring and reasoning about text as data |
-| Reinforcement Learning by Georgia Tech| [link](https://omscs.gatech.edu/cs-7642-reinforcement-learning) | Reinforcement learning | The course explores automated decision-making from a computational perspective through a combination of classic papers and more recent work |
-
-
-
 # Miscellaneous
 
 Other interesting resources
