@@ -354,6 +354,13 @@ Other interesting resources
 | ------- | ----------- | ------ |
 |  The Super Duper NLP Repo | [link](https://notebooks.quantumstat.com/) | a collection of Colab notebooks covering a wide array of NLP task implementations available to launch in Google Colab with a single click. |
 
+## Interactive learning tools
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| CNN Explainer| [link](https://poloclub.github.io/ganlab/) | Play with Generative Adversarial Networks (GANs) in your browser |
+| CNN Explainer| [link](https://poloclub.github.io/ganlab/) | Play with Generative Adversarial Networks (GANs) in your browser |
+
 
 # Contributing
 
