@@ -364,7 +364,8 @@ Other interesting resources
 | Tensorlow playground| [link](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.65445&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Play with neural network in your browser  |
 | Initializing neural networks | [link](https://www.deeplearning.ai/ai-notes/initialization/) | In this post, we'll explain how to initialize neural network parameters effectively (and you can play it)  |
 | Embedding Projector | [link](https://projector.tensorflow.org/) | you can graphically represent high dimensional embeddings  |
-
+| OpenAI Microscope | [link](https://microscope.openai.com/models) |The OpenAI Microscope is a collection of visualizations of every significant layer and neuron of 13important vision models  |
+| Language Interpretability Tool  | [link](https://pair-code.github.io/lit/) |is an open-source platform for visualization and understanding of NLP models  |
 
 
 
