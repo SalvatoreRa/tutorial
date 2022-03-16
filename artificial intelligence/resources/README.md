@@ -366,9 +366,9 @@ Other interesting resources
 | Embedding Projector | [link](https://projector.tensorflow.org/) | you can graphically represent high dimensional embeddings  |
 | OpenAI Microscope | [link](https://microscope.openai.com/models) |The OpenAI Microscope is a collection of visualizations of every significant layer and neuron of 13important vision models  |
 | Language Interpretability Tool  | [link](https://pair-code.github.io/lit/) |is an open-source platform for visualization and understanding of NLP models  |
-
-
-
+| Probability Distributions  | [link](https://www.simonwardjones.co.uk/posts/probability_distributions/) |A visual tour of probability distributions |
+| Machine Learning Playground  | [link](https://ml-playground.com/) |Machine Learning Playground: play with different algorithms |
+| Drawdata | [link](https://pypi.org/project/drawdata/) |This small python app allows you to draw a dataset in a jupyter notebook |
 
 # Contributing
 
