@@ -356,6 +356,8 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | Statistics| a source for statistics |
 | Statistical Methods Course by Georgia Tech’s | [link](https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m) | Statistics| statistical methods course taught by David Goldsman at Georgia Tech |
 | Probability for Data Science by Harvard| [link](https://pll.harvard.edu/course/data-science-probability?delta=2) | Statistics| Probability for Data Science Course by Harvard |
+| Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
+| Introduction to Deep Learning by MIT| [link](http://introtodeeplearning.com/) | Deep Learning | an introductory course on deep learning methods with applications to computer vision, NLP, biology, etc... |
 | UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep Learning | latest techniques in deep learning and representation learning |
 | DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning | Deep learning with PyTorch |
 | Fastai  | [link](https://www.fast.ai/) | Deep Learning | Deep Learning for Coders corses|
