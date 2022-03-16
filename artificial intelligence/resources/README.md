@@ -369,6 +369,8 @@ Other interesting resources
 | Probability Distributions  | [link](https://www.simonwardjones.co.uk/posts/probability_distributions/) |A visual tour of probability distributions |
 | Machine Learning Playground  | [link](https://ml-playground.com/) |Machine Learning Playground: play with different algorithms |
 | Drawdata | [link](https://pypi.org/project/drawdata/) |This small python app allows you to draw a dataset in a jupyter notebook |
+| Kobra | [link](https://kobra.dev/) |A visual programming language for machine learning |
+| Human Learn | [link](https://github.com/koaning/human-learn/) |a tool that allows you to set the rules for data labeling  |
 
 # Contributing
 
