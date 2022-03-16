@@ -354,6 +354,8 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | MIT linear algebra| [link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | linear algebra |Linear algebra course taught by Prof. Gilbert Strang at MIT |
 | MIT Matrix Methods| [link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | linear algebra |Matrix Methods in Data Analysis, Signal Processing, and Machine Learning course taught by Prof. Gilbert Strang at MIT |
 | OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | Statistics| a source for statistics |
+| Statistical Methods Course by Georgia Tech’s | [link](https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m) | Statistics| statistical methods course taught by David Goldsman at Georgia Tech |
+| Probability for Data Science by Harvard| [link](https://pll.harvard.edu/course/data-science-probability?delta=2) | Statistics| Probability for Data Science Course by Harvard |
 | UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep Learning | latest techniques in deep learning and representation learning |
 | DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning | Deep learning with PyTorch |
 | Fastai  | [link](https://www.fast.ai/) | Deep Learning | Deep Learning for Coders corses|
