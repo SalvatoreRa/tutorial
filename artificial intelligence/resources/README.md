@@ -358,8 +358,10 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | Probability for Data Science by Harvard| [link](https://pll.harvard.edu/course/data-science-probability?delta=2) | Statistics| Probability for Data Science Course by Harvard |
 | Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
 | Introduction to Deep Learning by MIT| [link](http://introtodeeplearning.com/) | Deep Learning | an introductory course on deep learning methods with applications to computer vision, NLP, biology, etc... |
-| UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep Learning | latest techniques in deep learning and representation learning |
 | DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning | Deep learning with PyTorch |
+| Deep Learning by Yann LeCun| [link](https://cds.nyu.edu/deep-learning/) | Deep Learning | This course concerns the latest techniques in deep learning and representation learning - NY University course|
+| UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep Learning | latest techniques in deep learning and representation learning |
+| CS231n: CNN for Visual Recognition by Stanford | [link](http://cs231n.stanford.edu/) | Computer vision |onvolutional Neural Networks for Visual Recognition taught by prof.Fei-Fei Li at Stanford |
 | Fastai  | [link](https://www.fast.ai/) | Deep Learning | Deep Learning for Coders corses|
 | Fastai - NLP  | [link](https://www.fast.ai/2019/07/08/fastai-nlp/) | Deep Learning | a code-first introduction to NLP|
 | CS224W: Machine Learning with Graphs | [link](http://snap.stanford.edu/class/cs224w-2020/) | Geometric Learning |Stanford course of Graph neural  network |
