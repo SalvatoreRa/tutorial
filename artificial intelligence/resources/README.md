@@ -148,6 +148,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
 | [GAN ](https://arxiv.org/abs/1511.06434)| Generative Learning | 2015 |original article presenting DC-GAN |
 | [GAN ](https://arxiv.org/abs/1812.04948)| Generative Learning | 2018 |original article presenting Style-GAN |
+| [GFPGAN ](https://arxiv.org/pdf/2101.04061.pdf)| Generative Learning | 2022 |Towards Real-World Blind Face Restoration with Generative Facial Prior - [official code](https://github.com/TencentARC/GFPGAN)|
 | [VAE ](https://arxiv.org/abs/1906.02691)| VAE review | 2019 |An Introduction to Variational Autoencoders |
 
 ## Tabular data
