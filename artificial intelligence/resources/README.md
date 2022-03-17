@@ -226,6 +226,7 @@ A list of some useful tools that can be needed in different contexts.
 | Link | description | 
 | --------- | ------ | 
 |  [NN drawer](http://alexlenail.me/NN-SVG/LeNet.html) | Draw online your neural network architechture | 
+|  [diagram.net](https://app.diagrams.net/) | Onlien app to draw and sketch, it makes easy to  draw neural network architectures | 
 |  [NN in Latex](http://alexlenail.me/NN-SVG/LeNet.html) | Latex code for drawing neural networks for reports and presentation | 
 |  [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) |  a collection of 20+ academic drawing examples for using LaTeX, including Bayesian networks, function plotting, graphical models, tensor structure, and technical frameworks | 
 |  [Fractal drawer](https://github.com/kuco23/fractal) | tool to draw fractals in python| 
