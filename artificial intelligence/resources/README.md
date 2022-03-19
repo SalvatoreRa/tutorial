@@ -366,9 +366,11 @@ Other interesting resources
 | Keras| [link](https://keras.io/) [GitHub](https://github.com/keras-team/keras) | Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation |
 | tensorflow-upstream|  [GitHub](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) |TensorFlow ROCm port |
 | tensorpack|  [GitHub]https://github.com/tensorpack/tensorpack) |A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility|
+| Sonnet| [link](https://sonnet.dev/) [GitHub](https://github.com/deepmind/sonnet) | TensorFlow-based neural network library - created by DeepMind |
 | JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
-| PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | An open source machine learning framework that accelerates the path from research prototyping to production deployment. |
+| dm-haiku | [link](https://dm-haiku.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/dm-haiku) |An open source software to make research, development and implementation of neural network more efficient. developed by DeepMind |
+| PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | Haiku is a library built on top of JAX designed to provide simple, composable abstractions for machine learning research. |
 | PyTorchLightning| [link](https://pytorchlightning.ai/) [GitHub](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate |
 | Ignite| [link](https://pytorch-ignite.ai/) [GitHub](https://github.com/pytorch/ignite) | THigh-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. |
 | Fastai| [link](https://docs.fast.ai/) [GitHub](https://github.com/fastai/fastai) | The fastai deep learning library |
@@ -383,6 +385,7 @@ Other interesting resources
 | Turi |[GitHub](https://github.com/apple/turicreate) |Turi Create simplifies the development of custom machine learning models. |
 | einops | [link](https://einops.rocks/) [GitHub](https://github.com/arogozhnikov/einops) | Deep learning operations reinvented (for pytorch, tensorflow, jax and others) |
 | mlpack | [link](https://github.com/mlpack/mlpack) [GitHub](https://www.mlpack.org/) | mlpack: a scalable C++ machine learning library |
+| nnabla | [link](https://nnabla.org/) [GitHub](https://github.com/sony/nnabla) |An open source software to make research, development and implementation of neural network more efficient. |
 
 
 # Contributing
