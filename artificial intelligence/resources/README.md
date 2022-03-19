@@ -357,6 +357,28 @@ Other interesting resources
 |  The Super Duper NLP Repo | [link](https://notebooks.quantumstat.com/) | a collection of Colab notebooks covering a wide array of NLP task implementations available to launch in Google Colab with a single click. |
 
 
+## General framework
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| TensorFlow| [link](https://www.tensorflow.org/) [GitHub](https://github.com/tensorflow/tensorflow) | TensorFlow is an end-to-end open source platform for machine learning. |
+| scikit-learn | [link](https://scikit-learn.org/stable/) [GitHub](https://github.com/scikit-learn/scikit-learn) | scikit-learn is a Python module for machine learning |
+| Keras| [link](https://keras.io/) [GitHub](https://github.com/keras-team/keras) | Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation |
+| JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
+| PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | An open source machine learning framework that accelerates the path from research prototyping to production deployment. |
+| PyTorchLightning| [link](https://pytorchlightning.ai/) [GitHub](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate |
+| Fastai| [link](https://docs.fast.ai/) [GitHub](https://github.com/fastai/fastai) | The fastai deep learning library |
+| xgboost| [link](https://xgboost.ai/) [GitHub](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. |
+| LightGBM| [link](https://lightgbm.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/LightGBM) | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms |
+| Catboost| [link](https://catboost.ai/) [GitHub](https://github.com/catboost/catboost) | A fast, scalable, high performance Gradient Boosting on Decision Trees library |
+| paddlepaddle| [link](https://www.paddlepaddle.org.cn/) [GitHub](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice |
+| Jina| [link](https://docs.jina.ai/) [GitHub](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
+
+
+
+
+
+
 # Contributing
 
 You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
