@@ -369,8 +369,8 @@ Other interesting resources
 | Sonnet| [link](https://sonnet.dev/) [GitHub](https://github.com/deepmind/sonnet) | TensorFlow-based neural network library - created by DeepMind |
 | JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
-| dm-haiku | [link](https://dm-haiku.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/dm-haiku) |An open source software to make research, development and implementation of neural network more efficient. developed by DeepMind |
-| PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | Haiku is a library built on top of JAX designed to provide simple, composable abstractions for machine learning research. |
+| dm-haiku | [link](https://dm-haiku.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/dm-haiku) |Haiku is a library built on top of JAX designed to provide simple, composable abstractions for machine learning research. developed by DeepMind |
+| PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU. |
 | PyTorchLightning| [link](https://pytorchlightning.ai/) [GitHub](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate |
 | Ignite| [link](https://pytorch-ignite.ai/) [GitHub](https://github.com/pytorch/ignite) | THigh-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. |
 | Fastai| [link](https://docs.fast.ai/) [GitHub](https://github.com/fastai/fastai) | The fastai deep learning library |
