@@ -361,9 +361,11 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-| TensorFlow| [link](https://www.tensorflow.org/) [GitHub](https://github.com/tensorflow/tensorflow) | TensorFlow is an end-to-end open source platform for machine learning. |
 | scikit-learn | [link](https://scikit-learn.org/stable/) [GitHub](https://github.com/scikit-learn/scikit-learn) | scikit-learn is a Python module for machine learning |
+| TensorFlow| [link](https://www.tensorflow.org/) [GitHub](https://github.com/tensorflow/tensorflow) | TensorFlow is an end-to-end open source platform for machine learning. |
 | Keras| [link](https://keras.io/) [GitHub](https://github.com/keras-team/keras) | Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation |
+| tensorflow-upstream|  [GitHub](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) |TensorFlow ROCm port |
+| tensorpack|  [GitHub]https://github.com/tensorpack/tensorpack) |A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility|
 | JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
 | PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | An open source machine learning framework that accelerates the path from research prototyping to production deployment. |
