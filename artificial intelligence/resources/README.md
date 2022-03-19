@@ -357,45 +357,6 @@ Other interesting resources
 |  The Super Duper NLP Repo | [link](https://notebooks.quantumstat.com/) | a collection of Colab notebooks covering a wide array of NLP task implementations available to launch in Google Colab with a single click. |
 
 
-## General framework
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| scikit-learn | [link](https://scikit-learn.org/stable/) [GitHub](https://github.com/scikit-learn/scikit-learn) | scikit-learn is a Python module for machine learning |
-| scorch|  [GitHub](https://github.com/skorch-dev/skorch) | A scikit-learn compatible neural network library that wraps PyTorch |
-| fklearn|  [GitHub](https://github.com/nubank/fklearn) | fklearn: Functional Machine Learning |
-| TensorFlow| [link](https://www.tensorflow.org/) [GitHub](https://github.com/tensorflow/tensorflow) | TensorFlow is an end-to-end open source platform for machine learning. |
-| Keras| [link](https://keras.io/) [GitHub](https://github.com/keras-team/keras) | Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation |
-| tensorflow-upstream|  [GitHub](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) |TensorFlow ROCm port |
-| tensorpack|  [GitHub]https://github.com/tensorpack/tensorpack) |A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility|
-| neural-tangents| [link](https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html) [GitHub](https://github.com/google/neural-tangents) | Fast and Easy Infinite Neural Networks in Python |
-| Sonnet| [link](https://sonnet.dev/) [GitHub](https://github.com/deepmind/sonnet) | TensorFlow-based neural network library - created by DeepMind |
-| JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
-| FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
-| OBJAX| [link](https://objax.readthedocs.io/en/latest/) [GitHub](https://github.com/google/objax) | Objax is an open source machine learning framework that accelerates research and learning thanks to a minimalist object-oriented design and a readable code base. Its name comes from the contraction of Object and JAX |
-| Elegy| [link](https://poets-ai.github.io/elegy/) [GitHub](https://github.com/poets-ai/elegy) | A High Level API for Deep Learning in JAX. Elegy provides a Keras-like high-level API that makes it very easy to use for most common tasks. |
-| dm-haiku | [link](https://dm-haiku.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/dm-haiku) |Haiku is a library built on top of JAX designed to provide simple, composable abstractions for machine learning research. developed by DeepMind |
-| PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU. |
-| PyTorchLightning| [link](https://pytorchlightning.ai/) [GitHub](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate |
-| Ignite| [link](https://pytorch-ignite.ai/) [GitHub](https://github.com/pytorch/ignite) | THigh-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. |
-| Fastai| [link](https://docs.fast.ai/) [GitHub](https://github.com/fastai/fastai) | The fastai deep learning library |
-| xgboost| [link](https://xgboost.ai/) [GitHub](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. |
-| LightGBM| [link](https://lightgbm.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/LightGBM) | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms |
-| Catboost| [link](https://catboost.ai/) [GitHub](https://github.com/catboost/catboost) | A fast, scalable, high performance Gradient Boosting on Decision Trees library |
-| paddlepaddle| [link](https://www.paddlepaddle.org.cn/) [GitHub](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice |
-| Jina| [link](https://docs.jina.ai/) [GitHub](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-| chainer| [link](https://chainer.org/) [GitHub](https://github.com/chainer/chainer) | A flexible framework of neural networks for deep learning |
-| thinc| [link](https://thinc.ai/) [GitHub](https://github.com/explosion/thinc) | A refreshing functional take on deep learning, compatible with your favorite libraries |
-| Ludwig | [link](https://ludwig-ai.github.io/ludwig-docs/0.4/) [GitHub](https://github.com/ludwig-ai/ludwig) | Data-centric declarative deep learning framework |
-| Turi |[GitHub](https://github.com/apple/turicreate) |Turi Create simplifies the development of custom machine learning models. |
-| einops | [link](https://einops.rocks/) [GitHub](https://github.com/arogozhnikov/einops) | Deep learning operations reinvented (for pytorch, tensorflow, jax and others) |
-| mlpack | [link](https://github.com/mlpack/mlpack) [GitHub](https://www.mlpack.org/) | mlpack: a scalable C++ machine learning library |
-| nnabla | [link](https://nnabla.org/) [GitHub](https://github.com/sony/nnabla) |An open source software to make research, development and implementation of neural network more efficient. |
-| MACE | [link](https://github.com/XiaoMi/mace) [GitHub](https://github.com/XiaoMi/mace) |MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms. Developed by Xiaomi |
-| ThunderSVM | [GitHub](https://github.com/Xtra-Computing/thundersvm) |ThunderSVM: A Fast SVM Library on GPUs and CPUs |
-|chefboost| [GitHub](https://github.com/serengil/chefboost) |A Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python |
-| NeoML | [link](https://www.abbyy.com/neoml/) [GitHub](https://github.com/neoml-lib/neoml) | Machine learning framework for both deep learning and traditional algorithms. NeoML is an end-to-end machine learning framework that allows you to build, train, and deploy machine learning models. |
-
 
 # Contributing
 
