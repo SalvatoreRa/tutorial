@@ -379,8 +379,10 @@ Other interesting resources
 | Jina| [link](https://docs.jina.ai/) [GitHub](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
 | chainer| [link](https://chainer.org/) [GitHub](https://github.com/chainer/chainer) | A flexible framework of neural networks for deep learning |
 | thinc| [link](https://thinc.ai/) [GitHub](https://github.com/explosion/thinc) | A refreshing functional take on deep learning, compatible with your favorite libraries |
-
-
+| Ludwig | [link](https://ludwig-ai.github.io/ludwig-docs/0.4/) [GitHub](https://github.com/ludwig-ai/ludwig) | Data-centric declarative deep learning framework |
+| Turi |[GitHub](https://github.com/apple/turicreate) |Turi Create simplifies the development of custom machine learning models. |
+| einops | [link](https://einops.rocks/) [GitHub](https://github.com/arogozhnikov/einops) | Deep learning operations reinvented (for pytorch, tensorflow, jax and others) |
+| mlpack | [link](https://github.com/mlpack/mlpack) [GitHub](https://www.mlpack.org/) | mlpack: a scalable C++ machine learning library |
 
 
 # Contributing
