@@ -373,6 +373,7 @@ Other interesting resources
 | JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
 | OBJAX| [link](https://objax.readthedocs.io/en/latest/) [GitHub](https://github.com/google/objax) | Objax is an open source machine learning framework that accelerates research and learning thanks to a minimalist object-oriented design and a readable code base. Its name comes from the contraction of Object and JAX |
+| Elegy| [link](https://poets-ai.github.io/elegy/) [GitHub](https://github.com/poets-ai/elegy) | A High Level API for Deep Learning in JAX. Elegy provides a Keras-like high-level API that makes it very easy to use for most common tasks. |
 | dm-haiku | [link](https://dm-haiku.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/dm-haiku) |Haiku is a library built on top of JAX designed to provide simple, composable abstractions for machine learning research. developed by DeepMind |
 | PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU. |
 | PyTorchLightning| [link](https://pytorchlightning.ai/) [GitHub](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate |
@@ -393,8 +394,7 @@ Other interesting resources
 | MACE | [link](https://github.com/XiaoMi/mace) [GitHub](https://github.com/XiaoMi/mace) |MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms. Developed by Xiaomi |
 | ThunderSVM | [GitHub](https://github.com/Xtra-Computing/thundersvm) |ThunderSVM: A Fast SVM Library on GPUs and CPUs |
 |chefboost| [GitHub](https://github.com/serengil/chefboost) |A Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python |
-| NeoML | [link](https://www.abbyy.com/neoml/) [GitHub](https://github.com/neoml-lib/neoml) |
-Machine learning framework for both deep learning and traditional algorithms. NeoML is an end-to-end machine learning framework that allows you to build, train, and deploy machine learning models. |
+| NeoML | [link](https://www.abbyy.com/neoml/) [GitHub](https://github.com/neoml-lib/neoml) | Machine learning framework for both deep learning and traditional algorithms. NeoML is an end-to-end machine learning framework that allows you to build, train, and deploy machine learning models. |
 
 
 # Contributing
