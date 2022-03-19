@@ -373,8 +373,8 @@ Other interesting resources
 | Catboost| [link](https://catboost.ai/) [GitHub](https://github.com/catboost/catboost) | A fast, scalable, high performance Gradient Boosting on Decision Trees library |
 | paddlepaddle| [link](https://www.paddlepaddle.org.cn/) [GitHub](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice |
 | Jina| [link](https://docs.jina.ai/) [GitHub](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-
-
+| chainer| [link](https://chainer.org/) [GitHub](https://github.com/chainer/chainer) | A flexible framework of neural networks for deep learning |
+| thinc| [link](https://thinc.ai/) [GitHub](https://github.com/explosion/thinc) | A refreshing functional take on deep learning, compatible with your favorite libraries |
 
 
 
