@@ -365,8 +365,10 @@ Other interesting resources
 | scikit-learn | [link](https://scikit-learn.org/stable/) [GitHub](https://github.com/scikit-learn/scikit-learn) | scikit-learn is a Python module for machine learning |
 | Keras| [link](https://keras.io/) [GitHub](https://github.com/keras-team/keras) | Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation |
 | JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
+| FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
 | PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | An open source machine learning framework that accelerates the path from research prototyping to production deployment. |
 | PyTorchLightning| [link](https://pytorchlightning.ai/) [GitHub](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate |
+| Ignite| [link](https://pytorch-ignite.ai/) [GitHub](https://github.com/pytorch/ignite) | THigh-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. |
 | Fastai| [link](https://docs.fast.ai/) [GitHub](https://github.com/fastai/fastai) | The fastai deep learning library |
 | xgboost| [link](https://xgboost.ai/) [GitHub](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. |
 | LightGBM| [link](https://lightgbm.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/LightGBM) | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms |
