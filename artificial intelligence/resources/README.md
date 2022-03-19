@@ -362,10 +362,13 @@ Other interesting resources
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | scikit-learn | [link](https://scikit-learn.org/stable/) [GitHub](https://github.com/scikit-learn/scikit-learn) | scikit-learn is a Python module for machine learning |
+| scorch|  [GitHub](https://github.com/skorch-dev/skorch) | A scikit-learn compatible neural network library that wraps PyTorch |
+| fklearn|  [GitHub](https://github.com/nubank/fklearn) | fklearn: Functional Machine Learning |
 | TensorFlow| [link](https://www.tensorflow.org/) [GitHub](https://github.com/tensorflow/tensorflow) | TensorFlow is an end-to-end open source platform for machine learning. |
 | Keras| [link](https://keras.io/) [GitHub](https://github.com/keras-team/keras) | Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation |
 | tensorflow-upstream|  [GitHub](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) |TensorFlow ROCm port |
 | tensorpack|  [GitHub]https://github.com/tensorpack/tensorpack) |A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility|
+| neural-tangents| [link](https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html) [GitHub](https://github.com/google/neural-tangents) | Fast and Easy Infinite Neural Networks in Python |
 | Sonnet| [link](https://sonnet.dev/) [GitHub](https://github.com/deepmind/sonnet) | TensorFlow-based neural network library - created by DeepMind |
 | JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
@@ -386,6 +389,7 @@ Other interesting resources
 | einops | [link](https://einops.rocks/) [GitHub](https://github.com/arogozhnikov/einops) | Deep learning operations reinvented (for pytorch, tensorflow, jax and others) |
 | mlpack | [link](https://github.com/mlpack/mlpack) [GitHub](https://www.mlpack.org/) | mlpack: a scalable C++ machine learning library |
 | nnabla | [link](https://nnabla.org/) [GitHub](https://github.com/sony/nnabla) |An open source software to make research, development and implementation of neural network more efficient. |
+| MACE | [link](https://github.com/XiaoMi/mace) [GitHub](https://github.com/XiaoMi/mace) |MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms. Developed by Xiaomi |
 
 
 # Contributing
