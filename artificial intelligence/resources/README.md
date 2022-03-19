@@ -372,6 +372,7 @@ Other interesting resources
 | Sonnet| [link](https://sonnet.dev/) [GitHub](https://github.com/deepmind/sonnet) | TensorFlow-based neural network library - created by DeepMind |
 | JAX| [link](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) [GitHub](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | FLAX| [GitHub](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. |
+| OBJAX| [link](https://objax.readthedocs.io/en/latest/) [GitHub](https://github.com/google/objax) | Objax is an open source machine learning framework that accelerates research and learning thanks to a minimalist object-oriented design and a readable code base. Its name comes from the contraction of Object and JAX |
 | dm-haiku | [link](https://dm-haiku.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/dm-haiku) |Haiku is a library built on top of JAX designed to provide simple, composable abstractions for machine learning research. developed by DeepMind |
 | PyTorch| [link](https://pytorch.org/) [GitHub](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU. |
 | PyTorchLightning| [link](https://pytorchlightning.ai/) [GitHub](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate |
@@ -390,7 +391,7 @@ Other interesting resources
 | mlpack | [link](https://github.com/mlpack/mlpack) [GitHub](https://www.mlpack.org/) | mlpack: a scalable C++ machine learning library |
 | nnabla | [link](https://nnabla.org/) [GitHub](https://github.com/sony/nnabla) |An open source software to make research, development and implementation of neural network more efficient. |
 | MACE | [link](https://github.com/XiaoMi/mace) [GitHub](https://github.com/XiaoMi/mace) |MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms. Developed by Xiaomi |
-
+| ThunderSVM | [GitHub](https://github.com/Xtra-Computing/thundersvm) |ThunderSVM: A Fast SVM Library on GPUs and CPUs |
 
 # Contributing
 
