@@ -392,6 +392,10 @@ Other interesting resources
 | nnabla | [link](https://nnabla.org/) [GitHub](https://github.com/sony/nnabla) |An open source software to make research, development and implementation of neural network more efficient. |
 | MACE | [link](https://github.com/XiaoMi/mace) [GitHub](https://github.com/XiaoMi/mace) |MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms. Developed by Xiaomi |
 | ThunderSVM | [GitHub](https://github.com/Xtra-Computing/thundersvm) |ThunderSVM: A Fast SVM Library on GPUs and CPUs |
+|chefboost| [GitHub](https://github.com/serengil/chefboost) |A Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python |
+| NeoML | [link](https://www.abbyy.com/neoml/) [GitHub](https://github.com/neoml-lib/neoml) |
+Machine learning framework for both deep learning and traditional algorithms. NeoML is an end-to-end machine learning framework that allows you to build, train, and deploy machine learning models. |
+
 
 # Contributing
 
