@@ -393,9 +393,9 @@ Other interesting resources
 | opentsne | [link](https://opentsne.readthedocs.io/en/latest/) [GitHub](https://github.com/pavlin-policar/openTSNE) |  Extensible, parallel implementations of t-SNE - openTSNE is a modular Python implementation of t-Distributed Stochasitc Neighbor Embedding (t-SNE)|
 | AutoViz |  [GitHub](https://github.com/AutoViML/AutoViz) |  Automatically Visualize any dataset, any size with a single line of code. |
 | python-ternary | [GitHub](https://github.com/marcharper/python-ternary) |  This is a plotting library for use with matplotlib to make ternary plots plots in the two dimensional simplex projected onto a two dimensional plane. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| joypy | [GitHub](https://github.com/leotac/joypy) | Joyplots in Python with matplotlib & pandas. Joyplots are stacked, partially overlapping density plots (a.k.a. ridgeline plots). |
+| PDPbox | [link](https://pdpbox.readthedocs.io/en/latest/) [GitHub](https://github.com/SauceCat/PDPbox) |  python partial dependence plot toolbox |
+| PyWaffle | [link](https://pywaffle.readthedocs.io/en/latest/) [GitHub](https://github.com/gyli/PyWaffle) |  PyWaffle is an open source, MIT-licensed Python package for plotting waffle charts. |
 
 
 |  | [link]() [GitHub]() |   |
