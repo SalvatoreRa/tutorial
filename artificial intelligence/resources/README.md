@@ -373,6 +373,7 @@ Other interesting resources
 | pyecharts | [link](https://pyecharts.org/#/en-us/) [GitHub](https://github.com/pyecharts/pyecharts) |Python Echarts Plotting Library - Echarts is easy-to-use, highly interactive and highly performant javascript visualization library |
 | pyqtgraph | [link](https://www.pyqtgraph.org/) [GitHub](https://github.com/pyqtgraph/pyqtgraph) |Fast data visualization and GUI tools for scientific / engineering applications |
 | holoviews | [link](https://holoviews.org/) [GitHub](https://github.com/holoviz/holoviews) |  With Holoviews, your data visualizes itself. HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple. |
+| hvplot | [link](https://hvplot.holoviz.org/) [GitHub](https://github.com/holoviz/hvplot) | A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews  |
 | word_cloud | [link](https://amueller.github.io/word_cloud/) [GitHub](https://github.com/amueller/word_cloud) | A little word cloud generator in Python  |
 | bqplot |  [GitHub](https://github.com/bqplot/bqplot) |  Plotting library for IPython/Jupyter notebooks |
 | vispy | [link](https://vispy.org/) [GitHub](https://github.com/vispy/vispy) |  VisPy is a high-performance interactive 2D/3D data visualization library leveraging the computational power of modern Graphics Processing Units (GPUs) through the OpenGL library to display very large datasets. |
@@ -381,11 +382,15 @@ Other interesting resources
 | fiftyone | [link](https://voxel51.com/docs/fiftyone/) [GitHub](https://github.com/voxel51/fiftyone) |  The open-source tool for building high-quality datasets and computer vision models. FiftyOne supercharges your machine learning workflows by enabling you to visualize datasets and interpret models faster and more effectively. |
 | missingno | [GitHub](https://github.com/ResidentMario/missingno) |  Missing data visualization module for Python. |
 | datashader | [link](https://datashader.org/) [GitHub](https://github.com/holoviz/datashader) | Quickly and accurately render even the largest data. Datashader is a graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly. |
-| dtale | [link]() [GitHub](https://github.com/man-group/dtale) |  Visualizer for pandas data structures |
+| dtale |  [GitHub](https://github.com/man-group/dtale) |  Visualizer for pandas data structures |
+| hypertools | [link](https://hypertools.readthedocs.io/en/latest/) [GitHub](https://github.com/ContextLab/hypertools) |  A Python toolbox for gaining geometric insights into high-dimensional data |
+| facets | [link](https://pair-code.github.io/facets/) [GitHub](https://github.com/PAIR-code/facets) | Visualizations for machine learning datasets  |
+| pythreejs |  [GitHub](https://github.com/jupyter-widgets/pythreejs) |  A Jupyter - Three.js bridge |
+| lets-plot | [link](https://lets-plot.org/) [GitHub](https://github.com/JetBrains/lets-plot) |  An open-source plotting library for statistical data. |
+| ipyvega | [GitHub](https://github.com/vega/ipyvega) | IPython/Jupyter notebook module for Vega and Vega-Lite |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
 
 
 |  | [link]() [GitHub]() |   |
