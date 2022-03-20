@@ -355,7 +355,7 @@ Other interesting resources
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 |  The Super Duper NLP Repo | [link](https://notebooks.quantumstat.com/) | a collection of Colab notebooks covering a wide array of NLP task implementations available to launch in Google Colab with a single click. |
-
+|  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 
 
 # Contributing
