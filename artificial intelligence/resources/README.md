@@ -366,7 +366,8 @@ Other interesting resources
 | plotly | [link](https://plotly.com/python/) [GitHub](https://github.com/plotly/plotly.py) | The interactive graphing library for Python (includes Plotly Express) |
 | dash | [link](https://plotly.com/dash/) [GitHub](https://github.com/plotly/dash) | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. |
 | altair | [link](https://altair-viz.github.io/) [GitHub](https://github.com/altair-viz/altair) | Declarative statistical visualization library for Python |
-| altair | [link](https://altair-viz.github.io/) [GitHub](https://github.com/altair-viz/altair) | Declarative statistical visualization library for Python |
+| Graphviz | [link](https://graphviz.readthedocs.io/en/stable/) [GitHub](https://github.com/xflr6/graphviz) | Simple Python interface for Graphviz |
+| pandas-profiling | [link](https://pandas-profiling.ydata.ai/docs/master/index.html) [GitHub](https://github.com/ydataai/pandas-profiling) |Create HTML profiling reports from pandas DataFrame objects |
 
 # Contributing
 
