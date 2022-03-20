@@ -373,8 +373,8 @@ Other interesting resources
 | pyqtgraph | [link](https://www.pyqtgraph.org/) [GitHub](https://github.com/pyqtgraph/pyqtgraph) |Fast data visualization and GUI tools for scientific / engineering applications |
 | holoviews | [link](https://holoviews.org/) [GitHub](https://github.com/holoviz/holoviews) |  With Holoviews, your data visualizes itself. HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple. |
 | word_cloud | [link](https://amueller.github.io/word_cloud/) [GitHub](https://github.com/amueller/word_cloud) | A little word cloud generator in Python  |
-|  | [link]() [GitHub]() |   |
-
+| bqplot |  [GitHub](https://github.com/bqplot/bqplot) |  Plotting library for IPython/Jupyter notebooks |
+| vispy | [link](https://vispy.org/) [GitHub](https://github.com/vispy/vispy) |  VisPy is a high-performance interactive 2D/3D data visualization library leveraging the computational power of modern Graphics Processing Units (GPUs) through the OpenGL library to display very large datasets. |
 
 |  | [link]() [GitHub]() |   |
 
