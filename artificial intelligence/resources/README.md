@@ -371,9 +371,9 @@ Other interesting resources
 | UMAP |  [GitHub](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection |
 | pyecharts | [link](https://pyecharts.org/#/en-us/) [GitHub](https://github.com/pyecharts/pyecharts) |Python Echarts Plotting Library - Echarts is easy-to-use, highly interactive and highly performant javascript visualization library |
 | pyqtgraph | [link](https://www.pyqtgraph.org/) [GitHub](https://github.com/pyqtgraph/pyqtgraph) |Fast data visualization and GUI tools for scientific / engineering applications |
-
-
-
+| holoviews | [link](https://holoviews.org/) [GitHub](https://github.com/holoviz/holoviews) |  With Holoviews, your data visualizes itself. HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple. |
+| word_cloud | [link](https://amueller.github.io/word_cloud/) [GitHub](https://github.com/amueller/word_cloud) | A little word cloud generator in Python  |
+|  | [link]() [GitHub]() |   |
 
 
 |  | [link]() [GitHub]() |   |
