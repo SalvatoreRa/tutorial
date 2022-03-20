@@ -364,6 +364,9 @@ Other interesting resources
 | bokeh | [link](https://bokeh.org/) [GitHub](https://github.com/bokeh/bokeh) | Interactive Data Visualization in the browser, from Python |
 | seaborn | [link](https://seaborn.pydata.org/) [GitHub](https://github.com/mwaskom/seaborn) | Statistical data visualization in Python |
 | plotly | [link](https://plotly.com/python/) [GitHub](https://github.com/plotly/plotly.py) | The interactive graphing library for Python (includes Plotly Express) |
+| dash | [link](https://plotly.com/dash/) [GitHub](https://github.com/plotly/dash) | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. |
+| altair | [link](https://altair-viz.github.io/) [GitHub](https://github.com/altair-viz/altair) | Declarative statistical visualization library for Python |
+| altair | [link](https://altair-viz.github.io/) [GitHub](https://github.com/altair-viz/altair) | Declarative statistical visualization library for Python |
 
 # Contributing
 
