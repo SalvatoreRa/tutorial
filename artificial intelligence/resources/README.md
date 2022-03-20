@@ -362,6 +362,7 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | matplotlib | [link](https://matplotlib.org/stable/) [GitHub](https://github.com/matplotlib/matplotlib) | matplotlib: plotting with Python |
 | bokeh | [link](https://bokeh.org/) [GitHub](https://github.com/bokeh/bokeh) | Interactive Data Visualization in the browser, from Python |
+| Pandas-Bokeh | [link]() [GitHub](https://github.com/PatrikHlobil/Pandas-Bokeh) |  Bokeh Plotting Backend for Pandas and GeoPandas |
 | seaborn | [link](https://seaborn.pydata.org/) [GitHub](https://github.com/mwaskom/seaborn) | Statistical data visualization in Python |
 | plotly | [link](https://plotly.com/python/) [GitHub](https://github.com/plotly/plotly.py) | The interactive graphing library for Python (includes Plotly Express) |
 | dash | [link](https://plotly.com/dash/) [GitHub](https://github.com/plotly/dash) | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. |
@@ -388,6 +389,10 @@ Other interesting resources
 | pythreejs |  [GitHub](https://github.com/jupyter-widgets/pythreejs) |  A Jupyter - Three.js bridge |
 | lets-plot | [link](https://lets-plot.org/) [GitHub](https://github.com/JetBrains/lets-plot) |  An open-source plotting library for statistical data. |
 | ipyvega | [GitHub](https://github.com/vega/ipyvega) | IPython/Jupyter notebook module for Vega and Vega-Lite |
+|  hiplot | [link](https://facebookresearch.github.io/hiplot/) [GitHub](https://github.com/facebookresearch/hiplot) |  HiPlot makes understanding high dimensional data easy |
+| opentsne | [link](https://opentsne.readthedocs.io/en/latest/) [GitHub](https://github.com/pavlin-policar/openTSNE) |  Extensible, parallel implementations of t-SNE - openTSNE is a modular Python implementation of t-Distributed Stochasitc Neighbor Embedding (t-SNE)|
+| AutoViz |  [GitHub](https://github.com/AutoViML/AutoViz) |  Automatically Visualize any dataset, any size with a single line of code. |
+| python-ternary | [GitHub](https://github.com/marcharper/python-ternary) |  This is a plotting library for use with matplotlib to make ternary plots plots in the two dimensional simplex projected onto a two dimensional plane. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
