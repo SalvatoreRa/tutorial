@@ -358,47 +358,7 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| matplotlib | [link](https://matplotlib.org/stable/) [GitHub](https://github.com/matplotlib/matplotlib) | matplotlib: plotting with Python |
-| bokeh | [link](https://bokeh.org/) [GitHub](https://github.com/bokeh/bokeh) | Interactive Data Visualization in the browser, from Python |
-| Pandas-Bokeh | [link]() [GitHub](https://github.com/PatrikHlobil/Pandas-Bokeh) |  Bokeh Plotting Backend for Pandas and GeoPandas |
-| seaborn | [link](https://seaborn.pydata.org/) [GitHub](https://github.com/mwaskom/seaborn) | Statistical data visualization in Python |
-| plotly | [link](https://plotly.com/python/) [GitHub](https://github.com/plotly/plotly.py) | The interactive graphing library for Python (includes Plotly Express) |
-| dash | [link](https://plotly.com/dash/) [GitHub](https://github.com/plotly/dash) | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. |
-| cufflinks |  [GitHub](https://github.com/santosjorge/cufflinks) |  Productivity Tools for Plotly + Pandas |
-| altair | [link](https://altair-viz.github.io/) [GitHub](https://github.com/altair-viz/altair) | Declarative statistical visualization library for Python |
-| Graphviz | [link](https://graphviz.readthedocs.io/en/stable/) [GitHub](https://github.com/xflr6/graphviz) | Simple Python interface for Graphviz |
-| pandas-profiling | [link](https://pandas-profiling.ydata.ai/docs/master/index.html) [GitHub](https://github.com/ydataai/pandas-profiling) |Create HTML profiling reports from pandas DataFrame objects |
-| UMAP |  [GitHub](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection |
-| pyecharts | [link](https://pyecharts.org/#/en-us/) [GitHub](https://github.com/pyecharts/pyecharts) |Python Echarts Plotting Library - Echarts is easy-to-use, highly interactive and highly performant javascript visualization library |
-| pyqtgraph | [link](https://www.pyqtgraph.org/) [GitHub](https://github.com/pyqtgraph/pyqtgraph) |Fast data visualization and GUI tools for scientific / engineering applications |
-| holoviews | [link](https://holoviews.org/) [GitHub](https://github.com/holoviz/holoviews) |  With Holoviews, your data visualizes itself. HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple. |
-| hvplot | [link](https://hvplot.holoviz.org/) [GitHub](https://github.com/holoviz/hvplot) | A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews  |
-| word_cloud | [link](https://amueller.github.io/word_cloud/) [GitHub](https://github.com/amueller/word_cloud) | A little word cloud generator in Python  |
-| bqplot |  [GitHub](https://github.com/bqplot/bqplot) |  Plotting library for IPython/Jupyter notebooks |
-| vispy | [link](https://vispy.org/) [GitHub](https://github.com/vispy/vispy) |  VisPy is a high-performance interactive 2D/3D data visualization library leveraging the computational power of modern Graphics Processing Units (GPUs) through the OpenGL library to display very large datasets. |
-| pyvista | [link](https://docs.pyvista.org/) [GitHub](https://github.com/pyvista/pyvista) |  3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) |
-| perspective | [link](https://perspective.finos.org/) [GitHub](https://github.com/finos/perspective) |  A data visualization and analytics component, especially well-suited for large and/or streaming datasets. |
-| fiftyone | [link](https://voxel51.com/docs/fiftyone/) [GitHub](https://github.com/voxel51/fiftyone) |  The open-source tool for building high-quality datasets and computer vision models. FiftyOne supercharges your machine learning workflows by enabling you to visualize datasets and interpret models faster and more effectively. |
-| missingno | [GitHub](https://github.com/ResidentMario/missingno) |  Missing data visualization module for Python. |
-| datashader | [link](https://datashader.org/) [GitHub](https://github.com/holoviz/datashader) | Quickly and accurately render even the largest data. Datashader is a graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly. |
-| dtale |  [GitHub](https://github.com/man-group/dtale) |  Visualizer for pandas data structures |
-| hypertools | [link](https://hypertools.readthedocs.io/en/latest/) [GitHub](https://github.com/ContextLab/hypertools) |  A Python toolbox for gaining geometric insights into high-dimensional data |
-| facets | [link](https://pair-code.github.io/facets/) [GitHub](https://github.com/PAIR-code/facets) | Visualizations for machine learning datasets  |
-| pythreejs |  [GitHub](https://github.com/jupyter-widgets/pythreejs) |  A Jupyter - Three.js bridge |
-| lets-plot | [link](https://lets-plot.org/) [GitHub](https://github.com/JetBrains/lets-plot) |  An open-source plotting library for statistical data. |
-| ipyvega | [GitHub](https://github.com/vega/ipyvega) | IPython/Jupyter notebook module for Vega and Vega-Lite |
-|  hiplot | [link](https://facebookresearch.github.io/hiplot/) [GitHub](https://github.com/facebookresearch/hiplot) |  HiPlot makes understanding high dimensional data easy |
-| opentsne | [link](https://opentsne.readthedocs.io/en/latest/) [GitHub](https://github.com/pavlin-policar/openTSNE) |  Extensible, parallel implementations of t-SNE - openTSNE is a modular Python implementation of t-Distributed Stochasitc Neighbor Embedding (t-SNE)|
-| AutoViz |  [GitHub](https://github.com/AutoViML/AutoViz) |  Automatically Visualize any dataset, any size with a single line of code. |
-| python-ternary | [GitHub](https://github.com/marcharper/python-ternary) |  This is a plotting library for use with matplotlib to make ternary plots plots in the two dimensional simplex projected onto a two dimensional plane. |
-| joypy | [GitHub](https://github.com/leotac/joypy) | Joyplots in Python with matplotlib & pandas. Joyplots are stacked, partially overlapping density plots (a.k.a. ridgeline plots). |
-| PDPbox | [link](https://pdpbox.readthedocs.io/en/latest/) [GitHub](https://github.com/SauceCat/PDPbox) |  python partial dependence plot toolbox |
-| PyWaffle | [link](https://pywaffle.readthedocs.io/en/latest/) [GitHub](https://github.com/gyli/PyWaffle) |  PyWaffle is an open source, MIT-licensed Python package for plotting waffle charts. |
 
-
-|  | [link]() [GitHub]() |   |
 
 
 # Contributing
