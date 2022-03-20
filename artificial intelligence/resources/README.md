@@ -368,6 +368,16 @@ Other interesting resources
 | altair | [link](https://altair-viz.github.io/) [GitHub](https://github.com/altair-viz/altair) | Declarative statistical visualization library for Python |
 | Graphviz | [link](https://graphviz.readthedocs.io/en/stable/) [GitHub](https://github.com/xflr6/graphviz) | Simple Python interface for Graphviz |
 | pandas-profiling | [link](https://pandas-profiling.ydata.ai/docs/master/index.html) [GitHub](https://github.com/ydataai/pandas-profiling) |Create HTML profiling reports from pandas DataFrame objects |
+| UMAP |  [GitHub](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection |
+| pyecharts | [link](https://pyecharts.org/#/en-us/) [GitHub](https://github.com/pyecharts/pyecharts) |Python Echarts Plotting Library - Echarts is easy-to-use, highly interactive and highly performant javascript visualization library |
+| pyqtgraph | [link](https://www.pyqtgraph.org/) [GitHub](https://github.com/pyqtgraph/pyqtgraph) |Fast data visualization and GUI tools for scientific / engineering applications |
+
+
+
+
+
+|  | [link]() [GitHub]() |   |
+
 
 # Contributing
 
