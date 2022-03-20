@@ -375,6 +375,17 @@ Other interesting resources
 | word_cloud | [link](https://amueller.github.io/word_cloud/) [GitHub](https://github.com/amueller/word_cloud) | A little word cloud generator in Python  |
 | bqplot |  [GitHub](https://github.com/bqplot/bqplot) |  Plotting library for IPython/Jupyter notebooks |
 | vispy | [link](https://vispy.org/) [GitHub](https://github.com/vispy/vispy) |  VisPy is a high-performance interactive 2D/3D data visualization library leveraging the computational power of modern Graphics Processing Units (GPUs) through the OpenGL library to display very large datasets. |
+| pyvista | [link](https://docs.pyvista.org/) [GitHub](https://github.com/pyvista/pyvista) |  3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) |
+| perspective | [link](https://perspective.finos.org/) [GitHub](https://github.com/finos/perspective) |  A data visualization and analytics component, especially well-suited for large and/or streaming datasets. |
+| fiftyone | [link](https://voxel51.com/docs/fiftyone/) [GitHub](https://github.com/voxel51/fiftyone) |  The open-source tool for building high-quality datasets and computer vision models. FiftyOne supercharges your machine learning workflows by enabling you to visualize datasets and interpret models faster and more effectively. |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+
+
 
 |  | [link]() [GitHub]() |   |
 
