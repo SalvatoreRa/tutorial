@@ -365,6 +365,7 @@ Other interesting resources
 | seaborn | [link](https://seaborn.pydata.org/) [GitHub](https://github.com/mwaskom/seaborn) | Statistical data visualization in Python |
 | plotly | [link](https://plotly.com/python/) [GitHub](https://github.com/plotly/plotly.py) | The interactive graphing library for Python (includes Plotly Express) |
 | dash | [link](https://plotly.com/dash/) [GitHub](https://github.com/plotly/dash) | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. |
+| cufflinks |  [GitHub](https://github.com/santosjorge/cufflinks) |  Productivity Tools for Plotly + Pandas |
 | altair | [link](https://altair-viz.github.io/) [GitHub](https://github.com/altair-viz/altair) | Declarative statistical visualization library for Python |
 | Graphviz | [link](https://graphviz.readthedocs.io/en/stable/) [GitHub](https://github.com/xflr6/graphviz) | Simple Python interface for Graphviz |
 | pandas-profiling | [link](https://pandas-profiling.ydata.ai/docs/master/index.html) [GitHub](https://github.com/ydataai/pandas-profiling) |Create HTML profiling reports from pandas DataFrame objects |
@@ -378,9 +379,9 @@ Other interesting resources
 | pyvista | [link](https://docs.pyvista.org/) [GitHub](https://github.com/pyvista/pyvista) |  3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) |
 | perspective | [link](https://perspective.finos.org/) [GitHub](https://github.com/finos/perspective) |  A data visualization and analytics component, especially well-suited for large and/or streaming datasets. |
 | fiftyone | [link](https://voxel51.com/docs/fiftyone/) [GitHub](https://github.com/voxel51/fiftyone) |  The open-source tool for building high-quality datasets and computer vision models. FiftyOne supercharges your machine learning workflows by enabling you to visualize datasets and interpret models faster and more effectively. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| missingno | [GitHub](https://github.com/ResidentMario/missingno) |  Missing data visualization module for Python. |
+| datashader | [link](https://datashader.org/) [GitHub](https://github.com/holoviz/datashader) | Quickly and accurately render even the largest data. Datashader is a graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly. |
+| dtale | [link]() [GitHub](https://github.com/man-group/dtale) |  Visualizer for pandas data structures |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
