@@ -362,6 +362,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | matplotlib | [link](https://matplotlib.org/stable/) [GitHub](https://github.com/matplotlib/matplotlib) | matplotlib: plotting with Python |
 | bokeh | [link](https://bokeh.org/) [GitHub](https://github.com/bokeh/bokeh) | Interactive Data Visualization in the browser, from Python |
+| seaborn | [link](https://seaborn.pydata.org/) [GitHub](https://github.com/mwaskom/seaborn) | Statistical data visualization in Python |
+| plotly | [link](https://plotly.com/python/) [GitHub](https://github.com/plotly/plotly.py) | The interactive graphing library for Python (includes Plotly Express) |
 
 # Contributing
 
