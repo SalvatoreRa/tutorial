@@ -358,6 +358,11 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 
 
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| matplotlib | [link](https://matplotlib.org/stable/) [GitHub](https://github.com/matplotlib/matplotlib) | matplotlib: plotting with Python |
+| bokeh | [link](https://bokeh.org/) [GitHub](https://github.com/bokeh/bokeh) | Interactive Data Visualization in the browser, from Python |
+
 # Contributing
 
 You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
