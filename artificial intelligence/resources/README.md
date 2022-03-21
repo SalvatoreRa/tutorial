@@ -362,6 +362,7 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
+| huggingface tokenizers| [link](https://huggingface.co/docs/tokenizers/python/latest/) [GitHub](https://github.com/huggingface/tokenizers) | Fast State-of-the-Art Tokenizers optimized for Research and Production  |
 | HuggingFace - Transformers | [link](https://huggingface.co/docs/transformers/index) [GitHub](https://github.com/huggingface/transformers) |  Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. |
 | NTLK | [link](https://www.nltk.org/) [GitHub](https://github.com/nltk/nltk) | Natural Language Toolkit  |
 | spaCy | [link](https://spacy.io/) [GitHub](https://github.com/explosion/spaCy) |Industrial-strength Natural Language Processing (NLP) in Python   |
@@ -375,9 +376,8 @@ Other interesting resources
 | textblob | [link](https://textblob.readthedocs.io/en/dev/) [GitHub](https://github.com/sloria/TextBlob) |  Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. |
 | sentence-transformers | [link](https://www.sbert.net/) [GitHub](https://github.com/UKPLab/sentence-transformers) |  Multilingual Sentence & Image Embeddings with BERT |
 | spark-nlp | [link](https://nlp.johnsnowlabs.com/) [GitHub](https://github.com/JohnSnowLabs/spark-nlp) |  State of the Art Natural Language Processing - The first production grade versions of the latest deep learning NLP researc|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| SentencePiece | [GitHub](https://github.com/google/sentencepiece) |  Unsupervised text tokenizer for Neural Network-based text generation. developed by Google|
+| OpenNMT | [link](https://opennmt.net/) [GitHub](https://github.com/OpenNMT/OpenNMT-py) |  Open Source Neural Machine Translation in PyTorch |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
