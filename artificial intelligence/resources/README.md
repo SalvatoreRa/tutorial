@@ -378,10 +378,10 @@ Other interesting resources
 | spark-nlp | [link](https://nlp.johnsnowlabs.com/) [GitHub](https://github.com/JohnSnowLabs/spark-nlp) |  State of the Art Natural Language Processing - The first production grade versions of the latest deep learning NLP researc|
 | SentencePiece | [GitHub](https://github.com/google/sentencepiece) |  Unsupervised text tokenizer for Neural Network-based text generation. developed by Google|
 | OpenNMT | [link](https://opennmt.net/) [GitHub](https://github.com/OpenNMT/OpenNMT-py) |  Open Source Neural Machine Translation in PyTorch |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Dedupe  | [link](https://docs.dedupe.io/en/latest/) [GitHub](https://github.com/dedupeio/dedupe) | A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution. |
+| pytorch-text |  [GitHub](https://github.com/pytorch/text) | Data loaders and abstractions for text and NLP  |
+| tensorflow-text | [link](https://www.tensorflow.org/text) [GitHub](https://github.com/tensorflow/text) | Making text a first-class citizen in TensorFlow.  |
+| stanza| [link](https://stanfordnlp.github.io/stanza/) [GitHub](https://github.com/stanfordnlp/stanza) | Official Stanford NLP Python Library for Many Human Languages  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
