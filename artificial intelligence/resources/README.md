@@ -362,11 +362,11 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| HuggingFace - Transformers | [link](https://huggingface.co/docs/transformers/index) [GitHub](https://github.com/huggingface/transformers) |  Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. |
+| NTLK | [link](https://www.nltk.org/) [GitHub](https://github.com/nltk/nltk) | Natural Language Toolkit  |
+| spaCy | [link](https://spacy.io/) [GitHub](https://github.com/explosion/spaCy) |Industrial-strength Natural Language Processing (NLP) in Python   |
+| gensim | [link](https://radimrehurek.com/gensim/) [GitHub](https://github.com/RaRe-Technologies/gensim) |Topic Modelling for Humans  |
+| rasa | [link](https://rasa.com/docs/) [GitHub](https://github.com/RasaHQ/rasa) | Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
