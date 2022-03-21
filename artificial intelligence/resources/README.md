@@ -369,9 +369,9 @@ Other interesting resources
 | rasa | [link](https://rasa.com/docs/) [GitHub](https://github.com/RasaHQ/rasa) | Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  |
 | flair | [GitHub](https://github.com/flairNLP/flair) | A very simple framework for state-of-the-art Natural Language Processing (NLP). Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages|
 | allennlp | [link](https://allenai.org/allennlp) [GitHub](https://github.com/allenai/allennlp) | An open-source NLP research library, built on PyTorch.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| fairseq | [link](https://fairseq.readthedocs.io/en/latest/) [GitHub](https://github.com/pytorch/fairseq) |  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks. |
+| ParlAI | [link](https://parl.ai/) [GitHub](https://github.com/facebookresearch/ParlAI) |  A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
+| chatterbot | [link](https://chatterbot.readthedocs.io/en/stable/) [GitHub](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
