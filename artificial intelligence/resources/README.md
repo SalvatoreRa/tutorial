@@ -367,8 +367,8 @@ Other interesting resources
 | spaCy | [link](https://spacy.io/) [GitHub](https://github.com/explosion/spaCy) |Industrial-strength Natural Language Processing (NLP) in Python   |
 | gensim | [link](https://radimrehurek.com/gensim/) [GitHub](https://github.com/RaRe-Technologies/gensim) |Topic Modelling for Humans  |
 | rasa | [link](https://rasa.com/docs/) [GitHub](https://github.com/RasaHQ/rasa) | Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| flair | [GitHub](https://github.com/flairNLP/flair) | A very simple framework for state-of-the-art Natural Language Processing (NLP). Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages|
+| allennlp | [link](https://allenai.org/allennlp) [GitHub](https://github.com/allenai/allennlp) | An open-source NLP research library, built on PyTorch.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
