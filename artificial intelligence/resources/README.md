@@ -366,6 +366,7 @@ Other interesting resources
 | HuggingFace - Transformers | [link](https://huggingface.co/docs/transformers/index) [GitHub](https://github.com/huggingface/transformers) |  Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. |
 | NTLK | [link](https://www.nltk.org/) [GitHub](https://github.com/nltk/nltk) | Natural Language Toolkit  |
 | spaCy | [link](https://spacy.io/) [GitHub](https://github.com/explosion/spaCy) |Industrial-strength Natural Language Processing (NLP) in Python   |
+|  textacy | [link](https://textacy.readthedocs.io/en/latest/) [GitHub](https://github.com/chartbeat-labs/textacy) |  NLP, before and after spaCy. textacy is a Python library for performing a variety of natural language processing (NLP) tasks, built on the high-performance spaCy library |
 | gensim | [link](https://radimrehurek.com/gensim/) [GitHub](https://github.com/RaRe-Technologies/gensim) |Topic Modelling for Humans  |
 | rasa | [link](https://rasa.com/docs/) [GitHub](https://github.com/RasaHQ/rasa) | Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  |
 | flair | [GitHub](https://github.com/flairNLP/flair) | A very simple framework for state-of-the-art Natural Language Processing (NLP). Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages|
@@ -383,10 +384,9 @@ Other interesting resources
 | tensorflow-text | [link](https://www.tensorflow.org/text) [GitHub](https://github.com/tensorflow/text) | Making text a first-class citizen in TensorFlow.  |
 | stanza| [link](https://stanfordnlp.github.io/stanza/) [GitHub](https://github.com/stanfordnlp/stanza) | Official Stanford NLP Python Library for Many Human Languages  |
 | ftfy | [link](https://ftfy.readthedocs.io/en/latest/) [GitHub](https://github.com/rspeer/python-ftfy) |  Fixes mojibake and other glitches in Unicode text, after the fact. |
-|  textacy | [link](https://textacy.readthedocs.io/en/latest/) [GitHub](https://github.com/chartbeat-labs/textacy) |  NLP, before and after spaCy. textacy is a Python library for performing a variety of natural language processing (NLP) tasks, built on the high-performance spaCy library |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| snowball | [link](https://snowballstem.org/) [GitHub](https://github.com/snowballstem/snowball) |Snowball compiler and stemming algorithms   |
+| DeepPavlov | [link](https://deeppavlov.ai/) [GitHub](https://github.com/deepmipt/DeepPavlov) | An open source library for deep learning end-to-end dialog systems and chatbots.  |
+| NeMo | [link](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/) [GitHub](https://github.com/NVIDIA/NeMo) | NeMo: a toolkit for conversational AI  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
