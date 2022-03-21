@@ -358,44 +358,7 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
-## Natural Language Processing
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| huggingface tokenizers| [link](https://huggingface.co/docs/tokenizers/python/latest/) [GitHub](https://github.com/huggingface/tokenizers) | Fast State-of-the-Art Tokenizers optimized for Research and Production  |
-| HuggingFace - Transformers | [link](https://huggingface.co/docs/transformers/index) [GitHub](https://github.com/huggingface/transformers) |  Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. |
-| NTLK | [link](https://www.nltk.org/) [GitHub](https://github.com/nltk/nltk) | Natural Language Toolkit  |
-| spaCy | [link](https://spacy.io/) [GitHub](https://github.com/explosion/spaCy) |Industrial-strength Natural Language Processing (NLP) in Python   |
-|  textacy | [link](https://textacy.readthedocs.io/en/latest/) [GitHub](https://github.com/chartbeat-labs/textacy) |  NLP, before and after spaCy. textacy is a Python library for performing a variety of natural language processing (NLP) tasks, built on the high-performance spaCy library |
-| gensim | [link](https://radimrehurek.com/gensim/) [GitHub](https://github.com/RaRe-Technologies/gensim) |Topic Modelling for Humans  |
-| rasa | [link](https://rasa.com/docs/) [GitHub](https://github.com/RasaHQ/rasa) | Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  |
-| flair | [GitHub](https://github.com/flairNLP/flair) | A very simple framework for state-of-the-art Natural Language Processing (NLP). Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages|
-| allennlp | [link](https://allenai.org/allennlp) [GitHub](https://github.com/allenai/allennlp) | An open-source NLP research library, built on PyTorch.  |
-| fairseq | [link](https://fairseq.readthedocs.io/en/latest/) [GitHub](https://github.com/pytorch/fairseq) |  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks. |
-| ParlAI | [link](https://parl.ai/) [GitHub](https://github.com/facebookresearch/ParlAI) |  A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
-| chatterbot | [link](https://chatterbot.readthedocs.io/en/stable/) [GitHub](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots   |
-| textblob | [link](https://textblob.readthedocs.io/en/dev/) [GitHub](https://github.com/sloria/TextBlob) |  Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. |
-| sentence-transformers | [link](https://www.sbert.net/) [GitHub](https://github.com/UKPLab/sentence-transformers) |  Multilingual Sentence & Image Embeddings with BERT |
-| spark-nlp | [link](https://nlp.johnsnowlabs.com/) [GitHub](https://github.com/JohnSnowLabs/spark-nlp) |  State of the Art Natural Language Processing - The first production grade versions of the latest deep learning NLP researc|
-| SentencePiece | [GitHub](https://github.com/google/sentencepiece) |  Unsupervised text tokenizer for Neural Network-based text generation. developed by Google|
-| OpenNMT | [link](https://opennmt.net/) [GitHub](https://github.com/OpenNMT/OpenNMT-py) |  Open Source Neural Machine Translation in PyTorch |
-| Dedupe  | [link](https://docs.dedupe.io/en/latest/) [GitHub](https://github.com/dedupeio/dedupe) | A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution. |
-| pytorch-text |  [GitHub](https://github.com/pytorch/text) | Data loaders and abstractions for text and NLP  |
-| tensorflow-text | [link](https://www.tensorflow.org/text) [GitHub](https://github.com/tensorflow/text) | Making text a first-class citizen in TensorFlow.  |
-| stanza| [link](https://stanfordnlp.github.io/stanza/) [GitHub](https://github.com/stanfordnlp/stanza) | Official Stanford NLP Python Library for Many Human Languages  |
-| ftfy | [link](https://ftfy.readthedocs.io/en/latest/) [GitHub](https://github.com/rspeer/python-ftfy) |  Fixes mojibake and other glitches in Unicode text, after the fact. |
-| snowball | [link](https://snowballstem.org/) [GitHub](https://github.com/snowballstem/snowball) |Snowball compiler and stemming algorithms   |
-| DeepPavlov | [link](https://deeppavlov.ai/) [GitHub](https://github.com/deepmipt/DeepPavlov) | An open source library for deep learning end-to-end dialog systems and chatbots.  |
-| NeMo | [link](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/) [GitHub](https://github.com/NVIDIA/NeMo) | NeMo: a toolkit for conversational AI  |
-| jellyfish | [link](https://jamesturk.github.io/jellyfish/) [GitHub](https://github.com/jamesturk/jellyfish) |a python library for doing approximate and phonetic matching of strings.   |
-| nlpaug | [link](https://makcedward.github.io/) [GitHub]https://github.com/makcedward/nlpaug) | Data augmentation for NLP  |
-| gluon-nlp | [link](https://nlp.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-nlp) | GluonNLP is a toolkit that helps you solve NLP problems. It provides easy-to-use tools that helps you load the text data, process the text data, and train models.  |
-| CLTK | [link](http://cltk.org/) [GitHub](https://github.com/cltk/cltk) | The Classical Language Toolkit (CLTK) is a Python library offering natural language processing (NLP) for pre-modern languages.  |
-| PyText | [link](https://pytext.readthedocs.io/en/master/) [GitHub](https://github.com/facebookresearch/pytext) | A natural language modeling framework based on PyTorch  |
-| haystack | [link](https://www.deepset.ai/haystack) [GitHub](https://github.com/deepset-ai/haystack) |  Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications. |
-| text-to-text-transfer-transformer |  [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |  Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
 
 # Contributing
 
