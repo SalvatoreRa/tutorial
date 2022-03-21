@@ -387,10 +387,10 @@ Other interesting resources
 | snowball | [link](https://snowballstem.org/) [GitHub](https://github.com/snowballstem/snowball) |Snowball compiler and stemming algorithms   |
 | DeepPavlov | [link](https://deeppavlov.ai/) [GitHub](https://github.com/deepmipt/DeepPavlov) | An open source library for deep learning end-to-end dialog systems and chatbots.  |
 | NeMo | [link](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/) [GitHub](https://github.com/NVIDIA/NeMo) | NeMo: a toolkit for conversational AI  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| jellyfish | [link](https://jamesturk.github.io/jellyfish/) [GitHub](https://github.com/jamesturk/jellyfish) |a python library for doing approximate and phonetic matching of strings.   |
+| nlpaug | [link](https://makcedward.github.io/) [GitHub]https://github.com/makcedward/nlpaug) | Data augmentation for NLP  |
+| gluon-nlp | [link](https://nlp.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-nlp) | GluonNLP is a toolkit that helps you solve NLP problems. It provides easy-to-use tools that helps you load the text data, process the text data, and train models.  |
+| CLTK | [link](http://cltk.org/) [GitHub](https://github.com/cltk/cltk) | The Classical Language Toolkit (CLTK) is a Python library offering natural language processing (NLP) for pre-modern languages.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
