@@ -392,9 +392,10 @@ Other interesting resources
 | gluon-nlp | [link](https://nlp.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-nlp) | GluonNLP is a toolkit that helps you solve NLP problems. It provides easy-to-use tools that helps you load the text data, process the text data, and train models.  |
 | CLTK | [link](http://cltk.org/) [GitHub](https://github.com/cltk/cltk) | The Classical Language Toolkit (CLTK) is a Python library offering natural language processing (NLP) for pre-modern languages.  |
 | PyText | [link](https://pytext.readthedocs.io/en/master/) [GitHub](https://github.com/facebookresearch/pytext) | A natural language modeling framework based on PyTorch  |
+| haystack | [link](https://www.deepset.ai/haystack) [GitHub](https://github.com/deepset-ai/haystack) |  Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications. |
+| text-to-text-transfer-transformer |  [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |  Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
 
 # Contributing
 
