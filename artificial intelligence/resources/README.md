@@ -372,9 +372,9 @@ Other interesting resources
 | fairseq | [link](https://fairseq.readthedocs.io/en/latest/) [GitHub](https://github.com/pytorch/fairseq) |  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks. |
 | ParlAI | [link](https://parl.ai/) [GitHub](https://github.com/facebookresearch/ParlAI) |  A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
 | chatterbot | [link](https://chatterbot.readthedocs.io/en/stable/) [GitHub](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| textblob | [link](https://textblob.readthedocs.io/en/dev/) [GitHub](https://github.com/sloria/TextBlob) |  Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. |
+| sentence-transformers | [link](https://www.sbert.net/) [GitHub](https://github.com/UKPLab/sentence-transformers) |  Multilingual Sentence & Image Embeddings with BERT |
+| spark-nlp | [link](https://nlp.johnsnowlabs.com/) [GitHub](https://github.com/JohnSnowLabs/spark-nlp) |  State of the Art Natural Language Processing - The first production grade versions of the latest deep learning NLP researc|
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
