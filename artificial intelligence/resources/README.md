@@ -382,8 +382,8 @@ Other interesting resources
 | pytorch-text |  [GitHub](https://github.com/pytorch/text) | Data loaders and abstractions for text and NLP  |
 | tensorflow-text | [link](https://www.tensorflow.org/text) [GitHub](https://github.com/tensorflow/text) | Making text a first-class citizen in TensorFlow.  |
 | stanza| [link](https://stanfordnlp.github.io/stanza/) [GitHub](https://github.com/stanfordnlp/stanza) | Official Stanford NLP Python Library for Many Human Languages  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| ftfy | [link](https://ftfy.readthedocs.io/en/latest/) [GitHub](https://github.com/rspeer/python-ftfy) |  Fixes mojibake and other glitches in Unicode text, after the fact. |
+|  textacy | [link](https://textacy.readthedocs.io/en/latest/) [GitHub](https://github.com/chartbeat-labs/textacy) |  NLP, before and after spaCy. textacy is a Python library for performing a variety of natural language processing (NLP) tasks, built on the high-performance spaCy library |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
