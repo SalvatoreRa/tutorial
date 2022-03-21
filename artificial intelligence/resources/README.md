@@ -391,7 +391,7 @@ Other interesting resources
 | nlpaug | [link](https://makcedward.github.io/) [GitHub]https://github.com/makcedward/nlpaug) | Data augmentation for NLP  |
 | gluon-nlp | [link](https://nlp.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-nlp) | GluonNLP is a toolkit that helps you solve NLP problems. It provides easy-to-use tools that helps you load the text data, process the text data, and train models.  |
 | CLTK | [link](http://cltk.org/) [GitHub](https://github.com/cltk/cltk) | The Classical Language Toolkit (CLTK) is a Python library offering natural language processing (NLP) for pre-modern languages.  |
-|  | [link]() [GitHub]() |   |
+| PyText | [link](https://pytext.readthedocs.io/en/master/) [GitHub](https://github.com/facebookresearch/pytext) | A natural language modeling framework based on PyTorch  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
