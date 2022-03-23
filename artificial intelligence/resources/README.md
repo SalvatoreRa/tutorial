@@ -78,7 +78,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GELU function](https://arxiv.org/pdf/1606.08415v3.pdf)| activation function | 2018 | GAUSSIAN ERROR LINEAR UNITS (GELUS): First introduction of GELU |
 | [Mish function](https://arxiv.org/abs/1908.08681)| activation function | 2019 | Mish: A Self Regularized Non-Monotonic Activation Function |
 | [Review activation function](https://arxiv.org/abs/2010.09458)| activation function | 2020 | Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks |
-| [DeepLift](https://arxiv.org/abs/1605.01713)| AI explicability | 2016 | Not Just a Black Box: Learning Important Features Through Propagating Activation Differences |
+| [Knowledge distillation](https://arxiv.org/abs/2010.09458)| Knowledge distillation| 2015 | Distilling the Knowledge in a Neural Network |
+| [DeepLift](https://arxiv.org/abs/1503.02531https://arxiv.org/abs/1605.01713)| AI explicability | 2016 | Not Just a Black Box: Learning Important Features Through Propagating Activation Differences |
 | [SHAP](https://arxiv.org/abs/1705.07874)| AI explicability | 2017 | A Unified Approach to Interpreting Model Predictions |
 | [AI explicability review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144864/)| AI explicability | 2020 |Transparency and reproducibility in artificial intelligence. Very good nature review |
 | [AI explicability review](https://www.mdpi.com/2504-4990/3/3/32)| AI explicability | 2021 | Classification of Explainable Artificial Intelligence Methods through Their Output Formats |
@@ -134,6 +135,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
 | [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
 | [Sentence-BERT ](https://arxiv.org/pdf/1908.10084.pdf)| NLP | 2019 | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks |
+| [Switch transformer ](https://arxiv.org/abs/2101.03961)| NLP | 2021 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity|
 | [Transformers review ](https://arxiv.org/abs/2106.04554)| NLP | 2021 | A Survey of Transformers |
 | [Gopher ](https://arxiv.org/abs/2112.11446)| NLP | 2021 | Scaling Language Models: Methods, Analysis & Insights from Training Gopher|
 | [scaling language model ](https://arxiv.org/abs/2001.08361)| NLP | 2020 | Scaling Laws for Neural Language Models|
