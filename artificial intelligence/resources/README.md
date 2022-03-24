@@ -384,9 +384,9 @@ Other interesting resources
 | nlp-architect  | [link](https://intellabs.github.io/nlp-architect/) [GitHub](https://github.com/IntelLabs/nlp-architect) | A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks. Developed from Intel |
 | texthero | [link](https://texthero.org/) [GitHub](https://github.com/jbesomi/texthero) | Text preprocessing, representation and visualization from zero to hero |
 | fast-bert | [GitHub](https://github.com/utterworks/fast-bert) | Super easy library for BERT based NLP models. Fast-Bert is the deep learning library that allows developers and data scientists to train and deploy BERT and XLNet based models for natural language processing tasks beginning with Text Classification.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| anaGo | [link](https://anago.herokuapp.com/) [GitHub](https://github.com/Hironsan/anago) |  Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech Tagging and so on. anaGo is a Python library for sequence labeling(NER, PoS Tagging,...), implemented in Keras. |
+| DeepMatcher  | [GitHub](https://github.com/anhaidgroup/deepmatcher) | Python package for performing Entity and Text Matching using Deep Learning. DeepMatcher is a Python package for performing entity and text matching using deep learning. It provides built-in neural networks and utilities that enable you to train and apply state-of-the-art deep learning models for entity matching in less than 10 lines of code.  |
+| FARM | [link](https://farm.deepset.ai/) [GitHub](https://github.com/deepset-ai/FARM) |  Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
