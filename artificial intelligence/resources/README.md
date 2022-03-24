@@ -370,8 +370,8 @@ Other interesting resources
 | fastNLP | [link](https://gitee.com/fastnlp/fastNLP) [GitHub](https://github.com/fastnlp/fastNLP) |  fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation. |
 | scispacy | [link](https://allenai.github.io/scispacy/) [GitHub](https://github.com/allenai/scispacy) | A full spaCy pipeline and models for scientific/biomedical documents.  |
 | spacy-transformers | [link](https://spacy.io/usage/embeddings-transformers) [GitHub](https://github.com/explosion/spacy-transformers) |  Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| snips-nlu | [link](https://snips-nlu.readthedocs.io/en/latest/) [GitHub](https://github.com/snipsco/snips-nlu) | Snips Python library to extract meaning from text. a Python library that allows to extract structured information from sentences written in natural language.  |
+| Pytorch-NLP | [link](https://pytorchnlp.readthedocs.io/en/latest/) [GitHub](https://github.com/PetrochukM/PyTorch-NLP) |  Basic Utilities for PyTorch Natural Language Processing (NLP). torchnlp extends PyTorch to provide you with basic text data processing functions. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
