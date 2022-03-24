@@ -391,9 +391,10 @@ Other interesting resources
 | detoxify | [link](https://www.unitary.ai/) [GitHub](https://github.com/unitaryai/detoxify) | Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using Pytorch Lightning and HuggingFace Transformers.  |
 | qdrant | [link](https://github.com/qdrant/qdrant) [GitHub](https://qdrant.tech/) |  Qdrant - vector similarity search engine with extended filtering support |
 | finetune | [link](https://finetune.indico.io/) [GitHub](https://github.com/IndicoDataSolutions/finetune) | Scikit-learn style model finetuning for NLP. Finetune is a library that allows users to leverage state-of-the-art pretrained NLP models for a wide variety of downstream tasks.  |
-|  | [link]() [GitHub]() | TextBox is an open-source library for building text generation system  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| RUCAIBox TextBox | [GitHub](https://github.com/RUCAIBox/TextBox) | TextBox is an open-source library for building text generation system. Our library includes 21 text generation algorithms, covering two major tasks: 1) Unconditional (input-free) Generation and 2) Conditional (Seq2Seq) Generation, including Machine Translation, Text Summarization, Attribute-to-Text, and Dialogue Systems |
+| OpenNRE |  [GitHub](https://github.com/thunlp/OpenNRE) |  An Open-Source Package for Neural Relation Extraction (NRE) |
+| Camphr | [link](https://camphr.readthedocs.io/en/latest/) [GitHub](https://github.com/PKSHATechnology-Research/camphr) |  Camphr - NLP libary for creating pipeline components |
+| vizseq | [link](https://facebookresearch.github.io/vizseq/)  [GitHub](https://github.com/facebookresearch/vizseq) |  An Analysis Toolkit for Natural Language Generation (Translation, Captioning, Summarization, etc.). [article](https://arxiv.org/abs/1909.05424) |
 
 
 # Contributing
