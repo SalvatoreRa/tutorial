@@ -360,6 +360,22 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
+| VADER Sentiment  | [GitHub](https://github.com/cjhutto/vaderSentiment) | VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains.  |
+| sumy | [link](https://miso-belica.github.io/sumy/) [GitHub](https://github.com/miso-belica/sumy) | Module for automatic summarization of text documents and HTML pages.  |
+| textdistance |  [GitHub](https://github.com/life4/textdistance) |  Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+
+
+
+
 
 
 # Contributing
