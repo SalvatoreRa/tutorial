@@ -375,9 +375,9 @@ Other interesting resources
 | scattertext |  [GitHub](https://github.com/JasonKessler/scattertext) | Beautiful visualizations of how language differs among document types. A tool for finding distinguishing terms in corpora and displaying them in an interactive HTML scatter plot. |
 | MatchZoo |  [GitHub](https://github.com/NTMC-Community/MatchZoo) |  Facilitating the design, comparison and sharing of deep text matching models. Facilitating the design, comparison and sharing of deep text matching models. |
 | sense2vec | [link](https://explosion.ai/blog/sense2vec-reloaded) [GitHub](https://github.com/explosion/sense2vec) | sense2vec is a nice twist on word2vec that lets you learn more interesting and detailed word vectors. This library is a simple Python implementation for loading, querying and training sense2vec models.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| sockeye | [link](https://awslabs.github.io/sockeye/) [GitHub](https://github.com/awslabs/sockeye) | Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch  |
+| Kashgari | [GitHub](https://github.com/BrikerMan/Kashgari) |  Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding. |
+| lightseq |  [GitHub](https://github.com/bytedance/lightseq) | LightSeq: A High Performance Library for Sequence Processing and Generation. It enables highly efficient computation of modern NLP models such as BERT, GPT, Transformer, etc. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
