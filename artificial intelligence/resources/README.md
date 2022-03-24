@@ -378,13 +378,23 @@ Other interesting resources
 | sockeye | [link](https://awslabs.github.io/sockeye/) [GitHub](https://github.com/awslabs/sockeye) | Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch  |
 | Kashgari | [GitHub](https://github.com/BrikerMan/Kashgari) |  Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding. |
 | lightseq |  [GitHub](https://github.com/bytedance/lightseq) | LightSeq: A High Performance Library for Sequence Processing and Generation. It enables highly efficient computation of modern NLP models such as BERT, GPT, Transformer, etc. |
+| rubrix | [link](https://rubrix.readthedocs.io/en/stable/) [GitHub](https://github.com/recognai/rubrix) |  Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP  |
+| pySBD | [GitHub](https://github.com/nipunsadvilkar/pySBD) |  pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box. |
+| gpt-2-simple | [GitHub](https://github.com/minimaxir/gpt-2-simple) |  Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts. A simple Python package that wraps existing model fine-tuning and generation scripts for OpenAI's GPT-2 text generation model (specifically the "small" 124M and "medium" 355M hyperparameter versions). |
+| nlp-architect  | [link](https://intellabs.github.io/nlp-architect/) [GitHub](https://github.com/IntelLabs/nlp-architect) | A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks. Developed from Intel |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
-
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 
 # Contributing
