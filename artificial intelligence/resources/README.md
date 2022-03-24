@@ -363,9 +363,9 @@ Other interesting resources
 | VADER Sentiment  | [GitHub](https://github.com/cjhutto/vaderSentiment) | VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains.  |
 | sumy | [link](https://miso-belica.github.io/sumy/) [GitHub](https://github.com/miso-belica/sumy) | Module for automatic summarization of text documents and HTML pages.  |
 | textdistance |  [GitHub](https://github.com/life4/textdistance) |  Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyTextRank | [link](https://derwen.ai/docs/ptr/) [GitHub](https://github.com/DerwenAI/pytextrank) | Python implementation of TextRank algorithms ("textgraphs") for phrase extraction  |
+| Ciphey | [link](https://github.com/Ciphey/Ciphey/wiki) [GitHub](https://github.com/Ciphey/Ciphey) |  Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes  |
+| NeuralCoref | [link](https://huggingface.co/coref/) [GitHub]() |  Fast Coreference Resolution in spaCy with Neural Networks. NeuralCoref is a pipeline extension for spaCy 2.1+ which annotates and resolves coreference clusters using a neural network. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
