@@ -368,8 +368,8 @@ Other interesting resources
 | NeuralCoref | [link](https://huggingface.co/coref/) [GitHub]() |  Fast Coreference Resolution in spaCy with Neural Networks. NeuralCoref is a pipeline extension for spaCy 2.1+ which annotates and resolves coreference clusters using a neural network. |
 | english-words | [GitHub](https://github.com/dwyl/english-words) |  A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion  |
 | fastNLP | [link](https://gitee.com/fastnlp/fastNLP) [GitHub](https://github.com/fastnlp/fastNLP) |  fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| scispacy | [link](https://allenai.github.io/scispacy/) [GitHub](https://github.com/allenai/scispacy) | A full spaCy pipeline and models for scientific/biomedical documents.  |
+| spacy-transformers | [link](https://spacy.io/usage/embeddings-transformers) [GitHub](https://github.com/explosion/spacy-transformers) |  Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
