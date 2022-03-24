@@ -372,13 +372,17 @@ Other interesting resources
 | spacy-transformers | [link](https://spacy.io/usage/embeddings-transformers) [GitHub](https://github.com/explosion/spacy-transformers) |  Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy |
 | snips-nlu | [link](https://snips-nlu.readthedocs.io/en/latest/) [GitHub](https://github.com/snipsco/snips-nlu) | Snips Python library to extract meaning from text. a Python library that allows to extract structured information from sentences written in natural language.  |
 | Pytorch-NLP | [link](https://pytorchnlp.readthedocs.io/en/latest/) [GitHub](https://github.com/PetrochukM/PyTorch-NLP) |  Basic Utilities for PyTorch Natural Language Processing (NLP). torchnlp extends PyTorch to provide you with basic text data processing functions. |
+| scattertext |  [GitHub](https://github.com/JasonKessler/scattertext) | Beautiful visualizations of how language differs among document types. A tool for finding distinguishing terms in corpora and displaying them in an interactive HTML scatter plot. |
+| MatchZoo |  [GitHub](https://github.com/NTMC-Community/MatchZoo) |  Facilitating the design, comparison and sharing of deep text matching models. Facilitating the design, comparison and sharing of deep text matching models. |
+| sense2vec | [link](https://explosion.ai/blog/sense2vec-reloaded) [GitHub](https://github.com/explosion/sense2vec) | sense2vec is a nice twist on word2vec that lets you learn more interesting and detailed word vectors. This library is a simple Python implementation for loading, querying and training sense2vec models.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 
 
