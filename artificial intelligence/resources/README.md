@@ -366,13 +366,18 @@ Other interesting resources
 | PyTextRank | [link](https://derwen.ai/docs/ptr/) [GitHub](https://github.com/DerwenAI/pytextrank) | Python implementation of TextRank algorithms ("textgraphs") for phrase extraction  |
 | Ciphey | [link](https://github.com/Ciphey/Ciphey/wiki) [GitHub](https://github.com/Ciphey/Ciphey) |  Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes  |
 | NeuralCoref | [link](https://huggingface.co/coref/) [GitHub]() |  Fast Coreference Resolution in spaCy with Neural Networks. NeuralCoref is a pipeline extension for spaCy 2.1+ which annotates and resolves coreference clusters using a neural network. |
+| english-words | [GitHub](https://github.com/dwyl/english-words) |  A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion  |
+| fastNLP | [link](https://gitee.com/fastnlp/fastNLP) [GitHub](https://github.com/fastnlp/fastNLP) |  fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 
 
