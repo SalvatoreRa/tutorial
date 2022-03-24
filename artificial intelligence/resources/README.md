@@ -387,12 +387,11 @@ Other interesting resources
 | anaGo | [link](https://anago.herokuapp.com/) [GitHub](https://github.com/Hironsan/anago) |  Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech Tagging and so on. anaGo is a Python library for sequence labeling(NER, PoS Tagging,...), implemented in Keras. |
 | DeepMatcher  | [GitHub](https://github.com/anhaidgroup/deepmatcher) | Python package for performing Entity and Text Matching using Deep Learning. DeepMatcher is a Python package for performing entity and text matching using deep learning. It provides built-in neural networks and utilities that enable you to train and apply state-of-the-art deep learning models for entity matching in less than 10 lines of code.  |
 | FARM | [link](https://farm.deepset.ai/) [GitHub](https://github.com/deepset-ai/FARM) |  Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| OpenPrompt | [link](https://thunlp.github.io/OpenPrompt/) [GitHub](https://github.com/thunlp/OpenPrompt) |  An Open-Source Framework for Prompt-Learning. Prompt-learning is the latest paradigm to adapt pre-trained language models (PLMs) to downstream NLP tasks, which modifies the input text with a textual template and directly uses PLMs to conduct pre-trained tasks.  |
+| detoxify | [link](https://www.unitary.ai/) [GitHub](https://github.com/unitaryai/detoxify) | Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using Pytorch Lightning and HuggingFace Transformers.  |
+| qdrant | [link](https://github.com/qdrant/qdrant) [GitHub](https://qdrant.tech/) |  Qdrant - vector similarity search engine with extended filtering support |
+| finetune | [link](https://finetune.indico.io/) [GitHub](https://github.com/IndicoDataSolutions/finetune) | Scikit-learn style model finetuning for NLP. Finetune is a library that allows users to leverage state-of-the-art pretrained NLP models for a wide variety of downstream tasks.  |
+|  | [link]() [GitHub]() | TextBox is an open-source library for building text generation system  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
