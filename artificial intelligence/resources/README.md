@@ -373,9 +373,9 @@ Other interesting resources
 | Imageio | [link](https://imageio.readthedocs.io/en/stable/) [GitHub](https://github.com/imageio/imageio) | Python library for reading and writing image data. Imageio is a Python library that provides an easy interface to read and write a wide range of image data, including animated images, video, volumetric data, and scientific formats.   |
 | albumentations | [link](https://albumentations.ai/docs/) [GitHub](https://github.com/albumentations-team/albumentations) |  Fast image augmentation library and an easy-to-use wrapper around other libraries |
 | moviepy | [link](https://zulko.github.io/moviepy/) [GitHub](https://github.com/Zulko/moviepy) | Video editing with Python. a Python library for video editing: cutting, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Kornia | [link](https://github.com/kornia/kornia) [GitHub](https://github.com/kornia/kornia) |  Open Source Differentiable Computer Vision Library. Kornia is a differentiable computer vision library for PyTorch. |
+| detectron2 | [link](https://detectron2.readthedocs.io/en/latest/tutorials/install.html) [GitHub](https://github.com/facebookresearch/detectron2) |  Detectron2 is a platform for object detection, segmentation and other visual recognition tasks. Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. It is the successor of Detectron and maskrcnn-benchmark. |
+| insightface | [link](https://insightface.ai/) [GitHub](https://github.com/deepinsight/insightface) |  State-of-the-art 2D and 3D Face Analysis Project |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
