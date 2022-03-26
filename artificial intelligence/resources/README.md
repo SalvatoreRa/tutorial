@@ -361,8 +361,16 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
+## Computer Vision
 
-
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 # Contributing
 
