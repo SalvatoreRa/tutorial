@@ -369,8 +369,8 @@ Other interesting resources
 | scikit-image | [link](https://scikit-image.org/) [GitHub](https://github.com/scikit-image/scikit-image) |  Image processing in Python. scikit-image is a collection of algorithms for image processing |
 | torchvision |  [GitHub](https://github.com/pytorch/vision) | Datasets, Transforms and Models specific to Computer Vision. The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.  |
 | OpenMMLab Detection | [link](https://mmdetection.readthedocs.io/en/latest/) [GitHub](https://github.com/open-mmlab/mmdetection) |  OpenMMLab Detection Toolbox and Benchmark. MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyTorch Image Models | [link](https://rwightman.github.io/pytorch-image-models/) [GitHub](https://github.com/rwightman/pytorch-image-models) |  PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
+| Imageio | [link](https://imageio.readthedocs.io/en/stable/) [GitHub](https://github.com/imageio/imageio) | Python library for reading and writing image data. Imageio is a Python library that provides an easy interface to read and write a wide range of image data, including animated images, video, volumetric data, and scientific formats.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
