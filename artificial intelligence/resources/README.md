@@ -389,6 +389,9 @@ Other interesting resources
 |   PyImageSearch | [link](https://pyimagesearch.com/) [GitHub](https://github.com/PyImageSearch/imutils) |A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.   |
 |vidgear  | [link](https://abhitronix.github.io/vidgear/latest/) [GitHub](https://github.com/abhiTronix/vidgear) | A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features  |
 |  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 # Contributing
 
