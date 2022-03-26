@@ -388,8 +388,8 @@ Other interesting resources
 | Vision Transformer - Pytorch |[GitHub](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  |
 |   PyImageSearch | [link](https://pyimagesearch.com/) [GitHub](https://github.com/PyImageSearch/imutils) |A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.   |
 |vidgear  | [link](https://abhitronix.github.io/vidgear/latest/) [GitHub](https://github.com/abhiTronix/vidgear) | A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| face-alignment | [link](https://www.adrianbulat.com/) [GitHub](https://github.com/1adrianb/face-alignment) |   2D and 3D Face alignment library build using pytorch|
+| Augmentor | [link](https://augmentor.readthedocs.io/en/master/) [GitHub](https://github.com/mdbloice/Augmentor) | Image augmentation library in Python for machine learning.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
