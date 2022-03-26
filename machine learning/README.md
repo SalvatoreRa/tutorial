@@ -38,6 +38,7 @@ You may write me for any request, suggestions and comments.
 | [Train and visualize regression tree](https://) | [notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Train_and_Visualize_regression_tree.ipynb)  | Train, visualize regression decision tree in Python- MEDIUM ARTICLE NOT YET PUBLISHED|
 | [Linear regression in R](https://) | [R-script](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/linear%20regression%20in%20r.R)  | Train and visualize a linear regression model in R- MEDIUM ARTICLE NOT YET PUBLISHED|
 | Introduction to NetworkX | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Intro_to_Networkx.ipynb)  | A notebook to refresh the use of NetworkX|
+| Introduction to Python iGraph | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Igraph.ipynb)  | A notebook to refresh the use of Python iGraph|
 
 &nbsp;
 
