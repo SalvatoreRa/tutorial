@@ -365,6 +365,24 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
+| pillow | [link](https://python-pillow.org/) [GitHub](https://github.com/python-pillow/Pillow) | The friendly PIL fork (Python Imaging Library)  |
+| scikit-image | [link](https://scikit-image.org/) [GitHub](https://github.com/scikit-image/scikit-image) |  Image processing in Python |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
