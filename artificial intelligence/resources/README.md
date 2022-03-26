@@ -410,9 +410,9 @@ Other interesting resources
 |image-match  |  [GitHub](https://github.com/ProvenanceLabs/image-match) |  Quickly search over billions of images. image-match is a simple (now Python 3!) package for finding approximate image matches from a corpus. It is similar, for instance, to pHash, but includes a database backend that easily scales to billions of images and supports sustained high rates of image insertion.|
 | PySlowFast |  [GitHub](https://github.com/facebookresearch/SlowFast) |  PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models. |
 | pycls | [GitHub](https://github.com/facebookresearch/pycls) |  pycls is an image classification codebase, written in PyTorch. It was originally developed for the On Network Design Spaces for Visual Recognition project. pycls has since matured and been adopted by a number of projects at Facebook AI Research. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| DETR  | [GitHub](https://github.com/facebookresearch/detr) |  End-to-End Object Detection with Transformers. PyTorch training code and pretrained models for DETR (DEtection TRansformer).  |
+| Caer  | [link](https://caer.readthedocs.io/en/latest/) [GitHub](https://github.com/jasmcaus/caer) |  High-performance Vision library in Python. Scale your research, not boilerplate. |
+| scenic |  [GitHub](https://github.com/google-research/scenic) |Scenic: A Jax Library for Computer Vision Research and Beyond   |
 
 
 # Contributing
