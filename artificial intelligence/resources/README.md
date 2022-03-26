@@ -384,8 +384,8 @@ Other interesting resources
 |PaddleDetection  | [GitHub](https://github.com/PaddlePaddle/PaddleDetection) |  Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection. |
 | deepface |   [GitHub](https://github.com/serengil/deepface) |  A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python |
 | ImageAI | [link](http://imageai.org/) [GitHub](https://github.com/OlafenwaMoses/ImageAI) |  A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| imagehash |  [GitHub](https://github.com/JohannesBuchner/imagehash) |  A Python Perceptual Image Hashing Module. Image hashes tell whether two images look nearly identical. |
+| Vision Transformer - Pytorch |[GitHub](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
