@@ -380,8 +380,8 @@ Other interesting resources
 | face_recognition | [GitHub](https://github.com/ageitgey/face_recognition) |  The world's simplest facial recognition api for Python and the command line |
 | Gluon  | [link](https://cv.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-cv) |  GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision. |
 | Wand | [link](https://docs.wand-py.org/en/0.6.7/) [GitHub](https://github.com/emcconville/wand) | The ctypes-based simple ImageMagick binding for Python  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PaddleSeg  | [GitHub](https://github.com/PaddlePaddle/PaddleSeg) |  Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc. [article](arxiv.org/abs/2101.06175) |
+| deepface |   [GitHub](https://github.com/serengil/deepface) |  A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
