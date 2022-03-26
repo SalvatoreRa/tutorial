@@ -133,7 +133,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [BERT ](https://arxiv.org/abs/1810.04805)| NLP | 2018 | First paper proposing BERT |
 | [DistilBERT ](https://arxiv.org/abs/1910.01108)| NLP | 2019 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter |
 | [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
-| [BART ](https://arxiv.org/abs/1910.13461)| NLP | 2019 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
+| [SciBERT ](https://arxiv.org/abs/1903.10676)| NLP | 2019 | SciBERT: A Pretrained Language Model for Scientific Text |
+| [ALBERT ](https://arxiv.org/abs/1909.11942)| NLP | 2019 | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations |
 | [Sentence-BERT ](https://arxiv.org/pdf/1908.10084.pdf)| NLP | 2019 | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks |
 | [Switch transformer ](https://arxiv.org/abs/2101.03961)| NLP | 2021 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity|
 | [Transformers review ](https://arxiv.org/abs/2106.04554)| NLP | 2021 | A Survey of Transformers |
