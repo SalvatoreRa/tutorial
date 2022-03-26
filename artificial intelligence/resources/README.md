@@ -395,9 +395,9 @@ Other interesting resources
 | Lightly  | [link](https://www.lightly.ai/) [GitHub](https://github.com/lightly-ai/lightly) |  A python library for self-supervised learning on images. |
 | CellProfiler | [link](https://cellprofiler.org/) [GitHub](https://github.com/CellProfiler/CellProfiler) |  An open-source application for biological image analysis |
 |LayoutParser  | [link](https://layout-parser.github.io/) [GitHub](https://github.com/Layout-Parser/layout-parser) |  A Unified Toolkit for Deep Learning Based Document Image Analysis, LayoutParser aims to provide a wide range of tools that aims to streamline Document Image Analysis (DIA) tasks.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| facenet-pytorch |  [GitHub](https://github.com/timesler/facenet-pytorch) | Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models. This is a repository for Inception Resnet (V1) models in pytorch, pretrained on VGGFace2 and CASIA-Webface.  |
+| TensorFlow Graphics |  [GitHub](https://github.com/tensorflow/graphics) |  TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow |
+| VISSL | [link](https://vissl.ai/) [GitHub](https://github.com/facebookresearch/vissl) | VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
