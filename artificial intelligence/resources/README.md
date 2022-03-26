@@ -386,8 +386,8 @@ Other interesting resources
 | ImageAI | [link](http://imageai.org/) [GitHub](https://github.com/OlafenwaMoses/ImageAI) |  A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities |
 | imagehash |  [GitHub](https://github.com/JohannesBuchner/imagehash) |  A Python Perceptual Image Hashing Module. Image hashes tell whether two images look nearly identical. |
 | Vision Transformer - Pytorch |[GitHub](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|   PyImageSearch | [link](https://pyimagesearch.com/) [GitHub](https://github.com/PyImageSearch/imutils) |A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.   |
+|vidgear  | [link](https://abhitronix.github.io/vidgear/latest/) [GitHub](https://github.com/abhiTronix/vidgear) | A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features  |
 |  | [link]() [GitHub]() |   |
 
 # Contributing
