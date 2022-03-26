@@ -366,9 +366,9 @@ Other interesting resources
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | pillow | [link](https://python-pillow.org/) [GitHub](https://github.com/python-pillow/Pillow) | The friendly PIL fork (Python Imaging Library)  |
-| scikit-image | [link](https://scikit-image.org/) [GitHub](https://github.com/scikit-image/scikit-image) |  Image processing in Python |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| scikit-image | [link](https://scikit-image.org/) [GitHub](https://github.com/scikit-image/scikit-image) |  Image processing in Python. scikit-image is a collection of algorithms for image processing |
+| torchvision |  [GitHub](https://github.com/pytorch/vision) | Datasets, Transforms and Models specific to Computer Vision. The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.  |
+| OpenMMLab Detection | [link](https://mmdetection.readthedocs.io/en/latest/) [GitHub](https://github.com/open-mmlab/mmdetection) |  OpenMMLab Detection Toolbox and Benchmark. MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
