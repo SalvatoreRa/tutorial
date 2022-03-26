@@ -378,8 +378,8 @@ Other interesting resources
 | insightface | [link](https://insightface.ai/) [GitHub](https://github.com/deepinsight/insightface) |  State-of-the-art 2D and 3D Face Analysis Project |
 | OpenCV  | [link](https://pypi.org/project/opencv-python/) [GitHub](https://github.com/opencv/opencv-python) | Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  |
 | face_recognition | [GitHub](https://github.com/ageitgey/face_recognition) |  The world's simplest facial recognition api for Python and the command line |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Gluon  | [link](https://cv.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-cv) |  GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision. |
+| Wand | [link](https://docs.wand-py.org/en/0.6.7/) [GitHub](https://github.com/emcconville/wand) | The ctypes-based simple ImageMagick binding for Python  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
