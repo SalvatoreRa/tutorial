@@ -371,8 +371,8 @@ Other interesting resources
 | OpenMMLab Detection | [link](https://mmdetection.readthedocs.io/en/latest/) [GitHub](https://github.com/open-mmlab/mmdetection) |  OpenMMLab Detection Toolbox and Benchmark. MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project. |
 | PyTorch Image Models | [link](https://rwightman.github.io/pytorch-image-models/) [GitHub](https://github.com/rwightman/pytorch-image-models) |  PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
 | Imageio | [link](https://imageio.readthedocs.io/en/stable/) [GitHub](https://github.com/imageio/imageio) | Python library for reading and writing image data. Imageio is a Python library that provides an easy interface to read and write a wide range of image data, including animated images, video, volumetric data, and scientific formats.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| albumentations | [link](https://albumentations.ai/docs/) [GitHub](https://github.com/albumentations-team/albumentations) |  Fast image augmentation library and an easy-to-use wrapper around other libraries |
+| moviepy | [link](https://zulko.github.io/moviepy/) [GitHub](https://github.com/Zulko/moviepy) | Video editing with Python. a Python library for video editing: cutting, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
