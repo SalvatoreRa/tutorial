@@ -392,9 +392,9 @@ Other interesting resources
 | Augmentor | [link](https://augmentor.readthedocs.io/en/master/) [GitHub](https://github.com/mdbloice/Augmentor) | Image augmentation library in Python for machine learning.  |
 | Mahotas | [link](https://mahotas.readthedocs.io/en/latest/) [GitHub](https://github.com/luispedro/mahotas) | Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays. |
 | MMF   | [link](https://mmf.sh/) [GitHub](https://github.com/facebookresearch/mmf) |  A modular framework for vision & language multimodal research from Facebook AI Research (FAIR).  MMF contains reference implementations of state-of-the-art vision and language models and has powered multiple research projects at Facebook AI Research.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Lightly  | [link](https://www.lightly.ai/) [GitHub](https://github.com/lightly-ai/lightly) |  A python library for self-supervised learning on images. |
+| CellProfiler | [link](https://cellprofiler.org/) [GitHub](https://github.com/CellProfiler/CellProfiler) |  An open-source application for biological image analysis |
+|LayoutParser  | [link](https://layout-parser.github.io/) [GitHub](https://github.com/Layout-Parser/layout-parser) |  A Unified Toolkit for Deep Learning Based Document Image Analysis, LayoutParser aims to provide a wide range of tools that aims to streamline Document Image Analysis (DIA) tasks.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
