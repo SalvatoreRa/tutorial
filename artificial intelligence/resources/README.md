@@ -390,8 +390,24 @@ Other interesting resources
 |vidgear  | [link](https://abhitronix.github.io/vidgear/latest/) [GitHub](https://github.com/abhiTronix/vidgear) | A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features  |
 | face-alignment | [link](https://www.adrianbulat.com/) [GitHub](https://github.com/1adrianb/face-alignment) |   2D and 3D Face alignment library build using pytorch|
 | Augmentor | [link](https://augmentor.readthedocs.io/en/master/) [GitHub](https://github.com/mdbloice/Augmentor) | Image augmentation library in Python for machine learning.  |
+| Mahotas | [link](https://mahotas.readthedocs.io/en/latest/) [GitHub](https://github.com/luispedro/mahotas) | Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays. |
+| MMF   | [link](https://mmf.sh/) [GitHub](https://github.com/facebookresearch/mmf) |  A modular framework for vision & language multimodal research from Facebook AI Research (FAIR).  MMF contains reference implementations of state-of-the-art vision and language models and has powered multiple research projects at Facebook AI Research.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+
+
 
 # Contributing
 
