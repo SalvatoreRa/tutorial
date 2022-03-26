@@ -401,9 +401,9 @@ Other interesting resources
 | PytorchVideo | [link](https://pytorchvideo.org/) [GitHub](https://github.com/facebookresearch/pytorchvideo) |  A deep learning library for video understanding research. PyTorchVideo is a deeplearning library with a focus on video understanding work. PytorchVideo provides reusable, modular and efficient components needed to accelerate the video understanding research.  |
 | MTCNN face detector  | [GitHub](https://github.com/ipazc/mtcnn) | MTCNN face detection implementation for TensorFlow, as a PIP package. Implementation of the MTCNN face detector for Keras in Python3.4+. It is written from scratch, using as a reference the implementation of MTCNN from David Sandberg |
 | SAHI: Slicing Aided Hyper Inference |  [GitHub](https://github.com/obss/sahi) | A lightweight vision library for performing large scale object detection/ instance segmentation.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| IceVision  | [link](https://airctic.com/0.12.0/) [GitHub](https://github.com/airctic/icevision) | An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come  |
+|Deep Daze  | [GitHub](https://github.com/lucidrains/deep-daze) |  Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by |
+| Image Super-Resolution | [link](https://idealo.github.io/image-super-resolution/) [GitHub](https://github.com/idealo/image-super-resolution) |   Super-scale your images and run experiments with Residual Dense and Adversarial Networks. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
