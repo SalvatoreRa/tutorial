@@ -361,59 +361,6 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
-## Computer Vision
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| pillow | [link](https://python-pillow.org/) [GitHub](https://github.com/python-pillow/Pillow) | The friendly PIL fork (Python Imaging Library)  |
-| scikit-image | [link](https://scikit-image.org/) [GitHub](https://github.com/scikit-image/scikit-image) |  Image processing in Python. scikit-image is a collection of algorithms for image processing |
-| torchvision |  [GitHub](https://github.com/pytorch/vision) | Datasets, Transforms and Models specific to Computer Vision. The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.  |
-| OpenMMLab Detection | [link](https://mmdetection.readthedocs.io/en/latest/) [GitHub](https://github.com/open-mmlab/mmdetection) |  OpenMMLab Detection Toolbox and Benchmark. MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project. |
-| PyTorch Image Models | [link](https://rwightman.github.io/pytorch-image-models/) [GitHub](https://github.com/rwightman/pytorch-image-models) |  PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
-| Imageio | [link](https://imageio.readthedocs.io/en/stable/) [GitHub](https://github.com/imageio/imageio) | Python library for reading and writing image data. Imageio is a Python library that provides an easy interface to read and write a wide range of image data, including animated images, video, volumetric data, and scientific formats.   |
-| albumentations | [link](https://albumentations.ai/docs/) [GitHub](https://github.com/albumentations-team/albumentations) |  Fast image augmentation library and an easy-to-use wrapper around other libraries |
-| moviepy | [link](https://zulko.github.io/moviepy/) [GitHub](https://github.com/Zulko/moviepy) | Video editing with Python. a Python library for video editing: cutting, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects.  |
-| Kornia | [link](https://github.com/kornia/kornia) [GitHub](https://github.com/kornia/kornia) |  Open Source Differentiable Computer Vision Library. Kornia is a differentiable computer vision library for PyTorch. |
-| detectron2 | [link](https://detectron2.readthedocs.io/en/latest/tutorials/install.html) [GitHub](https://github.com/facebookresearch/detectron2) |  Detectron2 is a platform for object detection, segmentation and other visual recognition tasks. Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. It is the successor of Detectron and maskrcnn-benchmark. |
-| insightface | [link](https://insightface.ai/) [GitHub](https://github.com/deepinsight/insightface) |  State-of-the-art 2D and 3D Face Analysis Project |
-| OpenCV  | [link](https://pypi.org/project/opencv-python/) [GitHub](https://github.com/opencv/opencv-python) | Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  |
-| face_recognition | [GitHub](https://github.com/ageitgey/face_recognition) |  The world's simplest facial recognition api for Python and the command line |
-| Gluon  | [link](https://cv.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-cv) |  GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision. |
-| Wand | [link](https://docs.wand-py.org/en/0.6.7/) [GitHub](https://github.com/emcconville/wand) | The ctypes-based simple ImageMagick binding for Python  |
-| PaddleSeg  | [GitHub](https://github.com/PaddlePaddle/PaddleSeg) |  Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc. [article](arxiv.org/abs/2101.06175) |
-|PaddleDetection  | [GitHub](https://github.com/PaddlePaddle/PaddleDetection) |  Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection. |
-| deepface |   [GitHub](https://github.com/serengil/deepface) |  A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python |
-| ImageAI | [link](http://imageai.org/) [GitHub](https://github.com/OlafenwaMoses/ImageAI) |  A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities |
-| imagehash |  [GitHub](https://github.com/JohannesBuchner/imagehash) |  A Python Perceptual Image Hashing Module. Image hashes tell whether two images look nearly identical. |
-| Vision Transformer - Pytorch |[GitHub](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  |
-|   PyImageSearch | [link](https://pyimagesearch.com/) [GitHub](https://github.com/PyImageSearch/imutils) |A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.   |
-|vidgear  | [link](https://abhitronix.github.io/vidgear/latest/) [GitHub](https://github.com/abhiTronix/vidgear) | A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features  |
-| face-alignment | [link](https://www.adrianbulat.com/) [GitHub](https://github.com/1adrianb/face-alignment) |   2D and 3D Face alignment library build using pytorch|
-| Augmentor | [link](https://augmentor.readthedocs.io/en/master/) [GitHub](https://github.com/mdbloice/Augmentor) | Image augmentation library in Python for machine learning.  |
-| Mahotas | [link](https://mahotas.readthedocs.io/en/latest/) [GitHub](https://github.com/luispedro/mahotas) | Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays. |
-| MMF   | [link](https://mmf.sh/) [GitHub](https://github.com/facebookresearch/mmf) |  A modular framework for vision & language multimodal research from Facebook AI Research (FAIR).  MMF contains reference implementations of state-of-the-art vision and language models and has powered multiple research projects at Facebook AI Research.  |
-| Lightly  | [link](https://www.lightly.ai/) [GitHub](https://github.com/lightly-ai/lightly) |  A python library for self-supervised learning on images. |
-| CellProfiler | [link](https://cellprofiler.org/) [GitHub](https://github.com/CellProfiler/CellProfiler) |  An open-source application for biological image analysis |
-|LayoutParser  | [link](https://layout-parser.github.io/) [GitHub](https://github.com/Layout-Parser/layout-parser) |  A Unified Toolkit for Deep Learning Based Document Image Analysis, LayoutParser aims to provide a wide range of tools that aims to streamline Document Image Analysis (DIA) tasks.  |
-| facenet-pytorch |  [GitHub](https://github.com/timesler/facenet-pytorch) | Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models. This is a repository for Inception Resnet (V1) models in pytorch, pretrained on VGGFace2 and CASIA-Webface.  |
-| TensorFlow Graphics |  [GitHub](https://github.com/tensorflow/graphics) |  TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow |
-| VISSL | [link](https://vissl.ai/) [GitHub](https://github.com/facebookresearch/vissl) | VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.  |
-| PytorchVideo | [link](https://pytorchvideo.org/) [GitHub](https://github.com/facebookresearch/pytorchvideo) |  A deep learning library for video understanding research. PyTorchVideo is a deeplearning library with a focus on video understanding work. PytorchVideo provides reusable, modular and efficient components needed to accelerate the video understanding research.  |
-| MTCNN face detector  | [GitHub](https://github.com/ipazc/mtcnn) | MTCNN face detection implementation for TensorFlow, as a PIP package. Implementation of the MTCNN face detector for Keras in Python3.4+. It is written from scratch, using as a reference the implementation of MTCNN from David Sandberg |
-| SAHI: Slicing Aided Hyper Inference |  [GitHub](https://github.com/obss/sahi) | A lightweight vision library for performing large scale object detection/ instance segmentation.  |
-| IceVision  | [link](https://airctic.com/0.12.0/) [GitHub](https://github.com/airctic/icevision) | An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come  |
-|Deep Daze  | [GitHub](https://github.com/lucidrains/deep-daze) |  Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by |
-| Image Super-Resolution | [link](https://idealo.github.io/image-super-resolution/) [GitHub](https://github.com/idealo/image-super-resolution) |   Super-scale your images and run experiments with Residual Dense and Adversarial Networks. |
-|pyvips  | [link](https://pypi.org/project/pyvips/) [GitHub](https://github.com/libvips/pyvips) |  python binding for libvips using cffi |
-| Classy Vision | [link](https://classyvision.ai/) [GitHub](https://github.com/facebookresearch/ClassyVision) | An end-to-end PyTorch framework for image and video classification. Classy Vision is a new end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models. |
-| Norfair | [link](https://tryolabs.com/) [GitHub](https://github.com/tryolabs/norfair) | Lightweight Python library for adding real-time object tracking to any detector , Norfair is a customizable lightweight Python library for real-time 2D object tracking.
-|image-match  |  [GitHub](https://github.com/ProvenanceLabs/image-match) |  Quickly search over billions of images. image-match is a simple (now Python 3!) package for finding approximate image matches from a corpus. It is similar, for instance, to pHash, but includes a database backend that easily scales to billions of images and supports sustained high rates of image insertion.|
-| PySlowFast |  [GitHub](https://github.com/facebookresearch/SlowFast) |  PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models. |
-| pycls | [GitHub](https://github.com/facebookresearch/pycls) |  pycls is an image classification codebase, written in PyTorch. It was originally developed for the On Network Design Spaces for Visual Recognition project. pycls has since matured and been adopted by a number of projects at Facebook AI Research. |
-| DETR  | [GitHub](https://github.com/facebookresearch/detr) |  End-to-End Object Detection with Transformers. PyTorch training code and pretrained models for DETR (DEtection TRansformer).  |
-| Caer  | [link](https://caer.readthedocs.io/en/latest/) [GitHub](https://github.com/jasmcaus/caer) |  High-performance Vision library in Python. Scale your research, not boilerplate. |
-| scenic |  [GitHub](https://github.com/google-research/scenic) |Scenic: A Jax Library for Computer Vision Research and Beyond   |
-
 
 # Contributing
 
