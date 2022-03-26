@@ -404,8 +404,8 @@ Other interesting resources
 | IceVision  | [link](https://airctic.com/0.12.0/) [GitHub](https://github.com/airctic/icevision) | An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come  |
 |Deep Daze  | [GitHub](https://github.com/lucidrains/deep-daze) |  Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by |
 | Image Super-Resolution | [link](https://idealo.github.io/image-super-resolution/) [GitHub](https://github.com/idealo/image-super-resolution) |   Super-scale your images and run experiments with Residual Dense and Adversarial Networks. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|pyvips  | [link](https://pypi.org/project/pyvips/) [GitHub](https://github.com/libvips/pyvips) |  python binding for libvips using cffi |
+| Classy Vision | [link](https://classyvision.ai/) [GitHub](https://github.com/facebookresearch/ClassyVision) | An end-to-end PyTorch framework for image and video classification. Classy Vision is a new end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
