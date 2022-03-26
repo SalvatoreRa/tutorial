@@ -408,8 +408,8 @@ Other interesting resources
 | Classy Vision | [link](https://classyvision.ai/) [GitHub](https://github.com/facebookresearch/ClassyVision) | An end-to-end PyTorch framework for image and video classification. Classy Vision is a new end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models. |
 | Norfair | [link](https://tryolabs.com/) [GitHub](https://github.com/tryolabs/norfair) | Lightweight Python library for adding real-time object tracking to any detector , Norfair is a customizable lightweight Python library for real-time 2D object tracking.
 |image-match  |  [GitHub](https://github.com/ProvenanceLabs/image-match) |  Quickly search over billions of images. image-match is a simple (now Python 3!) package for finding approximate image matches from a corpus. It is similar, for instance, to pHash, but includes a database backend that easily scales to billions of images and supports sustained high rates of image insertion.|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PySlowFast |  [GitHub](https://github.com/facebookresearch/SlowFast) |  PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models. |
+| pycls | [GitHub](https://github.com/facebookresearch/pycls) |  pycls is an image classification codebase, written in PyTorch. It was originally developed for the On Network Design Spaces for Visual Recognition project. pycls has since matured and been adopted by a number of projects at Facebook AI Research. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
