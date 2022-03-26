@@ -381,9 +381,9 @@ Other interesting resources
 | Gluon  | [link](https://cv.gluon.ai/) [GitHub](https://github.com/dmlc/gluon-cv) |  GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision. |
 | Wand | [link](https://docs.wand-py.org/en/0.6.7/) [GitHub](https://github.com/emcconville/wand) | The ctypes-based simple ImageMagick binding for Python  |
 | PaddleSeg  | [GitHub](https://github.com/PaddlePaddle/PaddleSeg) |  Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc. [article](arxiv.org/abs/2101.06175) |
+|PaddleDetection  | [GitHub](https://github.com/PaddlePaddle/PaddleDetection) |  Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection. |
 | deepface |   [GitHub](https://github.com/serengil/deepface) |  A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| ImageAI | [link](http://imageai.org/) [GitHub](https://github.com/OlafenwaMoses/ImageAI) |  A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
