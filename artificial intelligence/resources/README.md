@@ -376,8 +376,8 @@ Other interesting resources
 | Kornia | [link](https://github.com/kornia/kornia) [GitHub](https://github.com/kornia/kornia) |  Open Source Differentiable Computer Vision Library. Kornia is a differentiable computer vision library for PyTorch. |
 | detectron2 | [link](https://detectron2.readthedocs.io/en/latest/tutorials/install.html) [GitHub](https://github.com/facebookresearch/detectron2) |  Detectron2 is a platform for object detection, segmentation and other visual recognition tasks. Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. It is the successor of Detectron and maskrcnn-benchmark. |
 | insightface | [link](https://insightface.ai/) [GitHub](https://github.com/deepinsight/insightface) |  State-of-the-art 2D and 3D Face Analysis Project |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| OpenCV  | [link](https://pypi.org/project/opencv-python/) [GitHub](https://github.com/opencv/opencv-python) | Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  |
+| face_recognition | [GitHub](https://github.com/ageitgey/face_recognition) |  The world's simplest facial recognition api for Python and the command line |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
