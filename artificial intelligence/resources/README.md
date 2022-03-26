@@ -398,6 +398,9 @@ Other interesting resources
 | facenet-pytorch |  [GitHub](https://github.com/timesler/facenet-pytorch) | Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models. This is a repository for Inception Resnet (V1) models in pytorch, pretrained on VGGFace2 and CASIA-Webface.  |
 | TensorFlow Graphics |  [GitHub](https://github.com/tensorflow/graphics) |  TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow |
 | VISSL | [link](https://vissl.ai/) [GitHub](https://github.com/facebookresearch/vissl) | VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.  |
+| PytorchVideo | [link](https://pytorchvideo.org/) [GitHub](https://github.com/facebookresearch/pytorchvideo) |  A deep learning library for video understanding research. PyTorchVideo is a deeplearning library with a focus on video understanding work. PytorchVideo provides reusable, modular and efficient components needed to accelerate the video understanding research.  |
+| MTCNN face detector  | [GitHub](https://github.com/ipazc/mtcnn) | MTCNN face detection implementation for TensorFlow, as a PIP package. Implementation of the MTCNN face detector for Keras in Python3.4+. It is written from scratch, using as a reference the implementation of MTCNN from David Sandberg |
+| SAHI: Slicing Aided Hyper Inference |  [GitHub](https://github.com/obss/sahi) | A lightweight vision library for performing large scale object detection/ instance segmentation.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -406,7 +409,10 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 
 # Contributing
