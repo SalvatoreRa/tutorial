@@ -361,6 +361,13 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
+## Git Books
+
+| Link | Topic | Description |
+| --------- | ------ |----- |
+| [The Machine & Deep Learning Compendium](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/) | ML and DL |The project is intended to curate all the machine learning education material in one place |
+| [The Machine & Deep Learning Compendium](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/) | ML and DL |The project is intended to curate all the machine learning education material in one place |
+
 
 # Contributing
 
