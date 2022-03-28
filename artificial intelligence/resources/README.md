@@ -366,7 +366,10 @@ Other interesting resources
 | Link | Topic | Description |
 | --------- | ------ |----- |
 | [The Machine & Deep Learning Compendium](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/) | ML and DL |The project is intended to curate all the machine learning education material in one place |
+| [Rui's Blog/Paper Reading Notes ](https://ruipeterpan.gitbook.io/paper-reading-notes/) | ML and DL |This GitBook mainly hosts Rui Pan's paper reading notes. I also keep a non-technical blog here. The majority of the papers here are in the field of Machine Learning Systems and Operating Systems.  |
 | [The Machine & Deep Learning Compendium](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/) | ML and DL |The project is intended to curate all the machine learning education material in one place |
+| [Rui's Blog/Paper Reading Notes ](https://ruipeterpan.gitbook.io/paper-reading-notes/) | ML and DL |This GitBook mainly hosts Rui Pan's paper reading notes. I also keep a non-technical blog here. The majority of the papers here are in the field of Machine Learning Systems and Operating Systems.  |
+
 
 
 # Contributing
