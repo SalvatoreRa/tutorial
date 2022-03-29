@@ -361,14 +361,14 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
-## Git Books
+## Repositories
 
-| Link | Topic | Description |
-| --------- | ------ |----- |
-| [The Machine & Deep Learning Compendium](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/) | ML and DL |The project is intended to curate all the machine learning education material in one place |
-| [Rui's Blog/Paper Reading Notes ](https://ruipeterpan.gitbook.io/paper-reading-notes/) | ML and DL |This GitBook mainly hosts Rui Pan's paper reading notes. I also keep a non-technical blog here. The majority of the papers here are in the field of Machine Learning Systems and Operating Systems.  |
-| [Scrapbook ](https://stephanosterburg.gitbook.io/scrapbook/) | ML and DL |Scrapbook is a project that focuses on learning in a hands-on way. |
-| [Irosyadi GitBook project ](https://ruipeterpan.gitbook.io/paper-reading-notes/) | ML and programming |an abundant collection of applications  |
+| Name | Link | Topic |  Description |
+| ------- | ----------- | --- |  ------ |
+| NLP-progress| [link](https://nlpprogress.com/) | NLP | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. |
+| Awesome-nlp| [link](https://github.com/keon/awesome-nlp) | NLP | A curated list of resources dedicated to Natural Language Processing |
+| Awesome-machine learning| [link](https://github.com/josephmisiti/awesome-machine-learning) | machine learning | A curated list of awesome Machine Learning frameworks, libraries and software. |
+
 
 
 
