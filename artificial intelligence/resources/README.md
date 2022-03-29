@@ -368,8 +368,10 @@ Other interesting resources
 | NLP-progress| [link](https://nlpprogress.com/) | NLP | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. |
 | Awesome-nlp| [link](https://github.com/keon/awesome-nlp) | NLP | A curated list of resources dedicated to Natural Language Processing |
 | Awesome-machine learning| [link](https://github.com/josephmisiti/awesome-machine-learning) | machine learning | A curated list of awesome Machine Learning frameworks, libraries and software. |
-| Awesome Data Science [link](https://github.com/academic/awesome-datascience) | data science |  An awesome Data Science repository to learn and apply for real world problems. |
-| HOMEMADE MACHINE LEARNING| [link](https://github.com/trekhleb/homemade-machine-learning) |  Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained |
+| Awesome Data Science | [link](https://github.com/academic/awesome-datascience) | data science |  An awesome Data Science repository to learn and apply for real world problems. |
+| HOMEMADE MACHINE LEARNING| [link](https://github.com/trekhleb/homemade-machine-learning) | machine learning | Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained |
+| 500 AI-ML PROJECTS | [link](https://github.com/trekhleb/homemade-machine-learning) | AI - ML | This repository provides you with one of the most important lists containing over 500 projects on machine learning, NLP, AI along code|
+
 
 
 
