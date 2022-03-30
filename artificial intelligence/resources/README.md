@@ -393,10 +393,10 @@ Other interesting resources
 | PyTorch Cluster |  [GitHub](https://github.com/rusty1s/pytorch_cluster) | PyTorch Extension Library of Optimized Graph Cluster Algorithms. This package consists of a small extension library of highly optimized graph cluster algorithms for the use in PyTorch.  |
 | DeepSNAP | [link](https://snap.stanford.edu/deepsnap/) [GitHub](https://github.com/snap-stanford/deepsnap) |  DeepSNAP is a Python library to assist efficient deep learning on graphs. DeepSNAP features in its support for flexible graph manipulation, standard pipeline, heterogeneous graphs and simple API. |
 |  AutoGL | [link](http://mn.cs.tsinghua.edu.cn/AutoGL/) [GitHub](https://github.com/THUMNLab/AutoGL) |  An autoML framework & toolkit for machine learning on graphs |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Grakn KGLIB | [link](https://vaticle.com/) [GitHub](https://github.com/vaticle/kglib) | Grakn Knowledge Graph Library (ML R&D)  |
+| OpenKE-PyTorch | [GitHub](https://github.com/thunlp/OpenKE) |  An Open-Source Package for Knowledge Embedding (KE) |
+| ptgnn |  [GitHub](https://github.com/microsoft/ptgnn) | This is a library containing pyTorch code for creating graph neural network (GNN) models.  |
+| GraphGym  |  [GitHub](https://github.com/snap-stanford/GraphGym) |  Platform for designing and evaluating Graph Neural Networks (GNN), Stanford Project. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
