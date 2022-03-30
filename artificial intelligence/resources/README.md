@@ -207,6 +207,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [iGAN](https://arxiv.org/pdf/1609.03552.pdf)| art | 2016 | Generative Visual Manipulation on the Natural Image Manifold|
 | [Neural Doodle](https://arxiv.org/pdf/1603.01768.pdf)| art | 2016 | Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks|
 | [Coloring black and white images](https://arxiv.org/pdf/1603.08511.pdf)| art | 2016 | Colorful Image Colorization|
+| [Cross-View Panorama Image Synthesis](https://arxiv.org/pdf/2203.11832.pdf)| art | 2022 | synthesizing a ground-view panorama image conditioned on a top-view aerial image|
 
 &nbsp;
 
