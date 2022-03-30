@@ -379,9 +379,9 @@ Other interesting resources
 |  NetworkX | [link](https://networkx.org/) [GitHub](https://github.com/networkx/networkx) | Network Analysis in Python. NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  |
 | PyTorch Geometric | [link](https://pytorch-geometric.readthedocs.io/en/latest/) [GitHub](https://github.com/pyg-team/pytorch_geometric) |  PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data. |
 |  DEEP GRAPH LIBRARY | [link](https://www.dgl.ai/) [GitHub](https://github.com/dmlc/dgl) |  DGL is an easy-to-use, high performance and scalable Python package for deep learning on graphs. DGL is framework agnostic, working with PyTorch, Apache MXNet or TensorFlow. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| StellarGraph | [link](https://stellargraph.readthedocs.io/en/stable/) [GitHub](https://github.com/stellargraph/stellargraph) |  StellarGraph is a Python library for machine learning on graphs and networks. |
+| Open Graph Benchmark | [link](https://ogb.stanford.edu/) [GitHub](https://github.com/snap-stanford/ogb) | The Open Graph Benchmark (OGB) is a collection of benchmark datasets, data loaders, and evaluators for graph machine learning. Datasets cover a variety of graph machine learning tasks and real-world applications. The OGB data loaders are fully compatible with popular graph deep learning frameworks, including PyTorch Geometric and Deep Graph Library (DGL). |
+|Paddle Graph Learning  | [GitHub](https://github.com/PaddlePaddle/PGL) | Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
