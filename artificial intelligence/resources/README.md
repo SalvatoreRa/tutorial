@@ -398,9 +398,8 @@ Other interesting resources
 | ptgnn |  [GitHub](https://github.com/microsoft/ptgnn) | This is a library containing pyTorch code for creating graph neural network (GNN) models.  |
 | GraphGym  |  [GitHub](https://github.com/snap-stanford/GraphGym) |  Platform for designing and evaluating Graph Neural Networks (GNN), Stanford Project. |
 | igraph | [link](https://igraph.org/python/) [GitHub](https://github.com/igraph/python-igraph) | igraph is a library for creating and manipulating graphs. It is intended to be as powerful (ie. fast) as possible to enable the analysis of large graphs.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Karate Club | [link](https://karateclub.readthedocs.io/en/latest/) [GitHub](https://github.com/benedekrozemberczki/karateclub) | Karate Club is an unsupervised machine learning extension library for NetworkX.  |
+| DeepWalk | [link](http://www.perozzi.net/projects/deepwalk/) [GitHub](https://github.com/phanein/deepwalk) |  DeepWalk uses short random walks to learn representations for vertices in graphs.|
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
