@@ -384,9 +384,9 @@ Other interesting resources
 | Open Graph Benchmark | [link](https://ogb.stanford.edu/) [GitHub](https://github.com/snap-stanford/ogb) | The Open Graph Benchmark (OGB) is a collection of benchmark datasets, data loaders, and evaluators for graph machine learning. Datasets cover a variety of graph machine learning tasks and real-world applications. The OGB data loaders are fully compatible with popular graph deep learning frameworks, including PyTorch Geometric and Deep Graph Library (DGL). |
 |Paddle Graph Learning  | [GitHub](https://github.com/PaddlePaddle/PGL) | Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle  |
 |PyTorch Geometric Temporal  | [link](https://pytorch-geometric-temporal.readthedocs.io/en/latest/) [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | PyTorch Geometric Temporal is a temporal (dynamic) extension library for PyTorch Geometric.  The library consists of various dynamic and temporal geometric deep learning, embedding, and spatio-temporal regression methods from a variety of published research papers.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyKEEN  | [link](https://pykeen.readthedocs.io/en/stable/) [GitHub](https://github.com/pykeen/pykeen) |  A Python library for learning and evaluating knowledge graph embeddings |
+| Spektral | [link](https://graphneural.network/) [GitHub](https://github.com/danielegrattarola/spektral) |  Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. |
+| Graph4NLP | [link](https://dlg4nlp.github.io/index.html) [GitHub](https://github.com/graph4ai/graph4nlp) |  Graph4NLP is an easy-to-use library for R&D at the intersection of Deep Learning on Graphs and Natural Language Processing (i.e., DLG4NLP).  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
