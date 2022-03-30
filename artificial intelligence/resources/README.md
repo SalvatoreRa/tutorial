@@ -372,42 +372,6 @@ Other interesting resources
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
 
-## Graph and Geometric learning
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-|  NetworkX | [link](https://networkx.org/) [GitHub](https://github.com/networkx/networkx) | Network Analysis in Python. NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  |
-| PyGraphistry  | [link](https://www.graphistry.com/) [GitHub](https://github.com/graphistry/pygraphistry) | PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer  |
-| PyTorch Geometric | [link](https://pytorch-geometric.readthedocs.io/en/latest/) [GitHub](https://github.com/pyg-team/pytorch_geometric) |  PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data. |
-|  DEEP GRAPH LIBRARY | [link](https://www.dgl.ai/) [GitHub](https://github.com/dmlc/dgl) |  DGL is an easy-to-use, high performance and scalable Python package for deep learning on graphs. DGL is framework agnostic, working with PyTorch, Apache MXNet or TensorFlow. |
-| StellarGraph | [link](https://stellargraph.readthedocs.io/en/stable/) [GitHub](https://github.com/stellargraph/stellargraph) |  StellarGraph is a Python library for machine learning on graphs and networks. |
-| Open Graph Benchmark | [link](https://ogb.stanford.edu/) [GitHub](https://github.com/snap-stanford/ogb) | The Open Graph Benchmark (OGB) is a collection of benchmark datasets, data loaders, and evaluators for graph machine learning. Datasets cover a variety of graph machine learning tasks and real-world applications. The OGB data loaders are fully compatible with popular graph deep learning frameworks, including PyTorch Geometric and Deep Graph Library (DGL). |
-|Paddle Graph Learning  | [GitHub](https://github.com/PaddlePaddle/PGL) | Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle  |
-|PyTorch Geometric Temporal  | [link](https://pytorch-geometric-temporal.readthedocs.io/en/latest/) [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | PyTorch Geometric Temporal is a temporal (dynamic) extension library for PyTorch Geometric.  The library consists of various dynamic and temporal geometric deep learning, embedding, and spatio-temporal regression methods from a variety of published research papers.   |
-| PyKEEN  | [link](https://pykeen.readthedocs.io/en/stable/) [GitHub](https://github.com/pykeen/pykeen) |  A Python library for learning and evaluating knowledge graph embeddings |
-| Spektral | [link](https://graphneural.network/) [GitHub](https://github.com/danielegrattarola/spektral) |  Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. |
-| Graph4NLP | [link](https://dlg4nlp.github.io/index.html) [GitHub](https://github.com/graph4ai/graph4nlp) |  Graph4NLP is an easy-to-use library for R&D at the intersection of Deep Learning on Graphs and Natural Language Processing (i.e., DLG4NLP).  |
-| node2vec |  [GitHub](https://github.com/eliorc/node2vec) |  Python3 implementation of the node2vec algorithm |
-| PyTorch-BigGraph | [link](https://torchbiggraph.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/PyTorch-BigGraph) |  PyTorch-BigGraph (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges |
-| AmpliGraph | [link](https://docs.ampligraph.org/en/1.4.0/) [GitHub](https://github.com/Accenture/AmpliGraph) | AmpliGraph is a suite of neural machine learning models for relational Learning, a branch of machine learning that deals with supervised learning on knowledge graphs  |
-| PyTorch Cluster |  [GitHub](https://github.com/rusty1s/pytorch_cluster) | PyTorch Extension Library of Optimized Graph Cluster Algorithms. This package consists of a small extension library of highly optimized graph cluster algorithms for the use in PyTorch.  |
-| DeepSNAP | [link](https://snap.stanford.edu/deepsnap/) [GitHub](https://github.com/snap-stanford/deepsnap) |  DeepSNAP is a Python library to assist efficient deep learning on graphs. DeepSNAP features in its support for flexible graph manipulation, standard pipeline, heterogeneous graphs and simple API. |
-|  AutoGL | [link](http://mn.cs.tsinghua.edu.cn/AutoGL/) [GitHub](https://github.com/THUMNLab/AutoGL) |  An autoML framework & toolkit for machine learning on graphs |
-| Grakn KGLIB | [link](https://vaticle.com/) [GitHub](https://github.com/vaticle/kglib) | Grakn Knowledge Graph Library (ML R&D)  |
-| OpenKE-PyTorch | [GitHub](https://github.com/thunlp/OpenKE) |  An Open-Source Package for Knowledge Embedding (KE) |
-| ptgnn |  [GitHub](https://github.com/microsoft/ptgnn) | This is a library containing pyTorch code for creating graph neural network (GNN) models.  |
-| GraphGym  |  [GitHub](https://github.com/snap-stanford/GraphGym) |  Platform for designing and evaluating Graph Neural Networks (GNN), Stanford Project. |
-| igraph | [link](https://igraph.org/python/) [GitHub](https://github.com/igraph/python-igraph) | igraph is a library for creating and manipulating graphs. It is intended to be as powerful (ie. fast) as possible to enable the analysis of large graphs.  |
-| Karate Club | [link](https://karateclub.readthedocs.io/en/latest/) [GitHub](https://github.com/benedekrozemberczki/karateclub) | Karate Club is an unsupervised machine learning extension library for NetworkX.  |
-| DeepWalk | [link](http://www.perozzi.net/projects/deepwalk/) [GitHub](https://github.com/phanein/deepwalk) |  DeepWalk uses short random walks to learn representations for vertices in graphs.|
-| Graph Nets library | [GitHub](https://github.com/deepmind/graph_nets) | Graph Nets is DeepMind's library for building graph networks in Tensorflow and Sonnet.  |
-| pyRDF2Vec | [link](https://pyrdf2vec.readthedocs.io/en/latest/) [GitHub](https://github.com/IBCNServices/pyRDF2Vec) |  Python Implementation and Extension of RDF2Vec |
-| DeepGraph | [link](https://deepgraph.readthedocs.io/en/latest/) [GitHub](https://github.com/deepgraph/deepgraph) | DeepGraph is a scalable, general-purpose data analysis package. It implements a network representation based on pandas DataFrames  |
-|  GraphVite| [link](https://graphvite.io/) [GitHub](https://github.com/DeepGraphLearning/graphvite) |  GraphVite: A General and High-performance Graph Embedding System |
-
-
-
-
 # Contributing
 
 You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
