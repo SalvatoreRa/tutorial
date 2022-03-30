@@ -400,19 +400,11 @@ Other interesting resources
 | igraph | [link](https://igraph.org/python/) [GitHub](https://github.com/igraph/python-igraph) | igraph is a library for creating and manipulating graphs. It is intended to be as powerful (ie. fast) as possible to enable the analysis of large graphs.  |
 | Karate Club | [link](https://karateclub.readthedocs.io/en/latest/) [GitHub](https://github.com/benedekrozemberczki/karateclub) | Karate Club is an unsupervised machine learning extension library for NetworkX.  |
 | DeepWalk | [link](http://www.perozzi.net/projects/deepwalk/) [GitHub](https://github.com/phanein/deepwalk) |  DeepWalk uses short random walks to learn representations for vertices in graphs.|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Graph Nets library | [GitHub](https://github.com/deepmind/graph_nets) | Graph Nets is DeepMind's library for building graph networks in Tensorflow and Sonnet.  |
+| pyRDF2Vec | [link](https://pyrdf2vec.readthedocs.io/en/latest/) [GitHub](https://github.com/IBCNServices/pyRDF2Vec) |  Python Implementation and Extension of RDF2Vec |
+| DeepGraph | [link](https://deepgraph.readthedocs.io/en/latest/) [GitHub](https://github.com/deepgraph/deepgraph) | DeepGraph is a scalable, general-purpose data analysis package. It implements a network representation based on pandas DataFrames  |
+|  GraphVite| [link](https://graphvite.io/) [GitHub](https://github.com/DeepGraphLearning/graphvite) |  GraphVite: A General and High-performance Graph Embedding System |
+
 
 
 
