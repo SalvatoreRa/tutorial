@@ -376,9 +376,9 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  NetworkX | [link](https://networkx.org/) [GitHub](https://github.com/networkx/networkx) | Network Analysis in Python. NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  |
+| PyTorch Geometric | [link](https://pytorch-geometric.readthedocs.io/en/latest/) [GitHub](https://github.com/pyg-team/pytorch_geometric) |  PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data. |
+|  DEEP GRAPH LIBRARY | [link](https://www.dgl.ai/) [GitHub](https://github.com/dmlc/dgl) |  DGL is an easy-to-use, high performance and scalable Python package for deep learning on graphs. DGL is framework agnostic, working with PyTorch, Apache MXNet or TensorFlow. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
