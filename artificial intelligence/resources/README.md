@@ -387,10 +387,10 @@ Other interesting resources
 | PyKEEN  | [link](https://pykeen.readthedocs.io/en/stable/) [GitHub](https://github.com/pykeen/pykeen) |  A Python library for learning and evaluating knowledge graph embeddings |
 | Spektral | [link](https://graphneural.network/) [GitHub](https://github.com/danielegrattarola/spektral) |  Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. |
 | Graph4NLP | [link](https://dlg4nlp.github.io/index.html) [GitHub](https://github.com/graph4ai/graph4nlp) |  Graph4NLP is an easy-to-use library for R&D at the intersection of Deep Learning on Graphs and Natural Language Processing (i.e., DLG4NLP).  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| node2vec |  [GitHub](https://github.com/eliorc/node2vec) |  Python3 implementation of the node2vec algorithm |
+| PyTorch-BigGraph | [link](https://torchbiggraph.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/PyTorch-BigGraph) |  PyTorch-BigGraph (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges |
+| AmpliGraph | [link](https://docs.ampligraph.org/en/1.4.0/) [GitHub](https://github.com/Accenture/AmpliGraph) | AmpliGraph is a suite of neural machine learning models for relational Learning, a branch of machine learning that deals with supervised learning on knowledge graphs  |
+| PyTorch Cluster |  [GitHub](https://github.com/rusty1s/pytorch_cluster) | PyTorch Extension Library of Optimized Graph Cluster Algorithms. This package consists of a small extension library of highly optimized graph cluster algorithms for the use in PyTorch.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
