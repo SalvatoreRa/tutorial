@@ -391,8 +391,8 @@ Other interesting resources
 | PyTorch-BigGraph | [link](https://torchbiggraph.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/PyTorch-BigGraph) |  PyTorch-BigGraph (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges |
 | AmpliGraph | [link](https://docs.ampligraph.org/en/1.4.0/) [GitHub](https://github.com/Accenture/AmpliGraph) | AmpliGraph is a suite of neural machine learning models for relational Learning, a branch of machine learning that deals with supervised learning on knowledge graphs  |
 | PyTorch Cluster |  [GitHub](https://github.com/rusty1s/pytorch_cluster) | PyTorch Extension Library of Optimized Graph Cluster Algorithms. This package consists of a small extension library of highly optimized graph cluster algorithms for the use in PyTorch.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| DeepSNAP | [link](https://snap.stanford.edu/deepsnap/) [GitHub](https://github.com/snap-stanford/deepsnap) |  DeepSNAP is a Python library to assist efficient deep learning on graphs. DeepSNAP features in its support for flexible graph manipulation, standard pipeline, heterogeneous graphs and simple API. |
+|  AutoGL | [link](http://mn.cs.tsinghua.edu.cn/AutoGL/) [GitHub](https://github.com/THUMNLab/AutoGL) |  An autoML framework & toolkit for machine learning on graphs |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
