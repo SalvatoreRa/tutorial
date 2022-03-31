@@ -376,8 +376,8 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  deck.gl | [link](https://deck.gl/) [GitHub](https://github.com/visgl/deck.gl) |  deck.gl is designed to simplify high-performance, WebGL-based visualization of large data sets |
+| folium | [link](https://python-visualization.github.io/folium/) [GitHub](https://github.com/python-visualization/folium) | folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
