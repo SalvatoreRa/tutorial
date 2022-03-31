@@ -380,8 +380,8 @@ Other interesting resources
 | folium | [link](https://python-visualization.github.io/folium/) [GitHub](https://github.com/python-visualization/folium) | folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library.  |
 | GeoPandas  | [link](https://geopandas.org/en/stable/) [GitHub](https://github.com/geopandas/geopandas) | GeoPandas is a project to add support for geographic data to pandas objects  |
 | Rasterio | [link](https://rasterio.readthedocs.io/en/latest/) [GitHub](https://github.com/rasterio/rasterio) |  Rasterio reads and writes geospatial raster data. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|pyproj  | [link](https://pyproj4.github.io/pyproj/stable/) [GitHub](https://github.com/pyproj4/pyproj) | Python interface to PROJ (cartographic projections and coordinate transformations library).  |
+| Fiona | [link](https://fiona.readthedocs.io/en/latest/) [GitHub](https://github.com/Toblerity/Fiona) | Fiona reads and writes geographic data files and thereby helps Python programmers integrate geographic information systems with other computer systems  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
