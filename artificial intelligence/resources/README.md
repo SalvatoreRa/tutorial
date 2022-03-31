@@ -385,8 +385,8 @@ Other interesting resources
 |geopy  | [link](https://geopy.readthedocs.io/en/stable/) [GitHub](https://github.com/geopy/geopy) |  geopy is a Python client for several popular geocoding web services. |
 | ipyleaflet | [link](https://ipyleaflet.readthedocs.io/en/latest/) [GitHub](https://github.com/jupyter-widgets/ipyleaflet) |  A Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook |
 |  ArcGIS | [link](https://developers.arcgis.com/python/) [GitHub](https://github.com/Esri/arcgis-python-api) | ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS. It provides simple and efficient tools for deep learning, sophisticated vector and raster analysis, geocoding, map making, routing and directions  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Python Spatial Analysis Library | [link](http://pysal.org/pysal/) [GitHub](https://github.com/pysal/pysal) | PySAL, the Python spatial analysis library, is an open source cross-platform library for geospatial data science with an emphasis on geospatial vector data written in Python.   |
+|  GeoJSON | [link](https://pypi.org/project/geojson/) [GitHub](https://github.com/jazzband/geojson) |  Python bindings and utilities for GeoJSON |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
