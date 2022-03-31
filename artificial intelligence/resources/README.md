@@ -387,9 +387,10 @@ Other interesting resources
 |  ArcGIS | [link](https://developers.arcgis.com/python/) [GitHub](https://github.com/Esri/arcgis-python-api) | ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS. It provides simple and efficient tools for deep learning, sophisticated vector and raster analysis, geocoding, map making, routing and directions  |
 | Python Spatial Analysis Library | [link](http://pysal.org/pysal/) [GitHub](https://github.com/pysal/pysal) | PySAL, the Python spatial analysis library, is an open source cross-platform library for geospatial data science with an emphasis on geospatial vector data written in Python.   |
 |  GeoJSON | [link](https://pypi.org/project/geojson/) [GitHub](https://github.com/jazzband/geojson) |  Python bindings and utilities for GeoJSON |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| GeoViews  | [link](http://geoviews.org/) [GitHub](https://github.com/holoviz/geoviews) | GeoViews is a Python library that makes it easy to explore and visualize any data that includes geographic locations. It has particularly powerful support for multidimensional meteorological and oceanographic datasets, such as those used in weather, climate, and remote sensing research  |
+| EarthPy  | [link](https://earthpy.readthedocs.io/en/latest/) [GitHub](https://github.com/earthlab/earthpy) | EarthPy makes it easier to plot and manipulate spatial data in Python.  |
+| Mapbox GL JS | [link](https://mapbox-mapboxgl-jupyter.readthedocs-hosted.com/en/latest/) [GitHub](https://github.com/mapbox/mapboxgl-jupyter) | Use Mapbox GL JS to visualize data in a Python Jupyter notebook  |
+|  | [link]() [GitHub]() |  The Satpy package is a python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
