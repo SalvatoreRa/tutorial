@@ -390,9 +390,9 @@ Other interesting resources
 | GeoViews  | [link](http://geoviews.org/) [GitHub](https://github.com/holoviz/geoviews) | GeoViews is a Python library that makes it easy to explore and visualize any data that includes geographic locations. It has particularly powerful support for multidimensional meteorological and oceanographic datasets, such as those used in weather, climate, and remote sensing research  |
 | EarthPy  | [link](https://earthpy.readthedocs.io/en/latest/) [GitHub](https://github.com/earthlab/earthpy) | EarthPy makes it easier to plot and manipulate spatial data in Python.  |
 | Mapbox GL JS | [link](https://mapbox-mapboxgl-jupyter.readthedocs-hosted.com/en/latest/) [GitHub](https://github.com/mapbox/mapboxgl-jupyter) | Use Mapbox GL JS to visualize data in a Python Jupyter notebook  |
-|  | [link]() [GitHub]() |  The Satpy package is a python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  Satpy | [link](https://satpy.readthedocs.io/en/latest/) [GitHub](https://github.com/pytroll/satpy) |  The Satpy package is a python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.  |
+| Sentinelsat | [link](https://sentinelsat.readthedocs.io/en/stable/) [GitHub](https://github.com/sentinelsat/sentinelsat) |  Sentinelsat makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.|
+| prettymaps | [GitHub](https://github.com/marceloprates/prettymaps) | A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.  |
 
 # Contributing
 
