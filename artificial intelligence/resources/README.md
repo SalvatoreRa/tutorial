@@ -382,9 +382,9 @@ Other interesting resources
 | Rasterio | [link](https://rasterio.readthedocs.io/en/latest/) [GitHub](https://github.com/rasterio/rasterio) |  Rasterio reads and writes geospatial raster data. |
 |pyproj  | [link](https://pyproj4.github.io/pyproj/stable/) [GitHub](https://github.com/pyproj4/pyproj) | Python interface to PROJ (cartographic projections and coordinate transformations library).  |
 | Fiona | [link](https://fiona.readthedocs.io/en/latest/) [GitHub](https://github.com/Toblerity/Fiona) | Fiona reads and writes geographic data files and thereby helps Python programmers integrate geographic information systems with other computer systems  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|geopy  | [link](https://geopy.readthedocs.io/en/stable/) [GitHub](https://github.com/geopy/geopy) |  geopy is a Python client for several popular geocoding web services. |
+| ipyleaflet | [link](https://ipyleaflet.readthedocs.io/en/latest/) [GitHub](https://github.com/jupyter-widgets/ipyleaflet) |  A Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook |
+|  ArcGIS | [link](https://developers.arcgis.com/python/) [GitHub](https://github.com/Esri/arcgis-python-api) | ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS. It provides simple and efficient tools for deep learning, sophisticated vector and raster analysis, geocoding, map making, routing and directions  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
