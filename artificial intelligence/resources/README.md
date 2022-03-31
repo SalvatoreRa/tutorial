@@ -372,27 +372,7 @@ Other interesting resources
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
 
-## Geospatial data
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-|  deck.gl | [link](https://deck.gl/) [GitHub](https://github.com/visgl/deck.gl) |  deck.gl is designed to simplify high-performance, WebGL-based visualization of large data sets |
-| folium | [link](https://python-visualization.github.io/folium/) [GitHub](https://github.com/python-visualization/folium) | folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library.  |
-| GeoPandas  | [link](https://geopandas.org/en/stable/) [GitHub](https://github.com/geopandas/geopandas) | GeoPandas is a project to add support for geographic data to pandas objects  |
-| Rasterio | [link](https://rasterio.readthedocs.io/en/latest/) [GitHub](https://github.com/rasterio/rasterio) |  Rasterio reads and writes geospatial raster data. |
-|pyproj  | [link](https://pyproj4.github.io/pyproj/stable/) [GitHub](https://github.com/pyproj4/pyproj) | Python interface to PROJ (cartographic projections and coordinate transformations library).  |
-| Fiona | [link](https://fiona.readthedocs.io/en/latest/) [GitHub](https://github.com/Toblerity/Fiona) | Fiona reads and writes geographic data files and thereby helps Python programmers integrate geographic information systems with other computer systems  |
-|geopy  | [link](https://geopy.readthedocs.io/en/stable/) [GitHub](https://github.com/geopy/geopy) |  geopy is a Python client for several popular geocoding web services. |
-| ipyleaflet | [link](https://ipyleaflet.readthedocs.io/en/latest/) [GitHub](https://github.com/jupyter-widgets/ipyleaflet) |  A Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook |
-|  ArcGIS | [link](https://developers.arcgis.com/python/) [GitHub](https://github.com/Esri/arcgis-python-api) | ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS. It provides simple and efficient tools for deep learning, sophisticated vector and raster analysis, geocoding, map making, routing and directions  |
-| Python Spatial Analysis Library | [link](http://pysal.org/pysal/) [GitHub](https://github.com/pysal/pysal) | PySAL, the Python spatial analysis library, is an open source cross-platform library for geospatial data science with an emphasis on geospatial vector data written in Python.   |
-|  GeoJSON | [link](https://pypi.org/project/geojson/) [GitHub](https://github.com/jazzband/geojson) |  Python bindings and utilities for GeoJSON |
-| GeoViews  | [link](http://geoviews.org/) [GitHub](https://github.com/holoviz/geoviews) | GeoViews is a Python library that makes it easy to explore and visualize any data that includes geographic locations. It has particularly powerful support for multidimensional meteorological and oceanographic datasets, such as those used in weather, climate, and remote sensing research  |
-| EarthPy  | [link](https://earthpy.readthedocs.io/en/latest/) [GitHub](https://github.com/earthlab/earthpy) | EarthPy makes it easier to plot and manipulate spatial data in Python.  |
-| Mapbox GL JS | [link](https://mapbox-mapboxgl-jupyter.readthedocs-hosted.com/en/latest/) [GitHub](https://github.com/mapbox/mapboxgl-jupyter) | Use Mapbox GL JS to visualize data in a Python Jupyter notebook  |
-|  Satpy | [link](https://satpy.readthedocs.io/en/latest/) [GitHub](https://github.com/pytroll/satpy) |  The Satpy package is a python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.  |
-| Sentinelsat | [link](https://sentinelsat.readthedocs.io/en/stable/) [GitHub](https://github.com/sentinelsat/sentinelsat) |  Sentinelsat makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.|
-| prettymaps | [GitHub](https://github.com/marceloprates/prettymaps) | A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.  |
 
 # Contributing
 
