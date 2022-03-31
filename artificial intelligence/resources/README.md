@@ -372,6 +372,27 @@ Other interesting resources
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
 
+## Geospatial data
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+
 # Contributing
 
 You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
