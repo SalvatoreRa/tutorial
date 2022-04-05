@@ -432,8 +432,8 @@ Other interesting resources
 |Streamz  | [link](https://streamz.readthedocs.io/en/latest/) [GitHub](https://github.com/python-streamz/streamz) |  Streamz helps you build pipelines to manage continuous streams of data. It is simple to use in simple cases, but also supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on. |
 | pyts | [link](https://pyts.readthedocs.io/en/stable/) [GitHub](https://github.com/johannfaouzi/pyts) | pyts is a Python package for time series classification. It aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of state-of-the-art algorithms.  |
 | Greykite | [link](https://linkedin.github.io/greykite/get_started) [GitHub](https://github.com/linkedin/greykite) | The Greykite library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| seglearn  | [link](https://dmbee.github.io/seglearn/) [GitHub](https://github.com/dmbee/seglearn) |  Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator.  |
+| Auto_TS: Auto_TimeSeries | [GitHub](https://github.com/AutoViML/Auto_TS) |  Automatically build multiple Time Series models using a Single Line of Code. Now updated with Dask. Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
