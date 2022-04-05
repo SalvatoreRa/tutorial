@@ -429,9 +429,9 @@ Other interesting resources
 | PyTorch Forecasting | [link](https://pytorch-forecasting.readthedocs.io/en/stable/) [GitHub](https://github.com/jdb78/pytorch-forecasting) |  PyTorch Forecasting is a PyTorch-based package for forecasting time series with state-of-the-art network architectures. It provides a high-level API for training networks on pandas data frames and leverages PyTorch Lightning for scalable training on (multiple) GPUs, CPUs and for automatic logging. |
 |darts  | [link](https://unit8co.github.io/darts/) [GitHub](https://github.com/unit8co/darts) |  A python library for easy manipulation and forecasting of time series. |
 | GluonTS  | [link](https://ts.gluon.ai/) [GitHub](https://github.com/awslabs/gluon-ts) |  GluonTS is a Python package for probabilistic time series modeling, focusing on deep learning based models. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|Streamz  | [link](https://streamz.readthedocs.io/en/latest/) [GitHub](https://github.com/python-streamz/streamz) |  Streamz helps you build pipelines to manage continuous streams of data. It is simple to use in simple cases, but also supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on. |
+| pyts | [link](https://pyts.readthedocs.io/en/stable/) [GitHub](https://github.com/johannfaouzi/pyts) | pyts is a Python package for time series classification. It aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of state-of-the-art algorithms.  |
+| Greykite | [link](https://linkedin.github.io/greykite/get_started) [GitHub](https://github.com/linkedin/greykite) | The Greykite library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
