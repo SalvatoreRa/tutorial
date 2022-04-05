@@ -380,8 +380,8 @@ Other interesting resources
 | DeepSpeech | [link](https://deepspeech.readthedocs.io/en/r0.9/?badge=latest) [GitHub](https://github.com/mozilla/DeepSpeech) |DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques.   Project DeepSpeech uses Google's TensorFlow to make the implementation easier. |
 | librosa | [link](https://librosa.org/) [GitHub](https://github.com/librosa/librosa) | A python package for music and audio analysis.  |
 | torchaudio | [link](https://pytorch.org/audio/main/) [GitHub](https://github.com/pytorch/audio) | The aim of torchaudio is to apply PyTorch to the audio domain.  Data manipulation and transformation for audio signal processing |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| magenta | [link](https://magenta.tensorflow.org/) [GitHub](https://github.com/magenta/magenta) [GitHub](https://github.com/magenta) |   |
+| Pydub   | [link](http://pydub.com/) [GitHub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
