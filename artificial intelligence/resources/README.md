@@ -372,33 +372,6 @@ Other interesting resources
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
 
-## Audio data
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| ESPnet | [link](https://espnet.github.io/espnet/) [GitHub](https://github.com/espnet/espnet) | ESPnet is an end-to-end speech processing toolkit covering end-to-end speech recognition, text-to-speech, speech translation, speech enhancement, speaker diarization, spoken language understanding, and so on. ESPnet uses pytorch as a deep learning engine   |
-| DeepSpeech | [link](https://deepspeech.readthedocs.io/en/r0.9/?badge=latest) [GitHub](https://github.com/mozilla/DeepSpeech) |DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques.   Project DeepSpeech uses Google's TensorFlow to make the implementation easier. |
-| librosa | [link](https://librosa.org/) [GitHub](https://github.com/librosa/librosa) | A python package for music and audio analysis.  |
-| torchaudio | [link](https://pytorch.org/audio/main/) [GitHub](https://github.com/pytorch/audio) | The aim of torchaudio is to apply PyTorch to the audio domain.  Data manipulation and transformation for audio signal processing |
-| magenta | [link](https://magenta.tensorflow.org/) [GitHub](https://github.com/magenta/magenta) [GitHub](https://github.com/magenta) |   |
-| Pydub   | [link](http://pydub.com/) [GitHub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface  |
-| The SpeechBrain Toolkit | [link](https://speechbrain.github.io/) [GitHub](https://github.com/speechbrain/speechbrain) |  SpeechBrain is an open-source and all-in-one conversational AI toolkit based on PyTorch. |
-| SpeechRecognition  | [link](https://pypi.org/project/SpeechRecognition/) [GitHub](https://github.com/Uberi/speech_recognition) |  Library for performing speech recognition, with support for several engines and APIs, online and offline. |
-| pyAudioAnalysis   | [link](https://github.com/tyiannak/pyAudioAnalysis/wiki) [GitHub](https://github.com/tyiannak/pyAudioAnalysis) |  Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications |
-| Spleeter | [link](https://research.deezer.com/projects/spleeter.html) [GitHub](https://github.com/deezer/spleeter) |  Spleeter is Deezer source separation library with pretrained models written in Python and uses Tensorflow. It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavour of separation |
-|  coqui-TTS | [link](https://coqui.ai/) [GitHub](https://github.com/coqui-ai/TTS) |  TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects. |
-| audioread | [GitHub](https://github.com/beetbox/audioread) |  cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python |
-| Porcupine | [link](https://picovoice.ai/) [GitHub](https://github.com/Picovoice/porcupine) | Porcupine is a highly-accurate and lightweight wake word engine. It enables building always-listening voice-enabled applications.  |
-| madmom | [link](https://madmom.readthedocs.io/en/latest/) [GitHub](https://github.com/CPJKU/madmom) |  Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks. |
-|  tinytag | [GitHub](https://github.com/devsnd/tinytag) |  tinytag is a library for reading music meta data of most common audio files in pure python |
-| Audiomentations |  [GitHub](https://github.com/iver56/audiomentations) |  A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning. |
-| torch-audiomentations |  [GitHub](https://github.com/asteroid-team/torch-audiomentations) | Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.  |
-| python-soundfile | [link](https://python-soundfile.readthedocs.io/en/0.10.3post1/) [GitHub](https://github.com/bastibe/python-soundfile) |  The soundfile module is an audio library based on libsndfile, CFFI and NumPy. |
-| Kapre | [link](https://kapre.readthedocs.io/en/latest/) [GitHub](https://github.com/keunwoochoi/kapre) |  Keras Audio Preprocessors - compute STFT, ISTFT, Melspectrogram, and others on GPU real-time. |
-| nnAudio | [link](https://kinwaicheuk.github.io/nnAudio/index.html) [GitHub](https://github.com/KinWaiCheuk/nnAudio) | nnAudio is an audio processing toolbox using PyTorch convolutional neural network as its backend. By doing so, spectrograms can be generated from audio on-the-fly during neural network training and the Fourier kernels (e.g. or CQT kernels) can be trained. Kapre has a similar concept in which they also use 1D convolutional neural network to extract spectrograms based on Keras.  |
-| aubio | [link](https://aubio.org/) [GitHub](https://github.com/aubio/aubio) |  aubio is a library to label music and sounds. It listens to audio signals and attempts to detect events. For instance, when a drum is hit, at which frequency is a note, or at what tempo is a rhythmic melody. |
-| Essentia | [link](http://essentia.upf.edu/) [GitHub](https://github.com/MTG/essentia) | Essentia is an open-source C++ library for audio analysis and audio-based music information retrieval  It contains an extensive collection of reusable algorithms which implement audio input/output functionality, standard digital signal processing blocks, statistical characterization of data, and a large set of spectral, temporal, tonal and high-level music descriptors.  |
-
 
 ## Financial data
 
@@ -415,6 +388,7 @@ Other interesting resources
 | StockDataFrame  | [GitHub](https://github.com/jealous/stockstats) |  Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support. |
 |CryptoSignal   |[GitHub](https://github.com/CryptoSignal/Crypto-Signal) | Crypto Signals is a command line tool that automates your crypto currency Technical Analysis (TA). It is maintained by a community of traders, engineers, data scientists, PMs,  |
 | tf-quant-finance | [GitHub](https://github.com/google/tf-quant-finance) |High-performance TensorFlow library for quantitative finance.   |
+
 
 
 # Contributing
