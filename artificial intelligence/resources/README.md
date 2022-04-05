@@ -390,9 +390,9 @@ Other interesting resources
 | audioread | [GitHub](https://github.com/beetbox/audioread) |  cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python |
 | Porcupine | [link](https://picovoice.ai/) [GitHub](https://github.com/Picovoice/porcupine) | Porcupine is a highly-accurate and lightweight wake word engine. It enables building always-listening voice-enabled applications.  |
 | madmom | [link](https://madmom.readthedocs.io/en/latest/) [GitHub](https://github.com/CPJKU/madmom) |  Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  tinytag | [GitHub](https://github.com/devsnd/tinytag) |  tinytag is a library for reading music meta data of most common audio files in pure python |
+| Audiomentations |  [GitHub](https://github.com/iver56/audiomentations) |  A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning. |
+| torch-audiomentations |  [GitHub](https://github.com/asteroid-team/torch-audiomentations) | Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
