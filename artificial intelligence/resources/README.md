@@ -434,8 +434,8 @@ Other interesting resources
 | Greykite | [link](https://linkedin.github.io/greykite/get_started) [GitHub](https://github.com/linkedin/greykite) | The Greykite library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.  |
 | seglearn  | [link](https://dmbee.github.io/seglearn/) [GitHub](https://github.com/dmbee/seglearn) |  Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator.  |
 | Auto_TS: Auto_TimeSeries | [GitHub](https://github.com/AutoViML/Auto_TS) |  Automatically build multiple Time Series models using a Single Line of Code. Now updated with Dask. Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|Time Series Feature Extraction Library  | [link](https://tsfel.readthedocs.io/en/latest/) [GitHub](https://github.com/fraunhoferportugal/tsfel) | SFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort.  |
+|  AtsPy  | [article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631) [GitHub](https://github.com/firmai/atspy) | Easily develop state of the art time series models to forecast univariate data series. Simply load your data and select which models you want to test.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
