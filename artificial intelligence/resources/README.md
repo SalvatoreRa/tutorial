@@ -410,9 +410,9 @@ Other interesting resources
 | ib_insync | [link](https://ib-insync.readthedocs.io/api.html) [GitHub](https://github.com/erdewit/ib_insync) | Python sync/async framework for Interactive Brokers API. The goal of the IB-insync library is to make working with the Trader Workstation API from Interactive Brokers as easy as possible.  |
 | TensorTrade  | [link](https://www.tensortrade.org/en/latest/) [GitHub](https://github.com/tensortrade-org/tensortrade) |  TensorTrade is an open source Python framework for building, training, evaluating, and deploying robust trading algorithms using reinforcement learning.  |
 |  Alpha Vantage | [link](https://www.alphavantage.co/) [GitHub](https://github.com/RomelTorres/alpha_vantage) | Alpha Vantage delivers a free API for real time financial data and most used finance indicators in a simple json or pandas format.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| bt - Backtest trading | [link](http://pmorissette.github.io/bt/) [GitHub](https://github.com/pmorissette/bt) | bt is a flexible backtesting framework for Python used to test quantitative trading strategies.  |
+| ffn - Financial Functions for Python | [link](http://pmorissette.github.io/ffn/) [GitHub](https://github.com/pmorissette/ffn) |  ffn is a library that contains many useful functions for those who work in quantitative finance.  |
+| StockDataFrame  | [GitHub](https://github.com/jealous/stockstats) |  Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
