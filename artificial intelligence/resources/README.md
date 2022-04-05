@@ -373,24 +373,6 @@ Other interesting resources
 
 
 
-## Financial data
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| yfinance  | [link](https://aroussi.com/post/python-yahoo-finance) [GitHub](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance's API  |
-| Qlib | [link](https://qlib.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/qlib) |  Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. |
-|Technical Analysis Library in Python  | [link](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) [GitHub](https://github.com/bukosabino/ta) |  It is a Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume). It is built on Pandas and Numpy. |
-| ib_insync | [link](https://ib-insync.readthedocs.io/api.html) [GitHub](https://github.com/erdewit/ib_insync) | Python sync/async framework for Interactive Brokers API. The goal of the IB-insync library is to make working with the Trader Workstation API from Interactive Brokers as easy as possible.  |
-| TensorTrade  | [link](https://www.tensortrade.org/en/latest/) [GitHub](https://github.com/tensortrade-org/tensortrade) |  TensorTrade is an open source Python framework for building, training, evaluating, and deploying robust trading algorithms using reinforcement learning.  |
-|  Alpha Vantage | [link](https://www.alphavantage.co/) [GitHub](https://github.com/RomelTorres/alpha_vantage) | Alpha Vantage delivers a free API for real time financial data and most used finance indicators in a simple json or pandas format.   |
-| bt - Backtest trading | [link](http://pmorissette.github.io/bt/) [GitHub](https://github.com/pmorissette/bt) | bt is a flexible backtesting framework for Python used to test quantitative trading strategies.  |
-| ffn - Financial Functions for Python | [link](http://pmorissette.github.io/ffn/) [GitHub](https://github.com/pmorissette/ffn) |  ffn is a library that contains many useful functions for those who work in quantitative finance.  |
-| StockDataFrame  | [GitHub](https://github.com/jealous/stockstats) |  Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support. |
-|CryptoSignal   |[GitHub](https://github.com/CryptoSignal/Crypto-Signal) | Crypto Signals is a command line tool that automates your crypto currency Technical Analysis (TA). It is maintained by a community of traders, engineers, data scientists, PMs,  |
-| tf-quant-finance | [GitHub](https://github.com/google/tf-quant-finance) |High-performance TensorFlow library for quantitative finance.   |
-
-
-
 # Contributing
 
 You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
