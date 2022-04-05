@@ -415,6 +415,11 @@ Other interesting resources
 | StockDataFrame  | [GitHub](https://github.com/jealous/stockstats) |  Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support. |
 |CryptoSignal   |[GitHub](https://github.com/CryptoSignal/Crypto-Signal) | Crypto Signals is a command line tool that automates your crypto currency Technical Analysis (TA). It is maintained by a community of traders, engineers, data scientists, PMs,  |
 | tf-quant-finance | [GitHub](https://github.com/google/tf-quant-finance) |High-performance TensorFlow library for quantitative finance.   |
+
+## Timeseries data
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
