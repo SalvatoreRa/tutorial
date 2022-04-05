@@ -413,8 +413,8 @@ Other interesting resources
 | bt - Backtest trading | [link](http://pmorissette.github.io/bt/) [GitHub](https://github.com/pmorissette/bt) | bt is a flexible backtesting framework for Python used to test quantitative trading strategies.  |
 | ffn - Financial Functions for Python | [link](http://pmorissette.github.io/ffn/) [GitHub](https://github.com/pmorissette/ffn) |  ffn is a library that contains many useful functions for those who work in quantitative finance.  |
 | StockDataFrame  | [GitHub](https://github.com/jealous/stockstats) |  Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|CryptoSignal   |[GitHub](https://github.com/CryptoSignal/Crypto-Signal) | Crypto Signals is a command line tool that automates your crypto currency Technical Analysis (TA). It is maintained by a community of traders, engineers, data scientists, PMs,  |
+| tf-quant-finance | [GitHub](https://github.com/google/tf-quant-finance) |High-performance TensorFlow library for quantitative finance.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
