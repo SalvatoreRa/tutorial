@@ -393,9 +393,9 @@ Other interesting resources
 |  tinytag | [GitHub](https://github.com/devsnd/tinytag) |  tinytag is a library for reading music meta data of most common audio files in pure python |
 | Audiomentations |  [GitHub](https://github.com/iver56/audiomentations) |  A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning. |
 | torch-audiomentations |  [GitHub](https://github.com/asteroid-team/torch-audiomentations) | Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| python-soundfile | [link](https://python-soundfile.readthedocs.io/en/0.10.3post1/) [GitHub](https://github.com/bastibe/python-soundfile) |  The soundfile module is an audio library based on libsndfile, CFFI and NumPy. |
+| Kapre | [link](https://kapre.readthedocs.io/en/latest/) [GitHub](https://github.com/keunwoochoi/kapre) |  Keras Audio Preprocessors - compute STFT, ISTFT, Melspectrogram, and others on GPU real-time. |
+| nnAudio | [link](https://kinwaicheuk.github.io/nnAudio/index.html) [GitHub](https://github.com/KinWaiCheuk/nnAudio) | nnAudio is an audio processing toolbox using PyTorch convolutional neural network as its backend. By doing so, spectrograms can be generated from audio on-the-fly during neural network training and the Fourier kernels (e.g. or CQT kernels) can be trained. Kapre has a similar concept in which they also use 1D convolutional neural network to extract spectrograms based on Keras.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
