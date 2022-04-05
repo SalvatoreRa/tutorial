@@ -400,12 +400,12 @@ Other interesting resources
 | Essentia | [link](http://essentia.upf.edu/) [GitHub](https://github.com/MTG/essentia) | Essentia is an open-source C++ library for audio analysis and audio-based music information retrieval  It contains an extensive collection of reusable algorithms which implement audio input/output functionality, standard digital signal processing blocks, statistical characterization of data, and a large set of spectral, temporal, tonal and high-level music descriptors.  |
 
 
-## Audio data
+## Financial data
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| yfinance  | [link](https://aroussi.com/post/python-yahoo-finance) [GitHub](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance's API  |
+| Qlib | [link](https://qlib.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/qlib) |  Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
