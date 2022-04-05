@@ -408,8 +408,8 @@ Other interesting resources
 | Qlib | [link](https://qlib.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/qlib) |  Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. |
 |Technical Analysis Library in Python  | [link](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) [GitHub](https://github.com/bukosabino/ta) |  It is a Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume). It is built on Pandas and Numpy. |
 | ib_insync | [link](https://ib-insync.readthedocs.io/api.html) [GitHub](https://github.com/erdewit/ib_insync) | Python sync/async framework for Interactive Brokers API. The goal of the IB-insync library is to make working with the Trader Workstation API from Interactive Brokers as easy as possible.  |
-|  | [link]() [GitHub](https://github.com/tensortrade-org/tensortrade) |   |
-|  | [link]() [GitHub]() |   |
+| TensorTrade  | [link](https://www.tensortrade.org/en/latest/) [GitHub](https://github.com/tensortrade-org/tensortrade) |  TensorTrade is an open source Python framework for building, training, evaluating, and deploying robust trading algorithms using reinforcement learning.  |
+|  Alpha Vantage | [link](https://www.alphavantage.co/) [GitHub](https://github.com/RomelTorres/alpha_vantage) | Alpha Vantage delivers a free API for real time financial data and most used finance indicators in a simple json or pandas format.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
