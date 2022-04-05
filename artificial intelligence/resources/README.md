@@ -382,8 +382,8 @@ Other interesting resources
 | torchaudio | [link](https://pytorch.org/audio/main/) [GitHub](https://github.com/pytorch/audio) | The aim of torchaudio is to apply PyTorch to the audio domain.  Data manipulation and transformation for audio signal processing |
 | magenta | [link](https://magenta.tensorflow.org/) [GitHub](https://github.com/magenta/magenta) [GitHub](https://github.com/magenta) |   |
 | Pydub   | [link](http://pydub.com/) [GitHub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| The SpeechBrain Toolkit | [link](https://speechbrain.github.io/) [GitHub](https://github.com/speechbrain/speechbrain) |  SpeechBrain is an open-source and all-in-one conversational AI toolkit based on PyTorch. |
+| SpeechRecognition  | [link](https://pypi.org/project/SpeechRecognition/) [GitHub](https://github.com/Uberi/speech_recognition) |  Library for performing speech recognition, with support for several engines and APIs, online and offline. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
