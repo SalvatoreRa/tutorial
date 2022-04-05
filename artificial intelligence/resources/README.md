@@ -416,29 +416,6 @@ Other interesting resources
 |CryptoSignal   |[GitHub](https://github.com/CryptoSignal/Crypto-Signal) | Crypto Signals is a command line tool that automates your crypto currency Technical Analysis (TA). It is maintained by a community of traders, engineers, data scientists, PMs,  |
 | tf-quant-finance | [GitHub](https://github.com/google/tf-quant-finance) |High-performance TensorFlow library for quantitative finance.   |
 
-## Timeseries data
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| sktime | [link](https://www.sktime.org/en/stable/) [GitHub](https://github.com/alan-turing-institute/sktime) | sktime is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting.   |
-| Prophet | [link](https://facebook.github.io/prophet/) [GitHub](https://github.com/facebook/prophet) | Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. Prophet is open source software released by Facebook |
-| tsfresh | [link](https://tsfresh.readthedocs.io/en/latest/) [GitHub](https://github.com/blue-yonder/tsfresh) | The package provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.  |
-| Pmdarima  | [link](https://alkaline-ml.com/pmdarima/) [GitHub](https://github.com/alkaline-ml/pmdarima) | A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.  |
-| tslearn | [link](https://tslearn.readthedocs.io/en/stable/) [GitHub](https://github.com/tslearn-team/tslearn) | A machine learning toolkit dedicated to time-series data  |
-| STUMPY  | [link](https://stumpy.readthedocs.io/en/latest/) [GitHub](https://github.com/TDAmeritrade/stumpy) | STUMPY is a powerful and scalable Python library for modern time series analysis  |
-| PyTorch Forecasting | [link](https://pytorch-forecasting.readthedocs.io/en/stable/) [GitHub](https://github.com/jdb78/pytorch-forecasting) |  PyTorch Forecasting is a PyTorch-based package for forecasting time series with state-of-the-art network architectures. It provides a high-level API for training networks on pandas data frames and leverages PyTorch Lightning for scalable training on (multiple) GPUs, CPUs and for automatic logging. |
-|darts  | [link](https://unit8co.github.io/darts/) [GitHub](https://github.com/unit8co/darts) |  A python library for easy manipulation and forecasting of time series. |
-| GluonTS  | [link](https://ts.gluon.ai/) [GitHub](https://github.com/awslabs/gluon-ts) |  GluonTS is a Python package for probabilistic time series modeling, focusing on deep learning based models. |
-|Streamz  | [link](https://streamz.readthedocs.io/en/latest/) [GitHub](https://github.com/python-streamz/streamz) |  Streamz helps you build pipelines to manage continuous streams of data. It is simple to use in simple cases, but also supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on. |
-| pyts | [link](https://pyts.readthedocs.io/en/stable/) [GitHub](https://github.com/johannfaouzi/pyts) | pyts is a Python package for time series classification. It aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of state-of-the-art algorithms.  |
-| Greykite | [link](https://linkedin.github.io/greykite/get_started) [GitHub](https://github.com/linkedin/greykite) | The Greykite library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.  |
-| seglearn  | [link](https://dmbee.github.io/seglearn/) [GitHub](https://github.com/dmbee/seglearn) |  Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator.  |
-| Auto_TS: Auto_TimeSeries | [GitHub](https://github.com/AutoViML/Auto_TS) |  Automatically build multiple Time Series models using a Single Line of Code. Now updated with Dask. Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. |
-|Time Series Feature Extraction Library  | [link](https://tsfel.readthedocs.io/en/latest/) [GitHub](https://github.com/fraunhoferportugal/tsfel) | SFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort.  |
-|  AtsPy  | [article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631) [GitHub](https://github.com/firmai/atspy) | Easily develop state of the art time series models to forecast univariate data series. Simply load your data and select which models you want to test.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
 
 # Contributing
 
