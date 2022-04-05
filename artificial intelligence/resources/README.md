@@ -386,10 +386,10 @@ Other interesting resources
 | SpeechRecognition  | [link](https://pypi.org/project/SpeechRecognition/) [GitHub](https://github.com/Uberi/speech_recognition) |  Library for performing speech recognition, with support for several engines and APIs, online and offline. |
 | pyAudioAnalysis   | [link](https://github.com/tyiannak/pyAudioAnalysis/wiki) [GitHub](https://github.com/tyiannak/pyAudioAnalysis) |  Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications |
 | Spleeter | [link](https://research.deezer.com/projects/spleeter.html) [GitHub](https://github.com/deezer/spleeter) |  Spleeter is Deezer source separation library with pretrained models written in Python and uses Tensorflow. It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavour of separation |
-|  coqui-TTS | [link]() [GitHub](https://github.com/coqui-ai/TTS) |  TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  coqui-TTS | [link](https://coqui.ai/) [GitHub](https://github.com/coqui-ai/TTS) |  TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects. |
+| audioread | [GitHub](https://github.com/beetbox/audioread) |  cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python |
+| Porcupine | [link](https://picovoice.ai/) [GitHub](https://github.com/Picovoice/porcupine) | Porcupine is a highly-accurate and lightweight wake word engine. It enables building always-listening voice-enabled applications.  |
+| madmom | [link](https://madmom.readthedocs.io/en/latest/) [GitHub](https://github.com/CPJKU/madmom) |  Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
