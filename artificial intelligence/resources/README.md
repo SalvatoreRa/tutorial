@@ -420,9 +420,9 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| sktime | [link](https://www.sktime.org/en/stable/) [GitHub](https://github.com/alan-turing-institute/sktime) | sktime is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting.   |
+| Prophet | [link](https://facebook.github.io/prophet/) [GitHub](https://github.com/facebook/prophet) | Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. Prophet is open source software released by Facebook |
+|  | [link]() [GitHub](https://github.com/blue-yonder/tsfresh) |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
