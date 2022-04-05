@@ -426,9 +426,9 @@ Other interesting resources
 | Pmdarima  | [link](https://alkaline-ml.com/pmdarima/) [GitHub](https://github.com/alkaline-ml/pmdarima) | A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.  |
 | tslearn | [link](https://tslearn.readthedocs.io/en/stable/) [GitHub](https://github.com/tslearn-team/tslearn) | A machine learning toolkit dedicated to time-series data  |
 | STUMPY  | [link](https://stumpy.readthedocs.io/en/latest/) [GitHub](https://github.com/TDAmeritrade/stumpy) | STUMPY is a powerful and scalable Python library for modern time series analysis  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyTorch Forecasting | [link](https://pytorch-forecasting.readthedocs.io/en/stable/) [GitHub](https://github.com/jdb78/pytorch-forecasting) |  PyTorch Forecasting is a PyTorch-based package for forecasting time series with state-of-the-art network architectures. It provides a high-level API for training networks on pandas data frames and leverages PyTorch Lightning for scalable training on (multiple) GPUs, CPUs and for automatic logging. |
+|darts  | [link](https://unit8co.github.io/darts/) [GitHub](https://github.com/unit8co/darts) |  A python library for easy manipulation and forecasting of time series. |
+| GluonTS  | [link](https://ts.gluon.ai/) [GitHub](https://github.com/awslabs/gluon-ts) |  GluonTS is a Python package for probabilistic time series modeling, focusing on deep learning based models. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
