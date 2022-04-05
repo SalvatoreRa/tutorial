@@ -406,9 +406,9 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | yfinance  | [link](https://aroussi.com/post/python-yahoo-finance) [GitHub](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance's API  |
 | Qlib | [link](https://qlib.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/qlib) |  Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|Technical Analysis Library in Python  | [link](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) [GitHub](https://github.com/bukosabino/ta) |  It is a Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume). It is built on Pandas and Numpy. |
+| ib_insync | [link](https://ib-insync.readthedocs.io/api.html) [GitHub](https://github.com/erdewit/ib_insync) | Python sync/async framework for Interactive Brokers API. The goal of the IB-insync library is to make working with the Trader Workstation API from Interactive Brokers as easy as possible.  |
+|  | [link]() [GitHub](https://github.com/tensortrade-org/tensortrade) |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
