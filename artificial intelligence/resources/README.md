@@ -409,8 +409,8 @@ Other interesting resources
 | EasyOCR | [link](https://www.jaided.ai/easyocr/) [GitHub](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.|
 | Python-tesseract | [GitHub](https://github.com/madmaze/pytesseract) | Python-tesseract is an optical character recognition (OCR) tool for python. A Python wrapper for Google Tesseract |
 |  OCRmyPDF | [link](https://ocrmypdf.readthedocs.io/en/latest/) [GitHub](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| tesserocr | [GitHub](https://github.com/sirfz/tesserocr) |  A Python wrapper for the tesseract-ocr API |
+|  calamari| [link](https://calamari-ocr.readthedocs.io/en/latest/) [GitHub](https://github.com/Calamari-OCR/calamari) |  Line based ATR Engine based on OCRopy |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
