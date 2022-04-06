@@ -440,8 +440,8 @@ Other interesting resources
 | swifter | [link](https://github.com/jmcarpenter2/swifter/blob/master/docs/documentation.md) [GitHub](https://github.com/jmcarpenter2/swifter) |  A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner. |
 | pandera | [link](https://pandera.readthedocs.io/en/stable/) [GitHub](https://github.com/pandera-dev/pandera) | pandera provides a flexible and expressive API for performing data validation on dataframes to make data processing pipelines more readable and robust.  |
 | pandarallel | [link](https://nalepae.github.io/pandarallel/) [GitHub](https://github.com/nalepae/pandarallel) |A simple and efficient tool to parallelize Pandas operations on all available CPUs   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| DocArray | [link](https://docarray.jina.ai/) [GitHub](https://github.com/jina-ai/docarray) |  DocArray is a library for nested, unstructured data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer the data with a Pythonic API. |
+| datatile | [GitHub](https://github.com/polyaxon/datatile) | A library for managing, summarizing, and visualizing data.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
