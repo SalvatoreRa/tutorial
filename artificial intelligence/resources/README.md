@@ -372,14 +372,7 @@ Other interesting resources
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
 
-## Tabular data
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| PyTorch Tabular | [link](https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/) [GitHub](https://github.com/manujosephv/pytorch_tabular) | PyTorch Tabular aims to make Deep Learning with Tabular data easy and accessible to real-world cases and research alike.  |
-| carefree-learn | [link](https://carefree0910.me/carefree-learn-doc/) [GitHub](https://github.com/carefree0910/carefree-learn) |  Deep Learning with PyTorch made easy |
-| DeltaPy | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219) [GitHub](https://github.com/firmai/deltapy) | DeltaPy - Tabular Data Augmentation  |
-| Upgini | [link](https://upgini.com/) [GitHub](https://github.com/upgini/upgini) |  Upgini is a Python library for an automated features search to boost accuracy of supervised ML models on tabular data.  |
 
 
 ## Optical character recognition (OCR)
@@ -397,39 +390,6 @@ Other interesting resources
 | Mozart | [GitHub](https://github.com/aashrafh/Mozart) | An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.  |
 
 
-## Data Containers,structures, pandas extension
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| numpy | [link](https://numpy.org/) [GitHub](https://github.com/numpy/numpy) | The fundamental package for scientific computing with Python.  |
-| pandas | [link](https://pandas.pydata.org/) [GitHub](https://github.com/pandas-dev/pandas) |  Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more |
-| Apache Arrow | [link](https://arrow.apache.org/) [GitHub]https://github.com/apache/arrow) | Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing  |
-|h5py  | [link](http://www.h5py.org/) [GitHub](https://github.com/h5py/h5py) |  HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format. |
-| xarray | [link](https://xarray.dev/) [GitHub](https://github.com/pydata/xarray) | xarray (formerly xray) is an open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!  |
-| PyTables | [link](http://www.pytables.org/) [GitHub](https://github.com/PyTables/PyTables) | A Python package to manage extremely large amounts of data  |
-| modin | [link](https://modin.readthedocs.io/en/stable/) [GitHub](https://github.com/modin-project/modin) |Modin: Speed up your Pandas workflows by changing a single line of code   |
-| numexpr | [link](https://numexpr.readthedocs.io/projects/NumExpr3/en/latest/user_guide.html) [GitHub](https://github.com/pydata/numexpr) |  NumExpr is a fast numerical expression evaluator for NumPy. With it, expressions that operate on arrays (like '3*a+4*b') are accelerated and use less memory than doing the same calculation in Python. |
-| Zarr | [link](https://zarr.readthedocs.io/en/stable/) [GitHub](https://github.com/zarr-developers/zarr-python) | Zarr is a Python package providing an implementation of compressed, chunked, N-dimensional arrays, designed for use in parallel computing.  |
-| TinyDB | [link](https://tinydb.readthedocs.io/en/latest/) [GitHub](https://github.com/msiemens/tinydb) |  TinyDB is a lightweight document oriented database optimized for your happiness :) |
-| Polars | [link](https://www.pola.rs/) [GitHub](https://github.com/pola-rs/polars) | Blazingly fast DataFrames in Rust, Python & Node.js.  Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as memory model. |
-| Koalas | [GitHub](https://github.com/databricks/koalas) |  Koalas: pandas API on Apache Spark |
-| vaex | [link](https://vaex.io/) [GitHub](https://github.com/vaexio/vaex) | Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.   |
-|Arctic  | [link](https://arctic.readthedocs.io/en/latest/) [GitHub](https://github.com/man-group/arctic) |  Arctic is a high performance datastore for numeric data. It supports Pandas, numpy arrays and pickled objects out-of-the-box, with pluggable support for other data types and optional versioning. |
-|  datasketch | [link](http://ekzhu.com/datasketch/) [GitHub](https://github.com/ekzhu/datasketch) |  datasketch gives you probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy. |
-| Bottleneck | [GitHub](https://github.com/pydata/bottleneck) |  Bottleneck is a collection of fast NumPy array functions written in C |
-|datatable  | [link](https://datatable.readthedocs.io/en/latest/) [GitHub](https://github.com/h2oai/datatable) | This is a Python package for manipulating 2-dimensional tabular data structures (aka data frames). It is close in spirit to pandas or SFrame; however we put specific emphasis on speed and big data support.  |
-| swifter | [link](https://github.com/jmcarpenter2/swifter/blob/master/docs/documentation.md) [GitHub](https://github.com/jmcarpenter2/swifter) |  A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner. |
-| pandera | [link](https://pandera.readthedocs.io/en/stable/) [GitHub](https://github.com/pandera-dev/pandera) | pandera provides a flexible and expressive API for performing data validation on dataframes to make data processing pipelines more readable and robust.  |
-| pandarallel | [link](https://nalepae.github.io/pandarallel/) [GitHub](https://github.com/nalepae/pandarallel) |A simple and efficient tool to parallelize Pandas operations on all available CPUs   |
-| DocArray | [link](https://docarray.jina.ai/) [GitHub](https://github.com/jina-ai/docarray) |  DocArray is a library for nested, unstructured data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer the data with a Pythonic API. |
-| datatile | [GitHub](https://github.com/polyaxon/datatile) | A library for managing, summarizing, and visualizing data.  |
-|  bounter|  [GitHub](https://github.com/RaRe-Technologies/bounter) | Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.  |
-| PandaPy | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599639) [GitHub](https://github.com/firmai/pandapy) |  PandaPy has the speed of NumPy and the usability of Pandas 10x to 50x faster  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
 
 # Contributing
 
