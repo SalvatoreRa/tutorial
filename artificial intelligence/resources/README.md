@@ -383,8 +383,8 @@ Other interesting resources
 | NiBabel | [link](https://nipy.org/nibabel/) [GitHub](https://github.com/nipy/nibabel) | Python package to access a cacophony of neuro-imaging file formats  |
 | lifelines | [link](https://lifelines.readthedocs.io/en/latest/) [GitHub](https://github.com/CamDavidsonPilon/lifelines) | Survival analysis in Python  |
 | DIPY | [link](https://dipy.org/) [GitHub](https://github.com/dipy/dipy) |  DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|DeepVariant  |  [GitHub](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.  |
+|nipy  | [link](http://nipy.org/nipy/) [GitHub](https://github.com/nipy/nipy) |  Neuroimaging in Python FMRI analysis package |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
