@@ -411,8 +411,8 @@ Other interesting resources
 |  OCRmyPDF | [link](https://ocrmypdf.readthedocs.io/en/latest/) [GitHub](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched  |
 | tesserocr | [GitHub](https://github.com/sirfz/tesserocr) |  A Python wrapper for the tesseract-ocr API |
 |  calamari| [link](https://calamari-ocr.readthedocs.io/en/latest/) [GitHub](https://github.com/Calamari-OCR/calamari) |  Line based ATR Engine based on OCRopy |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| keras-ocr | [link](https://keras-ocr.readthedocs.io/en/latest/) [GitHub](https://github.com/faustomorales/keras-ocr) | A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model. This is a slightly polished and packaged version of the Keras CRNN implementation and the published CRAFT text detection model. It provides a high level API for training a text detection and OCR pipeline. |
+|  attention-ocr|  [GitHub](https://github.com/emedvedev/attention-ocr) |  A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
