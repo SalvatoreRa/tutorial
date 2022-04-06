@@ -371,7 +371,42 @@ Other interesting resources
 | [DeepTweet](https://twitter.com/DeepL_Tweet) | News, articles, tutorial all about manchine learning, deep learnig, data science  |
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
+## Medical data
 
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| MNE-Python | [link](https://mne.tools/stable/index.html) [GitHub](https://github.com/mne-tools/mne-python) |  MNE-Python software is an open-source Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more. |
+| Nilearn | [link](https://nilearn.github.io/stable/index.html) [GitHub](https://github.com/nilearn/nilearn) | Nilearn enables approachable and versatile analyses of brain volumes. It provides statistical and machine-learning tools, with instructive documentation & friendly community.  |
+|  | [link]() [GitHub](https://github.com/Project-MONAI/MONAI) |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 # Contributing
 
