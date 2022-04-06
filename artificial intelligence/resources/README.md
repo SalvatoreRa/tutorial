@@ -390,6 +390,11 @@ Other interesting resources
 | nnDetection  | [article](https://miccai2021.org/openaccess/paperlinks/2021/09/01/341-Paper1836.html) [GitHub](https://github.com/MIC-DKFZ/nnDetection) |  nnDetection is a self-configuring framework for 3D (volumetric) medical object detection which can be applied to new data sets without manual intervention. It includes guides for 12 data sets that were used to develop and evaluate the performance of the proposed method. |
 | Glow  | [link](https://projectglow.io/) [GitHub](https://github.com/projectglow/glow) | An open-source toolkit for large-scale genomic analysis |
 |  brainiak | [link](https://brainiak.org/) [GitHub](https://github.com/brainiak/brainiak) | The Brain Imaging Analysis Kit is a package of Python modules useful for neuroscience, primarily focused on functional Magnetic Resonance Imaging (fMRI) analysis.  |
+
+## Tabular data
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
