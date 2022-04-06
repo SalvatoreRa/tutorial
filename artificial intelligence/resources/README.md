@@ -426,8 +426,8 @@ Other interesting resources
 |h5py  | [link](http://www.h5py.org/) [GitHub](https://github.com/h5py/h5py) |  HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format. |
 | xarray | [link](https://xarray.dev/) [GitHub](https://github.com/pydata/xarray) | xarray (formerly xray) is an open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!  |
 | PyTables | [link](http://www.pytables.org/) [GitHub](https://github.com/PyTables/PyTables) | A Python package to manage extremely large amounts of data  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| modin | [link](https://modin.readthedocs.io/en/stable/) [GitHub](https://github.com/modin-project/modin) |Modin: Speed up your Pandas workflows by changing a single line of code   |
+| numexpr | [link](https://numexpr.readthedocs.io/projects/NumExpr3/en/latest/user_guide.html) [GitHub](https://github.com/pydata/numexpr) |  NumExpr is a fast numerical expression evaluator for NumPy. With it, expressions that operate on arrays (like '3*a+4*b') are accelerated and use less memory than doing the same calculation in Python. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
