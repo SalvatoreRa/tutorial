@@ -424,8 +424,8 @@ Other interesting resources
 | pandas | [link](https://pandas.pydata.org/) [GitHub](https://github.com/pandas-dev/pandas) |  Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more |
 | Apache Arrow | [link](https://arrow.apache.org/) [GitHub]https://github.com/apache/arrow) | Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing  |
 |h5py  | [link](http://www.h5py.org/) [GitHub](https://github.com/h5py/h5py) |  HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format. |
-| xarray | [link]() [GitHub](https://github.com/pydata/xarray) |   |
-|  | [link]() [GitHub]() |   |
+| xarray | [link](https://xarray.dev/) [GitHub](https://github.com/pydata/xarray) | xarray (formerly xray) is an open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!  |
+| PyTables | [link](http://www.pytables.org/) [GitHub](https://github.com/PyTables/PyTables) | A Python package to manage extremely large amounts of data  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
