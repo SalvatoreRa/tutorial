@@ -422,9 +422,9 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | numpy | [link](https://numpy.org/) [GitHub](https://github.com/numpy/numpy) | The fundamental package for scientific computing with Python.  |
 | pandas | [link](https://pandas.pydata.org/) [GitHub](https://github.com/pandas-dev/pandas) |  Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Apache Arrow | [link](https://arrow.apache.org/) [GitHub]https://github.com/apache/arrow) | Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing  |
+|h5py  | [link](http://www.h5py.org/) [GitHub](https://github.com/h5py/h5py) |  HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format. |
+| xarray | [link]() [GitHub](https://github.com/pydata/xarray) |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
