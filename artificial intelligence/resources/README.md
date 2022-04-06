@@ -442,8 +442,8 @@ Other interesting resources
 | pandarallel | [link](https://nalepae.github.io/pandarallel/) [GitHub](https://github.com/nalepae/pandarallel) |A simple and efficient tool to parallelize Pandas operations on all available CPUs   |
 | DocArray | [link](https://docarray.jina.ai/) [GitHub](https://github.com/jina-ai/docarray) |  DocArray is a library for nested, unstructured data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer the data with a Pythonic API. |
 | datatile | [GitHub](https://github.com/polyaxon/datatile) | A library for managing, summarizing, and visualizing data.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  bounter|  [GitHub](https://github.com/RaRe-Technologies/bounter) | Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.  |
+| PandaPy | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599639) [GitHub](https://github.com/firmai/pandapy) |  PandaPy has the speed of NumPy and the usability of Pandas 10x to 50x faster  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
