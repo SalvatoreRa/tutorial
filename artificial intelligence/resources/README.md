@@ -375,22 +375,6 @@ Other interesting resources
 
 
 
-## Optical character recognition (OCR)
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| PaddleOCR |[GitHub](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)  |
-| EasyOCR | [link](https://www.jaided.ai/easyocr/) [GitHub](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.|
-| Python-tesseract | [GitHub](https://github.com/madmaze/pytesseract) | Python-tesseract is an optical character recognition (OCR) tool for python. A Python wrapper for Google Tesseract |
-|  OCRmyPDF | [link](https://ocrmypdf.readthedocs.io/en/latest/) [GitHub](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched  |
-| tesserocr | [GitHub](https://github.com/sirfz/tesserocr) |  A Python wrapper for the tesseract-ocr API |
-|  calamari| [link](https://calamari-ocr.readthedocs.io/en/latest/) [GitHub](https://github.com/Calamari-OCR/calamari) |  Line based ATR Engine based on OCRopy |
-| keras-ocr | [link](https://keras-ocr.readthedocs.io/en/latest/) [GitHub](https://github.com/faustomorales/keras-ocr) | A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model. This is a slightly polished and packaged version of the Keras CRNN implementation and the published CRAFT text detection model. It provides a high level API for training a text detection and OCR pipeline. |
-|  attention-ocr|  [GitHub](https://github.com/emedvedev/attention-ocr) |  A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine. |
-| Mozart | [GitHub](https://github.com/aashrafh/Mozart) | An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.  |
-
-
-
 # Contributing
 
 You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
