@@ -438,8 +438,8 @@ Other interesting resources
 | Bottleneck | [GitHub](https://github.com/pydata/bottleneck) |  Bottleneck is a collection of fast NumPy array functions written in C |
 |datatable  | [link](https://datatable.readthedocs.io/en/latest/) [GitHub](https://github.com/h2oai/datatable) | This is a Python package for manipulating 2-dimensional tabular data structures (aka data frames). It is close in spirit to pandas or SFrame; however we put specific emphasis on speed and big data support.  |
 | swifter | [link](https://github.com/jmcarpenter2/swifter/blob/master/docs/documentation.md) [GitHub](https://github.com/jmcarpenter2/swifter) |  A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| pandera | [link](https://pandera.readthedocs.io/en/stable/) [GitHub](https://github.com/pandera-dev/pandera) | pandera provides a flexible and expressive API for performing data validation on dataframes to make data processing pipelines more readable and robust.  |
+| pandarallel | [link](https://nalepae.github.io/pandarallel/) [GitHub](https://github.com/nalepae/pandarallel) |A simple and efficient tool to parallelize Pandas operations on all available CPUs   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
