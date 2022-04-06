@@ -389,7 +389,7 @@ Other interesting resources
 | medicaldetectiontoolkit | [GitHub](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) |  The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images. Not much mantained|
 | nnDetection  | [article](https://miccai2021.org/openaccess/paperlinks/2021/09/01/341-Paper1836.html) [GitHub](https://github.com/MIC-DKFZ/nnDetection) |  nnDetection is a self-configuring framework for 3D (volumetric) medical object detection which can be applied to new data sets without manual intervention. It includes guides for 12 data sets that were used to develop and evaluate the performance of the proposed method. |
 | Glow  | [link](https://projectglow.io/) [GitHub](https://github.com/projectglow/glow) | An open-source toolkit for large-scale genomic analysis |
-|  | [link]() [GitHub]() |   |
+|  brainiak | [link](https://brainiak.org/) [GitHub](https://github.com/brainiak/brainiak) | The Brain Imaging Analysis Kit is a package of Python modules useful for neuroscience, primarily focused on functional Magnetic Resonance Imaging (fMRI) analysis.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
