@@ -379,8 +379,8 @@ Other interesting resources
 | Nilearn | [link](https://nilearn.github.io/stable/index.html) [GitHub](https://github.com/nilearn/nilearn) | Nilearn enables approachable and versatile analyses of brain volumes. It provides statistical and machine-learning tools, with instructive documentation & friendly community.  |
 | Medical Open Network for AI | [link](https://monai.io/) [GitHub](https://github.com/Project-MONAI/MONAI) |  MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. |
 | Hail | [link](https://hail.is/) [GitHub](https://github.com/hail-is/hail) |  Hail is an open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| NIPYPE | [link](https://nipype.readthedocs.io/en/latest/) [GitHub](https://github.com/nipy/nipype) | Nipype, an open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow.   |
+| NiBabel | [link](https://nipy.org/nibabel/) [GitHub](https://github.com/nipy/nibabel) | Python package to access a cacophony of neuro-imaging file formats  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
