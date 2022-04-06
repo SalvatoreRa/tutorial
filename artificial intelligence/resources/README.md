@@ -407,8 +407,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | PaddleOCR |[GitHub](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)  |
 | EasyOCR | [link](https://www.jaided.ai/easyocr/) [GitHub](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Python-tesseract | [GitHub](https://github.com/madmaze/pytesseract) | Python-tesseract is an optical character recognition (OCR) tool for python. A Python wrapper for Google Tesseract |
+|  OCRmyPDF | [link](https://ocrmypdf.readthedocs.io/en/latest/) [GitHub](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
