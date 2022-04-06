@@ -397,8 +397,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | PyTorch Tabular | [link](https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/) [GitHub](https://github.com/manujosephv/pytorch_tabular) | PyTorch Tabular aims to make Deep Learning with Tabular data easy and accessible to real-world cases and research alike.  |
 | carefree-learn | [link](https://carefree0910.me/carefree-learn-doc/) [GitHub](https://github.com/carefree0910/carefree-learn) |  Deep Learning with PyTorch made easy |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| DeltaPy | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219) [GitHub](https://github.com/firmai/deltapy) | DeltaPy - Tabular Data Augmentation  |
+| Upgini | [link](https://upgini.com/) [GitHub](https://github.com/upgini/upgini) |  Upgini is a Python library for an automated features search to boost accuracy of supervised ML models on tabular data.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
