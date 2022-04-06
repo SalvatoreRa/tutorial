@@ -371,25 +371,6 @@ Other interesting resources
 | [DeepTweet](https://twitter.com/DeepL_Tweet) | News, articles, tutorial all about manchine learning, deep learnig, data science  |
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
-## Medical data
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| MNE-Python | [link](https://mne.tools/stable/index.html) [GitHub](https://github.com/mne-tools/mne-python) |  MNE-Python software is an open-source Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more. |
-| Nilearn | [link](https://nilearn.github.io/stable/index.html) [GitHub](https://github.com/nilearn/nilearn) | Nilearn enables approachable and versatile analyses of brain volumes. It provides statistical and machine-learning tools, with instructive documentation & friendly community.  |
-| Medical Open Network for AI | [link](https://monai.io/) [GitHub](https://github.com/Project-MONAI/MONAI) |  MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. |
-| Hail | [link](https://hail.is/) [GitHub](https://github.com/hail-is/hail) |  Hail is an open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. |
-| NIPYPE | [link](https://nipype.readthedocs.io/en/latest/) [GitHub](https://github.com/nipy/nipype) | Nipype, an open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow.   |
-| NiBabel | [link](https://nipy.org/nibabel/) [GitHub](https://github.com/nipy/nibabel) | Python package to access a cacophony of neuro-imaging file formats  |
-| lifelines | [link](https://lifelines.readthedocs.io/en/latest/) [GitHub](https://github.com/CamDavidsonPilon/lifelines) | Survival analysis in Python  |
-| DIPY | [link](https://dipy.org/) [GitHub](https://github.com/dipy/dipy) |  DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging. |
-|DeepVariant  |  [GitHub](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.  |
-|nipy  | [link](http://nipy.org/nipy/) [GitHub](https://github.com/nipy/nipy) |  Neuroimaging in Python FMRI analysis package |
-|  MedicalTorch | [link](https://medicaltorch.readthedocs.io/en/stable/) [GitHub](https://github.com/perone/medicaltorch) |  MedicalTorch is an open-source framework for PyTorch, implementing an extensive set of loaders, pre-processors and datasets for medical imaging. |
-| medicaldetectiontoolkit | [GitHub](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) |  The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images. Not much mantained|
-| nnDetection  | [article](https://miccai2021.org/openaccess/paperlinks/2021/09/01/341-Paper1836.html) [GitHub](https://github.com/MIC-DKFZ/nnDetection) |  nnDetection is a self-configuring framework for 3D (volumetric) medical object detection which can be applied to new data sets without manual intervention. It includes guides for 12 data sets that were used to develop and evaluate the performance of the proposed method. |
-| Glow  | [link](https://projectglow.io/) [GitHub](https://github.com/projectglow/glow) | An open-source toolkit for large-scale genomic analysis |
-|  brainiak | [link](https://brainiak.org/) [GitHub](https://github.com/brainiak/brainiak) | The Brain Imaging Analysis Kit is a package of Python modules useful for neuroscience, primarily focused on functional Magnetic Resonance Imaging (fMRI) analysis.  |
 
 ## Tabular data
 
