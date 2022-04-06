@@ -395,8 +395,8 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyTorch Tabular | [link](https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/) [GitHub](https://github.com/manujosephv/pytorch_tabular) | PyTorch Tabular aims to make Deep Learning with Tabular data easy and accessible to real-world cases and research alike.  |
+| carefree-learn | [link](https://carefree0910.me/carefree-learn-doc/) [GitHub](https://github.com/carefree0910/carefree-learn) |  Deep Learning with PyTorch made easy |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
