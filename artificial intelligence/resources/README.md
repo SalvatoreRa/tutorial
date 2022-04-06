@@ -385,8 +385,8 @@ Other interesting resources
 | DIPY | [link](https://dipy.org/) [GitHub](https://github.com/dipy/dipy) |  DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging. |
 |DeepVariant  |  [GitHub](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.  |
 |nipy  | [link](http://nipy.org/nipy/) [GitHub](https://github.com/nipy/nipy) |  Neuroimaging in Python FMRI analysis package |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  MedicalTorch | [link](https://medicaltorch.readthedocs.io/en/stable/) [GitHub](https://github.com/perone/medicaltorch) |  MedicalTorch is an open-source framework for PyTorch, implementing an extensive set of loaders, pre-processors and datasets for medical imaging. |
+| medicaldetectiontoolkit | [GitHub](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) |  The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images. Not much mantained|
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
