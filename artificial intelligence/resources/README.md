@@ -377,8 +377,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | MNE-Python | [link](https://mne.tools/stable/index.html) [GitHub](https://github.com/mne-tools/mne-python) |  MNE-Python software is an open-source Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more. |
 | Nilearn | [link](https://nilearn.github.io/stable/index.html) [GitHub](https://github.com/nilearn/nilearn) | Nilearn enables approachable and versatile analyses of brain volumes. It provides statistical and machine-learning tools, with instructive documentation & friendly community.  |
-|  | [link]() [GitHub](https://github.com/Project-MONAI/MONAI) |   |
-|  | [link]() [GitHub]() |   |
+| Medical Open Network for AI | [link](https://monai.io/) [GitHub](https://github.com/Project-MONAI/MONAI) |  MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. |
+| Hail | [link](https://hail.is/) [GitHub](https://github.com/hail-is/hail) |  Hail is an open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
