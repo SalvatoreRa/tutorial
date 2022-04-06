@@ -387,8 +387,8 @@ Other interesting resources
 |nipy  | [link](http://nipy.org/nipy/) [GitHub](https://github.com/nipy/nipy) |  Neuroimaging in Python FMRI analysis package |
 |  MedicalTorch | [link](https://medicaltorch.readthedocs.io/en/stable/) [GitHub](https://github.com/perone/medicaltorch) |  MedicalTorch is an open-source framework for PyTorch, implementing an extensive set of loaders, pre-processors and datasets for medical imaging. |
 | medicaldetectiontoolkit | [GitHub](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) |  The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images. Not much mantained|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| nnDetection  | [article](https://miccai2021.org/openaccess/paperlinks/2021/09/01/341-Paper1836.html) [GitHub](https://github.com/MIC-DKFZ/nnDetection) |  nnDetection is a self-configuring framework for 3D (volumetric) medical object detection which can be applied to new data sets without manual intervention. It includes guides for 12 data sets that were used to develop and evaluate the performance of the proposed method. |
+| Glow  | [link](https://projectglow.io/) [GitHub](https://github.com/projectglow/glow) | An open-source toolkit for large-scale genomic analysis |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
