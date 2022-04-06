@@ -381,8 +381,8 @@ Other interesting resources
 | Hail | [link](https://hail.is/) [GitHub](https://github.com/hail-is/hail) |  Hail is an open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. |
 | NIPYPE | [link](https://nipype.readthedocs.io/en/latest/) [GitHub](https://github.com/nipy/nipype) | Nipype, an open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow.   |
 | NiBabel | [link](https://nipy.org/nibabel/) [GitHub](https://github.com/nipy/nibabel) | Python package to access a cacophony of neuro-imaging file formats  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| lifelines | [link](https://lifelines.readthedocs.io/en/latest/) [GitHub](https://github.com/CamDavidsonPilon/lifelines) | Survival analysis in Python  |
+| DIPY | [link](https://dipy.org/) [GitHub](https://github.com/dipy/dipy) |  DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
