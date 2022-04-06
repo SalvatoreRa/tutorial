@@ -428,8 +428,8 @@ Other interesting resources
 | PyTables | [link](http://www.pytables.org/) [GitHub](https://github.com/PyTables/PyTables) | A Python package to manage extremely large amounts of data  |
 | modin | [link](https://modin.readthedocs.io/en/stable/) [GitHub](https://github.com/modin-project/modin) |Modin: Speed up your Pandas workflows by changing a single line of code   |
 | numexpr | [link](https://numexpr.readthedocs.io/projects/NumExpr3/en/latest/user_guide.html) [GitHub](https://github.com/pydata/numexpr) |  NumExpr is a fast numerical expression evaluator for NumPy. With it, expressions that operate on arrays (like '3*a+4*b') are accelerated and use less memory than doing the same calculation in Python. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Zarr | [link](https://zarr.readthedocs.io/en/stable/) [GitHub](https://github.com/zarr-developers/zarr-python) | Zarr is a Python package providing an implementation of compressed, chunked, N-dimensional arrays, designed for use in parallel computing.  |
+| TinyDB | [link](https://tinydb.readthedocs.io/en/latest/) [GitHub](https://github.com/msiemens/tinydb) |  TinyDB is a lightweight document oriented database optimized for your happiness :) |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
