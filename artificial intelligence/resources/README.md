@@ -434,8 +434,8 @@ Other interesting resources
 | Koalas | [GitHub](https://github.com/databricks/koalas) |  Koalas: pandas API on Apache Spark |
 | vaex | [link](https://vaex.io/) [GitHub](https://github.com/vaexio/vaex) | Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.   |
 |Arctic  | [link](https://arctic.readthedocs.io/en/latest/) [GitHub](https://github.com/man-group/arctic) |  Arctic is a high performance datastore for numeric data. It supports Pandas, numpy arrays and pickled objects out-of-the-box, with pluggable support for other data types and optional versioning. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  datasketch | [link](http://ekzhu.com/datasketch/) [GitHub](https://github.com/ekzhu/datasketch) |  datasketch gives you probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy. |
+| Bottleneck | [GitHub](https://github.com/pydata/bottleneck) |  Bottleneck is a collection of fast NumPy array functions written in C |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
