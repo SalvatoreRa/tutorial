@@ -432,8 +432,8 @@ Other interesting resources
 | TinyDB | [link](https://tinydb.readthedocs.io/en/latest/) [GitHub](https://github.com/msiemens/tinydb) |  TinyDB is a lightweight document oriented database optimized for your happiness :) |
 | Polars | [link](https://www.pola.rs/) [GitHub](https://github.com/pola-rs/polars) | Blazingly fast DataFrames in Rust, Python & Node.js.  Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as memory model. |
 | Koalas | [GitHub](https://github.com/databricks/koalas) |  Koalas: pandas API on Apache Spark |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| vaex | [link](https://vaex.io/) [GitHub](https://github.com/vaexio/vaex) | Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.   |
+|Arctic  | [link](https://arctic.readthedocs.io/en/latest/) [GitHub](https://github.com/man-group/arctic) |  Arctic is a high performance datastore for numeric data. It supports Pandas, numpy arrays and pickled objects out-of-the-box, with pluggable support for other data types and optional versioning. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
