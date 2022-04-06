@@ -399,6 +399,25 @@ Other interesting resources
 | carefree-learn | [link](https://carefree0910.me/carefree-learn-doc/) [GitHub](https://github.com/carefree0910/carefree-learn) |  Deep Learning with PyTorch made easy |
 | DeltaPy | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219) [GitHub](https://github.com/firmai/deltapy) | DeltaPy - Tabular Data Augmentation  |
 | Upgini | [link](https://upgini.com/) [GitHub](https://github.com/upgini/upgini) |  Upgini is a Python library for an automated features search to boost accuracy of supervised ML models on tabular data.  |
+
+
+## Tabular data
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
