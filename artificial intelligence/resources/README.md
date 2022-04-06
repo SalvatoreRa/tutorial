@@ -420,8 +420,8 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| numpy | [link](https://numpy.org/) [GitHub](https://github.com/numpy/numpy) | The fundamental package for scientific computing with Python.  |
+| pandas | [link](https://pandas.pydata.org/) [GitHub](https://github.com/pandas-dev/pandas) |  Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
