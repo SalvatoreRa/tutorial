@@ -430,6 +430,18 @@ Other interesting resources
 | numexpr | [link](https://numexpr.readthedocs.io/projects/NumExpr3/en/latest/user_guide.html) [GitHub](https://github.com/pydata/numexpr) |  NumExpr is a fast numerical expression evaluator for NumPy. With it, expressions that operate on arrays (like '3*a+4*b') are accelerated and use less memory than doing the same calculation in Python. |
 | Zarr | [link](https://zarr.readthedocs.io/en/stable/) [GitHub](https://github.com/zarr-developers/zarr-python) | Zarr is a Python package providing an implementation of compressed, chunked, N-dimensional arrays, designed for use in parallel computing.  |
 | TinyDB | [link](https://tinydb.readthedocs.io/en/latest/) [GitHub](https://github.com/msiemens/tinydb) |  TinyDB is a lightweight document oriented database optimized for your happiness :) |
+| Polars | [link](https://www.pola.rs/) [GitHub](https://github.com/pola-rs/polars) | Blazingly fast DataFrames in Rust, Python & Node.js.  Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as memory model. |
+| Koalas | [GitHub](https://github.com/databricks/koalas) |  Koalas: pandas API on Apache Spark |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
