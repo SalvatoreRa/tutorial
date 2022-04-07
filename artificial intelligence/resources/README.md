@@ -159,6 +159,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [Self-Normalizing](https://arxiv.org/abs/1706.02515v5)| Tabular data | 2017 | Self-Normalizing Neural Networks |
+| [NODE](https://arxiv.org/abs/1909.06312)| Tabular data | 2019 | Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data |
 | [GrowNet](https://arxiv.org/abs/2002.07971)| Tabular data | 2020 | Gradient Boosting Neural Networks: GrowNet |
 | [Tree Ensemble Layer](https://arxiv.org/abs/2002.07772v2)| Tabular data | 2020 | The Tree Ensemble Layer: Differentiability meets Conditional Computation |
 | [TabNet](https://www.aaai.org/AAAI21Papers/AAAI-1063.ArikS.pdf)| Tabular data | 2020 | TabNet: Attentive Interpretable Tabular Learning |
