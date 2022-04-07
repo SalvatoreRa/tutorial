@@ -171,6 +171,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Tabular data](https://arxiv.org/pdf/2106.01342.pdf)| Tabular data | 2021 |Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training |
 | [Tabular data](https://arxiv.org/pdf/2110.01889.pdf)| Tabular data | 2021 | Method's review on Deep Neural Networks and Tabular Data |
 | [Tabular data](https://arxiv.org/pdf/2106.11189.pdf)| Tabular data | 2021 | how regularization impact Neural Network for tabular data|
+| [Tabular data](https://arxiv.org/abs/2106.11959)| Tabular data | 2021 | Revisiting Deep Learning Models for Tabular Data|
 
 ## Reinforcement learning
 
