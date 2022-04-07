@@ -158,10 +158,11 @@ Keep the pace with the number of articles published every year is impossible (it
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [Self-Normalizing](https://arxiv.org/abs/1706.02515v5)| Tabular data | 2017 | Self-Normalizing Neural Networks |
 | [GrowNet](https://arxiv.org/abs/2002.07971)| Tabular data | 2020 | Gradient Boosting Neural Networks: GrowNet |
 | [Tree Ensemble Layer](https://arxiv.org/abs/2002.07772v2)| Tabular data | 2020 | The Tree Ensemble Layer: Differentiability meets Conditional Computation |
 | [TabNet](https://www.aaai.org/AAAI21Papers/AAAI-1063.ArikS.pdf)| Tabular data | 2020 | TabNet: Attentive Interpretable Tabular Learning |
-| [Tabular data](https://arxiv.org/abs/2012.06678)| Tabular data | 2020 | TabTransformer: Tabular Data Modeling Using Contextual Embeddings |
+| [TabTransformer](https://arxiv.org/abs/2012.06678)| Tabular data | 2020 | TabTransformer: Tabular Data Modeling Using Contextual Embeddings |
 | [Tabular data](https://arxiv.org/abs/2106.03253)| Tabular data | 2021 |Tabular Data: Deep Learning is Not All You Need (showing that deep learning with tabular data is still not the first choice) |
 | [Tabular data](https://arxiv.org/pdf/2106.01342.pdf)| Tabular data | 2021 |Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training |
 | [Tabular data](https://arxiv.org/pdf/2110.01889.pdf)| Tabular data | 2021 | Method's review on Deep Neural Networks and Tabular Data |
