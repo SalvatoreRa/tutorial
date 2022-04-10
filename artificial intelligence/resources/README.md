@@ -389,7 +389,7 @@ Other interesting resources
 | Kubernetes Podcast| [link](https://kubernetespodcast.com/) | wide range of topics from kubernetes to cloud-native to latest industry news. |
 | Gradient Dissent| [link](https://wandb.ai/fully-connected/podcast) | about AI/ML industry trends |
 | MLOps Community| [link](https://mlops.community/watch/) | about ML Ops domain, but they also organize meetups, live discussions, etc... |
-| MLOps Community| [link](https://mlops.community/watch/) | about ML Ops domain, but they also organize meetups, live discussions, etc... |
+| TWIML AI Podcast| [link](https://twimlai.com/shows/) | wide range of topics in AI/ML with guests from academia, research organizations, industry leaders and technology executives. |
 | MLOps Community| [link](https://mlops.community/watch/) | about ML Ops domain, but they also organize meetups, live discussions, etc... |
 
 
