@@ -393,8 +393,8 @@ Other interesting resources
 | pytrends |  [GitHub](https://github.com/GeneralMills/pytrends) | Unofficial API for Google Trends. Allows simple interface for automating downloading of reports from Google Trends.   |
 | Beautiful Soup  | [link](https://beautiful-soup-4.readthedocs.io/en/latest/#) [link](https://www.crummy.com/software/BeautifulSoup/) | Beautiful Soup is a Python library for pulling data out of HTML and XML files.   |
 | cloudscraper | [GitHub](https://github.com/VeNoMouS/cloudscraper) |   Python module to bypass Cloudflare's anti-bot page. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Parsel |  [GitHub](https://github.com/scrapy/parsel) |  Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors |
+| dirsearch  | [GitHub](https://github.com/maurosoria/dirsearch) |  An advanced command-line tool designed to brute force directories and files in webservers, AKA web path scanner |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
