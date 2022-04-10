@@ -403,8 +403,8 @@ Other interesting resources
 | Ruia | [link](https://www.howie6879.cn/ruia/) [GitHub](https://github.com/howie6879/ruia) | Async Python 3.6+ web scraping micro-framework based on asyncio  |
 | autoscraper | [GitHub](https://github.com/alirezamika/autoscraper) |  A Smart, Automatic, Fast and Lightweight Web Scraper for Python. This project is made for automatic web scraping to make scraping easy. It gets a url or the html content of a web page and a list of sample data which we want to scrape from that page. |
 | gazpacho  | [link](https://gazpacho.xyz/) [GitHub](https://github.com/maxhumber/gazpacho) | The simple, fast, and modern web scraping library  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| lassie | [link](https://lassie.readthedocs.io/en/latest/) [GitHub](https://github.com/michaelhelmick/lassie) |  Lassie is a Python library for retrieving basic content from websites. |
+|  Scrapera| [GitHub](https://github.com/DarshanDeshpande/Scrapera) |  A universal package of scraper scripts for humans, Scrapera is a completely Chromedriver free package that provides access to a variety of scraper scripts for most commonly used machine learning and data science domains.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
