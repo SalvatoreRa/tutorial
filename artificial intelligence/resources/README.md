@@ -158,11 +158,20 @@ Keep the pace with the number of articles published every year is impossible (it
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
-| [Tabular data](https://arxiv.org/abs/2012.06678)| Tabular data | 2020 | TabTransformer: Tabular Data Modeling Using Contextual Embeddings |
+| [Self-Normalizing](https://arxiv.org/abs/1706.02515v5)| Tabular data | 2017 | Self-Normalizing Neural Networks |
+| [ Deep & Cross](https://dl.acm.org/doi/pdf/10.1145/3124749.3124754)| Tabular data | 2017 | Deep & Cross Network for Ad Click Predictions|
+| [NODE](https://arxiv.org/abs/1909.06312)| Tabular data | 2019 | Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data |
+| [AutoInt](https://arxiv.org/abs/1810.11921v2)| Tabular data | 2019 | AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks |
+| [GrowNet](https://arxiv.org/abs/2002.07971)| Tabular data | 2020 | Gradient Boosting Neural Networks: GrowNet |
+| [Tree Ensemble Layer](https://arxiv.org/abs/2002.07772v2)| Tabular data | 2020 | The Tree Ensemble Layer: Differentiability meets Conditional Computation |
+| [TabNet](https://www.aaai.org/AAAI21Papers/AAAI-1063.ArikS.pdf)| Tabular data | 2020 | TabNet: Attentive Interpretable Tabular Learning |
+| [TabTransformer](https://arxiv.org/abs/2012.06678)| Tabular data | 2020 | TabTransformer: Tabular Data Modeling Using Contextual Embeddings |
+| [DCN V2](https://arxiv.org/abs/2008.13535)| Tabular data | 2020 |DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems|
 | [Tabular data](https://arxiv.org/abs/2106.03253)| Tabular data | 2021 |Tabular Data: Deep Learning is Not All You Need (showing that deep learning with tabular data is still not the first choice) |
 | [Tabular data](https://arxiv.org/pdf/2106.01342.pdf)| Tabular data | 2021 |Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training |
 | [Tabular data](https://arxiv.org/pdf/2110.01889.pdf)| Tabular data | 2021 | Method's review on Deep Neural Networks and Tabular Data |
 | [Tabular data](https://arxiv.org/pdf/2106.11189.pdf)| Tabular data | 2021 | how regularization impact Neural Network for tabular data|
+| [Tabular data](https://arxiv.org/abs/2106.11959)| Tabular data | 2021 | Revisiting Deep Learning Models for Tabular Data|
 
 ## Reinforcement learning
 
