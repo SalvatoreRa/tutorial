@@ -390,7 +390,7 @@ Other interesting resources
 | Gradient Dissent| [link](https://wandb.ai/fully-connected/podcast) | about AI/ML industry trends |
 | MLOps Community| [link](https://mlops.community/watch/) | about ML Ops domain, but they also organize meetups, live discussions, etc... |
 | TWIML AI Podcast| [link](https://twimlai.com/shows/) | wide range of topics in AI/ML with guests from academia, research organizations, industry leaders and technology executives. |
-| MLOps Community| [link](https://mlops.community/watch/) | about ML Ops domain, but they also organize meetups, live discussions, etc... |
+|  The Data Exchange | [link](https://gradientflow.com/podcast/) | AI/ML and Data engineering |
 
 
 # Contributing
