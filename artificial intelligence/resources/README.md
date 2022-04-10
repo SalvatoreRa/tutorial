@@ -410,8 +410,8 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| SHAP | [link](https://shap.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/slundberg/shap) | SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.   |
+| Lime | [GitHub](https://github.com/marcotcr/lime) | Lime: Explaining the predictions of any machine learning classifier. This project is about explaining what machine learning classifiers (or models) are doing  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
