@@ -391,8 +391,8 @@ Other interesting resources
 | You-Get  | [link](https://you-get.org/) [GitHub](https://github.com/soimort/you-get) |  You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it. |
 |feedparser  | [link](https://feedparser.readthedocs.io/en/latest/) [GitHub](https://github.com/kurtmckee/feedparser) | feedparser - Parse Atom and RSS feeds in Python.  |
 | pytrends |  [GitHub](https://github.com/GeneralMills/pytrends) | Unofficial API for Google Trends. Allows simple interface for automating downloading of reports from Google Trends.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Beautiful Soup  | [link](https://beautiful-soup-4.readthedocs.io/en/latest/#) [link](https://www.crummy.com/software/BeautifulSoup/) | Beautiful Soup is a Python library for pulling data out of HTML and XML files.   |
+| cloudscraper | [GitHub](https://github.com/VeNoMouS/cloudscraper) |   Python module to bypass Cloudflare's anti-bot page. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
