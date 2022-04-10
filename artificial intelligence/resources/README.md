@@ -379,7 +379,8 @@ Other interesting resources
 | ------- |  ------ |
 | [DeepTweet](https://twitter.com/DeepL_Tweet) | News, articles, tutorial all about manchine learning, deep learnig, data science  |
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
-
+| [PyTorch](https://twitter.com/PyTorch) | PyTorch official account   |
+| [Machine learning](https://twitter.com/machinelearnflx) | news about machine learning  |
 
 
 
