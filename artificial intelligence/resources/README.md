@@ -399,8 +399,8 @@ Other interesting resources
 | trafilatura | [link](https://trafilatura.readthedocs.io/en/latest/) [GitHub](https://github.com/adbar/trafilatura) |  Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments) |
 | Gerapy | [link](https://docs.gerapy.com/en/latest/) [GitHub](https://github.com/Gerapy/Gerapy) | Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js  |
 | extruct | [GitHub](https://github.com/scrapinghub/extruct) | Extract embedded metadata from HTML markup  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  micawber| [link](https://micawber.readthedocs.io/en/latest/) [GitHub](https://github.com/coleifer/micawber) |  a small library for extracting rich content from urls. micawber supplies a few methods for retrieving rich metadata about a variety of links, such as links to youtube videos. |
+| Ruia | [link](https://www.howie6879.cn/ruia/) [GitHub](https://github.com/howie6879/ruia) | Async Python 3.6+ web scraping micro-framework based on asyncio  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
