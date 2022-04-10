@@ -397,8 +397,8 @@ Other interesting resources
 | dirsearch  | [GitHub](https://github.com/maurosoria/dirsearch) |  An advanced command-line tool designed to brute force directories and files in webservers, AKA web path scanner |
 | MechanicalSoup | [link](https://mechanicalsoup.readthedocs.io/en/stable/) [GitHub](https://github.com/MechanicalSoup/MechanicalSoup) | A Python library for automating interaction with websites.  A Python library for automating interaction with websites. MechanicalSoup automatically stores and sends cookies, follows redirects, and can follow links and submit forms. It doesn't do JavaScript.|
 | trafilatura | [link](https://trafilatura.readthedocs.io/en/latest/) [GitHub](https://github.com/adbar/trafilatura) |  Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments) |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Gerapy | [link](https://docs.gerapy.com/en/latest/) [GitHub](https://github.com/Gerapy/Gerapy) | Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js  |
+| extruct | [GitHub](https://github.com/scrapinghub/extruct) | Extract embedded metadata from HTML markup  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
