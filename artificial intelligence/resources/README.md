@@ -389,8 +389,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | scrapy | [link](https://scrapy.org/) [GitHub](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling & scraping framework for Python.  |
 | You-Get  | [link](https://you-get.org/) [GitHub](https://github.com/soimort/you-get) |  You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|feedparser  | [link](https://feedparser.readthedocs.io/en/latest/) [GitHub](https://github.com/kurtmckee/feedparser) | feedparser - Parse Atom and RSS feeds in Python.  |
+| pytrends |  [GitHub](https://github.com/GeneralMills/pytrends) | Unofficial API for Google Trends. Allows simple interface for automating downloading of reports from Google Trends.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
