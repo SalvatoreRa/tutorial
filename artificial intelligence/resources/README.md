@@ -372,7 +372,11 @@ Other interesting resources
 | [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 
 
+## Podcast
 
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| AllenAI NLP podcast | [link](https://allenai.org/podcasts) | NLP Highlights is AllenNLP’s podcast for discussing recent and interesting work related to natural language processing. |
 
 
 # Contributing
