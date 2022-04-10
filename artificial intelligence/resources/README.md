@@ -386,7 +386,7 @@ Other interesting resources
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | AllenAI NLP podcast | [link](https://allenai.org/podcasts) | NLP Highlights is AllenNLP’s podcast for discussing recent and interesting work related to natural language processing. |
-
+| Kubernetes Podcast| [link](https://kubernetespodcast.com/) | wide range of topics from kubernetes to cloud-native to latest industry news. |
 
 # Contributing
 
