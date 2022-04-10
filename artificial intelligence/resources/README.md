@@ -401,8 +401,8 @@ Other interesting resources
 | extruct | [GitHub](https://github.com/scrapinghub/extruct) | Extract embedded metadata from HTML markup  |
 |  micawber| [link](https://micawber.readthedocs.io/en/latest/) [GitHub](https://github.com/coleifer/micawber) |  a small library for extracting rich content from urls. micawber supplies a few methods for retrieving rich metadata about a variety of links, such as links to youtube videos. |
 | Ruia | [link](https://www.howie6879.cn/ruia/) [GitHub](https://github.com/howie6879/ruia) | Async Python 3.6+ web scraping micro-framework based on asyncio  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| autoscraper | [GitHub](https://github.com/alirezamika/autoscraper) |  A Smart, Automatic, Fast and Lightweight Web Scraper for Python. This project is made for automatic web scraping to make scraping easy. It gets a url or the html content of a web page and a list of sample data which we want to scrape from that page. |
+| gazpacho  | [link](https://gazpacho.xyz/) [GitHub](https://github.com/maxhumber/gazpacho) | The simple, fast, and modern web scraping library  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
