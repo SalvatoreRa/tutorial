@@ -423,8 +423,8 @@ Other interesting resources
 |  Alibi| [link](https://docs.seldon.io/projects/alibi/en/latest/) [GitHub](https://github.com/SeldonIO/alibi) | Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The focus of the library is to provide high-quality implementations of black-box, white-box, local and global explanation methods for classification and regression models.  |
 | Lucid |  [GitHub](https://github.com/tensorflow/lucid) | Lucid is a collection of infrastructure and tools for research in neural network interpretability. We're not currently supporting tensorflow 2! |
 | Yellowbrick | [link](https://www.scikit-yb.org/en/latest/) [GitHub](https://github.com/DistrictDataLabs/yellowbrick) |  Visual analysis and diagnostic tools to facilitate machine learning model selection. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|AI Fairness 360 toolkit  | [link](http://aif360.mybluemix.net/) [GitHub](https://github.com/Trusted-AI/AIF360) | The AI Fairness 360 toolkit is an extensible open-source library containing techniques developed by the research community to help detect and mitigate bias in machine learning models throughout the AI application lifecycle. AI Fairness 360 package is available in both Python and R.  |
+| Fairlearn | [link](https://fairlearn.org/) [GitHub](https://github.com/fairlearn/fairlearn) |  Fairlearn is a Python package that empowers developers of artificial intelligence (AI) systems to assess their system's fairness and mitigate any observed unfairness issues. Fairlearn contains mitigation algorithms as well as metrics for model assessment.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
