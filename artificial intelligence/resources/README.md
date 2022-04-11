@@ -416,8 +416,8 @@ Other interesting resources
 | InterpretML | [link](https://interpret.ml/docs/getting-started) [GitHub](https://github.com/interpretml/interpret) | InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems.   |
 | Captum | [link](https://captum.ai/) [GitHub](https://github.com/pytorch/captum) | Captum is a model interpretability and understanding library for PyTorch.   |
 |  pyLDAvis | [link](https://pyldavis.readthedocs.io/en/latest/) [GitHub](https://github.com/bmabey/pyLDAvis) | Python library for interactive topic model visualization. This is a port of the fabulous R package by Carson Sievert and Kenny Shirley.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| TensorFlow Model Analysis |  [GitHub](https://github.com/tensorflow/model-analysis) |  TensorFlow Model Analysis (TFMA) is a library for evaluating TensorFlow models. It allows users to evaluate their models on large amounts of data in a distributed manner, using the same metrics defined in their trainer. These metrics can be computed over different slices of data and visualized in Jupyter notebooks. |
+| Shapash | [link](https://maif.github.io/shapash/) [GitHub](https://github.com/MAIF/shapash) |  Shapash is a Python library which aims to make machine learning interpretable and understandable by everyone. It provides several types of visualization that display explicit labels that everyone can understand. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
