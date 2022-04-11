@@ -429,8 +429,8 @@ Other interesting resources
 | CausalNex | [link](https://causalnex.readthedocs.io/en/latest/) [GitHub](https://github.com/quantumblacklabs/causalnex) | A Python library that helps data scientists to infer causation rather than observing correlation.  |
 | explainerdashboard | [link](https://explainerdashboard.readthedocs.io/en/latest/) [GitHub](https://github.com/oegedijk/explainerdashboard) | This package makes it convenient to quickly deploy a dashboard web app that explains the workings of a (scikit-learn compatible) machine learning model.   |
 |  Responsible AI Toolbox | [link](https://responsibleaitoolbox.ai/) [GitHub](https://github.com/microsoft/responsible-ai-toolbox) | Responsible AI Toolbox is a suite of tools provides a collection of model and data exploration and assessment user interfaces that enable a better understanding of AI systems.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  Language Interpretability Tool (LIT) | [link](https://pair-code.github.io/lit/) [GitHub](https://github.com/PAIR-code/lit) | The Language Interpretability Tool (LIT) is a visual, interactive model-understanding tool for ML models, focusing on NLP use-cases. It can be run as a standalone server, or inside of notebook environments such as Colab, Jupyter, and Google Cloud Vertex AI notebooks.  |
+| Keract: Keras Activations + Gradients | [GitHub](https://github.com/philipperemy/keract) |  Layers Outputs and Gradients in Keras. Made easy. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
