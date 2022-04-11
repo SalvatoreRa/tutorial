@@ -421,8 +421,8 @@ Other interesting resources
 | DoWhy| [link](https://microsoft.github.io/dowhy/) [GitHub](https://github.com/microsoft/dowhy) | DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.  |
 | dtreeviz  |  [GitHub](https://github.com/parrt/dtreeviz) |  A python library for decision tree visualization and model interpretation. |
 |  Alibi| [link](https://docs.seldon.io/projects/alibi/en/latest/) [GitHub](https://github.com/SeldonIO/alibi) | Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The focus of the library is to provide high-quality implementations of black-box, white-box, local and global explanation methods for classification and regression models.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Lucid |  [GitHub](https://github.com/tensorflow/lucid) | Lucid is a collection of infrastructure and tools for research in neural network interpretability. We're not currently supporting tensorflow 2! |
+| Yellowbrick | [link](https://www.scikit-yb.org/en/latest/) [GitHub](https://github.com/DistrictDataLabs/yellowbrick) |  Visual analysis and diagnostic tools to facilitate machine learning model selection. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
