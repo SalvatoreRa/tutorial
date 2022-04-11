@@ -382,6 +382,7 @@ Other interesting resources
 | [PyTorch](https://twitter.com/PyTorch) | PyTorch official account   |
 | [Kaggle](https://twitter.com/kaggle) | Kaggle official account   |
 | [Machine learning](https://twitter.com/machinelearnflx) | news about machine learning  |
+| [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 ## Web crawling, scraping
 
