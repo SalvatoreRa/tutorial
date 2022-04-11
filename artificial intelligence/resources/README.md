@@ -427,8 +427,8 @@ Other interesting resources
 | Fairlearn | [link](https://fairlearn.org/) [GitHub](https://github.com/fairlearn/fairlearn) |  Fairlearn is a Python package that empowers developers of artificial intelligence (AI) systems to assess their system's fairness and mitigate any observed unfairness issues. Fairlearn contains mitigation algorithms as well as metrics for model assessment.  |
 | CheckList | [article](https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf) [GitHub](https://github.com/marcotcr/checklist) | Beyond Accuracy: Behavioral Testing of NLP models with CheckList  |
 | CausalNex | [link](https://causalnex.readthedocs.io/en/latest/) [GitHub](https://github.com/quantumblacklabs/causalnex) | A Python library that helps data scientists to infer causation rather than observing correlation.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| explainerdashboard | [link](https://explainerdashboard.readthedocs.io/en/latest/) [GitHub](https://github.com/oegedijk/explainerdashboard) | This package makes it convenient to quickly deploy a dashboard web app that explains the workings of a (scikit-learn compatible) machine learning model.   |
+|  Responsible AI Toolbox | [link](https://responsibleaitoolbox.ai/) [GitHub](https://github.com/microsoft/responsible-ai-toolbox) | Responsible AI Toolbox is a suite of tools provides a collection of model and data exploration and assessment user interfaces that enable a better understanding of AI systems.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
