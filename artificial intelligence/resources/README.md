@@ -412,8 +412,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | SHAP | [link](https://shap.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/slundberg/shap) | SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.   |
 | Lime | [GitHub](https://github.com/marcotcr/lime) | Lime: Explaining the predictions of any machine learning classifier. This project is about explaining what machine learning classifiers (or models) are doing  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| ArviZ | [link](https://python.arviz.org/en/latest/) [GitHub](https://github.com/arviz-devs/arviz) |  ArviZ  is a Python package for exploratory analysis of Bayesian models. Includes functions for posterior analysis, data storage, model checking, comparison and diagnostics. |
+| InterpretML | [link](https://interpret.ml/docs/getting-started) [GitHub](https://github.com/interpretml/interpret) | InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
