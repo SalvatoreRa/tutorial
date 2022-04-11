@@ -425,6 +425,8 @@ Other interesting resources
 | Yellowbrick | [link](https://www.scikit-yb.org/en/latest/) [GitHub](https://github.com/DistrictDataLabs/yellowbrick) |  Visual analysis and diagnostic tools to facilitate machine learning model selection. |
 |AI Fairness 360 toolkit  | [link](http://aif360.mybluemix.net/) [GitHub](https://github.com/Trusted-AI/AIF360) | The AI Fairness 360 toolkit is an extensible open-source library containing techniques developed by the research community to help detect and mitigate bias in machine learning models throughout the AI application lifecycle. AI Fairness 360 package is available in both Python and R.  |
 | Fairlearn | [link](https://fairlearn.org/) [GitHub](https://github.com/fairlearn/fairlearn) |  Fairlearn is a Python package that empowers developers of artificial intelligence (AI) systems to assess their system's fairness and mitigate any observed unfairness issues. Fairlearn contains mitigation algorithms as well as metrics for model assessment.  |
+| CheckList | [article](https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf) [GitHub](https://github.com/marcotcr/checklist) | Beyond Accuracy: Behavioral Testing of NLP models with CheckList  |
+| CausalNex | [link](https://causalnex.readthedocs.io/en/latest/) [GitHub](https://github.com/quantumblacklabs/causalnex) | A Python library that helps data scientists to infer causation rather than observing correlation.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -438,6 +440,18 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+
 
 # Contributing
 
