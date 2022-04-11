@@ -414,8 +414,8 @@ Other interesting resources
 | Lime | [GitHub](https://github.com/marcotcr/lime) | Lime: Explaining the predictions of any machine learning classifier. This project is about explaining what machine learning classifiers (or models) are doing  |
 | ArviZ | [link](https://python.arviz.org/en/latest/) [GitHub](https://github.com/arviz-devs/arviz) |  ArviZ  is a Python package for exploratory analysis of Bayesian models. Includes functions for posterior analysis, data storage, model checking, comparison and diagnostics. |
 | InterpretML | [link](https://interpret.ml/docs/getting-started) [GitHub](https://github.com/interpretml/interpret) | InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Captum | [link](https://captum.ai/) [GitHub](https://github.com/pytorch/captum) | Captum is a model interpretability and understanding library for PyTorch.   |
+|  pyLDAvis | [link](https://pyldavis.readthedocs.io/en/latest/) [GitHub](https://github.com/bmabey/pyLDAvis) | Python library for interactive topic model visualization. This is a port of the fabulous R package by Carson Sievert and Kenny Shirley.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
