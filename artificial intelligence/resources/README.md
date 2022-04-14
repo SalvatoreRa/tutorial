@@ -465,6 +465,11 @@ Other interesting resources
 | TWIML AI Podcast| [link](https://twimlai.com/shows/) | wide range of topics in AI/ML with guests from academia, research organizations, industry leaders and technology executives. |
 |  The Data Exchange | [link](https://gradientflow.com/podcast/) | AI/ML and Data engineering |
 |  Late nights| [link](https://travandlos.webflow.io/) | features fresh ideas for creative design professionals, debates over best practices, industry secrets from experienced practitioners |
+|  | [link]() |  |
+|  | [link]() |  |
+|  | [link]() |  |
+|  | [link]() |  |
+|  | [link]() |  |
 
 # Contributing
 
