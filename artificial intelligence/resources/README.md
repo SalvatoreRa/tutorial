@@ -467,7 +467,7 @@ Other interesting resources
 |  Late nights| [link](https://travandlos.webflow.io/) | features fresh ideas for creative design professionals, debates over best practices, industry secrets from experienced practitioners |
 | Women in Data Science | [link](https://www.widsconference.org/podcast.html) | Every episode profiles a woman who has built a career in data science, sharing her experiences and what she learned along the way. |
 | 99% Invisible | [link](https://99percentinvisible.org/) |  From award-winning producer Roman Mars, this podcast dives into the everyday design of the world around us, focusing intently on the elements that often go unnoticed.  |
-|  | [link](https://www.dataengineeringpodcast.com/) |  |
+| Data Engineering Podcast | [link](https://www.dataengineeringpodcast.com/) | A more technical show, this podcast focuses predominantly on software tools and methodologies, with each episode providing a deep dive on a single topic. The show features a broad range of interviews from CTOs to engineers from a software vendor. |
 |  | [link]() |  |
 |  | [link]() |  |
 
