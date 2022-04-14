@@ -454,6 +454,17 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
+## Podcast
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| AllenAI NLP podcast | [link](https://allenai.org/podcasts) | NLP Highlights is AllenNLP’s podcast for discussing recent and interesting work related to natural language processing. |
+| Kubernetes Podcast| [link](https://kubernetespodcast.com/) | wide range of topics from kubernetes to cloud-native to latest industry news. |
+| Gradient Dissent| [link](https://wandb.ai/fully-connected/podcast) | about AI/ML industry trends |
+| MLOps Community| [link](https://mlops.community/watch/) | about ML Ops domain, but they also organize meetups, live discussions, etc... |
+| TWIML AI Podcast| [link](https://twimlai.com/shows/) | wide range of topics in AI/ML with guests from academia, research organizations, industry leaders and technology executives. |
+|  The Data Exchange | [link](https://gradientflow.com/podcast/) | AI/ML and Data engineering |
+|  Late nights| [link](https://travandlos.webflow.io/) | features fresh ideas for creative design professionals, debates over best practices, industry secrets from experienced practitioners |
 
 # Contributing
 
