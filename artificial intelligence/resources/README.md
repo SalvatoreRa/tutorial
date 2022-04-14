@@ -465,9 +465,9 @@ Other interesting resources
 | TWIML AI Podcast| [link](https://twimlai.com/shows/) | wide range of topics in AI/ML with guests from academia, research organizations, industry leaders and technology executives. |
 |  The Data Exchange | [link](https://gradientflow.com/podcast/) | AI/ML and Data engineering |
 |  Late nights| [link](https://travandlos.webflow.io/) | features fresh ideas for creative design professionals, debates over best practices, industry secrets from experienced practitioners |
-| Women in Data Science | [link](https://www.widsconference.org/podcast.html) |  |
-| 99% Invisible | [link](https://99percentinvisible.org/) |  |
-|  | [link]() |  |
+| Women in Data Science | [link](https://www.widsconference.org/podcast.html) | Every episode profiles a woman who has built a career in data science, sharing her experiences and what she learned along the way. |
+| 99% Invisible | [link](https://99percentinvisible.org/) |  From award-winning producer Roman Mars, this podcast dives into the everyday design of the world around us, focusing intently on the elements that often go unnoticed.  |
+|  | [link](https://www.dataengineeringpodcast.com/) |  |
 |  | [link]() |  |
 |  | [link]() |  |
 
