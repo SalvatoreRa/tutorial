@@ -449,8 +449,8 @@ Other interesting resources
 | LOFO | [link]() [GitHub](https://github.com/aerdem4/lofo-importance) | LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.  |
 | Anchor | [link](https://github.com/marcotcr/anchor) [GitHub](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) |  This repository has code for the paper High-Precision Model-Agnostic Explanations. An anchor explanation is a rule that sufficiently “anchors” the prediction locally – such that changes to the rest of the feature values of the instance do not matter.  |
 | FlashTorch | [GitHub](https://github.com/MisaOgura/flashtorch) | A Python visualization toolkit, built with PyTorch, for neural networks in PyTorch.  |
-|  | [link]() [GitHub]() |  A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard. |
-|  | [link]() [GitHub]() |   |
+| Interpret-Text | [GitHub](https://github.com/interpretml/interpret-text) |  A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard. |
+| DALEX | [link]() [GitHub](https://github.com/ModelOriented/DALEX) | The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
