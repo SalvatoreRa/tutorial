@@ -456,8 +456,9 @@ Other interesting resources
 | Fairness Indicators | [GitHub](https://github.com/tensorflow/fairness-indicators) |  Fairness Indicators is designed to support teams in evaluating, improving, and comparing models for fairness concerns in partnership with the broader Tensorflow toolkit. |
 | explainX |  [GitHub](https://github.com/explainX/explainx) | Explainable AI framework for data scientists. Explain & debug any blackbox machine learning model with a single line of code. Project is maybe not mantained anymore |
 | Attribution Priors |  [GitHub](https://github.com/suinleelab/attributionpriors) | Tools for training explainable models using attribution priors.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Contextual AI | [link](https://contextual-ai.readthedocs.io/en/latest/) [GitHub](https://github.com/SAP/contextual-ai) | About
+Contextual AI adds explainability to different stages of machine learning pipelines - data, training, and inference -  |
+| Bias Detector | [GitHub](https://github.com/intuit/bias-detector) | Bias Detector is a python package for detecting gender/race bias in binary classification models.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
