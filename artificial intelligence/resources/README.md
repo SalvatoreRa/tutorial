@@ -437,8 +437,8 @@ Other interesting resources
 | ecco | [link](https://ecco.readthedocs.io/en/main/) [GitHub](https://github.com/jalammar/ecco) |  Ecco is a python library for exploring and explaining Natural Language Processing models using interactive visualizations. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0). |
 |  AI Explainability 360 | [link](http://aix360.mybluemix.net/) [GitHub](https://github.com/Trusted-AI/AIX360) |  The AI Explainability 360 toolkit is an open-source library that supports interpretability and explainability of datasets and machine learning models.  |
 | DiCE | [link](http://interpret.ml/DiCE/) [GitHub](https://github.com/interpretml/DiCE) |   Generate Diverse Counterfactual Explanations for any machine learning model.|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| TreeInterpreter | [link](http://blog.datadive.net/interpreting-random-forests/) [GitHub](https://github.com/andosa/treeinterpreter) | Package for interpreting scikit-learn's decision tree and random forest predictions.  |
+| What-If Tool | [link](https://pair-code.github.io/what-if-tool/) [GitHub](https://github.com/PAIR-code/what-if-tool) |  The What-If Tool (WIT) provides an easy-to-use interface for expanding understanding of a black-box classification or regression ML model.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
