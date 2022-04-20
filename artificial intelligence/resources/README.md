@@ -439,8 +439,8 @@ Other interesting resources
 | DiCE | [link](http://interpret.ml/DiCE/) [GitHub](https://github.com/interpretml/DiCE) |   Generate Diverse Counterfactual Explanations for any machine learning model.|
 | TreeInterpreter | [link](http://blog.datadive.net/interpreting-random-forests/) [GitHub](https://github.com/andosa/treeinterpreter) | Package for interpreting scikit-learn's decision tree and random forest predictions.  |
 | What-If Tool | [link](https://pair-code.github.io/what-if-tool/) [GitHub](https://github.com/PAIR-code/what-if-tool) |  The What-If Tool (WIT) provides an easy-to-use interface for expanding understanding of a black-box classification or regression ML model.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| tf-explain | [link](https://tf-explain.readthedocs.io/en/latest/) [GitHub](https://github.com/sicara/tf-explain) |  tf-explain implements interpretability methods as Tensorflow 2.x callbacks to ease neural network's understanding. See Introducing tf-explain, Interpretability for Tensorflow 2.0 |
+| iNNvestigate | [link]() [GitHub](https://github.com/albermax/innvestigate) |  A toolbox to iNNvestigate neural networks' predictions! |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
