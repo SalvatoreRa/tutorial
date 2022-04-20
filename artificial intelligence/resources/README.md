@@ -450,9 +450,9 @@ Other interesting resources
 | Anchor | [link](https://github.com/marcotcr/anchor) [GitHub](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) |  This repository has code for the paper High-Precision Model-Agnostic Explanations. An anchor explanation is a rule that sufficiently “anchors” the prediction locally – such that changes to the rest of the feature values of the instance do not matter.  |
 | FlashTorch | [GitHub](https://github.com/MisaOgura/flashtorch) | A Python visualization toolkit, built with PyTorch, for neural networks in PyTorch.  |
 | Interpret-Text | [GitHub](https://github.com/interpretml/interpret-text) |  A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard. |
-| DALEX | [link]() [GitHub](https://github.com/ModelOriented/DALEX) | The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| DALEX | [link](https://dalex.drwhy.ai/) [GitHub](https://github.com/ModelOriented/DALEX) | The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.  |
+| Skater | [link](https://oracle.github.io/Skater/overview.html) [GitHub](https://github.com/oracle/Skater) | Skater is a unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases  |
+| Model Card Toolkit| [link](https://modelcards.withgoogle.com/about) [GitHub](https://github.com/tensorflow/model-card-toolkit) | The Model Card Toolkit (MCT) streamlines and automates generation of Model Cards [1], machine learning documents that provide context and transparency into a model's development and performance.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
