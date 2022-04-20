@@ -445,6 +445,20 @@ Other interesting resources
 | TCAV | [article](https://arxiv.org/abs/1711.11279) [GitHub](https://github.com/tensorflow/tcav) |  Testing with Concept Activation Vectors (TCAV) is a new interpretability method to understand what signals your neural networks models uses for prediction. |
 | Aequitas | [link](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/) [GitHub](https://github.com/dssg/aequitas) | Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools.  |
 | sklearn-evaluation  | [link](https://sklearn-evaluation.readthedocs.io/en/latest/) [GitHub](https://github.com/edublancas/sklearn-evaluation) |  Machine learning model evaluation made easy: plots, tables, HTML reports, experiment tracking, and Jupyter notebook analysis. |
+| XAI  | [link](https://ethical.institute/principles.html#commitment-3) [GitHub](https://github.com/EthicalML/xai) |  XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models.  |
+| LOFO | [link]() [GitHub](https://github.com/aerdem4/lofo-importance) | LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.  |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
