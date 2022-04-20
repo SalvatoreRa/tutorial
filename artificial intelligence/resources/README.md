@@ -385,28 +385,6 @@ Other interesting resources
 | [Machine learning](https://twitter.com/machinelearnflx) | news about machine learning  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
-## Web crawling, scraping
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| scrapy | [link](https://scrapy.org/) [GitHub](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling & scraping framework for Python.  |
-| You-Get  | [link](https://you-get.org/) [GitHub](https://github.com/soimort/you-get) |  You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it. |
-|feedparser  | [link](https://feedparser.readthedocs.io/en/latest/) [GitHub](https://github.com/kurtmckee/feedparser) | feedparser - Parse Atom and RSS feeds in Python.  |
-| pytrends |  [GitHub](https://github.com/GeneralMills/pytrends) | Unofficial API for Google Trends. Allows simple interface for automating downloading of reports from Google Trends.   |
-| Beautiful Soup  | [link](https://beautiful-soup-4.readthedocs.io/en/latest/#) [link](https://www.crummy.com/software/BeautifulSoup/) | Beautiful Soup is a Python library for pulling data out of HTML and XML files.   |
-| cloudscraper | [GitHub](https://github.com/VeNoMouS/cloudscraper) |   Python module to bypass Cloudflare's anti-bot page. |
-| Parsel |  [GitHub](https://github.com/scrapy/parsel) |  Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors |
-| dirsearch  | [GitHub](https://github.com/maurosoria/dirsearch) |  An advanced command-line tool designed to brute force directories and files in webservers, AKA web path scanner |
-| MechanicalSoup | [link](https://mechanicalsoup.readthedocs.io/en/stable/) [GitHub](https://github.com/MechanicalSoup/MechanicalSoup) | A Python library for automating interaction with websites.  A Python library for automating interaction with websites. MechanicalSoup automatically stores and sends cookies, follows redirects, and can follow links and submit forms. It doesn't do JavaScript.|
-| trafilatura | [link](https://trafilatura.readthedocs.io/en/latest/) [GitHub](https://github.com/adbar/trafilatura) |  Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments) |
-| Gerapy | [link](https://docs.gerapy.com/en/latest/) [GitHub](https://github.com/Gerapy/Gerapy) | Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js  |
-| extruct | [GitHub](https://github.com/scrapinghub/extruct) | Extract embedded metadata from HTML markup  |
-|  micawber| [link](https://micawber.readthedocs.io/en/latest/) [GitHub](https://github.com/coleifer/micawber) |  a small library for extracting rich content from urls. micawber supplies a few methods for retrieving rich metadata about a variety of links, such as links to youtube videos. |
-| Ruia | [link](https://www.howie6879.cn/ruia/) [GitHub](https://github.com/howie6879/ruia) | Async Python 3.6+ web scraping micro-framework based on asyncio  |
-| autoscraper | [GitHub](https://github.com/alirezamika/autoscraper) |  A Smart, Automatic, Fast and Lightweight Web Scraper for Python. This project is made for automatic web scraping to make scraping easy. It gets a url or the html content of a web page and a list of sample data which we want to scrape from that page. |
-| gazpacho  | [link](https://gazpacho.xyz/) [GitHub](https://github.com/maxhumber/gazpacho) | The simple, fast, and modern web scraping library  |
-| lassie | [link](https://lassie.readthedocs.io/en/latest/) [GitHub](https://github.com/michaelhelmick/lassie) |  Lassie is a Python library for retrieving basic content from websites. |
-|  Scrapera| [GitHub](https://github.com/DarshanDeshpande/Scrapera) |  A universal package of scraper scripts for humans, Scrapera is a completely Chromedriver free package that provides access to a variety of scraper scripts for most commonly used machine learning and data science domains.  |
 
 
 |  | [link]() [GitHub]() |   |
