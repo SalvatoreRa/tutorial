@@ -454,8 +454,8 @@ Other interesting resources
 | Skater | [link](https://oracle.github.io/Skater/overview.html) [GitHub](https://github.com/oracle/Skater) | Skater is a unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases  |
 | Model Card Toolkit| [link](https://modelcards.withgoogle.com/about) [GitHub](https://github.com/tensorflow/model-card-toolkit) | The Model Card Toolkit (MCT) streamlines and automates generation of Model Cards, machine learning documents that provide context and transparency into a model's development and performance.  |
 | Fairness Indicators | [GitHub](https://github.com/tensorflow/fairness-indicators) |  Fairness Indicators is designed to support teams in evaluating, improving, and comparing models for fairness concerns in partnership with the broader Tensorflow toolkit. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| explainX |  [GitHub](https://github.com/explainX/explainx) | Explainable AI framework for data scientists. Explain & debug any blackbox machine learning model with a single line of code. Project is maybe not mantained anymore |
+| Attribution Priors |  [GitHub](https://github.com/suinleelab/attributionpriors) | Tools for training explainable models using attribution priors.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
