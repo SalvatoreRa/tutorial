@@ -452,8 +452,8 @@ Other interesting resources
 | Interpret-Text | [GitHub](https://github.com/interpretml/interpret-text) |  A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard. |
 | DALEX | [link](https://dalex.drwhy.ai/) [GitHub](https://github.com/ModelOriented/DALEX) | The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.  |
 | Skater | [link](https://oracle.github.io/Skater/overview.html) [GitHub](https://github.com/oracle/Skater) | Skater is a unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases  |
-| Model Card Toolkit| [link](https://modelcards.withgoogle.com/about) [GitHub](https://github.com/tensorflow/model-card-toolkit) | The Model Card Toolkit (MCT) streamlines and automates generation of Model Cards [1], machine learning documents that provide context and transparency into a model's development and performance.  |
-|  | [link]() [GitHub]() |   |
+| Model Card Toolkit| [link](https://modelcards.withgoogle.com/about) [GitHub](https://github.com/tensorflow/model-card-toolkit) | The Model Card Toolkit (MCT) streamlines and automates generation of Model Cards, machine learning documents that provide context and transparency into a model's development and performance.  |
+| Fairness Indicators | [GitHub](https://github.com/tensorflow/fairness-indicators) |  Fairness Indicators is designed to support teams in evaluating, improving, and comparing models for fairness concerns in partnership with the broader Tensorflow toolkit. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
