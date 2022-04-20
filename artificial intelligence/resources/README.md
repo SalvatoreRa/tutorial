@@ -443,8 +443,8 @@ Other interesting resources
 | iNNvestigate | [link]() [GitHub](https://github.com/albermax/innvestigate) |  A toolbox to iNNvestigate neural networks' predictions! |
 | deeplift |  [GitHub](https://github.com/kundajelab/deeplift) |  This repository implements the methods in "Learning Important Features Through Propagating Activation Differences" by Shrikumar, Greenside & Kundaje, as well as other commonly-used methods such as gradients, gradient-times-input (equivalent to a version of Layerwise Relevance Propagation for ReLU networks), guided backprop and integrated gradients. |
 | TCAV | [article](https://arxiv.org/abs/1711.11279) [GitHub](https://github.com/tensorflow/tcav) |  Testing with Concept Activation Vectors (TCAV) is a new interpretability method to understand what signals your neural networks models uses for prediction. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Aequitas | [link](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/) [GitHub](https://github.com/dssg/aequitas) | Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools.  |
+| sklearn-evaluation  | [link](https://sklearn-evaluation.readthedocs.io/en/latest/) [GitHub](https://github.com/edublancas/sklearn-evaluation) |  Machine learning model evaluation made easy: plots, tables, HTML reports, experiment tracking, and Jupyter notebook analysis. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
