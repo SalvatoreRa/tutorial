@@ -447,9 +447,9 @@ Other interesting resources
 | sklearn-evaluation  | [link](https://sklearn-evaluation.readthedocs.io/en/latest/) [GitHub](https://github.com/edublancas/sklearn-evaluation) |  Machine learning model evaluation made easy: plots, tables, HTML reports, experiment tracking, and Jupyter notebook analysis. |
 | XAI  | [link](https://ethical.institute/principles.html#commitment-3) [GitHub](https://github.com/EthicalML/xai) |  XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models.  |
 | LOFO | [link]() [GitHub](https://github.com/aerdem4/lofo-importance) | LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Anchor | [link](https://github.com/marcotcr/anchor) [GitHub](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) |  This repository has code for the paper High-Precision Model-Agnostic Explanations. An anchor explanation is a rule that sufficiently “anchors” the prediction locally – such that changes to the rest of the feature values of the instance do not matter.  |
+| FlashTorch | [GitHub](https://github.com/MisaOgura/flashtorch) | A Python visualization toolkit, built with PyTorch, for neural networks in PyTorch.  |
+|  | [link]() [GitHub]() |  A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
