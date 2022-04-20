@@ -433,8 +433,8 @@ Other interesting resources
 |  Responsible AI Toolbox | [link](https://responsibleaitoolbox.ai/) [GitHub](https://github.com/microsoft/responsible-ai-toolbox) | Responsible AI Toolbox is a suite of tools provides a collection of model and data exploration and assessment user interfaces that enable a better understanding of AI systems.  |
 |  Language Interpretability Tool (LIT) | [link](https://pair-code.github.io/lit/) [GitHub](https://github.com/PAIR-code/lit) | The Language Interpretability Tool (LIT) is a visual, interactive model-understanding tool for ML models, focusing on NLP use-cases. It can be run as a standalone server, or inside of notebook environments such as Colab, Jupyter, and Google Cloud Vertex AI notebooks.  |
 | Keract: Keras Activations + Gradients | [GitHub](https://github.com/philipperemy/keract) |  Layers Outputs and Gradients in Keras. Made easy. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| imodels  | [link](https://csinva.io/imodels/) [GitHub](https://github.com/csinva/imodels) |Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible). This package provides a simple interface for fitting and using state-of-the-art interpretable models, all compatible with scikit-learn.   |
+| ecco | [link](https://ecco.readthedocs.io/en/main/) [GitHub](https://github.com/jalammar/ecco) |  Ecco is a python library for exploring and explaining Natural Language Processing models using interactive visualizations. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0). |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
