@@ -413,8 +413,8 @@ Other interesting resources
 | hivemind | [link](https://learning-at-home.readthedocs.io/en/latest/user/quickstart.html) [GitHub](https://github.com/learning-at-home/hivemind) | Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.  |
 | BytePS |  [GitHub](https://github.com/bytedance/byteps) | BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.  |
 | singa | [link](https://singa.apache.org/) [GitHub](https://github.com/apache/singa) |  Distributed deep learning system |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  Mesh Transformer JAX |  [GitHub](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku. A haiku library using the xmap/pjit operators in JAX for model parallelism of transformers. The parallelism scheme is similar to the original Megatron-LM, which is efficient on TPUs due to the high speed 2d mesh network.  |
+| Parallelformers | [link](https://tunib-ai.github.io/parallelformers/) [GitHub](https://github.com/tunib-ai/parallelformers) | Parallelformers: An Efficient Model Parallelization Toolkit for Deployment  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
