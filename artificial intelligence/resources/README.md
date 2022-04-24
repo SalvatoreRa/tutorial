@@ -399,6 +399,12 @@ Other interesting resources
 | IPython Parallel | [link](https://ipyparallel.readthedocs.io/en/latest/) [GitHub](https://github.com/ipython/ipyparallel) | IPython Parallel (ipyparallel) is a Python package and collection of CLI scripts for controlling clusters of IPython processes, built on the Jupyter protocol.  |
 | BigDL | [link](https://bigdl.readthedocs.io/en/latest/) [GitHub](https://github.com/intel-analytics/BigDL) |  BigDL makes it easy for data scientists and data engineers to build end-to-end, distributed AI applications.  |
 |  DeepSpeed| [link](https://www.deepspeed.ai/) [GitHub](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.  |
+| fairscale | [link](https://fairscale.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/fairscale) | PyTorch extensions for high performance and large scale training.  |
+| TorchMetrics | [link](https://torchmetrics.readthedocs.io/en/stable/) [GitHub](https://github.com/PyTorchLightning/metrics) | Machine learning metrics for distributed, scalable PyTorch applications. TorchMetrics is a collection of 80+ PyTorch metrics implementations and an easy-to-use API to create custom metrics. |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
