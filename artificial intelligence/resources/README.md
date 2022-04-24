@@ -419,8 +419,8 @@ Other interesting resources
 |  Kedro | [link](https://kedro.readthedocs.io/en/stable/) [GitHub](https://github.com/kedro-org/kedro) |  A Python framework for creating reproducible, maintainable and modular data science code. |
 | petl | [link](https://petl.readthedocs.io/en/stable/) [GitHub](https://github.com/petl-developers/petl) |  petl is a general purpose Python package for extracting, transforming and loading tables of data. |
 | Hub  | [link](https://www.activeloop.ai/) [GitHub](https://github.com/activeloopai/Hub) | Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| MLeap | [link](https://combust.github.io/mleap-docs/) [GitHub](https://github.com/combust/mleap) |  Deploying machine learning data pipelines and algorithms should not be a time-consuming or difficult task. MLeap allows data scientists and engineers to deploy machine learning pipelines from Spark and Scikit-learn to a portable format and execution engine. |
+| huey | [link](https://huey.readthedocs.io/en/latest/) [GitHub](https://github.com/coleifer/huey) | a little task queue for python  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
