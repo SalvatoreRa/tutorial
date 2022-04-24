@@ -397,8 +397,8 @@ Other interesting resources
 | TensorFlow Recommenders |  [GitHub](https://github.com/tensorflow/recommenders) |  TensorFlow Recommenders is a library for building recommender system models using TensorFlow. |
 | TensorFlow Ranking  |  [GitHub](https://github.com/tensorflow/ranking) |  TensorFlow Ranking is a library for Learning-to-Rank (LTR) techniques on the TensorFlow platform. It contains the following components: |
 | RecBole  | [link](https://recbole.io/) [GitHub](https://github.com/RUCAIBox/RecBole) |  A unified, comprehensive and efficient recommendation library |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Cornac | [link](https://cornac.preferred.ai/) [GitHub](https://github.com/PreferredAI/cornac) |   Cornac is a comparative framework for multimodal recommender systems. It focuses on making it convenient to work with models leveraging auxiliary data (e.g., item descriptive text and image, social network, etc). |
+| Case Recommender |  [GitHub](https://github.com/caserec/CaseRecommender) |  Case Recommender: A Flexible and Extensible Python Framework for Recommender Systems |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
