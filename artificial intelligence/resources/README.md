@@ -401,6 +401,12 @@ Other interesting resources
 | Case Recommender |  [GitHub](https://github.com/caserec/CaseRecommender) |  Case Recommender: A Flexible and Extensible Python Framework for Recommender Systems |
 | recmetrics |  [GitHub](https://github.com/statisticianinstilettos/recmetrics) | A library of metrics for evaluating recommender systems  |
 | LensKit | [link](https://lkpy.readthedocs.io/en/stable/) [GitHub](https://github.com/lenskit/lkpy) | LensKit is a set of Python tools for experimenting with and studying recommender systems. It provides support for training, running, and evaluating recommender algorithms  |
+
+
+## Data Pipelines, Streaming
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -412,6 +418,18 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+
 
 
 # Contributing
