@@ -399,8 +399,8 @@ Other interesting resources
 | RecBole  | [link](https://recbole.io/) [GitHub](https://github.com/RUCAIBox/RecBole) |  A unified, comprehensive and efficient recommendation library |
 | Cornac | [link](https://cornac.preferred.ai/) [GitHub](https://github.com/PreferredAI/cornac) |   Cornac is a comparative framework for multimodal recommender systems. It focuses on making it convenient to work with models leveraging auxiliary data (e.g., item descriptive text and image, social network, etc). |
 | Case Recommender |  [GitHub](https://github.com/caserec/CaseRecommender) |  Case Recommender: A Flexible and Extensible Python Framework for Recommender Systems |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| recmetrics |  [GitHub](https://github.com/statisticianinstilettos/recmetrics) | A library of metrics for evaluating recommender systems  |
+| LensKit | [link](https://lkpy.readthedocs.io/en/stable/) [GitHub](https://github.com/lenskit/lkpy) | LensKit is a set of Python tools for experimenting with and studying recommender systems. It provides support for training, running, and evaluating recommender algorithms  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
