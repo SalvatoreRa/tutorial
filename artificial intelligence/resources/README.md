@@ -432,8 +432,8 @@ Other interesting resources
 | Pypeln | [link](https://cgarciae.github.io/pypeln/) [GitHub](https://github.com/cgarciae/pypeln) | Pypeln (pronounced as "pypeline") is a simple yet powerful Python library for creating concurrent data pipelines  |
 | TaskTiger |  [GitHub](https://github.com/closeio/tasktiger) | TaskTiger is a Python task queue using Redis.  |
 | pdpipe | [link](https://pdpipe.readthedocs.io/en/latest/) [GitHub](https://github.com/pdpipe/pdpipe) | Easy pipelines for pandas DataFrames. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Deep Learning Pipelines | [link](https://databricks.github.io/spark-deep-learning/) [GitHub](https://github.com/databricks/spark-deep-learning) |  Deep Learning Pipelines for Apache Spark |
+| Mara Pipelines |  [GitHub](https://github.com/mara/mara-pipelines) | A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
