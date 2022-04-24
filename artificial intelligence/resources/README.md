@@ -407,9 +407,9 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| celery | [link](https://docs.celeryq.dev/en/stable/) [GitHub](https://github.com/celery/celery) | Distributed Task Queue (development branch). Task queues are used as a mechanism to distribute work across threads or machines.  |
+| Apache Beam | [link](https://beam.apache.org/) [GitHub](https://github.com/apache/beam) | Apache Beam is a unified programming model for Batch and Streaming data processing.  |
+|  | [link]() [GitHub](https://github.com/rq/rq) |  RQ (Redis Queue) is a simple Python library for queueing jobs and processing them in the background with workers. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
