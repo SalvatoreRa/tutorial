@@ -436,7 +436,7 @@ Other interesting resources
 | Mara Pipelines |  [GitHub](https://github.com/mara/mara-pipelines) | A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow  |
 | riko |  [GitHub](https://github.com/nerevu/riko) |  riko is a pure Python library for analyzing and processing streams of structured data. riko has synchronous and asynchronous APIs, supports parallel execution, and is well suited for processing RSS feeds |
 | Databolt Flow |  [GitHub](https://d6tflow.readthedocs.io/en/latest/) |  For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive.  |
-|  | [link]() [GitHub]() |   |
+| Kubeflow Kale | [link](https://kubeflow-kale.github.io/) [GitHub](https://github.com/kubeflow-kale/kale) | Kubeflow’s superfood for Data Scientists  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
