@@ -411,8 +411,8 @@ Other interesting resources
 | Apache Beam | [link](https://beam.apache.org/) [GitHub](https://github.com/apache/beam) | Apache Beam is a unified programming model for Batch and Streaming data processing.  |
 | RQ (Redis Queue) | [link](https://python-rq.org/) [GitHub](https://github.com/rq/rq) |  RQ (Redis Queue) is a simple Python library for queueing jobs and processing them in the background with workers. |
 | Luigi | [link](https://luigi.readthedocs.io/en/stable/) [GitHub](https://github.com/spotify/luigi) | Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Prefect | [link](https://www.prefect.io/) [GitHub](https://github.com/PrefectHQ/prefect) |  Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. |
+| dagster | [link](https://dagster.io/) [GitHub](https://github.com/dagster-io/dagster) |  An orchestration platform for the development, production, and observation of data assets. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
