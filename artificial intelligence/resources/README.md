@@ -407,6 +407,21 @@ Other interesting resources
 | MPI for Python | [link](https://mpi4py.readthedocs.io/en/stable/) [GitHub]https://github.com/mpi4py/mpi4py) | This package provides Python bindings for the Message Passing Interface (MPI) standard. It is implemented on top of the MPI specification and exposes an API which grounds on the standard MPI-2 C++ bindings.  |
 | Synapse Machine Learning | [link](https://microsoft.github.io/SynapseML/) [GitHub](https://github.com/microsoft/SynapseML) | SynapseML (previously MMLSpark) is an open source library to simplify the creation of scalable machine learning pipelines. SynapseML builds on Apache Spark and SparkML to enable new kinds of machine learning, analytics, and model deployment workflows.   |
 | Analytics Zoo | [link](https://analytics-zoo.readthedocs.io/en/latest/) [GitHub](https://github.com/intel-analytics/analytics-zoo) | Distributed TensorFlow, PyTorch, Keras and BigDL on Apache Spark & Ray. Analytics Zoo is an open source Big Data AI platform, and includes the following features for scaling end-to-end AI to distributed Big Data |
+| Elephas | [link](http://maxpumperla.com/elephas/) [GitHub](https://github.com/maxpumperla/elephas) | Elephas is an extension of Keras, which allows you to run distributed deep learning models at scale with Spark. Elephas currently supports a number of applications  |
+| Mesh TensorFlow  |  [GitHub](https://github.com/tensorflow/mesh) |  Mesh TensorFlow (mtf) is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.  |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
