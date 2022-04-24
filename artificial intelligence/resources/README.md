@@ -403,8 +403,8 @@ Other interesting resources
 | TorchMetrics | [link](https://torchmetrics.readthedocs.io/en/stable/) [GitHub](https://github.com/PyTorchLightning/metrics) | Machine learning metrics for distributed, scalable PyTorch applications. TorchMetrics is a collection of 80+ PyTorch metrics implementations and an easy-to-use API to create custom metrics. |
 |TensorFlowOnSpark  |  [GitHub](https://github.com/yahoo/TensorFlowOnSpark) |  TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters. |
 | Petastorm |  [GitHub](https://github.com/uber/petastorm) | Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Dask-ML | [link](https://ml.dask.org/) [GitHub](https://github.com/dask/dask-ml) | Dask-ML provides scalable machine learning in Python using Dask alongside popular machine learning libraries like Scikit-Learn, XGBoost, and others.  |
+| MPI for Python | [link](https://mpi4py.readthedocs.io/en/stable/) [GitHub]https://github.com/mpi4py/mpi4py) | This package provides Python bindings for the Message Passing Interface (MPI) standard. It is implemented on top of the MPI specification and exposes an API which grounds on the standard MPI-2 C++ bindings.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
