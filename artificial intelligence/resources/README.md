@@ -388,42 +388,6 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 
-
-
-## Data Pipelines, Streaming
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| celery | [link](https://docs.celeryq.dev/en/stable/) [GitHub](https://github.com/celery/celery) | Distributed Task Queue (development branch). Task queues are used as a mechanism to distribute work across threads or machines.  |
-| Apache Beam | [link](https://beam.apache.org/) [GitHub](https://github.com/apache/beam) | Apache Beam is a unified programming model for Batch and Streaming data processing.  |
-| RQ (Redis Queue) | [link](https://python-rq.org/) [GitHub](https://github.com/rq/rq) |  RQ (Redis Queue) is a simple Python library for queueing jobs and processing them in the background with workers. |
-| Luigi | [link](https://luigi.readthedocs.io/en/stable/) [GitHub](https://github.com/spotify/luigi) | Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  |
-| Prefect | [link](https://www.prefect.io/) [GitHub](https://github.com/PrefectHQ/prefect) |  Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. |
-| dagster | [link](https://dagster.io/) [GitHub](https://github.com/dagster-io/dagster) |  An orchestration platform for the development, production, and observation of data assets. |
-| Joblib | [link](https://joblib.readthedocs.io/en/latest/) [GitHub](https://github.com/joblib/joblib) | Joblib is a set of tools to provide lightweight pipelining in Python.   |
-| Great Expectations | [link](https://docs.greatexpectations.io/docs/) [GitHub](https://github.com/great-expectations/great_expectations) | Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.  |
-| dbt | [link](https://www.getdbt.com/) [GitHub](https://github.com/dbt-labs/dbt-core) | dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.  |
-|  Kedro | [link](https://kedro.readthedocs.io/en/stable/) [GitHub](https://github.com/kedro-org/kedro) |  A Python framework for creating reproducible, maintainable and modular data science code. |
-| petl | [link](https://petl.readthedocs.io/en/stable/) [GitHub](https://github.com/petl-developers/petl) |  petl is a general purpose Python package for extracting, transforming and loading tables of data. |
-| Hub  | [link](https://www.activeloop.ai/) [GitHub](https://github.com/activeloopai/Hub) | Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it.  |
-| MLeap | [link](https://combust.github.io/mleap-docs/) [GitHub](https://github.com/combust/mleap) |  Deploying machine learning data pipelines and algorithms should not be a time-consuming or difficult task. MLeap allows data scientists and engineers to deploy machine learning pipelines from Spark and Scikit-learn to a portable format and execution engine. |
-|  huey | [link](https://huey.readthedocs.io/en/latest/) [GitHub](https://github.com/coleifer/huey) | a little task queue for python  |
-|  TensorFlow Extended (TFX) | [link](https://www.tensorflow.org/tfx) [GitHub](https://github.com/tensorflow/tfx) | TensorFlow Extended (TFX) is a Google-production-scale machine learning platform based on TensorFlow. It provides a configuration framework to express ML pipelines consisting of TFX components.   |
-| Ploomber | [link](https://ploomber.io/) [GitHub](https://github.com/ploomber/ploomber) |  Ploomber is the fastest way to build data pipelines |
-| optimus | [link](https://hi-optimus.com/) [GitHub](https://github.com/hi-primus/optimus) | Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  |
-| PyFunctional | [link](https://pyfunctional.pedro.ai/) [GitHub](https://github.com/EntilZha/PyFunctional) | Python library for creating data pipelines with chain functional programming  |
-| Streamparse | [link](https://streamparse.readthedocs.io/en/stable/) [GitHub](https://github.com/Parsely/streamparse) | Streamparse lets you run Python code against real-time streams of data via Apache Storm.   |
-| arg | [link](https://arq-docs.helpmanual.io/) [GitHub]() | Fast job queuing and RPC in python with asyncio and redis.  |
-| ZenML | [link](https://zenml.io/) [GitHub](https://github.com/zenml-io/zenml) |  ZenML is an extensible, open-source MLOps framework to create production-ready machine learning pipelines. Built for data scientists, it has a simple, flexible syntax, is cloud- and tool-agnostic, and has interfaces/abstractions that are catered towards ML workflows. |
-| whylogs | [link](https://docs.whylabs.ai/docs/) [GitHub](https://github.com/whylabs/whylogs) | whylogs is an open source library for logging any kind of data. With whylogs, users are able to generate summaries of their datasets   |
-| Pypeln | [link](https://cgarciae.github.io/pypeln/) [GitHub](https://github.com/cgarciae/pypeln) | Pypeln (pronounced as "pypeline") is a simple yet powerful Python library for creating concurrent data pipelines  |
-| TaskTiger |  [GitHub](https://github.com/closeio/tasktiger) | TaskTiger is a Python task queue using Redis.  |
-| pdpipe | [link](https://pdpipe.readthedocs.io/en/latest/) [GitHub](https://github.com/pdpipe/pdpipe) | Easy pipelines for pandas DataFrames. |
-| Deep Learning Pipelines | [link](https://databricks.github.io/spark-deep-learning/) [GitHub](https://github.com/databricks/spark-deep-learning) |  Deep Learning Pipelines for Apache Spark |
-| Mara Pipelines |  [GitHub](https://github.com/mara/mara-pipelines) | A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow  |
-| riko |  [GitHub](https://github.com/nerevu/riko) |  riko is a pure Python library for analyzing and processing streams of structured data. riko has synchronous and asynchronous APIs, supports parallel execution, and is well suited for processing RSS feeds |
-| Databolt Flow |  [GitHub](https://d6tflow.readthedocs.io/en/latest/) |  For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive.  |
-| Kubeflow Kale | [link](https://kubeflow-kale.github.io/) [GitHub](https://github.com/kubeflow-kale/kale) | Kubeflow’s superfood for Data Scientists  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -439,7 +403,6 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
 
 # Contributing
 
