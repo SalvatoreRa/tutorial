@@ -428,8 +428,8 @@ Other interesting resources
 | Streamparse | [link](https://streamparse.readthedocs.io/en/stable/) [GitHub](https://github.com/Parsely/streamparse) | Streamparse lets you run Python code against real-time streams of data via Apache Storm.   |
 | arg | [link](https://arq-docs.helpmanual.io/) [GitHub]() | Fast job queuing and RPC in python with asyncio and redis.  |
 | ZenML | [link](https://zenml.io/) [GitHub](https://github.com/zenml-io/zenml) |  ZenML is an extensible, open-source MLOps framework to create production-ready machine learning pipelines. Built for data scientists, it has a simple, flexible syntax, is cloud- and tool-agnostic, and has interfaces/abstractions that are catered towards ML workflows. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| whylogs | [link](https://docs.whylabs.ai/docs/) [GitHub](https://github.com/whylabs/whylogs) | whylogs is an open source library for logging any kind of data. With whylogs, users are able to generate summaries of their datasets   |
+| Pypeln | [link](https://cgarciae.github.io/pypeln/) [GitHub](https://github.com/cgarciae/pypeln) | Pypeln (pronounced as "pypeline") is a simple yet powerful Python library for creating concurrent data pipelines  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
