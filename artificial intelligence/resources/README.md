@@ -405,8 +405,8 @@ Other interesting resources
 | Petastorm |  [GitHub](https://github.com/uber/petastorm) | Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.  |
 | Dask-ML | [link](https://ml.dask.org/) [GitHub](https://github.com/dask/dask-ml) | Dask-ML provides scalable machine learning in Python using Dask alongside popular machine learning libraries like Scikit-Learn, XGBoost, and others.  |
 | MPI for Python | [link](https://mpi4py.readthedocs.io/en/stable/) [GitHub]https://github.com/mpi4py/mpi4py) | This package provides Python bindings for the Message Passing Interface (MPI) standard. It is implemented on top of the MPI specification and exposes an API which grounds on the standard MPI-2 C++ bindings.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Synapse Machine Learning | [link](https://microsoft.github.io/SynapseML/) [GitHub](https://github.com/microsoft/SynapseML) | SynapseML (previously MMLSpark) is an open source library to simplify the creation of scalable machine learning pipelines. SynapseML builds on Apache Spark and SparkML to enable new kinds of machine learning, analytics, and model deployment workflows.   |
+| Analytics Zoo | [link](https://analytics-zoo.readthedocs.io/en/latest/) [GitHub](https://github.com/intel-analytics/analytics-zoo) | Distributed TensorFlow, PyTorch, Keras and BigDL on Apache Spark & Ray. Analytics Zoo is an open source Big Data AI platform, and includes the following features for scaling end-to-end AI to distributed Big Data |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
