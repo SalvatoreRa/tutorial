@@ -415,8 +415,8 @@ Other interesting resources
 | dagster | [link](https://dagster.io/) [GitHub](https://github.com/dagster-io/dagster) |  An orchestration platform for the development, production, and observation of data assets. |
 | Joblib | [link](https://joblib.readthedocs.io/en/latest/) [GitHub](https://github.com/joblib/joblib) | Joblib is a set of tools to provide lightweight pipelining in Python.   |
 | Great Expectations | [link](https://docs.greatexpectations.io/docs/) [GitHub](https://github.com/great-expectations/great_expectations) | Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| dbt | [link](https://www.getdbt.com/) [GitHub](https://github.com/dbt-labs/dbt-core) | dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.  |
+|  Kedro | [link](https://kedro.readthedocs.io/en/stable/) [GitHub](https://github.com/kedro-org/kedro) |  A Python framework for creating reproducible, maintainable and modular data science code. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
