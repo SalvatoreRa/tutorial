@@ -424,8 +424,8 @@ Other interesting resources
 |  TensorFlow Extended (TFX) | [link](https://www.tensorflow.org/tfx) [GitHub](https://github.com/tensorflow/tfx) | TensorFlow Extended (TFX) is a Google-production-scale machine learning platform based on TensorFlow. It provides a configuration framework to express ML pipelines consisting of TFX components.   |
 | Ploomber | [link](https://ploomber.io/) [GitHub](https://github.com/ploomber/ploomber) |  Ploomber is the fastest way to build data pipelines |
 | optimus | [link](https://hi-optimus.com/) [GitHub](https://github.com/hi-primus/optimus) | Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyFunctional | [link](https://pyfunctional.pedro.ai/) [GitHub](https://github.com/EntilZha/PyFunctional) | Python library for creating data pipelines with chain functional programming  |
+| Streamparse | [link](https://streamparse.readthedocs.io/en/stable/) [GitHub](https://github.com/Parsely/streamparse) | Streamparse lets you run Python code against real-time streams of data via Apache Storm.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
