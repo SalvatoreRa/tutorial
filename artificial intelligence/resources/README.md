@@ -409,8 +409,8 @@ Other interesting resources
 | Analytics Zoo | [link](https://analytics-zoo.readthedocs.io/en/latest/) [GitHub](https://github.com/intel-analytics/analytics-zoo) | Distributed TensorFlow, PyTorch, Keras and BigDL on Apache Spark & Ray. Analytics Zoo is an open source Big Data AI platform, and includes the following features for scaling end-to-end AI to distributed Big Data |
 | Elephas | [link](http://maxpumperla.com/elephas/) [GitHub](https://github.com/maxpumperla/elephas) | Elephas is an extension of Keras, which allows you to run distributed deep learning models at scale with Spark. Elephas currently supports a number of applications  |
 | Mesh TensorFlow  |  [GitHub](https://github.com/tensorflow/mesh) |  Mesh TensorFlow (mtf) is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  Submitit |  [GitHub](https://github.com/facebookincubator/submitit) | Submitit is a lightweight tool for submitting Python functions for computation within a Slurm cluster. It basically wraps submission and provide access to results, logs and more.  |
+| hivemind | [link](https://learning-at-home.readthedocs.io/en/latest/user/quickstart.html) [GitHub](https://github.com/learning-at-home/hivemind) | Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
