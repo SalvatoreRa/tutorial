@@ -413,8 +413,8 @@ Other interesting resources
 | Luigi | [link](https://luigi.readthedocs.io/en/stable/) [GitHub](https://github.com/spotify/luigi) | Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  |
 | Prefect | [link](https://www.prefect.io/) [GitHub](https://github.com/PrefectHQ/prefect) |  Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. |
 | dagster | [link](https://dagster.io/) [GitHub](https://github.com/dagster-io/dagster) |  An orchestration platform for the development, production, and observation of data assets. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Joblib | [link](https://joblib.readthedocs.io/en/latest/) [GitHub](https://github.com/joblib/joblib) | Joblib is a set of tools to provide lightweight pipelining in Python.   |
+| Great Expectations | [link](https://docs.greatexpectations.io/docs/) [GitHub](https://github.com/great-expectations/great_expectations) | Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
