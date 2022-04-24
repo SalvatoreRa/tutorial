@@ -397,8 +397,8 @@ Other interesting resources
 | Distributed Dask | [link](https://distributed.dask.org/en/stable/) [GitHub](https://github.com/dask/distributed) | A distributed task scheduler for Dask  |
 | Horovod | [link](https://horovod.ai/) [GitHub](https://github.com/horovod/horovod) | Horovod is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. The goal of Horovod is to make distributed deep learning fast and easy to use.  |
 | IPython Parallel | [link](https://ipyparallel.readthedocs.io/en/latest/) [GitHub](https://github.com/ipython/ipyparallel) | IPython Parallel (ipyparallel) is a Python package and collection of CLI scripts for controlling clusters of IPython processes, built on the Jupyter protocol.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| BigDL | [link](https://bigdl.readthedocs.io/en/latest/) [GitHub](https://github.com/intel-analytics/BigDL) |  BigDL makes it easy for data scientists and data engineers to build end-to-end, distributed AI applications.  |
+|  DeepSpeed| [link](https://www.deepspeed.ai/) [GitHub](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
