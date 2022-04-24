@@ -434,8 +434,8 @@ Other interesting resources
 | pdpipe | [link](https://pdpipe.readthedocs.io/en/latest/) [GitHub](https://github.com/pdpipe/pdpipe) | Easy pipelines for pandas DataFrames. |
 | Deep Learning Pipelines | [link](https://databricks.github.io/spark-deep-learning/) [GitHub](https://github.com/databricks/spark-deep-learning) |  Deep Learning Pipelines for Apache Spark |
 | Mara Pipelines |  [GitHub](https://github.com/mara/mara-pipelines) | A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| riko |  [GitHub](https://github.com/nerevu/riko) |  riko is a pure Python library for analyzing and processing streams of structured data. riko has synchronous and asynchronous APIs, supports parallel execution, and is well suited for processing RSS feeds |
+| Databolt Flow |  [GitHub](https://d6tflow.readthedocs.io/en/latest/) |  For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
