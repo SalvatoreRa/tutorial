@@ -395,8 +395,8 @@ Other interesting resources
 | implicit | [link](https://benfred.github.io/implicit/) [GitHub](https://github.com/benfred/implicit) | This project provides fast Python implementations of several different popular recommendation algorithms for implicit feedback datasets  |
 |LightFM  |  [GitHub](https://github.com/lyst/lightfm) |  LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback |
 | TensorFlow Recommenders |  [GitHub](https://github.com/tensorflow/recommenders) |  TensorFlow Recommenders is a library for building recommender system models using TensorFlow. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| TensorFlow Ranking  |  [GitHub](https://github.com/tensorflow/ranking) |  TensorFlow Ranking is a library for Learning-to-Rank (LTR) techniques on the TensorFlow platform. It contains the following components: |
+| RecBole  | [link](https://recbole.io/) [GitHub](https://github.com/RUCAIBox/RecBole) |  A unified, comprehensive and efficient recommendation library |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
