@@ -422,8 +422,8 @@ Other interesting resources
 | MLeap | [link](https://combust.github.io/mleap-docs/) [GitHub](https://github.com/combust/mleap) |  Deploying machine learning data pipelines and algorithms should not be a time-consuming or difficult task. MLeap allows data scientists and engineers to deploy machine learning pipelines from Spark and Scikit-learn to a portable format and execution engine. |
 |  huey | [link](https://huey.readthedocs.io/en/latest/) [GitHub](https://github.com/coleifer/huey) | a little task queue for python  |
 |  TensorFlow Extended (TFX) | [link](https://www.tensorflow.org/tfx) [GitHub](https://github.com/tensorflow/tfx) | TensorFlow Extended (TFX) is a Google-production-scale machine learning platform based on TensorFlow. It provides a configuration framework to express ML pipelines consisting of TFX components.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Ploomber | [link](https://ploomber.io/) [GitHub](https://github.com/ploomber/ploomber) |  Ploomber is the fastest way to build data pipelines |
+| optimus | [link](https://hi-optimus.com/) [GitHub](https://github.com/hi-primus/optimus) | Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
