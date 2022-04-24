@@ -411,8 +411,8 @@ Other interesting resources
 | Mesh TensorFlow  |  [GitHub](https://github.com/tensorflow/mesh) |  Mesh TensorFlow (mtf) is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.  |
 |  Submitit |  [GitHub](https://github.com/facebookincubator/submitit) | Submitit is a lightweight tool for submitting Python functions for computation within a Slurm cluster. It basically wraps submission and provide access to results, logs and more.  |
 | hivemind | [link](https://learning-at-home.readthedocs.io/en/latest/user/quickstart.html) [GitHub](https://github.com/learning-at-home/hivemind) | Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| BytePS |  [GitHub](https://github.com/bytedance/byteps) | BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.  |
+| singa | [link](https://singa.apache.org/) [GitHub](https://github.com/apache/singa) |  Distributed deep learning system |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
