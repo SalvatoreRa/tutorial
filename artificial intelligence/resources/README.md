@@ -388,7 +388,11 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 
-|  | [link]() [GitHub]() |   |
+## Distributed Machine Learning
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+|  Ray | [link](https://www.ray.io/) [GitHub](https://github.com/ray-project/ray) | An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
