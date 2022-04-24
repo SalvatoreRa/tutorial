@@ -401,8 +401,8 @@ Other interesting resources
 |  DeepSpeed| [link](https://www.deepspeed.ai/) [GitHub](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.  |
 | fairscale | [link](https://fairscale.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/fairscale) | PyTorch extensions for high performance and large scale training.  |
 | TorchMetrics | [link](https://torchmetrics.readthedocs.io/en/stable/) [GitHub](https://github.com/PyTorchLightning/metrics) | Machine learning metrics for distributed, scalable PyTorch applications. TorchMetrics is a collection of 80+ PyTorch metrics implementations and an easy-to-use API to create custom metrics. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|TensorFlowOnSpark  |  [GitHub](https://github.com/yahoo/TensorFlowOnSpark) |  TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters. |
+| Petastorm |  [GitHub](https://github.com/uber/petastorm) | Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
