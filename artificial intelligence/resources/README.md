@@ -417,6 +417,8 @@ Other interesting resources
 | Great Expectations | [link](https://docs.greatexpectations.io/docs/) [GitHub](https://github.com/great-expectations/great_expectations) | Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.  |
 | dbt | [link](https://www.getdbt.com/) [GitHub](https://github.com/dbt-labs/dbt-core) | dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.  |
 |  Kedro | [link](https://kedro.readthedocs.io/en/stable/) [GitHub](https://github.com/kedro-org/kedro) |  A Python framework for creating reproducible, maintainable and modular data science code. |
+| petl | [link](https://petl.readthedocs.io/en/stable/) [GitHub](https://github.com/petl-developers/petl) |  petl is a general purpose Python package for extracting, transforming and loading tables of data. |
+| Hub  | [link](https://www.activeloop.ai/) [GitHub](https://github.com/activeloopai/Hub) | Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -429,7 +431,16 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 
 # Contributing
