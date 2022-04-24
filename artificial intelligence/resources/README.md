@@ -387,20 +387,7 @@ Other interesting resources
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
-## Recommender Systems
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| recommenders | [link](https://microsoft-recommenders.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/recommenders) |  The Recommenders repository provides examples and best practices for building recommendation systems, provided as Jupyter notebooks. |
-| implicit | [link](https://benfred.github.io/implicit/) [GitHub](https://github.com/benfred/implicit) | This project provides fast Python implementations of several different popular recommendation algorithms for implicit feedback datasets  |
-|LightFM  |  [GitHub](https://github.com/lyst/lightfm) |  LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback |
-| TensorFlow Recommenders |  [GitHub](https://github.com/tensorflow/recommenders) |  TensorFlow Recommenders is a library for building recommender system models using TensorFlow. |
-| TensorFlow Ranking  |  [GitHub](https://github.com/tensorflow/ranking) |  TensorFlow Ranking is a library for Learning-to-Rank (LTR) techniques on the TensorFlow platform. It contains the following components: |
-| RecBole  | [link](https://recbole.io/) [GitHub](https://github.com/RUCAIBox/RecBole) |  A unified, comprehensive and efficient recommendation library |
-| Cornac | [link](https://cornac.preferred.ai/) [GitHub](https://github.com/PreferredAI/cornac) |   Cornac is a comparative framework for multimodal recommender systems. It focuses on making it convenient to work with models leveraging auxiliary data (e.g., item descriptive text and image, social network, etc). |
-| Case Recommender |  [GitHub](https://github.com/caserec/CaseRecommender) |  Case Recommender: A Flexible and Extensible Python Framework for Recommender Systems |
-| recmetrics |  [GitHub](https://github.com/statisticianinstilettos/recmetrics) | A library of metrics for evaluating recommender systems  |
-| LensKit | [link](https://lkpy.readthedocs.io/en/stable/) [GitHub](https://github.com/lenskit/lkpy) | LensKit is a set of Python tools for experimenting with and studying recommender systems. It provides support for training, running, and evaluating recommender algorithms  |
 
 
 ## Data Pipelines, Streaming
