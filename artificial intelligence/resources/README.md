@@ -426,8 +426,8 @@ Other interesting resources
 | optimus | [link](https://hi-optimus.com/) [GitHub](https://github.com/hi-primus/optimus) | Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  |
 | PyFunctional | [link](https://pyfunctional.pedro.ai/) [GitHub](https://github.com/EntilZha/PyFunctional) | Python library for creating data pipelines with chain functional programming  |
 | Streamparse | [link](https://streamparse.readthedocs.io/en/stable/) [GitHub](https://github.com/Parsely/streamparse) | Streamparse lets you run Python code against real-time streams of data via Apache Storm.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| arg | [link](https://arq-docs.helpmanual.io/) [GitHub]() | Fast job queuing and RPC in python with asyncio and redis.  |
+| ZenML | [link](https://zenml.io/) [GitHub](https://github.com/zenml-io/zenml) |  ZenML is an extensible, open-source MLOps framework to create production-ready machine learning pipelines. Built for data scientists, it has a simple, flexible syntax, is cloud- and tool-agnostic, and has interfaces/abstractions that are catered towards ML workflows. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
