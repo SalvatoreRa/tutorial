@@ -388,33 +388,8 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 
-## Distributed Machine Learning
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-|  Ray | [link](https://www.ray.io/) [GitHub](https://github.com/ray-project/ray) | An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.  |
-| Dask | [link](https://dask.org/) [GitHub](https://github.com/dask/dask) | Dask is a flexible parallel computing library for analytics.   |
-| Distributed Dask | [link](https://distributed.dask.org/en/stable/) [GitHub](https://github.com/dask/distributed) | A distributed task scheduler for Dask  |
-| Horovod | [link](https://horovod.ai/) [GitHub](https://github.com/horovod/horovod) | Horovod is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. The goal of Horovod is to make distributed deep learning fast and easy to use.  |
-| IPython Parallel | [link](https://ipyparallel.readthedocs.io/en/latest/) [GitHub](https://github.com/ipython/ipyparallel) | IPython Parallel (ipyparallel) is a Python package and collection of CLI scripts for controlling clusters of IPython processes, built on the Jupyter protocol.  |
-| BigDL | [link](https://bigdl.readthedocs.io/en/latest/) [GitHub](https://github.com/intel-analytics/BigDL) |  BigDL makes it easy for data scientists and data engineers to build end-to-end, distributed AI applications.  |
-|  DeepSpeed| [link](https://www.deepspeed.ai/) [GitHub](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.  |
-| fairscale | [link](https://fairscale.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/fairscale) | PyTorch extensions for high performance and large scale training.  |
-| TorchMetrics | [link](https://torchmetrics.readthedocs.io/en/stable/) [GitHub](https://github.com/PyTorchLightning/metrics) | Machine learning metrics for distributed, scalable PyTorch applications. TorchMetrics is a collection of 80+ PyTorch metrics implementations and an easy-to-use API to create custom metrics. |
-|TensorFlowOnSpark  |  [GitHub](https://github.com/yahoo/TensorFlowOnSpark) |  TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters. |
-| Petastorm |  [GitHub](https://github.com/uber/petastorm) | Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.  |
-| Dask-ML | [link](https://ml.dask.org/) [GitHub](https://github.com/dask/dask-ml) | Dask-ML provides scalable machine learning in Python using Dask alongside popular machine learning libraries like Scikit-Learn, XGBoost, and others.  |
-| MPI for Python | [link](https://mpi4py.readthedocs.io/en/stable/) [GitHub]https://github.com/mpi4py/mpi4py) | This package provides Python bindings for the Message Passing Interface (MPI) standard. It is implemented on top of the MPI specification and exposes an API which grounds on the standard MPI-2 C++ bindings.  |
-| Synapse Machine Learning | [link](https://microsoft.github.io/SynapseML/) [GitHub](https://github.com/microsoft/SynapseML) | SynapseML (previously MMLSpark) is an open source library to simplify the creation of scalable machine learning pipelines. SynapseML builds on Apache Spark and SparkML to enable new kinds of machine learning, analytics, and model deployment workflows.   |
-| Analytics Zoo | [link](https://analytics-zoo.readthedocs.io/en/latest/) [GitHub](https://github.com/intel-analytics/analytics-zoo) | Distributed TensorFlow, PyTorch, Keras and BigDL on Apache Spark & Ray. Analytics Zoo is an open source Big Data AI platform, and includes the following features for scaling end-to-end AI to distributed Big Data |
-| Elephas | [link](http://maxpumperla.com/elephas/) [GitHub](https://github.com/maxpumperla/elephas) | Elephas is an extension of Keras, which allows you to run distributed deep learning models at scale with Spark. Elephas currently supports a number of applications  |
-| Mesh TensorFlow  |  [GitHub](https://github.com/tensorflow/mesh) |  Mesh TensorFlow (mtf) is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.  |
-|  Submitit |  [GitHub](https://github.com/facebookincubator/submitit) | Submitit is a lightweight tool for submitting Python functions for computation within a Slurm cluster. It basically wraps submission and provide access to results, logs and more.  |
-| hivemind | [link](https://learning-at-home.readthedocs.io/en/latest/user/quickstart.html) [GitHub](https://github.com/learning-at-home/hivemind) | Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.  |
-| BytePS |  [GitHub](https://github.com/bytedance/byteps) | BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.  |
-| singa | [link](https://singa.apache.org/) [GitHub](https://github.com/apache/singa) |  Distributed deep learning system |
-|  Mesh Transformer JAX |  [GitHub](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku. A haiku library using the xmap/pjit operators in JAX for model parallelism of transformers. The parallelism scheme is similar to the original Megatron-LM, which is efficient on TPUs due to the high speed 2d mesh network.  |
-| Parallelformers | [link](https://tunib-ai.github.io/parallelformers/) [GitHub](https://github.com/tunib-ai/parallelformers) | Parallelformers: An Efficient Model Parallelization Toolkit for Deployment  |
+
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
