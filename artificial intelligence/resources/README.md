@@ -393,8 +393,8 @@ Other interesting resources
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 |  Ray | [link](https://www.ray.io/) [GitHub](https://github.com/ray-project/ray) | An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Dask | [link](https://dask.org/) [GitHub](https://github.com/dask/dask) | Dask is a flexible parallel computing library for analytics.   |
+| Distributed Dask | [link](https://distributed.dask.org/en/stable/) [GitHub](https://github.com/dask/distributed) | A distributed task scheduler for Dask  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
