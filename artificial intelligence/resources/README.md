@@ -387,12 +387,12 @@ Other interesting resources
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
-## Twitter
+## Reiforcement learning
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| recommenders | [link](https://microsoft-recommenders.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/recommenders) |  The Recommenders repository provides examples and best practices for building recommendation systems, provided as Jupyter notebooks. |
+| implicit | [link](https://benfred.github.io/implicit/) [GitHub](https://github.com/benfred/implicit) | This project provides fast Python implementations of several different popular recommendation algorithms for implicit feedback datasets  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
