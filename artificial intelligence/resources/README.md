@@ -387,12 +387,14 @@ Other interesting resources
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
-## Reiforcement learning
+## Recommender Systems
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | recommenders | [link](https://microsoft-recommenders.readthedocs.io/en/latest/) [GitHub](https://github.com/microsoft/recommenders) |  The Recommenders repository provides examples and best practices for building recommendation systems, provided as Jupyter notebooks. |
 | implicit | [link](https://benfred.github.io/implicit/) [GitHub](https://github.com/benfred/implicit) | This project provides fast Python implementations of several different popular recommendation algorithms for implicit feedback datasets  |
+|LightFM  |  [GitHub](https://github.com/lyst/lightfm) |  LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback |
+| TensorFlow Recommenders |  [GitHub](https://github.com/tensorflow/recommenders) |  TensorFlow Recommenders is a library for building recommender system models using TensorFlow. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -400,7 +402,16 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
-
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 
 
 # Contributing
