@@ -395,9 +395,9 @@ Other interesting resources
 |  [SIGKDD]() |  The main professional association for data mining and knowledge discovery.| 
 |  [ICML]() | The International Conference on Machine Learning is the leading international academic conference in this subject area. | 
 |  [CVPR]() | CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. | 
-|  []() | The Association for Computational Linguistics (ACL) is the international scientific and professional society for people working on problems involving natural language and computation.  | 
-|  []() |  | 
-|  []() |  | 
+|  [ACL]() | The Association for Computational Linguistics (ACL) is the international scientific and professional society for people working on problems involving natural language and computation.  | 
+|  [SIGIR]() | The annual SIGIR conference is the major international forum for the presentation of new research results and the demonstration of new systems and techniques in the broad field of information retrieval (IR). | 
+|  []() | MLSys: The Conference on Machine Learning and Systems targets research at the intersection of systems and Machine Learning. | 
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
