@@ -396,6 +396,7 @@ Other interesting resources
 | [askStatistics](https://www.reddit.com/r/AskStatistics/) | |
 | [statistics](https://www.reddit.com/r/statistics/ | |
 | [Data Science](https://www.reddit.com/r/datascience/) | |
+| [Machine Learning](https://www.reddit.com/r/MachineLearning/) | |
 | [AI](https://www.reddit.com/r/ArtificialInteligence/) | |
 
 
