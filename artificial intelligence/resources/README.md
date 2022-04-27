@@ -389,8 +389,8 @@ Other interesting resources
 |Kurzgesagt| [link](https://www.youtube.com/c/inanutshell) | Animated Science Shorts: not very technical but very nice animated video on scientific topics  |
 |Economic Explained| [link](https://www.youtube.com/c/EconomicsExplained) |  a lot of enconomics topic well explained  |
 |Arvin Ash| [link](https://www.youtube.com/c/ArvinAsh) |   Physics, quantum mechanics |
-|| [link]() |    |
-|| [link]() |    |
+| Crash course| [link](https://www.youtube.com/c/crashcourse) | Crash course on many different topics   |
+
 
 ## Twitter
 
