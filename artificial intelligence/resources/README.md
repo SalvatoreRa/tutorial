@@ -388,6 +388,10 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 
+## Reddit channels
+
+|  Link |   Description |
+| ----------- |  ------ |
 
 
 |  | [link]() [GitHub]() |   |
