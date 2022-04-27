@@ -393,7 +393,7 @@ Other interesting resources
 |  Link |   Description |
 | ----------- |  ------ |
 | [analytics](https://www.reddit.com/r/analytics/) | |
-
+| [analytics](https://www.reddit.com/r/analytics/) | |
 
 
 |  | [link]() [GitHub]() |   |
