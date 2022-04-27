@@ -391,7 +391,7 @@ Other interesting resources
 
 | Link | description | 
 | --------- | ------ | 
-|  []() |  | 
+|  [NeurIPS](https://nips.cc/) | The purpose of the Neural Information Processing Systems annual meeting is to foster the exchange of research on neural information processing systems in their biological, technological, mathematical, and theoretical aspects. | 
 |  []() |  | 
 |  []() |  | 
 |  []() |  | 
