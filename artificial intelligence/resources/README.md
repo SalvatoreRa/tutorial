@@ -392,8 +392,12 @@ Other interesting resources
 | Link | description | 
 | --------- | ------ | 
 |  []() |  | 
-
-
+|  []() |  | 
+|  []() |  | 
+|  []() |  | 
+|  []() |  | 
+|  []() |  | 
+|  []() |  | 
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
