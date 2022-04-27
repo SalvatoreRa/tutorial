@@ -372,6 +372,21 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
+## Youtube resources
+
+| Name | Link | Topic |  Description |
+| ------- | ----------- | --- |  ------ |
+| 3Blue1Brown: Linear Alg| [link](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&ab_channel=3Blue1Brown) | linear algebra | 3Blue1Brown is a popular YouTube channel that usual a visual approach to explain concepts. talking here about  linear algebra concepts, such as vectors, linear combinations, linear transformations, matrix multiplication, eigenvalues, and eigenvectors |
+|3Blue1Brown: Calculus | [link](https://www.youtube.com/watch?v=WUvTyaaNkzM&ab_channel=3Blue1Brown) | Calculus | An intuitive series of videos on calculus |
+| Harvard Statistics 110 | [link](https://www.youtube.com/watch?v=KbB0FjPg0mw&ab_channel=HarvardUniversity) | statistics | one of the best lecture on statistics, undergraduate level |
+|3Blue1Brown: Deep learning| [link](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2) | Deep learning |It presents a nice introduction to backpropagation and other concepts of deep learning  |
+|StatQuest with Josh Starmer| [link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) | statistics, machine learning | StatQuest breaks down complicated Statistics and Machine Learning methods into small, bite-sized pieces that are easy to understand.   |
+|Steve Brunton| [link](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/videos) | statistics, machine learning | StatQuest breaks down complicated Statistics and Machine Learning methods into small, bite-sized pieces that are easy to understand.   |
+|Yannic Kilcher| [link](https://www.youtube.com/c/YannicKilcher) | videos explaining important papers in the field of ML/DL   |
+|Lex Fridman| [link](https://www.youtube.com/c/lexfridman) | podcast with  guests from the field of AI and beyond   |
+|sentdex| [link](https://www.youtube.com/c/sentdex) | videos focused on programming tutorials   |
+|Aladdin Persson| [link](https://www.youtube.com/c/AladdinPersson) | for those who are interested in implementing research papers and code everything from scratch. Implementing important papers in deep learning like ResNet, Transformer and multi head attention, YOLO   |
+
 
 
 ## Twitter
