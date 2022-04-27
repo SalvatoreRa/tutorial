@@ -392,10 +392,10 @@ Other interesting resources
 | Link | description | 
 | --------- | ------ | 
 |  [NeurIPS](https://nips.cc/) | The purpose of the Neural Information Processing Systems annual meeting is to foster the exchange of research on neural information processing systems in their biological, technological, mathematical, and theoretical aspects. | 
-|  []() |  | 
-|  []() |  | 
-|  []() |  | 
-|  []() |  | 
+|  [SIGKDD]() |  The main professional association for data mining and knowledge discovery.| 
+|  [ICML]() | The International Conference on Machine Learning is the leading international academic conference in this subject area. | 
+|  [CVPR]() | CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. | 
+|  []() | The Association for Computational Linguistics (ACL) is the international scientific and professional society for people working on problems involving natural language and computation.  | 
 |  []() |  | 
 |  []() |  | 
 
