@@ -387,8 +387,8 @@ Other interesting resources
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
-|| [link]() |   |
-
+| Super Data Science| [link](https://open.spotify.com/show/1n8P7ZSgfVLVJ3GegxPat1) | The Super Data Science podcast with Jon Krohn brings you the latest and most important machine learning, artificial intelligence, and broader data-world topics from across both academia and industry.   |
+|| [link](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU) |   |
 
 
 
