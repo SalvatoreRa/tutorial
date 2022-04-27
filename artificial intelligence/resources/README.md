@@ -388,17 +388,6 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 
-## Reddit channels
-
-|  Link |   Comment |
-| ----------- |  ------ |
-| [analytics](https://www.reddit.com/r/analytics/) | |
-| [askStatistics](https://www.reddit.com/r/AskStatistics/) | |
-| [statistics](https://www.reddit.com/r/statistics/ | |
-| [Data Science](https://www.reddit.com/r/datascience/) | |
-| [Machine Learning](https://www.reddit.com/r/MachineLearning/) | |
-| [AI](https://www.reddit.com/r/ArtificialInteligence/) | |
-
 
 
 
