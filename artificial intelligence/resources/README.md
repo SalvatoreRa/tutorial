@@ -390,12 +390,16 @@ Other interesting resources
 
 ## Reddit channels
 
-|  Link |   Description |
+|  Link |   Comment |
 | ----------- |  ------ |
 | [analytics](https://www.reddit.com/r/analytics/) | |
 | [askStatistics](https://www.reddit.com/r/AskStatistics/) | |
 | [statistics](https://www.reddit.com/r/statistics/ | |
 | [Data Science](https://www.reddit.com/r/datascience/) | |
+| [AI](https://www.reddit.com/r/ArtificialInteligence/) | |
+
+
+
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
