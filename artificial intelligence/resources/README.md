@@ -386,8 +386,11 @@ Other interesting resources
 |Lex Fridman| [link](https://www.youtube.com/c/lexfridman) | podcast with  guests from the field of AI and beyond   |
 |sentdex| [link](https://www.youtube.com/c/sentdex) | videos focused on programming tutorials   |
 |Aladdin Persson| [link](https://www.youtube.com/c/AladdinPersson) | for those who are interested in implementing research papers and code everything from scratch. Implementing important papers in deep learning like ResNet, Transformer and multi head attention, YOLO   |
-
-
+|Kurzgesagt| [link](https://www.youtube.com/c/inanutshell) | Animated Science Shorts: not very technical but very nice animated video on scientific topics  |
+|Economic Explained| [link](https://www.youtube.com/c/EconomicsExplained) |  a lot of enconomics topic well explained  |
+|Arvin Ash| [link](https://www.youtube.com/c/ArvinAsh) |   Physics, quantum mechanics |
+|| [link]() |    |
+|| [link]() |    |
 
 ## Twitter
 
