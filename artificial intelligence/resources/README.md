@@ -413,8 +413,8 @@ Other interesting resources
 | AdaNet | [link](https://adanet.readthedocs.io/en/v0.9.0/) [GitHub](https://github.com/tensorflow/adanet) | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention. AdaNet builds on recent AutoML efforts to be fast and flexible while providing learning guarantees.  |
 | Neuraxle | [link](https://www.neuraxle.org/) [GitHub](https://github.com/Neuraxio/Neuraxle) |The world's cleanest AutoML framework - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments.   |
 | Hyperactive |  [GitHub](https://github.com/SimonBlanke/Hyperactive) | An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Lazy Predict | [link](https://lazypredict.readthedocs.io/en/latest/) [GitHub](https://github.com/shankarpandala/lazypredict) |  Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning |
+| Auto_ViML |  [GitHub](https://github.com/AutoViML/Auto_ViML) |  Auto_ViML was designed for building High Performance Interpretable Models with the fewest variables needed.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
