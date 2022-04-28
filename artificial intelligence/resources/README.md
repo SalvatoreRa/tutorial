@@ -394,8 +394,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | OpenAI Gym | [link](https://www.gymlibrary.ml/) [GitHub](https://github.com/openai/gym) | Gym is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API.  |
 | TF-Agents | [link](https://www.tensorflow.org/agents/api_docs/python/tf_agents) [GitHub](https://github.com/tensorflow/agents) | TF-Agents makes implementing, deploying, and testing new Bandits and RL algorithms easier. It provides well tested and modular components that can be modified and extended.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| FinRL | [link](https://finrl.readthedocs.io/en/latest/) [GitHub](https://github.com/AI4Finance-Foundation/FinRL) | FinRL: Deep Reinforcement Learning for Quantitative Finance. FinRL  is the first open-source project to explore the great potential of deep reinforcement learning in finance. We help practitioners pipeline a trading strategy using deep reinforcement learning (DRL).  |
+| dopamine | [link](https://google.github.io/dopamine/docs/) [GitHub](https://github.com/google/dopamine) | Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
