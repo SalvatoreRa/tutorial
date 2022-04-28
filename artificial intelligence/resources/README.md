@@ -388,12 +388,12 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 
-## Financial data
+## Reinforcement learning
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| OpenAI Gym | [link](https://www.gymlibrary.ml/) [GitHub](https://github.com/openai/gym) | Gym is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API.  |
+| TF-Agents | [link](https://www.tensorflow.org/agents/api_docs/python/tf_agents) [GitHub](https://github.com/tensorflow/agents) | TF-Agents makes implementing, deploying, and testing new Bandits and RL algorithms easier. It provides well tested and modular components that can be modified and extended.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
