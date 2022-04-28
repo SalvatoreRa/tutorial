@@ -409,8 +409,8 @@ Other interesting resources
 | nevergrad | [link](https://facebookresearch.github.io/nevergrad/) [GitHub](https://github.com/facebookresearch/nevergrad) | A Python toolbox for performing gradient-free optimization  |
 |  Talos| [link](https://autonom.io/) [GitHub](https://github.com/autonomio/talos) |  Hyperparameter Optimization for Keras, TensorFlow (tf.keras) and PyTorch |
 | mljar | [link](https://mljar.com/) [GitHub](https://github.com/mljar/mljar-supervised) |  The mljar-supervised is an Automated Machine Learning Python package that works with tabular data. It is designed to save time for a data scientist. It abstracts the common way to preprocess the data, construct the machine learning models, and perform hyper-parameters tuning to find the best model |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Hyperas | [link](http://maxpumperla.com/hyperas/) [GitHub](https://github.com/maxpumperla/hyperas) | Hyperas brings fast experimentation with Keras and hyperparameter optimization with Hyperopt together. It lets you use the power of hyperopt without having to learn the syntax of it.   |
+| AdaNet | [link](https://adanet.readthedocs.io/en/v0.9.0/) [GitHub](https://github.com/tensorflow/adanet) | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention. AdaNet builds on recent AutoML efforts to be fast and flexible while providing learning guarantees.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
