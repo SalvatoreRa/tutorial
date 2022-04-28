@@ -397,8 +397,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 |  Optuna| [link](https://optuna.org/) [GitHub](https://github.com/optuna/optuna) |  Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API.  |
 | NNI  | [link](https://nni.readthedocs.io/en/stable/) [GitHub](https://github.com/microsoft/nni) |  An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| AutoKeras | [link](https://autokeras.com/) [GitHub](https://github.com/keras-team/autokeras) |  AutoKeras: An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University. The goal of AutoKeras is to make machine learning accessible to everyone. |
+| Hyperopt | [link](http://hyperopt.github.io/hyperopt/) [GitHub](https://github.com/hyperopt/hyperopt) | Hyperopt is a Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
