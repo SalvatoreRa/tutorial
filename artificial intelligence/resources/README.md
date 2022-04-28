@@ -402,9 +402,9 @@ Other interesting resources
 | PARL  | [link](https://parl.readthedocs.io/en/latest/) [GitHub](https://github.com/PaddlePaddle/PARL) |  A high-performance distributed training framework for Reinforcement Learning |
 |  Stable Baselines | [link](https://stable-baselines.readthedocs.io/en/master/) [GitHub](https://github.com/hill-a/stable-baselines) |  Stable Baselines is a set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines. |
 | Tensorforce | [link](https://tensorforce.readthedocs.io/en/latest/) [GitHub](https://github.com/tensorforce/tensorforce) | Tensorforce is an open-source deep reinforcement learning framework, with an emphasis on modularized flexible library design and straightforward usability for applications in research and practice.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| garage | [link](https://garage.readthedocs.io/en/latest/) [GitHub](https://github.com/rlworkgroup/garage) | garage is a toolkit for developing and evaluating reinforcement learning algorithms, and an accompanying library of state-of-the-art implementations built using that toolkit.  |
+| ChainerRL | [link](https://chainerrl.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/chainer/chainerrl) | ChainerRL (this repository) is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using Chainer  |
+| RLax | [link](https://rlax.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/rlax) |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
