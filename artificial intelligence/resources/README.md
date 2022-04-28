@@ -405,8 +405,8 @@ Other interesting resources
 |Featuretools  | [link](https://www.featuretools.com/) [GitHub](https://github.com/alteryx/featuretools) |   Featuretools is a python library for automated feature engineering. See the documentation for more information.|
 | Scikit-Optimize | [link](https://scikit-optimize.github.io/stable/) [GitHub](https://github.com/scikit-optimize/scikit-optimize) |  Scikit-Optimize, or skopt, is a simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization. skopt aims to be accessible and easy to use in many contexts. |
 | Ax | [link](https://ax.dev/) [GitHub](https://github.com/facebook/Ax) |  Ax is an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| AutoGluon | [link](https://auto.gluon.ai/stable/index.html) [GitHub](https://github.com/awslabs/autogluon) | AutoGluon: AutoML for Image, Text, and Tabular Data  |
+| nevergrad | [link](https://facebookresearch.github.io/nevergrad/) [GitHub](https://github.com/facebookresearch/nevergrad) | A Python toolbox for performing gradient-free optimization  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
