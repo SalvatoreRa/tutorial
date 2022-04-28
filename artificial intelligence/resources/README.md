@@ -408,8 +408,8 @@ Other interesting resources
 | ReAgent | [link](https://reagent.ai/) [GitHub](https://github.com/facebookresearch/ReAgent) |  ReAgent is an open source end-to-end platform for applied reinforcement learning (RL) developed and used at Facebook. ReAgent is built in Python and uses PyTorch for modeling and training and TorchScript for model serving.  |
 | TRFL | [link](https://github.com/deepmind/trfl/blob/master/docs/index.md) [GitHub](https://github.com/deepmind/trfl) | TRFL (pronounced "truffle") is a library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agents.  |
 | PFRL | [link](https://pfrl.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/pfnet/pfrl) |  PFRL is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using PyTorch. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Coach | [link](https://intellabs.github.io/coach/) [GitHub](https://github.com/IntelLabs/coach) | Coach is a python framework which models the interaction between an agent and an environment in a modular way. With Coach, it is possible to model an agent by combining various building blocks, and training the agent on multiple environments.   |
+|  rliable | [link](https://agarwl.github.io/rliable/) [GitHub](https://github.com/google-research/rliable) |  rliable is an open-source Python library for reliable evaluation, even with a handful of runs, on reinforcement learning and machine learnings benchmarks. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
