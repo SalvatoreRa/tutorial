@@ -415,8 +415,8 @@ Other interesting resources
 | Hyperactive |  [GitHub](https://github.com/SimonBlanke/Hyperactive) | An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.  |
 | Lazy Predict | [link](https://lazypredict.readthedocs.io/en/latest/) [GitHub](https://github.com/shankarpandala/lazypredict) |  Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning |
 | Auto_ViML |  [GitHub](https://github.com/AutoViML/Auto_ViML) |  Auto_ViML was designed for building High Performance Interpretable Models with the fewest variables needed.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| AlphaPy | [link](https://alphapy.readthedocs.io/en/latest/) [GitHub](https://github.com/ScottfreeLLC/AlphaPy) |  AlphaPy is a machine learning framework for both speculators and data scientists. It is written in Python mainly with the scikit-learn and pandas libraries, as well as many other helpful packages for feature engineering and visualization. |
+| sklearn-deap | [GitHub](https://github.com/rsteca/sklearn-deap) |Use evolutionary algorithms instead of gridsearch in scikit-learn. This allows you to reduce the time required to find the best parameters for your estimator. Instead of trying out every possible combination of parameters, evolve only the combinations that give the best results.|
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
