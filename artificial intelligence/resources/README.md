@@ -398,6 +398,21 @@ Other interesting resources
 | dopamine | [link](https://google.github.io/dopamine/docs/) [GitHub](https://github.com/google/dopamine) | Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.   |
 | Acme | [link](https://dm-acme.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/acme) |  Acme is a library of reinforcement learning (RL) building blocks that strives to expose simple, efficient, and readable agents. |
 | ViZDoom | [link](http://vizdoom.cs.put.edu.pl/) [GitHub](https://github.com/mwydmuch/ViZDoom) |  ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular. |
+|  TensorLayer| [link](https://tensorlayer.readthedocs.io/en/latest/) [GitHub](https://github.com/tensorlayer/TensorLayer) | TensorLayer is a novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. It provides an extensive collection of customizable neural layers to build advanced AI models quickly  |
+| PARL  | [link](https://parl.readthedocs.io/en/latest/) [GitHub](https://github.com/PaddlePaddle/PARL) |  A high-performance distributed training framework for Reinforcement Learning |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
