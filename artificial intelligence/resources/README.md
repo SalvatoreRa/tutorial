@@ -388,30 +388,13 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 
 
-## Reinforcement learning
+
+
+
+## Financial data
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-| OpenAI Gym | [link](https://www.gymlibrary.ml/) [GitHub](https://github.com/openai/gym) | Gym is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API.  |
-| TF-Agents | [link](https://www.tensorflow.org/agents/api_docs/python/tf_agents) [GitHub](https://github.com/tensorflow/agents) | TF-Agents makes implementing, deploying, and testing new Bandits and RL algorithms easier. It provides well tested and modular components that can be modified and extended.  |
-| FinRL | [link](https://finrl.readthedocs.io/en/latest/) [GitHub](https://github.com/AI4Finance-Foundation/FinRL) | FinRL: Deep Reinforcement Learning for Quantitative Finance. FinRL  is the first open-source project to explore the great potential of deep reinforcement learning in finance. We help practitioners pipeline a trading strategy using deep reinforcement learning (DRL).  |
-| dopamine | [link](https://google.github.io/dopamine/docs/) [GitHub](https://github.com/google/dopamine) | Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.   |
-| Acme | [link](https://dm-acme.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/acme) |  Acme is a library of reinforcement learning (RL) building blocks that strives to expose simple, efficient, and readable agents. |
-| ViZDoom | [link](http://vizdoom.cs.put.edu.pl/) [GitHub](https://github.com/mwydmuch/ViZDoom) |  ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular. |
-|  TensorLayer| [link](https://tensorlayer.readthedocs.io/en/latest/) [GitHub](https://github.com/tensorlayer/TensorLayer) | TensorLayer is a novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. It provides an extensive collection of customizable neural layers to build advanced AI models quickly  |
-| PARL  | [link](https://parl.readthedocs.io/en/latest/) [GitHub](https://github.com/PaddlePaddle/PARL) |  A high-performance distributed training framework for Reinforcement Learning |
-|  Stable Baselines | [link](https://stable-baselines.readthedocs.io/en/master/) [GitHub](https://github.com/hill-a/stable-baselines) |  Stable Baselines is a set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines. |
-| Tensorforce | [link](https://tensorforce.readthedocs.io/en/latest/) [GitHub](https://github.com/tensorforce/tensorforce) | Tensorforce is an open-source deep reinforcement learning framework, with an emphasis on modularized flexible library design and straightforward usability for applications in research and practice.  |
-| garage | [link](https://garage.readthedocs.io/en/latest/) [GitHub](https://github.com/rlworkgroup/garage) | garage is a toolkit for developing and evaluating reinforcement learning algorithms, and an accompanying library of state-of-the-art implementations built using that toolkit.  |
-| ChainerRL | [link](https://chainerrl.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/chainer/chainerrl) | ChainerRL (this repository) is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using Chainer  |
-| RLax | [link](https://rlax.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/rlax) | RLax (pronounced "relax") is a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.   |
-| ReAgent | [link](https://reagent.ai/) [GitHub](https://github.com/facebookresearch/ReAgent) |  ReAgent is an open source end-to-end platform for applied reinforcement learning (RL) developed and used at Facebook. ReAgent is built in Python and uses PyTorch for modeling and training and TorchScript for model serving.  |
-| TRFL | [link](https://github.com/deepmind/trfl/blob/master/docs/index.md) [GitHub](https://github.com/deepmind/trfl) | TRFL (pronounced "truffle") is a library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agents.  |
-| PFRL | [link](https://pfrl.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/pfnet/pfrl) |  PFRL is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using PyTorch. |
-| Coach | [link](https://intellabs.github.io/coach/) [GitHub](https://github.com/IntelLabs/coach) | Coach is a python framework which models the interaction between an agent and an environment in a modular way. With Coach, it is possible to model an agent by combining various building blocks, and training the agent on multiple environments.   |
-|  rliable | [link](https://agarwl.github.io/rliable/) [GitHub](https://github.com/google-research/rliable) |  rliable is an open-source Python library for reliable evaluation, even with a handful of runs, on reinforcement learning and machine learnings benchmarks. |
-| DeepMind Lab  |  [GitHub](https://github.com/deepmind/lab) | DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. A customisable 3D platform for agent-based AI research  |
-| maze | [link](https://maze-rl.readthedocs.io/en/latest/) [GitHub](https://github.com/enlite-ai/maze) |  MazeRL is an application oriented Deep Reinforcement Learning (RL) framework, addressing real-world decision problems. Our vision is to cover the complete development life cycle of RL applications ranging from simulation engineering up to agent development, training and deployment. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
