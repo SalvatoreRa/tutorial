@@ -407,8 +407,8 @@ Other interesting resources
 | Ax | [link](https://ax.dev/) [GitHub](https://github.com/facebook/Ax) |  Ax is an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments. |
 | AutoGluon | [link](https://auto.gluon.ai/stable/index.html) [GitHub](https://github.com/awslabs/autogluon) | AutoGluon: AutoML for Image, Text, and Tabular Data  |
 | nevergrad | [link](https://facebookresearch.github.io/nevergrad/) [GitHub](https://github.com/facebookresearch/nevergrad) | A Python toolbox for performing gradient-free optimization  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  Talos| [link](https://autonom.io/) [GitHub](https://github.com/autonomio/talos) |  Hyperparameter Optimization for Keras, TensorFlow (tf.keras) and PyTorch |
+| mljar | [link](https://mljar.com/) [GitHub](https://github.com/mljar/mljar-supervised) |  The mljar-supervised is an Automated Machine Learning Python package that works with tabular data. It is designed to save time for a data scientist. It abstracts the common way to preprocess the data, construct the machine learning models, and perform hyper-parameters tuning to find the best model |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
