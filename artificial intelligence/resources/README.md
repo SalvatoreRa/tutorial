@@ -391,33 +391,6 @@ Other interesting resources
 
 
 
-## Hyperparameter Optimization, AutoML
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-|  Optuna| [link](https://optuna.org/) [GitHub](https://github.com/optuna/optuna) |  Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API.  |
-| NNI  | [link](https://nni.readthedocs.io/en/stable/) [GitHub](https://github.com/microsoft/nni) |  An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. |
-| AutoKeras | [link](https://autokeras.com/) [GitHub](https://github.com/keras-team/autokeras) |  AutoKeras: An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University. The goal of AutoKeras is to make machine learning accessible to everyone. |
-| Hyperopt | [link](http://hyperopt.github.io/hyperopt/) [GitHub](https://github.com/hyperopt/hyperopt) | Hyperopt is a Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.  |
-| auto-sklearn | [link](https://automl.github.io/auto-sklearn/master/) [GitHub](https://github.com/automl/auto-sklearn) | auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.  |
-| KerasTuner | [link](https://github.com/keras-team/keras-tuner) [GitHub](https://keras.io/keras_tuner/) | KerasTuner is an easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search. Easily configure your search space with a define-by-run syntax, then leverage one of the available search algorithms to find the best hyperparameter values for your models.   |
-| BoTorch | [link](https://botorch.org/) [GitHub](https://github.com/pytorch/botorch) |  BoTorch is a library for Bayesian Optimization built on PyTorch. |
-|Featuretools  | [link](https://www.featuretools.com/) [GitHub](https://github.com/alteryx/featuretools) |   Featuretools is a python library for automated feature engineering. See the documentation for more information.|
-| Scikit-Optimize | [link](https://scikit-optimize.github.io/stable/) [GitHub](https://github.com/scikit-optimize/scikit-optimize) |  Scikit-Optimize, or skopt, is a simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization. skopt aims to be accessible and easy to use in many contexts. |
-| Ax | [link](https://ax.dev/) [GitHub](https://github.com/facebook/Ax) |  Ax is an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments. |
-| AutoGluon | [link](https://auto.gluon.ai/stable/index.html) [GitHub](https://github.com/awslabs/autogluon) | AutoGluon: AutoML for Image, Text, and Tabular Data  |
-| nevergrad | [link](https://facebookresearch.github.io/nevergrad/) [GitHub](https://github.com/facebookresearch/nevergrad) | A Python toolbox for performing gradient-free optimization  |
-|  Talos| [link](https://autonom.io/) [GitHub](https://github.com/autonomio/talos) |  Hyperparameter Optimization for Keras, TensorFlow (tf.keras) and PyTorch |
-| mljar | [link](https://mljar.com/) [GitHub](https://github.com/mljar/mljar-supervised) |  The mljar-supervised is an Automated Machine Learning Python package that works with tabular data. It is designed to save time for a data scientist. It abstracts the common way to preprocess the data, construct the machine learning models, and perform hyper-parameters tuning to find the best model |
-| Hyperas | [link](http://maxpumperla.com/hyperas/) [GitHub](https://github.com/maxpumperla/hyperas) | Hyperas brings fast experimentation with Keras and hyperparameter optimization with Hyperopt together. It lets you use the power of hyperopt without having to learn the syntax of it.   |
-| AdaNet | [link](https://adanet.readthedocs.io/en/v0.9.0/) [GitHub](https://github.com/tensorflow/adanet) | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention. AdaNet builds on recent AutoML efforts to be fast and flexible while providing learning guarantees.  |
-| Neuraxle | [link](https://www.neuraxle.org/) [GitHub](https://github.com/Neuraxio/Neuraxle) |The world's cleanest AutoML framework - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments.   |
-| Hyperactive |  [GitHub](https://github.com/SimonBlanke/Hyperactive) | An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.  |
-| Lazy Predict | [link](https://lazypredict.readthedocs.io/en/latest/) [GitHub](https://github.com/shankarpandala/lazypredict) |  Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning |
-| Auto_ViML |  [GitHub](https://github.com/AutoViML/Auto_ViML) |  Auto_ViML was designed for building High Performance Interpretable Models with the fewest variables needed.  |
-| AlphaPy | [link](https://alphapy.readthedocs.io/en/latest/) [GitHub](https://github.com/ScottfreeLLC/AlphaPy) |  AlphaPy is a machine learning framework for both speculators and data scientists. It is written in Python mainly with the scikit-learn and pandas libraries, as well as many other helpful packages for feature engineering and visualization. |
-| sklearn-deap | [GitHub](https://github.com/rsteca/sklearn-deap) |Use evolutionary algorithms instead of gridsearch in scikit-learn. This allows you to reduce the time required to find the best parameters for your estimator. Instead of trying out every possible combination of parameters, evolve only the combinations that give the best results.|
-| Model search  | [GitHub](https://github.com/google/model_search) |  Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It aims to help researchers speed up their exploration process for finding the right model architecture for their classification problems (i.e., DNNs with different types of layers). |
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
