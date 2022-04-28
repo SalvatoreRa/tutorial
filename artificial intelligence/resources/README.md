@@ -403,8 +403,8 @@ Other interesting resources
 | KerasTuner | [link](https://github.com/keras-team/keras-tuner) [GitHub](https://keras.io/keras_tuner/) | KerasTuner is an easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search. Easily configure your search space with a define-by-run syntax, then leverage one of the available search algorithms to find the best hyperparameter values for your models.   |
 | BoTorch | [link](https://botorch.org/) [GitHub](https://github.com/pytorch/botorch) |  BoTorch is a library for Bayesian Optimization built on PyTorch. |
 |Featuretools  | [link](https://www.featuretools.com/) [GitHub](https://github.com/alteryx/featuretools) |   Featuretools is a python library for automated feature engineering. See the documentation for more information.|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Scikit-Optimize | [link](https://scikit-optimize.github.io/stable/) [GitHub](https://github.com/scikit-optimize/scikit-optimize) |  Scikit-Optimize, or skopt, is a simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization. skopt aims to be accessible and easy to use in many contexts. |
+| Ax | [link](https://ax.dev/) [GitHub](https://github.com/facebook/Ax) |  Ax is an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
