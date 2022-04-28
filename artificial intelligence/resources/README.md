@@ -417,7 +417,8 @@ Other interesting resources
 | Auto_ViML |  [GitHub](https://github.com/AutoViML/Auto_ViML) |  Auto_ViML was designed for building High Performance Interpretable Models with the fewest variables needed.  |
 | AlphaPy | [link](https://alphapy.readthedocs.io/en/latest/) [GitHub](https://github.com/ScottfreeLLC/AlphaPy) |  AlphaPy is a machine learning framework for both speculators and data scientists. It is written in Python mainly with the scikit-learn and pandas libraries, as well as many other helpful packages for feature engineering and visualization. |
 | sklearn-deap | [GitHub](https://github.com/rsteca/sklearn-deap) |Use evolutionary algorithms instead of gridsearch in scikit-learn. This allows you to reduce the time required to find the best parameters for your estimator. Instead of trying out every possible combination of parameters, evolve only the combinations that give the best results.|
-|  | [link]() [GitHub]() |   |
+| Model search  | [GitHub](https://github.com/google/model_search) |  Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It aims to help researchers speed up their exploration process for finding the right model architecture for their classification problems (i.e., DNNs with different types of layers). |
+
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
