@@ -410,8 +410,8 @@ Other interesting resources
 | PFRL | [link](https://pfrl.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/pfnet/pfrl) |  PFRL is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using PyTorch. |
 | Coach | [link](https://intellabs.github.io/coach/) [GitHub](https://github.com/IntelLabs/coach) | Coach is a python framework which models the interaction between an agent and an environment in a modular way. With Coach, it is possible to model an agent by combining various building blocks, and training the agent on multiple environments.   |
 |  rliable | [link](https://agarwl.github.io/rliable/) [GitHub](https://github.com/google-research/rliable) |  rliable is an open-source Python library for reliable evaluation, even with a handful of runs, on reinforcement learning and machine learnings benchmarks. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| DeepMind Lab  |  [GitHub](https://github.com/deepmind/lab) | DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. A customisable 3D platform for agent-based AI research  |
+| maze | [link](https://maze-rl.readthedocs.io/en/latest/) [GitHub](https://github.com/enlite-ai/maze) |  MazeRL is an application oriented Deep Reinforcement Learning (RL) framework, addressing real-world decision problems. Our vision is to cover the complete development life cycle of RL applications ranging from simulation engineering up to agent development, training and deployment. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
