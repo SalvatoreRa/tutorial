@@ -406,8 +406,8 @@ Other interesting resources
 | ChainerRL | [link](https://chainerrl.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/chainer/chainerrl) | ChainerRL (this repository) is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using Chainer  |
 | RLax | [link](https://rlax.readthedocs.io/en/latest/) [GitHub](https://github.com/deepmind/rlax) | RLax (pronounced "relax") is a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.   |
 | ReAgent | [link](https://reagent.ai/) [GitHub](https://github.com/facebookresearch/ReAgent) |  ReAgent is an open source end-to-end platform for applied reinforcement learning (RL) developed and used at Facebook. ReAgent is built in Python and uses PyTorch for modeling and training and TorchScript for model serving.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| TRFL | [link](https://github.com/deepmind/trfl/blob/master/docs/index.md) [GitHub](https://github.com/deepmind/trfl) | TRFL (pronounced "truffle") is a library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agents.  |
+| PFRL | [link](https://pfrl.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/pfnet/pfrl) |  PFRL is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using PyTorch. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
