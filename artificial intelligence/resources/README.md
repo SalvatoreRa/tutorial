@@ -400,8 +400,8 @@ Other interesting resources
 | ViZDoom | [link](http://vizdoom.cs.put.edu.pl/) [GitHub](https://github.com/mwydmuch/ViZDoom) |  ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular. |
 |  TensorLayer| [link](https://tensorlayer.readthedocs.io/en/latest/) [GitHub](https://github.com/tensorlayer/TensorLayer) | TensorLayer is a novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. It provides an extensive collection of customizable neural layers to build advanced AI models quickly  |
 | PARL  | [link](https://parl.readthedocs.io/en/latest/) [GitHub](https://github.com/PaddlePaddle/PARL) |  A high-performance distributed training framework for Reinforcement Learning |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|  Stable Baselines | [link](https://stable-baselines.readthedocs.io/en/master/) [GitHub](https://github.com/hill-a/stable-baselines) |  Stable Baselines is a set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines. |
+| Tensorforce | [link](https://tensorforce.readthedocs.io/en/latest/) [GitHub](https://github.com/tensorforce/tensorforce) | Tensorforce is an open-source deep reinforcement learning framework, with an emphasis on modularized flexible library design and straightforward usability for applications in research and practice.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
