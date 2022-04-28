@@ -401,8 +401,8 @@ Other interesting resources
 | Hyperopt | [link](http://hyperopt.github.io/hyperopt/) [GitHub](https://github.com/hyperopt/hyperopt) | Hyperopt is a Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.  |
 | auto-sklearn | [link](https://automl.github.io/auto-sklearn/master/) [GitHub](https://github.com/automl/auto-sklearn) | auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.  |
 | KerasTuner | [link](https://github.com/keras-team/keras-tuner) [GitHub](https://keras.io/keras_tuner/) | KerasTuner is an easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search. Easily configure your search space with a define-by-run syntax, then leverage one of the available search algorithms to find the best hyperparameter values for your models.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| BoTorch | [link](https://botorch.org/) [GitHub](https://github.com/pytorch/botorch) |  BoTorch is a library for Bayesian Optimization built on PyTorch. |
+|Featuretools  | [link](https://www.featuretools.com/) [GitHub](https://github.com/alteryx/featuretools) |   Featuretools is a python library for automated feature engineering. See the documentation for more information.|
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
