@@ -411,8 +411,8 @@ Other interesting resources
 | mljar | [link](https://mljar.com/) [GitHub](https://github.com/mljar/mljar-supervised) |  The mljar-supervised is an Automated Machine Learning Python package that works with tabular data. It is designed to save time for a data scientist. It abstracts the common way to preprocess the data, construct the machine learning models, and perform hyper-parameters tuning to find the best model |
 | Hyperas | [link](http://maxpumperla.com/hyperas/) [GitHub](https://github.com/maxpumperla/hyperas) | Hyperas brings fast experimentation with Keras and hyperparameter optimization with Hyperopt together. It lets you use the power of hyperopt without having to learn the syntax of it.   |
 | AdaNet | [link](https://adanet.readthedocs.io/en/v0.9.0/) [GitHub](https://github.com/tensorflow/adanet) | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention. AdaNet builds on recent AutoML efforts to be fast and flexible while providing learning guarantees.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Neuraxle | [link](https://www.neuraxle.org/) [GitHub](https://github.com/Neuraxio/Neuraxle) |The world's cleanest AutoML framework - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments.   |
+| Hyperactive |  [GitHub](https://github.com/SimonBlanke/Hyperactive) | An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
