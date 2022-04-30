@@ -145,6 +145,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GLUE ](https://arxiv.org/abs/1804.07461)| NLP benchmark | 2018 | GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding |
 | [Review ](https://arxiv.org/pdf/1904.08067.pdf)| Text Classification | 2019 | Text Classification Algorithms: A Survey |
 | [Review ](https://www.mdpi.com/2078-2489/13/2/83/htm)| Text Classification | 2022 | A Survey on Text Classification Algorithms: From Text to Predictions |
+| [Review ](https://www.mdpi.com/2078-2489/13/2/83/htm)| chatbots | 2022 |A Literature Survey of Recent Advances in Chatbots |
 
 ## Generative Learning
 
