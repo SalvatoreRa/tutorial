@@ -138,6 +138,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [ALBERT ](https://arxiv.org/abs/1909.11942)| NLP | 2019 | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations |
 | [Sentence-BERT ](https://arxiv.org/pdf/1908.10084.pdf)| NLP | 2019 | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks |
 | [Switch transformer ](https://arxiv.org/abs/2101.03961)| NLP | 2021 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity|
+| [Transformers review ](https://arxiv.org/pdf/2009.06732.pdf)| NLP | 2020 |Efficient Transformers: A Survey |
 | [Transformers review ](https://arxiv.org/abs/2106.04554)| NLP | 2021 | A Survey of Transformers |
 | [Gopher ](https://arxiv.org/abs/2112.11446)| NLP | 2021 | Scaling Language Models: Methods, Analysis & Insights from Training Gopher|
 | [scaling language model ](https://arxiv.org/abs/2001.08361)| NLP | 2020 | Scaling Laws for Neural Language Models|
