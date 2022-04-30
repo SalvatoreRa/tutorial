@@ -141,6 +141,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Gopher ](https://arxiv.org/abs/2112.11446)| NLP | 2021 | Scaling Language Models: Methods, Analysis & Insights from Training Gopher|
 | [scaling language model ](https://arxiv.org/abs/2001.08361)| NLP | 2020 | Scaling Laws for Neural Language Models|
 | [GLUE ](https://arxiv.org/abs/1804.07461)| NLP benchmark | 2018 | GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding |
+| [Review ](https://arxiv.org/pdf/1904.08067.pdf)| Text Classification | 2019 | Text Classification Algorithms: A Survey |
 | [Review ](https://www.mdpi.com/2078-2489/13/2/83/htm)| Text Classification | 2022 | A Survey on Text Classification Algorithms: From Text to Predictions |
 
 ## Generative Learning
