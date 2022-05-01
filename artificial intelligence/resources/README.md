@@ -409,7 +409,8 @@ Other interesting resources
 | MLflow | [link](https://mlflow.org/) [GitHub](https://github.com/mlflow/mlflow) | MLflow is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.   |
 | PyCaret | [link](https://pycaret.org/) [GitHub](https://github.com/pycaret/pycaret) | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that speeds up the experiment cycle exponentially and makes you more productive.  |
 | SageMaker | [link](https://sagemaker.readthedocs.io/en/stable/) [GitHub](https://github.com/aws/sagemaker-python-sdk) | SageMaker Python SDK is an open source library for training and deploying machine learning models on Amazon SageMaker.  |
-|  | [link]() [GitHub]() |   |
+|  Data Version Control | [link](https://dvc.org/) [GitHub](https://github.com/iterative/dvc) | Data Version Control or DVC is an open-source tool for data science and machine learning projects.  |
+| Weights and Biases | [link](https://wandb.ai/site) [GitHub](https://github.com/wandb/client) |  Use W&B to build better models faster. Track and visualize all the pieces of your machine learning pipeline, from datasets to production models. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
