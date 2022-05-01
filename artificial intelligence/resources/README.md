@@ -419,8 +419,8 @@ Other interesting resources
 | Metaflow | [link](https://metaflow.org/) [GitHub](https://github.com/Netflix/metaflow) |  Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix |
 | VisualDL | [link](https://www.paddlepaddle.org.cn/paddle/visualdl) [GitHub](https://github.com/PaddlePaddle/VisualDL) |  VisualDL, a visualization analysis tool of PaddlePaddle, provides a variety of charts to show the trends of parameters, and visualizes model structures, data samples, histograms of tensors, PR curves , ROC curves and high-dimensional data distributions. |
 |Sacred  |  [GitHub](https://github.com/IDSIA/sacred) |  Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Aim | [link](https://aimstack.io/) [GitHub](https://github.com/aimhubio/aim) | Aim logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically.  |
+| ML Metadata  | [link](https://www.tensorflow.org/tfx/guide/mlmd) [GitHub](https://github.com/google/ml-metadata) |  ML Metadata (MLMD) is a library for recording and retrieving metadata associated with ML developer and data scientist workflows. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
