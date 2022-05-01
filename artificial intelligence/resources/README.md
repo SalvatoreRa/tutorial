@@ -401,37 +401,7 @@ Other interesting resources
 
 
 
-## Workflow and Experiment Tracking
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| TensorBoard | [link](https://www.tensorflow.org/tensorboard/get_started) [GitHub](https://github.com/tensorflow/tensorboard) | TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.  |
-| MLflow | [link](https://mlflow.org/) [GitHub](https://github.com/mlflow/mlflow) | MLflow is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.   |
-| PyCaret | [link](https://pycaret.org/) [GitHub](https://github.com/pycaret/pycaret) | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that speeds up the experiment cycle exponentially and makes you more productive.  |
-| SageMaker | [link](https://sagemaker.readthedocs.io/en/stable/) [GitHub](https://github.com/aws/sagemaker-python-sdk) | SageMaker Python SDK is an open source library for training and deploying machine learning models on Amazon SageMaker.  |
-|  Data Version Control | [link](https://dvc.org/) [GitHub](https://github.com/iterative/dvc) | Data Version Control or DVC is an open-source tool for data science and machine learning projects.  |
-| Weights and Biases | [link](https://wandb.ai/site) [GitHub](https://github.com/wandb/client) |  Use W&B to build better models faster. Track and visualize all the pieces of your machine learning pipeline, from datasets to production models. |
-|Azure SDK | [link](https://docs.microsoft.com/it-it/azure/machine-learning/) [GitHub](https://github.com/Azure/MachineLearningNotebooks) |  Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft |
-| tensorboardX | [link](https://tensorboardx.readthedocs.io/en/latest/tensorboard.html) [GitHub](https://github.com/lanpa/tensorboardX) |  tensorboard for pytorch (and chainer, mxnet, numpy, ...) |
-| ClearML | [link](https://clear.ml/docs/latest/docs/) [GitHub](https://github.com/allegroai/clearml) |  ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management |
-| Snakemake | [link](https://snakemake.readthedocs.io/en/stable/) [GitHub](https://github.com/snakemake/snakemake) | The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.   |
-| Catalyst | [link](https://catalyst-team.com/) [GitHub](https://github.com/catalyst-team/catalyst) |  Catalyst is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you can create something new rather than write yet another train loop. |
-| Metaflow | [link](https://metaflow.org/) [GitHub](https://github.com/Netflix/metaflow) |  Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix |
-| VisualDL | [link](https://www.paddlepaddle.org.cn/paddle/visualdl) [GitHub](https://github.com/PaddlePaddle/VisualDL) |  VisualDL, a visualization analysis tool of PaddlePaddle, provides a variety of charts to show the trends of parameters, and visualizes model structures, data samples, histograms of tensors, PR curves , ROC curves and high-dimensional data distributions. |
-|Sacred  |  [GitHub](https://github.com/IDSIA/sacred) |  Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA. |
-| Aim | [link](https://aimstack.io/) [GitHub](https://github.com/aimhubio/aim) | Aim logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically.  |
-| ML Metadata  | [link](https://www.tensorflow.org/tfx/guide/mlmd) [GitHub](https://github.com/google/ml-metadata) |  ML Metadata (MLMD) is a library for recording and retrieving metadata associated with ML developer and data scientist workflows. |
-| livelossplot | [link](https://p.migdal.pl/livelossplot/) [GitHub](https://github.com/stared/livelossplot) | Live training loss plot in Jupyter Notebook for Keras, PyTorch and others  |
-|Guild AI  | [link](https://guild.ai/) [GitHub](https://github.com/guildai/guildai) |   Guild AI is an open source toolkit that automates and optimizes machine learning experiments.|
-| labml | [link](https://labml.ai/) [GitHub](https://github.com/labmlai/labml) | Monitor deep learning model training and hardware usage from your mobile phone  |
-| Lore |  [GitHub](https://github.com/instacart/lore) | Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers. not anymore mantained  |
-| Studio | [link](https://studio.ml/) [GitHub](https://github.com/studioml/studio) |  Studio: Simplify and expedite model building process |
-| keepsake | [link](https://keepsake.ai/) [GitHub](https://github.com/replicate/keepsake) | Version control for machine learning  |
-| neptune  | [link](https://neptune.ai/) [GitHub](https://github.com/neptune-ai/neptune-client) |Flexible metadata store for MLOps, built for research and production teams that run a lot of experiments.   |
-| Gokart | [link](https://gokart.readthedocs.io/en/latest/) [GitHub](https://github.com/m3dev/gokart) | Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline.  |
-| SciKit-Learn Laboratory (SKLL) | [link](http://skll.readthedocs.org/) [GitHub](https://github.com/EducationalTestingService/skll) |  About
-SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments. |
-|chitra  | [link](https://chitra.readthedocs.io/en/latest/) [GitHub](https://github.com/gradsflow/chitra) |  A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
