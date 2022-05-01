@@ -423,8 +423,8 @@ Other interesting resources
 | ML Metadata  | [link](https://www.tensorflow.org/tfx/guide/mlmd) [GitHub](https://github.com/google/ml-metadata) |  ML Metadata (MLMD) is a library for recording and retrieving metadata associated with ML developer and data scientist workflows. |
 | livelossplot | [link](https://p.migdal.pl/livelossplot/) [GitHub](https://github.com/stared/livelossplot) | Live training loss plot in Jupyter Notebook for Keras, PyTorch and others  |
 |Guild AI  | [link](https://guild.ai/) [GitHub](https://github.com/guildai/guildai) |   Guild AI is an open source toolkit that automates and optimizes machine learning experiments.|
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| labml | [link](https://labml.ai/) [GitHub](https://github.com/labmlai/labml) | Monitor deep learning model training and hardware usage from your mobile phone  |
+| Lore |  [GitHub](https://github.com/instacart/lore) | Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers. not anymore mantained  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
