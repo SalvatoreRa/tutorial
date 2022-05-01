@@ -398,7 +398,7 @@ Other interesting resources
 | [Towards Data Science](https://twitter.com/TDataScience) |A Medium publication sharing concepts, ideas, and codes.  |
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
-
+| [META AI](https://twitter.com/MetaAI) |official META AI account  |
 
 
 
