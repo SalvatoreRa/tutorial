@@ -415,8 +415,8 @@ Other interesting resources
 | tensorboardX | [link](https://tensorboardx.readthedocs.io/en/latest/tensorboard.html) [GitHub](https://github.com/lanpa/tensorboardX) |  tensorboard for pytorch (and chainer, mxnet, numpy, ...) |
 | ClearML | [link](https://clear.ml/docs/latest/docs/) [GitHub](https://github.com/allegroai/clearml) |  ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management |
 | Snakemake | [link](https://snakemake.readthedocs.io/en/stable/) [GitHub](https://github.com/snakemake/snakemake) | The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Catalyst | [link](https://catalyst-team.com/) [GitHub](https://github.com/catalyst-team/catalyst) |  Catalyst is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you can create something new rather than write yet another train loop. |
+| Metaflow | [link](https://metaflow.org/) [GitHub](https://github.com/Netflix/metaflow) |  Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
