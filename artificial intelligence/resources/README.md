@@ -399,8 +399,8 @@ Other interesting resources
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
-
-
+| [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
+| [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
