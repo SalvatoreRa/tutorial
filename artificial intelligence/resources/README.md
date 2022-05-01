@@ -431,7 +431,7 @@ Other interesting resources
 | Gokart | [link](https://gokart.readthedocs.io/en/latest/) [GitHub](https://github.com/m3dev/gokart) | Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline.  |
 | SciKit-Learn Laboratory (SKLL) | [link](http://skll.readthedocs.org/) [GitHub](https://github.com/EducationalTestingService/skll) |  About
 SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments. |
-|  | [link]() [GitHub]() |   |
+|chitra  | [link](https://chitra.readthedocs.io/en/latest/) [GitHub](https://github.com/gradsflow/chitra) |  A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
