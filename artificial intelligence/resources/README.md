@@ -428,8 +428,9 @@ Other interesting resources
 | Studio | [link](https://studio.ml/) [GitHub](https://github.com/studioml/studio) |  Studio: Simplify and expedite model building process |
 | keepsake | [link](https://keepsake.ai/) [GitHub](https://github.com/replicate/keepsake) | Version control for machine learning  |
 | neptune  | [link](https://neptune.ai/) [GitHub](https://github.com/neptune-ai/neptune-client) |Flexible metadata store for MLOps, built for research and production teams that run a lot of experiments.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Gokart | [link](https://gokart.readthedocs.io/en/latest/) [GitHub](https://github.com/m3dev/gokart) | Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline.  |
+| SciKit-Learn Laboratory (SKLL) | [link](http://skll.readthedocs.org/) [GitHub](https://github.com/EducationalTestingService/skll) |  About
+SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
