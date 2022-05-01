@@ -401,6 +401,7 @@ Other interesting resources
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
 | [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
+| [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
