@@ -421,8 +421,8 @@ Other interesting resources
 |Sacred  |  [GitHub](https://github.com/IDSIA/sacred) |  Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA. |
 | Aim | [link](https://aimstack.io/) [GitHub](https://github.com/aimhubio/aim) | Aim logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically.  |
 | ML Metadata  | [link](https://www.tensorflow.org/tfx/guide/mlmd) [GitHub](https://github.com/google/ml-metadata) |  ML Metadata (MLMD) is a library for recording and retrieving metadata associated with ML developer and data scientist workflows. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| livelossplot | [link](https://p.migdal.pl/livelossplot/) [GitHub](https://github.com/stared/livelossplot) | Live training loss plot in Jupyter Notebook for Keras, PyTorch and others  |
+|Guild AI  | [link](https://guild.ai/) [GitHub](https://github.com/guildai/guildai) |   Guild AI is an open source toolkit that automates and optimizes machine learning experiments.|
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
