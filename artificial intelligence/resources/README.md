@@ -413,8 +413,8 @@ Other interesting resources
 | Weights and Biases | [link](https://wandb.ai/site) [GitHub](https://github.com/wandb/client) |  Use W&B to build better models faster. Track and visualize all the pieces of your machine learning pipeline, from datasets to production models. |
 |Azure SDK | [link](https://docs.microsoft.com/it-it/azure/machine-learning/) [GitHub](https://github.com/Azure/MachineLearningNotebooks) |  Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft |
 | tensorboardX | [link](https://tensorboardx.readthedocs.io/en/latest/tensorboard.html) [GitHub](https://github.com/lanpa/tensorboardX) |  tensorboard for pytorch (and chainer, mxnet, numpy, ...) |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| ClearML | [link](https://clear.ml/docs/latest/docs/) [GitHub](https://github.com/allegroai/clearml) |  ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management |
+| Snakemake | [link](https://snakemake.readthedocs.io/en/stable/) [GitHub](https://github.com/snakemake/snakemake) | The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
