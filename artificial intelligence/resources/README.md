@@ -407,8 +407,8 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | TensorBoard | [link](https://www.tensorflow.org/tensorboard/get_started) [GitHub](https://github.com/tensorflow/tensorboard) | TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.  |
 | MLflow | [link](https://mlflow.org/) [GitHub](https://github.com/mlflow/mlflow) | MLflow is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyCaret | [link](https://pycaret.org/) [GitHub](https://github.com/pycaret/pycaret) | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that speeds up the experiment cycle exponentially and makes you more productive.  |
+| SageMaker | [link](https://sagemaker.readthedocs.io/en/stable/) [GitHub](https://github.com/aws/sagemaker-python-sdk) | SageMaker Python SDK is an open source library for training and deploying machine learning models on Amazon SageMaker.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
