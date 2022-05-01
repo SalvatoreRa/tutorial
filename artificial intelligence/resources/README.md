@@ -425,6 +425,13 @@ Other interesting resources
 |Guild AI  | [link](https://guild.ai/) [GitHub](https://github.com/guildai/guildai) |   Guild AI is an open source toolkit that automates and optimizes machine learning experiments.|
 | labml | [link](https://labml.ai/) [GitHub](https://github.com/labmlai/labml) | Monitor deep learning model training and hardware usage from your mobile phone  |
 | Lore |  [GitHub](https://github.com/instacart/lore) | Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers. not anymore mantained  |
+| Studio | [link](https://studio.ml/) [GitHub](https://github.com/studioml/studio) |  Studio: Simplify and expedite model building process |
+| keepsake | [link](https://keepsake.ai/) [GitHub](https://github.com/replicate/keepsake) | Version control for machine learning  |
+| neptune  | [link](https://neptune.ai/) [GitHub](https://github.com/neptune-ai/neptune-client) |Flexible metadata store for MLOps, built for research and production teams that run a lot of experiments.   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
