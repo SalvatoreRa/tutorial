@@ -405,9 +405,8 @@ Other interesting resources
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| TensorBoard | [link](https://www.tensorflow.org/tensorboard/get_started) [GitHub](https://github.com/tensorflow/tensorboard) | TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.  |
+| MLflow | [link](https://mlflow.org/) [GitHub](https://github.com/mlflow/mlflow) | MLflow is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
