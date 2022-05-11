@@ -235,6 +235,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [knowledge representation and reasoning](https://www.annualreviews.org/doi/abs/10.1146/annurev.cs.01.060186.001351)| KRR review | 1986 | a seminal review on knowledge representation and reasoning|
+| [knowledge representation and reasoning](https://arxiv.org/abs/1912.06612)| KRR review | 2019 | From Shallow to Deep Interactions Between Knowledge Representation, Reasoning and Machine Learning|
 
 &nbsp;
 
