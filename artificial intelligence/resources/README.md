@@ -230,11 +230,11 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Coloring black and white images](https://arxiv.org/pdf/1603.08511.pdf)| art | 2016 | Colorful Image Colorization|
 | [Cross-View Panorama Image Synthesis](https://arxiv.org/pdf/2203.11832.pdf)| art | 2022 | synthesizing a ground-view panorama image conditioned on a top-view aerial image|
 
-## Neural network and art
+## knowledge representation and reasoning
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
-| [DeepDream](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)| art | 2015 | Inceptionism: Going Deeper into Neural Networks, by Google research|
+| [knowledge representation and reasoning](https://www.annualreviews.org/doi/abs/10.1146/annurev.cs.01.060186.001351)| KRR review | 1986 | a seminal review on knowledge representation and reasoning|
 
 &nbsp;
 
