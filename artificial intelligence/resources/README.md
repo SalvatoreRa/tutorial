@@ -421,8 +421,8 @@ Other interesting resources
 | triton | [link](https://triton-lang.org/master/index.html) [GitHub](https://github.com/openai/triton) |  Development repository for the Triton language and compiler |
 | BentoML | [link](https://www.bentoml.com/) [GitHub](https://github.com/bentoml/BentoML) |  BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes |
 | hummingbird |  [GitHub](https://github.com/microsoft/hummingbird) |  Hummingbird compiles trained ML models into tensor computation for faster inference. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| m2cgen | [GitHub](https://github.com/BayesWitnesses/m2cgen) | m2cgen (Model 2 Code Generator) - is a lightweight library which provides an easy way to transpile trained statistical models into a native code (Python, C, Java, Go, JavaScript, Visual Basic, C#, PowerShell, R, PHP, Dart, Haskell, Ruby, F#, Rust, Elixir).  |
+|  cortex | [link](https://www.cortex.dev/) [GitHub](https://github.com/cortexlabs/cortex) | Production infrastructure for machine learning at scale  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
