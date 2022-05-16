@@ -436,8 +436,8 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | Milvus | [link](https://milvus.io/) [GitHub](https://github.com/milvus-io/milvus) |  An open-source vector database for scalable similarity search and AI applications. |
 | Faiss | [link](https://faiss.ai/) [GitHub](https://github.com/facebookresearch/faiss) | A library for efficient similarity search and clustering of dense vectors.  |
 | Annoy | [GitHub](https://github.com/spotify/annoy) | Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Non-Metric Space Library (NMSLIB) |  [GitHub](https://github.com/nmslib/nmslib) | Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.  |
+|  Hnswlib | [GitHub](https://github.com/nmslib/hnswlib) |  Header-only C++/python library for fast approximate nearest neighbors |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
