@@ -451,8 +451,8 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | Pyro | [link](http://pyro.ai/) [GitHub](https://github.com/pyro-ppl/pyro) |  Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.  |
 | GPyTorch | [link](https://docs.gpytorch.ai/en/latest/) [GitHub](https://github.com/cornellius-gp/gpytorch) |  A highly efficient and modular implementation of Gaussian Processes in PyTorch |
 | hmmlearn | [link](https://hmmlearn.readthedocs.io/en/latest/) [GitHub](https://github.com/hmmlearn/hmmlearn) |  hmmlearn is a set of algorithms for unsupervised learning and inference of Hidden Markov Models. For supervised learning learning of HMMs and similar models see seqlearn. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| filterpy | [link](https://filterpy.readthedocs.io/en/latest/) [GitHub](https://github.com/rlabbe/filterpy) | This library provides Kalman filtering and various related optimal and non-optimal filtering software written in Python. It contains Kalman filters, Extended Kalman filters, Unscented Kalman filters, Kalman smoothers, Least Squares filters, fading memory filters, g-h filters, discrete Bayes, and more.  |
+|  pgmpy| [link](https://pgmpy.org/) [GitHub](https://github.com/pgmpy/pgmpy) | pgmpy is a python library for working with Probabilistic Graphical Models.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
