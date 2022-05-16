@@ -449,8 +449,8 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | PyMC | [link](https://docs.pymc.io/en/v3/) [GitHub](https://github.com/pymc-devs/pymc) | PyMC (formerly PyMC3) is a Python package for Bayesian statistical modeling focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.  |
 | TensorFlow Probability | [link](https://www.tensorflow.org/probability/) [GitHub](https://github.com/tensorflow/probability) | Probabilistic reasoning and statistical analysis in TensorFlow. TensorFlow Probability is a library for probabilistic reasoning and statistical analysis in TensorFlow. As part of the TensorFlow ecosystem, TensorFlow Probability provides integration of probabilistic methods with deep networks,  |
 | Pyro | [link](http://pyro.ai/) [GitHub](https://github.com/pyro-ppl/pyro) |  Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| GPyTorch | [link](https://docs.gpytorch.ai/en/latest/) [GitHub](https://github.com/cornellius-gp/gpytorch) |  A highly efficient and modular implementation of Gaussian Processes in PyTorch |
+| hmmlearn | [link](https://hmmlearn.readthedocs.io/en/latest/) [GitHub](https://github.com/hmmlearn/hmmlearn) |  hmmlearn is a set of algorithms for unsupervised learning and inference of Hidden Markov Models. For supervised learning learning of HMMs and similar models see seqlearn. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
