@@ -434,8 +434,8 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | ------- | ----------- | ------ |
 | ann-benchmarks | [link](http://ann-benchmarks.com/) [GitHub](https://github.com/erikbern/ann-benchmarks) | Benchmarks of approximate nearest neighbor libraries in Python  |
 | Milvus | [link](https://milvus.io/) [GitHub](https://github.com/milvus-io/milvus) |  An open-source vector database for scalable similarity search and AI applications. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Faiss | [link](https://faiss.ai/) [GitHub](https://github.com/facebookresearch/faiss) | A library for efficient similarity search and clustering of dense vectors.  |
+| Annoy | [GitHub](https://github.com/spotify/annoy) | Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
