@@ -424,7 +424,7 @@ Other interesting resources
 | m2cgen | [GitHub](https://github.com/BayesWitnesses/m2cgen) | m2cgen (Model 2 Code Generator) - is a lightweight library which provides an easy way to transpile trained statistical models into a native code (Python, C, Java, Go, JavaScript, Visual Basic, C#, PowerShell, R, PHP, Dart, Haskell, Ruby, F#, Rust, Elixir).  |
 |  cortex | [link](https://www.cortex.dev/) [GitHub](https://github.com/cortexlabs/cortex) | Production infrastructure for machine learning at scale  |
 |  pytorch2keras |  [GitHub]https://github.com/gmalivenko/pytorch2keras() |  PyTorch to Keras model converter. |
-|  | [link]() [GitHub]() |   |
+| Nebullvm  | [link](https://nebuly.ai/) [GitHub](https://github.com/nebuly-ai/nebullvm) | Easy-to-use library to boost AI inference leveraging state-of-the-art optimization techniques.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
