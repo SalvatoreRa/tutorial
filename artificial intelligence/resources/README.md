@@ -410,12 +410,12 @@ Other interesting resources
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 
-## Financial data
+## Model Serialization & Deployment
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| onnx | [link](https://onnx.ai/) [GitHub](https://github.com/onnx/onnx) | Open standard for machine learning interoperability  |
+| Core ML tools | [link](https://coremltools.readme.io/docs) [GitHub](https://github.com/apple/coremltools) | Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
