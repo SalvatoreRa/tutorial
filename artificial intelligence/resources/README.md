@@ -440,7 +440,13 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 |  Hnswlib | [GitHub](https://github.com/nmslib/hnswlib) |  Header-only C++/python library for fast approximate nearest neighbors |
 | NGT |  [GitHub](https://github.com/yahoojapan/NGT) | Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data  |
 | TOROS N2  |  [GitHub](https://github.com/kakao/n2) |  TOROS N2 - lightweight approximate Nearest Neighbor library which runs fast even with large datasets |
-|  | [link]() [GitHub]() |   |
+
+
+## Probabilistics and Statistics
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| PyMC | [link](https://docs.pymc.io/en/v3/) [GitHub](https://github.com/pymc-devs/pymc) | PyMC (formerly PyMC3) is a Python package for Bayesian statistical modeling focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
