@@ -438,8 +438,8 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | Annoy | [GitHub](https://github.com/spotify/annoy) | Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.  |
 | Non-Metric Space Library (NMSLIB) |  [GitHub](https://github.com/nmslib/nmslib) | Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.  |
 |  Hnswlib | [GitHub](https://github.com/nmslib/hnswlib) |  Header-only C++/python library for fast approximate nearest neighbors |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| NGT |  [GitHub](https://github.com/yahoojapan/NGT) | Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data  |
+| TOROS N2  |  [GitHub](https://github.com/kakao/n2) |  TOROS N2 - lightweight approximate Nearest Neighbor library which runs fast even with large datasets |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
