@@ -410,7 +410,7 @@ Other interesting resources
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 
-## Model Serialization & Deployment
+## Model Serialization and Deployment
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
@@ -425,8 +425,15 @@ Other interesting resources
 |  cortex | [link](https://www.cortex.dev/) [GitHub](https://github.com/cortexlabs/cortex) | Production infrastructure for machine learning at scale  |
 |  pytorch2keras |  [GitHub]https://github.com/gmalivenko/pytorch2keras() |  PyTorch to Keras model converter. |
 | Nebullvm  | [link](https://nebuly.ai/) [GitHub](https://github.com/nebuly-ai/nebullvm) | Easy-to-use library to boost AI inference leveraging state-of-the-art optimization techniques.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+
+## Vector Similarity Search
+
+Doing fast searching of nearest neighbors in high dimensional spaces is an increasingly important problem, but so far there has not been a lot of empirical attempts at comparing approaches in an objective way
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| ann-benchmarks | [link](http://ann-benchmarks.com/) [GitHub](https://github.com/erikbern/ann-benchmarks) | Benchmarks of approximate nearest neighbor libraries in Python  |
+| Milvus | [link](https://milvus.io/) [GitHub](https://github.com/milvus-io/milvus) |  An open-source vector database for scalable similarity search and AI applications. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
