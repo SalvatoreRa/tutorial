@@ -411,43 +411,6 @@ Other interesting resources
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 
 
-## Probabilistics and Statistics
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| PyMC | [link](https://docs.pymc.io/en/v3/) [GitHub](https://github.com/pymc-devs/pymc) | PyMC (formerly PyMC3) is a Python package for Bayesian statistical modeling focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.  |
-| TensorFlow Probability | [link](https://www.tensorflow.org/probability/) [GitHub](https://github.com/tensorflow/probability) | Probabilistic reasoning and statistical analysis in TensorFlow. TensorFlow Probability is a library for probabilistic reasoning and statistical analysis in TensorFlow. As part of the TensorFlow ecosystem, TensorFlow Probability provides integration of probabilistic methods with deep networks,  |
-| Pyro | [link](http://pyro.ai/) [GitHub](https://github.com/pyro-ppl/pyro) |  Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.  |
-| GPyTorch | [link](https://docs.gpytorch.ai/en/latest/) [GitHub](https://github.com/cornellius-gp/gpytorch) |  A highly efficient and modular implementation of Gaussian Processes in PyTorch |
-| hmmlearn | [link](https://hmmlearn.readthedocs.io/en/latest/) [GitHub](https://github.com/hmmlearn/hmmlearn) |  hmmlearn is a set of algorithms for unsupervised learning and inference of Hidden Markov Models. For supervised learning learning of HMMs and similar models see seqlearn. |
-| filterpy | [link](https://filterpy.readthedocs.io/en/latest/) [GitHub](https://github.com/rlabbe/filterpy) | This library provides Kalman filtering and various related optimal and non-optimal filtering software written in Python. It contains Kalman filters, Extended Kalman filters, Unscented Kalman filters, Kalman smoothers, Least Squares filters, fading memory filters, g-h filters, discrete Bayes, and more.  |
-|  pgmpy| [link](https://pgmpy.org/) [GitHub](https://github.com/pgmpy/pgmpy) | pgmpy is a python library for working with Probabilistic Graphical Models.  |
-| GPflow | [link](https://gpflow.github.io/GPflow/2.5.2/index.html) [GitHub](https://github.com/GPflow/GPflow) | Gaussian processes in TensorFlow  |
-| Pandas TA | [link](https://twopirllc.github.io/pandas-ta/) [GitHub](https://github.com/twopirllc/pandas-ta) | Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas package with more than 130 Indicators and Utility functions and more than 60 TA Lib Candlestick Patterns  |
-|patsy  | [GitHub](https://github.com/pydata/patsy) | Describing statistical models in Python using symbolic formulas. no longer under active development  |
-| Sensitivity Analysis Library (SALib) | [link](http://salib.github.io/SALib/) [GitHub](https://github.com/SALib/SALib) |  Python implementations of commonly used sensitivity analysis methods. Useful in systems modeling to calculate the effects of model inputs or exogenous factors on outputs of interest. |
-| pomegranate | [link](https://pomegranate.readthedocs.io/en/latest/) [GitHub](https://github.com/jmschrei/pomegranate) |  A primary focus of pomegranate is to merge the easy-to-use API of scikit-learn with the modularity of probabilistic modeling to allow users to specify complicated models without needing to worry about implementation details. |
-| Orbit | [link](https://orbit-ml.readthedocs.io/en/stable/) [GitHub](https://github.com/uber/orbit) |  A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood. |
-| BAyesian Model-Building Interface (Bambi) | [link](https://bambinos.github.io/bambi/main/index.html) [GitHub](https://github.com/bambinos/bambi) |  Bambi is a high-level Bayesian model-building interface written in Python. |
-| BaaL | [link](https://baal.readthedocs.io/en/latest/) [GitHub](https://github.com/baal-org/baal) |  Library to enable Bayesian active learning in your research or labeling work. |
-
-
-
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-
 # Contributing
 
 You can use the issue section or you can write to me. If there are interesting resources, feel free to suggest I will add as soon as I can.
