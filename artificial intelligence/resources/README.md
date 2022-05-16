@@ -416,6 +416,13 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | onnx | [link](https://onnx.ai/) [GitHub](https://github.com/onnx/onnx) | Open standard for machine learning interoperability  |
 | Core ML tools | [link](https://coremltools.readme.io/docs) [GitHub](https://github.com/apple/coremltools) | Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.  |
+| huggingface_hub  | [link](https://huggingface.co/) [GitHub](https://github.com/huggingface/huggingface_hub) | The huggingface_hub is a client library to interact with the Hugging Face Hub. The Hugging Face Hub is a platform with over 35K models, 4K datasets, and 2K demos in which people can easily collaborate in their ML workflows.  |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
