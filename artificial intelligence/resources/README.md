@@ -419,8 +419,8 @@ Other interesting resources
 | huggingface_hub  | [link](https://huggingface.co/) [GitHub](https://github.com/huggingface/huggingface_hub) | The huggingface_hub is a client library to interact with the Hugging Face Hub. The Hugging Face Hub is a platform with over 35K models, 4K datasets, and 2K demos in which people can easily collaborate in their ML workflows.  |
 | TorchServe | [link](https://pytorch.org/serve/) [GitHub](https://github.com/pytorch/serve) | TorchServe is a flexible and easy to use tool for serving and scaling PyTorch models in production.  |
 | triton | [link](https://triton-lang.org/master/index.html) [GitHub](https://github.com/openai/triton) |  Development repository for the Triton language and compiler |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| BentoML | [link](https://www.bentoml.com/) [GitHub](https://github.com/bentoml/BentoML) |  BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes |
+| hummingbird |  [GitHub](https://github.com/microsoft/hummingbird) |  Hummingbird compiles trained ML models into tensor computation for faster inference. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
