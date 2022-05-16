@@ -410,6 +410,10 @@ Other interesting resources
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 
+## Financial data
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
