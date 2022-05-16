@@ -459,6 +459,16 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | Sensitivity Analysis Library (SALib) | [link](http://salib.github.io/SALib/) [GitHub](https://github.com/SALib/SALib) |  Python implementations of commonly used sensitivity analysis methods. Useful in systems modeling to calculate the effects of model inputs or exogenous factors on outputs of interest. |
 | pomegranate | [link](https://pomegranate.readthedocs.io/en/latest/) [GitHub](https://github.com/jmschrei/pomegranate) |  A primary focus of pomegranate is to merge the easy-to-use API of scikit-learn with the modularity of probabilistic modeling to allow users to specify complicated models without needing to worry about implementation details. |
 | Orbit | [link](https://orbit-ml.readthedocs.io/en/stable/) [GitHub](https://github.com/uber/orbit) |  A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood. |
+| BAyesian Model-Building Interface (Bambi) | [link](https://bambinos.github.io/bambi/main/index.html) [GitHub](https://github.com/bambinos/bambi) |  Bambi is a high-level Bayesian model-building interface written in Python. |
+| BaaL | [link](https://baal.readthedocs.io/en/latest/) [GitHub](https://github.com/baal-org/baal) |  Library to enable Bayesian active learning in your research or labeling work. |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
