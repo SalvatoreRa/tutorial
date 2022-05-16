@@ -453,8 +453,8 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | hmmlearn | [link](https://hmmlearn.readthedocs.io/en/latest/) [GitHub](https://github.com/hmmlearn/hmmlearn) |  hmmlearn is a set of algorithms for unsupervised learning and inference of Hidden Markov Models. For supervised learning learning of HMMs and similar models see seqlearn. |
 | filterpy | [link](https://filterpy.readthedocs.io/en/latest/) [GitHub](https://github.com/rlabbe/filterpy) | This library provides Kalman filtering and various related optimal and non-optimal filtering software written in Python. It contains Kalman filters, Extended Kalman filters, Unscented Kalman filters, Kalman smoothers, Least Squares filters, fading memory filters, g-h filters, discrete Bayes, and more.  |
 |  pgmpy| [link](https://pgmpy.org/) [GitHub](https://github.com/pgmpy/pgmpy) | pgmpy is a python library for working with Probabilistic Graphical Models.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| GPflow | [link](https://gpflow.github.io/GPflow/2.5.2/index.html) [GitHub](https://github.com/GPflow/GPflow) | Gaussian processes in TensorFlow  |
+| Pandas TA | [link](https://twopirllc.github.io/pandas-ta/) [GitHub](https://github.com/twopirllc/pandas-ta) | Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas package with more than 130 Indicators and Utility functions and more than 60 TA Lib Candlestick Patterns  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
