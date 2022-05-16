@@ -410,37 +410,6 @@ Other interesting resources
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 
-## Model Serialization and Deployment
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| onnx | [link](https://onnx.ai/) [GitHub](https://github.com/onnx/onnx) | Open standard for machine learning interoperability  |
-| Core ML tools | [link](https://coremltools.readme.io/docs) [GitHub](https://github.com/apple/coremltools) | Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.  |
-| huggingface_hub  | [link](https://huggingface.co/) [GitHub](https://github.com/huggingface/huggingface_hub) | The huggingface_hub is a client library to interact with the Hugging Face Hub. The Hugging Face Hub is a platform with over 35K models, 4K datasets, and 2K demos in which people can easily collaborate in their ML workflows.  |
-| TorchServe | [link](https://pytorch.org/serve/) [GitHub](https://github.com/pytorch/serve) | TorchServe is a flexible and easy to use tool for serving and scaling PyTorch models in production.  |
-| triton | [link](https://triton-lang.org/master/index.html) [GitHub](https://github.com/openai/triton) |  Development repository for the Triton language and compiler |
-| BentoML | [link](https://www.bentoml.com/) [GitHub](https://github.com/bentoml/BentoML) |  BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes |
-| hummingbird |  [GitHub](https://github.com/microsoft/hummingbird) |  Hummingbird compiles trained ML models into tensor computation for faster inference. |
-| m2cgen | [GitHub](https://github.com/BayesWitnesses/m2cgen) | m2cgen (Model 2 Code Generator) - is a lightweight library which provides an easy way to transpile trained statistical models into a native code (Python, C, Java, Go, JavaScript, Visual Basic, C#, PowerShell, R, PHP, Dart, Haskell, Ruby, F#, Rust, Elixir).  |
-|  cortex | [link](https://www.cortex.dev/) [GitHub](https://github.com/cortexlabs/cortex) | Production infrastructure for machine learning at scale  |
-|  pytorch2keras |  [GitHub]https://github.com/gmalivenko/pytorch2keras() |  PyTorch to Keras model converter. |
-| Nebullvm  | [link](https://nebuly.ai/) [GitHub](https://github.com/nebuly-ai/nebullvm) | Easy-to-use library to boost AI inference leveraging state-of-the-art optimization techniques.  |
-
-## Vector Similarity Search
-
-Doing fast searching of nearest neighbors in high dimensional spaces is an increasingly important problem, but so far there has not been a lot of empirical attempts at comparing approaches in an objective way
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| ann-benchmarks | [link](http://ann-benchmarks.com/) [GitHub](https://github.com/erikbern/ann-benchmarks) | Benchmarks of approximate nearest neighbor libraries in Python  |
-| Milvus | [link](https://milvus.io/) [GitHub](https://github.com/milvus-io/milvus) |  An open-source vector database for scalable similarity search and AI applications. |
-| Faiss | [link](https://faiss.ai/) [GitHub](https://github.com/facebookresearch/faiss) | A library for efficient similarity search and clustering of dense vectors.  |
-| Annoy | [GitHub](https://github.com/spotify/annoy) | Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.  |
-| Non-Metric Space Library (NMSLIB) |  [GitHub](https://github.com/nmslib/nmslib) | Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.  |
-|  Hnswlib | [GitHub](https://github.com/nmslib/hnswlib) |  Header-only C++/python library for fast approximate nearest neighbors |
-| NGT |  [GitHub](https://github.com/yahoojapan/NGT) | Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data  |
-| TOROS N2  |  [GitHub](https://github.com/kakao/n2) |  TOROS N2 - lightweight approximate Nearest Neighbor library which runs fast even with large datasets |
-
 
 ## Probabilistics and Statistics
 
@@ -461,6 +430,9 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | Orbit | [link](https://orbit-ml.readthedocs.io/en/stable/) [GitHub](https://github.com/uber/orbit) |  A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood. |
 | BAyesian Model-Building Interface (Bambi) | [link](https://bambinos.github.io/bambi/main/index.html) [GitHub](https://github.com/bambinos/bambi) |  Bambi is a high-level Bayesian model-building interface written in Python. |
 | BaaL | [link](https://baal.readthedocs.io/en/latest/) [GitHub](https://github.com/baal-org/baal) |  Library to enable Bayesian active learning in your research or labeling work. |
+
+
+
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
