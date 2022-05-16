@@ -457,8 +457,8 @@ Doing fast searching of nearest neighbors in high dimensional spaces is an incre
 | Pandas TA | [link](https://twopirllc.github.io/pandas-ta/) [GitHub](https://github.com/twopirllc/pandas-ta) | Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas package with more than 130 Indicators and Utility functions and more than 60 TA Lib Candlestick Patterns  |
 |patsy  | [GitHub](https://github.com/pydata/patsy) | Describing statistical models in Python using symbolic formulas. no longer under active development  |
 | Sensitivity Analysis Library (SALib) | [link](http://salib.github.io/SALib/) [GitHub](https://github.com/SALib/SALib) |  Python implementations of commonly used sensitivity analysis methods. Useful in systems modeling to calculate the effects of model inputs or exogenous factors on outputs of interest. |
-| pomegranate | [link]() [GitHub](https://github.com/jmschrei/pomegranate) |  A primary focus of pomegranate is to merge the easy-to-use API of scikit-learn with the modularity of probabilistic modeling to allow users to specify complicated models without needing to worry about implementation details. |
-|  | [link]() [GitHub]() |   |
+| pomegranate | [link](https://pomegranate.readthedocs.io/en/latest/) [GitHub](https://github.com/jmschrei/pomegranate) |  A primary focus of pomegranate is to merge the easy-to-use API of scikit-learn with the modularity of probabilistic modeling to allow users to specify complicated models without needing to worry about implementation details. |
+| Orbit | [link](https://orbit-ml.readthedocs.io/en/stable/) [GitHub](https://github.com/uber/orbit) |  A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
