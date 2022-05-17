@@ -203,8 +203,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GNN](https://arxiv.org/abs/1611.08097)| Geometric learning | 2016 | Geometric deep learning: going beyond Euclidean data |
 | [GNN](https://arxiv.org/abs/1609.02907)| GCN conv | 2016 | Semi-Supervised Classification with Graph Convolutional Networks |
 | [Chebconv](https://arxiv.org/abs/1606.09375)| Chebconv | 2016 | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering |
-| []()| Graph Sage |  |  |
-| []()| Graph Convolution |  |  |
+| [GraphSage](https://arxiv.org/abs/1706.02216)| Graph Sage | 2017 |  Inductive Representation Learning on Large Graphs|
+| [GNN generalization](https://arxiv.org/abs/1810.02244)| Graph Convolution | 2018 | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
