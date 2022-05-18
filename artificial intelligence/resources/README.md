@@ -213,8 +213,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Graph transformer](https://arxiv.org/abs/2012.09699)| Geometric learning | 2020 | A Generalization of Transformer Networks to Graphs |
 | [AGNNConv](https://arxiv.org/abs/1803.03735)| AGNNConv | 2018 |Attention-based Graph Neural Network for Semi-supervised Learning  |
 | [TAGCN]()| TAGCN | 2017 | Topology Adaptive Graph Convolutional Networks |
-| []()|  |  |  |
-| []()|  |  |  |
+| [Graph Isomorphic Network]()| GIN  | 2018 | How Powerful are Graph Neural Networks? |
+| [GINE](https://arxiv.org/abs/1905.12265)| GINE | 2019 | Strategies for Pre-training Graph Neural Networks |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
