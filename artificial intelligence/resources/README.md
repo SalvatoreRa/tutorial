@@ -206,8 +206,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GraphSage](https://arxiv.org/abs/1706.02216)| Graph Sage | 2017 |  Inductive Representation Learning on Large Graphs|
 | [GNN generalization](https://arxiv.org/abs/1810.02244)| Graph Convolution | 2018 | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks |
 | [Gated graph convolution](https://arxiv.org/abs/1511.05493)| Gated GNN  | 2017 | Gated Graph Sequence Neural Networks |
-| []()|  |  | Residual Gated Graph ConvNets |
-| []()|  |  |  |
+| [Residual gated GCN](https://arxiv.org/abs/1711.07553)| Residual GCN  | 2017 | Residual Gated Graph ConvNets |
+| [GAT]()|  GAT|  |  |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
