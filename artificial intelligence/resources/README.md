@@ -211,7 +211,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GAT2](https://arxiv.org/abs/2105.14491)| GAT improved | 2021 | How Attentive are Graph Attention Networks? |
 | [Graph transformer](https://arxiv.org/abs/2009.03509)| Graph transformer | 2020 | Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification |
 | [Graph transformer](https://arxiv.org/abs/2012.09699)| Geometric learning | 2020 | A Generalization of Transformer Networks to Graphs |
-| []()|  |  |  |
+| [AGNNConv](https://arxiv.org/abs/1803.03735)| AGNNConv | 2018 |Attention-based Graph Neural Network for Semi-supervised Learning  |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
