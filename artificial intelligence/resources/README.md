@@ -207,8 +207,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GNN generalization](https://arxiv.org/abs/1810.02244)| Graph Convolution | 2018 | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks |
 | [Gated graph convolution](https://arxiv.org/abs/1511.05493)| Gated GNN  | 2017 | Gated Graph Sequence Neural Networks |
 | [Residual gated GCN](https://arxiv.org/abs/1711.07553)| Residual GCN  | 2017 | Residual Gated Graph ConvNets |
-| [GAT]()|  GAT|  |  |
-| []()|  |  |  |
+| [GAT](https://arxiv.org/abs/1710.10903)|  GAT| 2017 |  Graph Attention Networks|
+| [GAT2]()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
 | [Knowledge graph review](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016)| Geometric learning | 2020 | A Survey on Application of Knowledge Graph |
