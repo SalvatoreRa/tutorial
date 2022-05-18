@@ -208,7 +208,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Gated graph convolution](https://arxiv.org/abs/1511.05493)| Gated GNN  | 2017 | Gated Graph Sequence Neural Networks |
 | [Residual gated GCN](https://arxiv.org/abs/1711.07553)| Residual GCN  | 2017 | Residual Gated Graph ConvNets |
 | [GAT](https://arxiv.org/abs/1710.10903)|  GAT| 2017 |  Graph Attention Networks|
-| [GAT2]()|  |  |  |
+| [GAT2](https://arxiv.org/abs/2105.14491)| GAT improved | 2021 | How Attentive are Graph Attention Networks? |
 | []()|  |  |  |
 | []()|  |  |  |
 | [Knowledge graph review](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016)| Geometric learning | 2020 | A Survey on Application of Knowledge Graph |
