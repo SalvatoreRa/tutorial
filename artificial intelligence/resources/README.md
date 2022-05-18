@@ -215,7 +215,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [TAGCN]()| TAGCN | 2017 | Topology Adaptive Graph Convolutional Networks |
 | [Graph Isomorphic Network]()| GIN  | 2018 | How Powerful are Graph Neural Networks? |
 | [GINE](https://arxiv.org/abs/1905.12265)| GINE | 2019 | Strategies for Pre-training Graph Neural Networks |
-| []()|  |  |  |
+| [GNN + ARMA  filters](https://arxiv.org/abs/1901.01343)| GNN + ARMA  |  | Graph Neural Networks with convolutional ARMA filters |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
