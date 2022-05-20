@@ -293,6 +293,13 @@ A list of some useful tools that can be needed in different contexts.
 
 &nbsp;
 
+# Benchmark 
+
+| Repository | type |  Description |
+| ------- | ----------- | ------ |
+| [Squad](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles |
+| [Squad2](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. |
+
 # Dataset database
 
 Here a list of many dataset database/repository for many different fields of artificial intelligence. For a ML/AI task you need two things: data and algorithm. This list is meant to help you witht he first part of the question: the data. I am providing here a list of links to databases where you can find many available to datasets (check the dataset section in the repository where I provide single datasets).
