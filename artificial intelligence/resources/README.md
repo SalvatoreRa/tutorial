@@ -297,6 +297,7 @@ A list of some useful tools that can be needed in different contexts.
 
 | Repository | type |  Description |
 | ------- | ----------- | ------ |
+| [SNLI](https://nlp.stanford.edu/projects/snli/| text classification | The Stanford Natural Language Inference (SNLI) corpus (version 1.0) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral.  a benchmark for evaluating representational systems for text|
 | [Squad](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles |
 | [Squad2](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. |
 | [GLUE](https://gluebenchmark.com/)| Multi-task | The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems. |
