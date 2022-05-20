@@ -299,6 +299,8 @@ A list of some useful tools that can be needed in different contexts.
 | ------- | ----------- | ------ |
 | [Squad](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles |
 | [Squad2](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. |
+| [GLUE](https://gluebenchmark.com/)| Multi-task | The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems. |
+| [SuperGLUE](https://super.gluebenchmark.com/)| Multi-task | a new benchmark styled after GLUE with a new set of more difficult language understanding tasks, improved resources, and a new public leaderboard. |
 
 # Dataset database
 
