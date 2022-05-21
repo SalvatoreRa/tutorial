@@ -303,6 +303,7 @@ A list of some useful tools that can be needed in different contexts.
 | [GLUE](https://gluebenchmark.com/)| Multi-task | The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems. |
 | [SuperGLUE](https://super.gluebenchmark.com/)| Multi-task | a new benchmark styled after GLUE with a new set of more difficult language understanding tasks, improved resources, and a new public leaderboard. |
 | [Imagenet](https://www.image-net.org/)| Computer vision| ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images.  |
+| [Wilds](https://wilds.stanford.edu/)| WILDS datasets span a diverse array of modalities and applications, and reflect a wide range of distribution shifts arising from different demographics, users, hospitals, camera locations, countries, time periods, and molecular scaffolds.  |
 
 # Dataset database
 
