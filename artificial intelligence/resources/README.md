@@ -221,7 +221,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [APPNP](https://arxiv.org/abs/1810.05997)| GCN + pagerank  | 2022  |Predict then Propagate: Graph Neural Networks meet Personalized PageRank  |
 | [signed GCN](https://arxiv.org/abs/1808.06354)| Signed conv | 2018 | Signed Graph Convolutional Network |
 | [DNA conv](https://arxiv.org/abs/1904.04849)|  Dynamic GCN|  2019| Just Jump: Dynamic Neighborhood Aggregation in Graph Neural Networks |
-| []()|  |  |  |
+| [PointNET](https://arxiv.org/abs/1612.00593)| PointNET | 2017 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
