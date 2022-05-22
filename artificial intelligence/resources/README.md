@@ -217,7 +217,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GINE](https://arxiv.org/abs/1905.12265)| GINE | 2019 | Strategies for Pre-training Graph Neural Networks |
 | [GNN + ARMA  filters](https://arxiv.org/abs/1901.01343)| GNN + ARMA  |  | Graph Neural Networks with convolutional ARMA filters |
 | [Simplified GNN](https://arxiv.org/abs/1902.07153)|  | 2019 | Simplifying Graph Convolutional Networks |
-| []()|  |  |  |
+| [APPNP](https://arxiv.org/abs/1810.05997)| GCN + pagerank  | 2022  |Predict then Propagate: Graph Neural Networks meet Personalized PageRank  |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
