@@ -219,7 +219,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GNN + ARMA  filters](https://arxiv.org/abs/1901.01343)| GNN + ARMA  |  | Graph Neural Networks with convolutional ARMA filters |
 | [Simplified GNN](https://arxiv.org/abs/1902.07153)|  | 2019 | Simplifying Graph Convolutional Networks |
 | [APPNP](https://arxiv.org/abs/1810.05997)| GCN + pagerank  | 2022  |Predict then Propagate: Graph Neural Networks meet Personalized PageRank  |
-| []()|  |  |  |
+| [signed GCN](https://arxiv.org/abs/1808.06354)| Signed conv | 2018 | Signed Graph Convolutional Network |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
