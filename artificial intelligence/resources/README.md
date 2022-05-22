@@ -200,6 +200,7 @@ Keep the pace with the number of articles published every year is impossible (it
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [MFconv](https://arxiv.org/abs/1509.09292)| Convolution on graph | 2015 | Convolutional Networks on Graphs for Learning Molecular Fingerprints |
 | [GNN](https://arxiv.org/abs/1611.08097)| Geometric learning | 2016 | Geometric deep learning: going beyond Euclidean data |
 | [GNN](https://arxiv.org/abs/1609.02907)| GCN conv | 2016 | Semi-Supervised Classification with Graph Convolutional Networks |
 | [Chebconv](https://arxiv.org/abs/1606.09375)| Chebconv | 2016 | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering |
@@ -218,6 +219,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GNN + ARMA  filters](https://arxiv.org/abs/1901.01343)| GNN + ARMA  |  | Graph Neural Networks with convolutional ARMA filters |
 | [Simplified GNN](https://arxiv.org/abs/1902.07153)|  | 2019 | Simplifying Graph Convolutional Networks |
 | [APPNP](https://arxiv.org/abs/1810.05997)| GCN + pagerank  | 2022  |Predict then Propagate: Graph Neural Networks meet Personalized PageRank  |
+| []()|  |  |  |
+| []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
