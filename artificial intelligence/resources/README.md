@@ -459,7 +459,7 @@ Other interesting resources
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
 | [OpenAI](https://twitter.com/OpenAI) | OpenaAI official account|
-| []() | |
+| [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | []() | |
 | []() | |
 | []() | |
