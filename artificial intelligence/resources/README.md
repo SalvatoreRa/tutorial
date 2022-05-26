@@ -460,7 +460,7 @@ Other interesting resources
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
 | [OpenAI](https://twitter.com/OpenAI) | OpenaAI official account|
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
-| []() | |
+| [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
 | []() | |
 | []() | |
 | []() | |
