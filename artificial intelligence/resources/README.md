@@ -467,7 +467,7 @@ I have listed different accounts that are tweeting resources about data science,
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
 | [Greg Brockman](https://twitter.com/gdb) | Greg Brockman, the CEO of Open AI|
 | [Kai-Fu Lee]() | former CEO of Google China, Kai-Fu Lee, tweets about the latest technology trends. |
-| []() | |
+| [Demis Hassabis]() | |
 | []() | |
 | []() | |
 | []() | |
