@@ -451,6 +451,7 @@ Other interesting resources
 | [Kaggle](https://twitter.com/kaggle) | Kaggle official account   |
 | [Machine learning](https://twitter.com/machinelearnflx) | news about machine learning  |
 | [Towards Data Science](https://twitter.com/TDataScience) |A Medium publication sharing concepts, ideas, and codes.  |
+| [Data Science Central](https://twitter.com/DataScienceCtrl) |Their account focuses on ML, AI, IoT, and deep learning algorithms. They tweet industry news and links to academic articles on the topics |
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
@@ -460,11 +461,8 @@ Other interesting resources
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
-
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
-
-| [Data Science Central](https://twitter.com/DataScienceCtrl) |Their account focuses on ML, AI, IoT, and deep learning algorithms. They tweet industry news and links to academic articles on the topics |
 | []() | |
 | []() | |
 | []() | |
