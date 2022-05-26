@@ -476,8 +476,7 @@ I have listed different accounts that are tweeting resources about data science,
 | [Bernard Marr](https://twitter.com/bernardmarr) | author of more than a dozen best-selling books, a Forbes contributor, and a technology advisor to the world’s top businesses|
 | [Tessa Lau](https://twitter.com/tessalau) | Tessa Lau advocates for agile AI technologies that help build sustainable robots and provides updates about the latest research and development in Dusty Robotics|
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
-
-| []() | |
+| [John Carmack](https://twitter.com/ID_AA_Carmack) |an independent AI researcher who reviews some of the latest products and developments and reflects on the AI industry in general. |
 | []() | |
 | []() | |
 | []() | |
