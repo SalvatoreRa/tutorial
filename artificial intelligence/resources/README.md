@@ -455,13 +455,15 @@ Other interesting resources
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
 | [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
+| [OpenAI](https://twitter.com/OpenAI) | OpenaAI official account|
+| [Covariant](https://twitter.com/CovariantAI) |Covariant works on creating a universal AI that will allow robots to see, reason, and act. Their feed is a compilation of their technology updates and links to other resources |
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
-| [OpenAI](https://twitter.com/OpenAI) | OpenaAI official account|
+
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
-| [Covariant](https://twitter.com/CovariantAI) |Covariant works on creating a universal AI that will allow robots to see, reason, and act. Their feed is a compilation of their technology updates and links to other resources |
+
 | [Data Science Central](https://twitter.com/DataScienceCtrl) |Their account focuses on ML, AI, IoT, and deep learning algorithms. They tweet industry news and links to academic articles on the topics |
 | []() | |
 | []() | |
