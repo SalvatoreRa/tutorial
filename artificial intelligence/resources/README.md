@@ -480,6 +480,7 @@ Other interesting resources
 | [CSES Problem Set](https://cses.fi/problemset/)| repository | very hard problems, harder than leetcode  |
 | [Introduction to Algorithms ](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)| course |  MIT’s algorithm course here. |
 | [Graph theory](https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)| course | Graph theory questions come often in interviews |
+| [CSES Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)| Book | to whom is already proficient on leetcode questions |
 
 # Contributing
 
