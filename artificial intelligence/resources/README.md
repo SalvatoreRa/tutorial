@@ -471,8 +471,8 @@ I have listed different accounts that are tweeting resources about data science,
 | [Andrew Ng](https://twitter.com/AndrewYNg) | Coursera Co-Founder, former head of Baidu AI Group, and a frequent member of industry panel discussions, he tweets about the latest industry events and conferences|
 | [Ronald van Loon](https://twitter.com/Ronald_vanLoon) | The CEO of Intelligent World tweets on big data, ML, AI, and deep learning technologies. His account is a playground that connects businesses and experts. On top of that, he is one of the most prolific Twitter bloggers|
 | [Marek Rosa](https://twitter.com/marek_rosa) |CEO at GoodAI.com and KeenSWH.com |
-| [Allie K. Miller]() | |
-| []() | |
+| [Allie K. Miller](https://twitter.com/alliekmiller) |Allie K. Miller is a well-known expert in the industry. Her Twitter thread is not just AI-focused.  |
+| [Bernard Marr]() | author of more than a dozen best-selling books, a Forbes contributor, and a technology advisor to the world’s top businesses|
 | []() | |
 | []() | |
 | []() | |
