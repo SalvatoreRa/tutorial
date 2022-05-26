@@ -294,7 +294,8 @@ A list of some useful tools that can be needed in different contexts.
 |  [seeing theory](https://seeing-theory.brown.edu/) | A visual introduction to probability and statistics | 
 |  [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/) |a map of mathematics as it stands today | 
 
-## Browser extension
+## Browser extensions
+
 | Link | description | 
 | --------- | ------ | 
 |  [Diigo](https://www.diigo.com/index) | bookmark and annotate web pages without leaving the page  | 
@@ -302,8 +303,6 @@ A list of some useful tools that can be needed in different contexts.
 |  [Octotree](https://www.octotree.io/) | Octotree is a browser extension designed specifically to simplify code exploration on GitHub.  | 
 |  [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo/related) | Open in Colab is a simple browser extension to open notebook files hosted in the GitHub directly at the Google Colaboratory Notebook. | 
 |  [BibItNow](https://chrome.google.com/webstore/detail/bibitnow/bmnfikjlonhkoojjfddnlbinkkapmldg/related) | BibItNow is a browser extension to cite a research paper in various formats easily. The extension was intended for data scientists who need to cite many papers daily. | 
-
-
 &nbsp;
 
 # Benchmark 
@@ -473,6 +472,10 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
+
+| Name | Type |  Description |
+| ------- | ----------- | ------ |
+| [NeetCode blind 75](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)|  YouTube |a list of 75 questions that is generally enough to solve most coding interviews.  |
 
 # Contributing
 
