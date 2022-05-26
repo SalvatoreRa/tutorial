@@ -461,7 +461,7 @@ Other interesting resources
 | [OpenAI](https://twitter.com/OpenAI) | OpenaAI official account|
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
-| []() | |
+| [Covariant]() |Covariant works on creating a universal AI that will allow robots to see, reason, and act. Their feed is a compilation of their technology updates and links to other resources |
 | []() | |
 | []() | |
 | []() | |
