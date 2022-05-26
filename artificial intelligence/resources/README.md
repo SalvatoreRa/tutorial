@@ -454,6 +454,7 @@ I have listed different accounts that are tweeting resources about data science,
 | [Machine learning](https://twitter.com/machinelearnflx) | news about machine learning  |
 | [Towards Data Science](https://twitter.com/TDataScience) |A Medium publication sharing concepts, ideas, and codes.  |
 | [Data Science Central](https://twitter.com/DataScienceCtrl) |Their account focuses on ML, AI, IoT, and deep learning algorithms. They tweet industry news and links to academic articles on the topics |
+| [AI](https://twitter.com/DeepLearn007) | tweeting about AI |
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
@@ -474,8 +475,8 @@ I have listed different accounts that are tweeting resources about data science,
 | [Allie K. Miller](https://twitter.com/alliekmiller) |Allie K. Miller is a well-known expert in the industry. Her Twitter thread is not just AI-focused.  |
 | [Bernard Marr](https://twitter.com/bernardmarr) | author of more than a dozen best-selling books, a Forbes contributor, and a technology advisor to the world’s top businesses|
 | [Tessa Lau](https://twitter.com/tessalau) | Tessa Lau advocates for agile AI technologies that help build sustainable robots and provides updates about the latest research and development in Dusty Robotics|
-| []() | |
-| []() | |
+| [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
+
 | []() | |
 | []() | |
 | []() | |
