@@ -468,8 +468,8 @@ I have listed different accounts that are tweeting resources about data science,
 | [Greg Brockman](https://twitter.com/gdb) | Greg Brockman, the CEO of Open AI|
 | [Kai-Fu Lee](https://twitter.com/kaifulee) | former CEO of Google China, Kai-Fu Lee, tweets about the latest technology trends. |
 | [Demis Hassabis](https://twitter.com/demishassabis) |CEO of Deepmind, Demis Hassabis often retweets what’s going on there and plays around with the more complex issues in AI. |
-| [Andrew Ng]() | Coursera Co-Founder, former head of Baidu AI Group, and a frequent member of industry panel discussions, he tweets about the latest industry events and conferences|
-| []() | |
+| [Andrew Ng](https://twitter.com/AndrewYNg) | Coursera Co-Founder, former head of Baidu AI Group, and a frequent member of industry panel discussions, he tweets about the latest industry events and conferences|
+| [Ronald van Loon](https://twitter.com/Ronald_vanLoon) | The CEO of Intelligent World tweets on big data, ML, AI, and deep learning technologies. His account is a playground that connects businesses and experts. On top of that, he is one of the most prolific Twitter bloggers|
 | []() | |
 | []() | |
 | []() | |
