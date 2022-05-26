@@ -482,6 +482,7 @@ Other interesting resources
 | [Graph theory](https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)| course | Graph theory questions come often in interviews |
 | [CSES Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)| Book | to whom is already proficient on leetcode questions |
 | [system design](https://github.com/donnemartin/system-design-primer)| GitHub | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [guide to the System Design Interview](https://www.educative.io/blog/complete-guide-system-design-interview)| Blog  |The complete guide to the System Design Interview in 2022  |
 
 # Contributing
 
