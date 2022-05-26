@@ -479,6 +479,10 @@ I have listed different accounts that are tweeting resources about data science,
 | [John Carmack](https://twitter.com/ID_AA_Carmack) |an independent AI researcher who reviews some of the latest products and developments and reflects on the AI industry in general. |
 | [Lex Fridman](https://twitter.com/lexfridman) | Lex Fridman is an AI researcher in addition to his industry achievements also has a podcast where he invites influential guests to discuss all sorts of topics connected with AI|
 | [Fei-Fei Li](https://twitter.com/drfeifei) | Fei-Fei Li is a professor at Stanford and a StanfordHAI co-director, which makes her tweets both scientifically-based and practical.|
+| [Kirk Borne](https://twitter.com/KirkDBorne) |Kirk Borne is a famous data scientist and one of the world’s top AI and data science influencers. |
+| [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
+| []() | |
+| []() | |
 | []() | |
 | []() | |
 | []() | |
