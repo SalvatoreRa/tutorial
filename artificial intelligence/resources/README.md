@@ -477,6 +477,7 @@ Other interesting resources
 | ------- | ----------- | ------ |
 | [NeetCode blind 75](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)|  YouTube |a list of 75 questions that is generally enough to solve most coding interviews.  |
 | [list of questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)| Blog post | New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time |
+| [CSES Problem Set](https://cses.fi/problemset/)| repository | very hard problems, harder than leetcode  |
 
 # Contributing
 
