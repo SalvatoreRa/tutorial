@@ -479,6 +479,7 @@ Other interesting resources
 | [list of questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)| Blog post | New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time |
 | [CSES Problem Set](https://cses.fi/problemset/)| repository | very hard problems, harder than leetcode  |
 | [Introduction to Algorithms ](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)| course |  MIT’s algorithm course here. |
+| [Graph theory](https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)| course | Graph theory questions come often in interviews |
 
 # Contributing
 
