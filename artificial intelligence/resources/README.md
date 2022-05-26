@@ -463,6 +463,13 @@ I have listed different accounts that are tweeting resources about data science,
 | [Covariant](https://twitter.com/CovariantAI) |Covariant works on creating a universal AI that will allow robots to see, reason, and act. Their feed is a compilation of their technology updates and links to other resources |
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
+| [John Carmack](https://twitter.com/ID_AA_Carmack) |an independent AI researcher who reviews some of the latest products and developments and reflects on the AI industry in general. |
+| [Lex Fridman](https://twitter.com/lexfridman) | Lex Fridman is an AI researcher in addition to his industry achievements also has a podcast where he invites influential guests to discuss all sorts of topics connected with AI|
+| [Fei-Fei Li](https://twitter.com/drfeifei) | Fei-Fei Li is a professor at Stanford and a StanfordHAI co-director, which makes her tweets both scientifically-based and practical.|
+| [Kirk Borne](https://twitter.com/KirkDBorne) |Kirk Borne is a famous data scientist and one of the world’s top AI and data science influencers. |
+| [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
+| [Dr. Angelica Lim](https://twitter.com/petitegeek) |Angelica Lim has a Ph.D. in AI, robotics, and emotions, and her research focuses on building robots that will be able to simulate human emotions. |
+| [Pedro Domingos](https://twitter.com/pmddomingos) |Pedro Domingos, a professor of computer science at the University of Washington  |
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
@@ -476,13 +483,7 @@ I have listed different accounts that are tweeting resources about data science,
 | [Bernard Marr](https://twitter.com/bernardmarr) | author of more than a dozen best-selling books, a Forbes contributor, and a technology advisor to the world’s top businesses|
 | [Tessa Lau](https://twitter.com/tessalau) | Tessa Lau advocates for agile AI technologies that help build sustainable robots and provides updates about the latest research and development in Dusty Robotics|
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
-| [John Carmack](https://twitter.com/ID_AA_Carmack) |an independent AI researcher who reviews some of the latest products and developments and reflects on the AI industry in general. |
-| [Lex Fridman](https://twitter.com/lexfridman) | Lex Fridman is an AI researcher in addition to his industry achievements also has a podcast where he invites influential guests to discuss all sorts of topics connected with AI|
-| [Fei-Fei Li](https://twitter.com/drfeifei) | Fei-Fei Li is a professor at Stanford and a StanfordHAI co-director, which makes her tweets both scientifically-based and practical.|
-| [Kirk Borne](https://twitter.com/KirkDBorne) |Kirk Borne is a famous data scientist and one of the world’s top AI and data science influencers. |
-| [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
-| []() | |
-| []() | |
+
 | []() | |
 | []() | |
 | []() | |
