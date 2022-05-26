@@ -443,6 +443,8 @@ Other interesting resources
 
 ## Twitter
 
+I have listed different accounts that are tweeting resources about data science, machine learning and artificial intelligence. These accounts are divulgative accounts, companies, university departments focused on AI or AI researchers.
+
 | Name |   Description |
 | ------- |  ------ |
 | [DeepTweet](https://twitter.com/DeepL_Tweet) | News, articles, tutorial all about manchine learning, deep learnig, data science  |
@@ -463,6 +465,16 @@ Other interesting resources
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
+| [Greg Brockman](https://twitter.com/gdb) | Greg Brockman, the CEO of Open AI|
+| [Kai-Fu Lee]() | former CEO of Google China, Kai-Fu Lee, tweets about the latest technology trends. |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 | []() | |
 | []() | |
 | []() | |
