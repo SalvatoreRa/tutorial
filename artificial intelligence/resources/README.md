@@ -457,6 +457,22 @@ Other interesting resources
 | [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -473,24 +489,7 @@ Other interesting resources
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
-| Name | Type |  Description |
-| ------- | ----------- | ------ |
-| [NeetCode blind 75](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)|  YouTube |a list of 75 questions that is generally enough to solve most coding interviews.  |
-| [list of questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)| Blog post | New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time |
-| [CSES Problem Set](https://cses.fi/problemset/)| repository | very hard problems, harder than leetcode  |
-| [Introduction to Algorithms ](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)| course |  MIT’s algorithm course here. |
-| [Graph theory](https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)| course | Graph theory questions come often in interviews |
-| [CSES Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)| Book | to whom is already proficient on leetcode questions |
-| [system design](https://github.com/donnemartin/system-design-primer)| GitHub | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [guide to the System Design Interview](https://www.educative.io/blog/complete-guide-system-design-interview)| Blog  |The complete guide to the System Design Interview in 2022  |
-| []()|  |  |
-| []()|  |  |
-| []()|  |  |
-| []()|  |  |
-| []()|  |  |
-| []()|  |  |
-| []()|  |  |
-| []()|  |  |
+
 
 # Contributing
 
