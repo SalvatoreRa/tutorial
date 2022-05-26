@@ -298,7 +298,7 @@ A list of some useful tools that can be needed in different contexts.
 | Link | description | 
 | --------- | ------ | 
 |  [Diigo](https://www.diigo.com/index) | bookmark and annotate web pages without leaving the page  | 
-|  []() |  | 
+|  [CatalyzeX](https://www.catalyzex.com/) | a browser extension to automatically find the code implemented in the AI/ML papers. The extensions could be used directly on the research paper or Google results. | 
 |  []() |  | 
 |  []() |  | 
 |  []() |  | 
