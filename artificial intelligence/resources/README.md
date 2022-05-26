@@ -457,7 +457,7 @@ Other interesting resources
 | [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
-| []() | |
+| [IBM Data and AI](https://twitter.com/IBMData) | IBM official account|
 | []() | |
 | []() | |
 | []() | |
