@@ -473,6 +473,8 @@ I have listed different accounts that are tweeting resources about data science,
 | [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
 | [Dr. Angelica Lim](https://twitter.com/petitegeek) |Angelica Lim has a Ph.D. in AI, robotics, and emotions, and her research focuses on building robots that will be able to simulate human emotions. |
 | [Pedro Domingos](https://twitter.com/pmddomingos) |Pedro Domingos, a professor of computer science at the University of Washington  |
+| [Andrej Karpathy ](https://twitter.com/karpathy) |A senior director of AI at Tesla, Andrej Karpathy is the former research scientist at OpenAI  |
+| [Dr Sally Eaves](https://twitter.com/sallyeaves) |a professor in advanced technologies and as a global strategic advisor, Eaves specialises in the application and integration of blockchain. |
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
@@ -488,8 +490,6 @@ I have listed different accounts that are tweeting resources about data science,
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
 
-| [Andrej Karpathy ](https://twitter.com/karpathy) |A senior director of AI at Tesla, Andrej Karpathy is the former research scientist at OpenAI  |
-| [Dr Sally Eaves](https://twitter.com/sallyeaves) |a professor in advanced technologies and as a global strategic advisor, Eaves specialises in the application and integration of blockchain. |
 
 | []() | |
 | []() | |
