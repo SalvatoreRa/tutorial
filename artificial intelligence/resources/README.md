@@ -456,6 +456,9 @@ I have listed different accounts that are tweeting resources about data science,
 | [Data Science Central](https://twitter.com/DataScienceCtrl) |Their account focuses on ML, AI, IoT, and deep learning algorithms. They tweet industry news and links to academic articles on the topics |
 | [AI](https://twitter.com/DeepLearn007) | tweeting about AI |
 | [Towards AI](https://twitter.com/towards_AI) |articles related to AI  |
+| [ActuIA - Artificial Intelligence](https://twitter.com/ActuIAen) | the account follows the latest news in artificial intelligence|
+| [ActuIA - Artificial Intelligence](https://twitter.com/ActuIAFr) | the account follows the latest news in artificial intelligence, frech edition|
+| [MONTREAL.AI](https://twitter.com/Montreal_AI) | a glimpse into all of the possibilities offered by artificial intelligence.|
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
 | [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
