@@ -489,8 +489,8 @@ I have listed different accounts that are tweeting resources about data science,
 
 
 | [Andrej Karpathy ](https://twitter.com/karpathy) |A senior director of AI at Tesla, Andrej Karpathy is the former research scientist at OpenAI  |
-| []() | |
-| []() | |
+| [Dr Sally Eaves](https://twitter.com/sallyeaves) |a professor in advanced technologies and as a global strategic advisor, Eaves specialises in the application and integration of blockchain. |
+| [Kirk Borne ](https://twitter.com/KirkDBorne) | Kirk Borne is a global speaker and the principal data scientist, data science fellow, and executive advisor at Booz Allen Hamilton. Borne is listed among one of the top AI and data science influencers in the world|
 | []() | |
 | []() | |
 | []() | |
