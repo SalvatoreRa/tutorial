@@ -503,8 +503,8 @@ I have listed different accounts that are tweeting resources about data science,
 | ------- | ----------- | ------ |
 | Adversarial Robustness Toolbox (ART)  | [link](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/) [GitHub](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |  Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security.  |
 | Foolbox | [link](https://github.com/bethgelab/foolbox) [GitHub](https://foolbox.jonasrauber.de/) |  Foolbox: Fast adversarial attacks to benchmark the robustness of machine learning models in PyTorch, TensorFlow, and JAX |
-|  CleverHans | [link]() [GitHub](https://github.com/cleverhans-lab/cleverhans) |  CleverHans, a Python library to benchmark machine learning systems' vulnerability to adversarial examples. |
-|  | [link]() [GitHub]() |   |
+|  CleverHans |  [GitHub](https://github.com/cleverhans-lab/cleverhans) |  CleverHans, a Python library to benchmark machine learning systems' vulnerability to adversarial examples. |
+| TextAttack  | [link](https://textattack.readthedocs.io/en/master/) [GitHub](https://github.com/QData/TextAttack) | Generating adversarial examples for NLP models  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
