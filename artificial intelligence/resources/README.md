@@ -543,9 +543,14 @@ I have listed different accounts that are tweeting resources about data science,
 | Neural Structured Learning in TensorFlow | [link](https://www.tensorflow.org/neural_structured_learning) [GitHub](https://github.com/tensorflow/neural-structured-learning) |  Neural Structured Learning (NSL) is a new learning paradigm to train neural networks by leveraging structured signals in addition to feature inputs.  |
 | TensorFlow Cloud |  [GitHub](https://github.com/tensorflow/cloud) |  The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging, training, tuning your Keras and TensorFlow code in a local environment to distributed training/tuning on Cloud. |
 | TensorFlow Compression |  [GitHub](https://github.com/tensorflow/compression) | TensorFlow Compression (TFC) contains data compression tools for TensorFlow.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PAIR Saliency Methods | [link](https://pair-code.github.io/saliency/#home) [GitHub](https://github.com/PAIR-code/saliency) | Framework-agnostic implementation for state-of-the-art saliency methods (XRAI, BlurIG, SmoothGrad, and more).  |
+
+## Scikit-learn Utilities
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+| Mlxtend  | [link](http://rasbt.github.io/mlxtend/) [GitHub](https://github.com/rasbt/mlxtend) |  A library of extension and helper modules for Python's data analysis and machine learning libraries. |
+| imbalanced-learn | [link]() [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) | A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
