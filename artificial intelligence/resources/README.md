@@ -522,7 +522,7 @@ I have listed different accounts that are tweeting resources about data science,
 | NVIDIA Apex | [link](https://nvidia.github.io/apex/) [GitHub](https://github.com/NVIDIA/apex) | A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch  |
 | NVIDIA DALI | [link](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) [GitHub](https://github.com/NVIDIA/DALI) | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.  |
 | RAPIDS cuGraph | [GitHub](https://github.com/rapidsai/cugraph) | The RAPIDS cuGraph library is a collection of GPU accelerated graph algorithms that process data found in GPU DataFrames.   |
-|  | [link]() [GitHub]() |   |
+| scikit-cuda  | [link]() [GitHub](https://github.com/lebedov/scikit-cuda) | scikit-cuda provides Python interfaces to many of the functions in the CUDA device/runtime, CUBLAS, CUFFT, and CUSOLVER libraries distributed as part of NVIDIA's CUDA Programming Toolkit  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
