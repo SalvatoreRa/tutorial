@@ -497,17 +497,6 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 | []() | |
 
-## Adversial Robustness
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| Adversarial Robustness Toolbox (ART)  | [link](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/) [GitHub](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |  Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security.  |
-| Foolbox | [link](https://github.com/bethgelab/foolbox) [GitHub](https://foolbox.jonasrauber.de/) |  Foolbox: Fast adversarial attacks to benchmark the robustness of machine learning models in PyTorch, TensorFlow, and JAX |
-|  CleverHans |  [GitHub](https://github.com/cleverhans-lab/cleverhans) |  CleverHans, a Python library to benchmark machine learning systems' vulnerability to adversarial examples. |
-| TextAttack  | [link](https://textattack.readthedocs.io/en/master/) [GitHub](https://github.com/QData/TextAttack) | Generating adversarial examples for NLP models  |
-| robustness  | [link](https://robustness.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/MadryLab/robustness) |  A library for experimenting with, training and evaluating neural networks, with a focus on adversarial robustness. |
-| Advbox Family |  [GitHub](https://github.com/advboxes/AdvBox) |   Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models. Advbox give a command line tool to generate adversarial examples with Zero-Coding.|
-
 
 ## GPU utility
 
@@ -561,7 +550,7 @@ I have listed different accounts that are tweeting resources about data science,
 | DESlib |  [GitHub](https://github.com/scikit-learn-contrib/DESlib) | DESlib is an easy-to-use ensemble learning library focused on the implementation of the state-of-the-art techniques for dynamic classifier and ensemble selection.   |
 | Scikit-TDA | [link](https://scikit-tda.org/) [GitHub](https://github.com/scikit-tda/scikit-tda) |  Scikit-TDA is a home for Topological Data Analysis Python libraries intended for non-topologists. |
 
-## Scikit-learn Utilities
+## PyTorch Utilities
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
