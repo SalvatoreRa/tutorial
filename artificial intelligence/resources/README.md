@@ -514,7 +514,7 @@ I have listed different accounts that are tweeting resources about data science,
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | CuPy  | [link](https://cupy.dev/) [GitHub](https://github.com/cupy/cupy) |  CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. |
-|  | [link]() [GitHub]() |   |
+| cuDF | [link](https://rapids.ai/) [GitHub](https://github.com/rapidsai/cudf) |  cuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
