@@ -537,7 +537,7 @@ I have listed different accounts that are tweeting resources about data science,
 | Tensor2Tensor |  [GitHub](https://github.com/tensorflow/tensor2tensor) | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.  |
 | TensorFlow Transform | [GitHub](https://github.com/tensorflow/transform) |TensorFlow Transform is a library for preprocessing data with TensorFlow.   |
 | TensorFlow Model Optimization Toolkit | [link](https://www.tensorflow.org/model_optimization) [GitHub](https://github.com/tensorflow/model-optimization) |  The TensorFlow Model Optimization Toolkit is a suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution |
-|  | [link]() [GitHub]() |   |
+| Keras Preprocessing | [GitHub](https://github.com/keras-team/keras-preprocessing) |  Utilities for working with image data, text data, and sequence data |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
