@@ -538,11 +538,11 @@ I have listed different accounts that are tweeting resources about data science,
 | TensorFlow Transform | [GitHub](https://github.com/tensorflow/transform) |TensorFlow Transform is a library for preprocessing data with TensorFlow.   |
 | TensorFlow Model Optimization Toolkit | [link](https://www.tensorflow.org/model_optimization) [GitHub](https://github.com/tensorflow/model-optimization) |  The TensorFlow Model Optimization Toolkit is a suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution |
 | Keras Preprocessing | [GitHub](https://github.com/keras-team/keras-preprocessing) |  Utilities for working with image data, text data, and sequence data |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| TensorFlow I/O | [link](https://www.tensorflow.org/io/api_docs/python/tfio) [GitHub](https://github.com/tensorflow/io) |  TensorFlow I/O is a collection of file systems and file formats that are not available in TensorFlow's built-in support.  |
+| EfficientNet Keras  |  [GitHub](https://github.com/qubvel/efficientnet) |  Implementation of EfficientNet model. Keras and TensorFlow Keras |
+| Neural Structured Learning in TensorFlow | [link](https://www.tensorflow.org/neural_structured_learning) [GitHub](https://github.com/tensorflow/neural-structured-learning) |  Neural Structured Learning (NSL) is a new learning paradigm to train neural networks by leveraging structured signals in addition to feature inputs.  |
+| TensorFlow Cloud |  [GitHub](https://github.com/tensorflow/cloud) |  The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging, training, tuning your Keras and TensorFlow code in a local environment to distributed training/tuning on Cloud. |
+| TensorFlow Compression |  [GitHub](https://github.com/tensorflow/compression) | TensorFlow Compression (TFC) contains data compression tools for TensorFlow.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
