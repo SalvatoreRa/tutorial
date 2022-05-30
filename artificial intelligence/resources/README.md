@@ -516,7 +516,7 @@ I have listed different accounts that are tweeting resources about data science,
 | CuPy  | [link](https://cupy.dev/) [GitHub](https://github.com/cupy/cupy) |  CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. |
 | cuDF | [link](https://rapids.ai/) [GitHub](https://github.com/rapidsai/cudf) |  cuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. |
 | ArrayFire | [link](https://arrayfire.com/) [GitHub](https://github.com/arrayfire/arrayfire) |  ArrayFire is a general-purpose tensor library that simplifies the process of software development for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices.  |
-|  | [link]() [GitHub]() |   |
+| gpustat | [link](https://pypi.org/project/gpustat/) [GitHub](https://github.com/wookayin/gpustat) | A simple command-line utility for querying and monitoring GPU status  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
