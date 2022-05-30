@@ -497,6 +497,10 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 | []() | |
 
+## Probabilistics and Statistics
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
