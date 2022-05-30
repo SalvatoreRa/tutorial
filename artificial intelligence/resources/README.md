@@ -550,11 +550,11 @@ I have listed different accounts that are tweeting resources about data science,
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | Mlxtend  | [link](http://rasbt.github.io/mlxtend/) [GitHub](https://github.com/rasbt/mlxtend) |  A library of extension and helper modules for Python's data analysis and machine learning libraries. |
-| imbalanced-learn | [link]() [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) | A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| imbalanced-learn | [link](https://imbalanced-learn.org/stable/) [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) | A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning  |
+| Categorical Encoding Methods | [link](http://contrib.scikit-learn.org/category_encoders/) [GitHub](https://github.com/scikit-learn-contrib/category_encoders) |  A set of scikit-learn-style transformers for encoding categorical variables into numeric by means of different techniques. |
+| scikit-opt | [link](https://scikit-opt.github.io/scikit-opt/#/en/) [GitHub](https://github.com/guofei9987/scikit-opt) | Powerful Python module for Heuristic Algorithms: Differential Evolution, Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm  |
+| fancyimpute | [GitHub](https://github.com/iskandr/fancyimpute) |  Multivariate imputation and matrix completion algorithms implemented in Python |
+| scikit-lego | [link](https://scikit-lego.netlify.app/) [GitHub](https://github.com/koaning/scikit-lego) |  Extra blocks for scikit-learn pipelines. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
