@@ -498,24 +498,6 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 
 
-## GPU utility
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| CuPy  | [link](https://cupy.dev/) [GitHub](https://github.com/cupy/cupy) |  CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. |
-| cuDF | [link](https://rapids.ai/) [GitHub](https://github.com/rapidsai/cudf) |  cuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. |
-| ArrayFire | [link](https://arrayfire.com/) [GitHub](https://github.com/arrayfire/arrayfire) |  ArrayFire is a general-purpose tensor library that simplifies the process of software development for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices.  |
-| gpustat | [link](https://pypi.org/project/gpustat/) [GitHub](https://github.com/wookayin/gpustat) | A simple command-line utility for querying and monitoring GPU status  |
-| cuML  | [GitHub](https://github.com/rapidsai/cuml) | cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.  |
-| PyCUDA  | [link](https://mathema.tician.de/software/pycuda/) [GitHub](https://github.com/inducer/pycuda) |  PyCUDA lets you access Nvidia's CUDA parallel computation API from Python.  |
-| NVIDIA Apex | [link](https://nvidia.github.io/apex/) [GitHub](https://github.com/NVIDIA/apex) | A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch  |
-| NVIDIA DALI | [link](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) [GitHub](https://github.com/NVIDIA/DALI) | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.  |
-| RAPIDS cuGraph | [GitHub](https://github.com/rapidsai/cugraph) | The RAPIDS cuGraph library is a collection of GPU accelerated graph algorithms that process data found in GPU DataFrames.   |
-| scikit-cuda  | [link](https://scikit-cuda.readthedocs.io/en/latest/) [GitHub](https://github.com/lebedov/scikit-cuda) | scikit-cuda provides Python interfaces to many of the functions in the CUDA device/runtime, CUBLAS, CUFFT, and CUSOLVER libraries distributed as part of NVIDIA's CUDA Programming Toolkit  |
-| BlazingSQL  | [link](https://blazingsql.com/) [GitHub](https://github.com/BlazingDB/blazingsql) | BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.  |
-| Kompute | [link](https://kompute.cc/) [GitHub](https://github.com/KomputeProject/kompute) | The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)  |
-| cuSignal | [GitHub](https://github.com/rapidsai/cusignal) |  cuSignal is a GPU-accelerated signal processing library that is both based on and extends the SciPy Signal API. |
-
 ## TensorFlow Utilities
 
 | Name | Link |  Description |
