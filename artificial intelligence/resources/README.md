@@ -507,6 +507,20 @@ I have listed different accounts that are tweeting resources about data science,
 | TextAttack  | [link](https://textattack.readthedocs.io/en/master/) [GitHub](https://github.com/QData/TextAttack) | Generating adversarial examples for NLP models  |
 | robustness  | [link](https://robustness.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/MadryLab/robustness) |  A library for experimenting with, training and evaluating neural networks, with a focus on adversarial robustness. |
 | Advbox Family |  [GitHub](https://github.com/advboxes/AdvBox) |   Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models. Advbox give a command line tool to generate adversarial examples with Zero-Coding.|
+
+
+## GPU utility
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
