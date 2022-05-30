@@ -527,13 +527,13 @@ I have listed different accounts that are tweeting resources about data science,
 | Kompute | [link](https://kompute.cc/) [GitHub](https://github.com/KomputeProject/kompute) | The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)  |
 | cuSignal | [GitHub](https://github.com/rapidsai/cusignal) |  cuSignal is a GPU-accelerated signal processing library that is both based on and extends the SciPy Signal API. |
 
-## GPU utility
+## TensorFlow Utilities
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | TensorFlow Addons | [GitHub](https://github.com/tensorflow/addons) | TensorFlow Addons is a repository of contributions that conform to well-established API patterns, but implement new functionality not available in core TensorFlow.  |
-|TensorFlow Datasets  | [link]() [GitHub](https://github.com/tensorflow/datasets) |   |
-|  | [link]() [GitHub]() |   |
+|TensorFlow Datasets  | [link](https://www.tensorflow.org/datasets) [GitHub](https://github.com/tensorflow/datasets) | TFDS is a collection of datasets ready to use with TensorFlow, Jax  |
+| TensorFlow Hub | [link](https://www.tensorflow.org/hub) [GitHub](https://github.com/tensorflow/hub) | TensorFlow Hub is a repository of reusable assets for machine learning with TensorFlow.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
