@@ -498,39 +498,6 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 
 
-## TensorFlow Utilities
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| TensorFlow Addons | [GitHub](https://github.com/tensorflow/addons) | TensorFlow Addons is a repository of contributions that conform to well-established API patterns, but implement new functionality not available in core TensorFlow.  |
-|TensorFlow Datasets  | [link](https://www.tensorflow.org/datasets) [GitHub](https://github.com/tensorflow/datasets) | TFDS is a collection of datasets ready to use with TensorFlow, Jax  |
-| TensorFlow Hub | [link](https://www.tensorflow.org/hub) [GitHub](https://github.com/tensorflow/hub) | TensorFlow Hub is a repository of reusable assets for machine learning with TensorFlow.   |
-| Tensor2Tensor |  [GitHub](https://github.com/tensorflow/tensor2tensor) | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.  |
-| TensorFlow Transform | [GitHub](https://github.com/tensorflow/transform) |TensorFlow Transform is a library for preprocessing data with TensorFlow.   |
-| TensorFlow Model Optimization Toolkit | [link](https://www.tensorflow.org/model_optimization) [GitHub](https://github.com/tensorflow/model-optimization) |  The TensorFlow Model Optimization Toolkit is a suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution |
-| Keras Preprocessing | [GitHub](https://github.com/keras-team/keras-preprocessing) |  Utilities for working with image data, text data, and sequence data |
-| TensorFlow I/O | [link](https://www.tensorflow.org/io/api_docs/python/tfio) [GitHub](https://github.com/tensorflow/io) |  TensorFlow I/O is a collection of file systems and file formats that are not available in TensorFlow's built-in support.  |
-| EfficientNet Keras  |  [GitHub](https://github.com/qubvel/efficientnet) |  Implementation of EfficientNet model. Keras and TensorFlow Keras |
-| Neural Structured Learning in TensorFlow | [link](https://www.tensorflow.org/neural_structured_learning) [GitHub](https://github.com/tensorflow/neural-structured-learning) |  Neural Structured Learning (NSL) is a new learning paradigm to train neural networks by leveraging structured signals in addition to feature inputs.  |
-| TensorFlow Cloud |  [GitHub](https://github.com/tensorflow/cloud) |  The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging, training, tuning your Keras and TensorFlow code in a local environment to distributed training/tuning on Cloud. |
-| TensorFlow Compression |  [GitHub](https://github.com/tensorflow/compression) | TensorFlow Compression (TFC) contains data compression tools for TensorFlow.  |
-| PAIR Saliency Methods | [link](https://pair-code.github.io/saliency/#home) [GitHub](https://github.com/PAIR-code/saliency) | Framework-agnostic implementation for state-of-the-art saliency methods (XRAI, BlurIG, SmoothGrad, and more).  |
-
-## Scikit-learn Utilities
-
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| Mlxtend  | [link](http://rasbt.github.io/mlxtend/) [GitHub](https://github.com/rasbt/mlxtend) |  A library of extension and helper modules for Python's data analysis and machine learning libraries. |
-| imbalanced-learn | [link](https://imbalanced-learn.org/stable/) [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) | A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning  |
-| Categorical Encoding Methods | [link](http://contrib.scikit-learn.org/category_encoders/) [GitHub](https://github.com/scikit-learn-contrib/category_encoders) |  A set of scikit-learn-style transformers for encoding categorical variables into numeric by means of different techniques. |
-| scikit-opt | [link](https://scikit-opt.github.io/scikit-opt/#/en/) [GitHub](https://github.com/guofei9987/scikit-opt) | Powerful Python module for Heuristic Algorithms: Differential Evolution, Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm  |
-| fancyimpute | [GitHub](https://github.com/iskandr/fancyimpute) |  Multivariate imputation and matrix completion algorithms implemented in Python |
-| scikit-lego | [link](https://scikit-lego.netlify.app/) [GitHub](https://github.com/koaning/scikit-lego) |  Extra blocks for scikit-learn pipelines. |
-| lightning | [link](https://contrib.scikit-learn.org/lightning/) [GitHub](https://github.com/scikit-learn-contrib/lightning) | lightning is a library for large-scale linear classification, regression and ranking in Python.  |
-| combo | [link](https://pycombo.readthedocs.io/en/latest/) [GitHub](https://github.com/yzhao062/combo) |  combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores. Model combination can be considered as a subtask of ensemble learning, and has been widely used in real-world tasks and data science competitions like Kaggle |
-| iterative-stratification |  [GitHub](https://github.com/trent-b/iterative-stratification) | scikit-learn cross validators for iterative stratification of multilabel data  |
-| DESlib |  [GitHub](https://github.com/scikit-learn-contrib/DESlib) | DESlib is an easy-to-use ensemble learning library focused on the implementation of the state-of-the-art techniques for dynamic classifier and ensemble selection.   |
-| Scikit-TDA | [link](https://scikit-tda.org/) [GitHub](https://github.com/scikit-tda/scikit-tda) |  Scikit-TDA is a home for Topological Data Analysis Python libraries intended for non-topologists. |
 
 ## PyTorch Utilities
 
