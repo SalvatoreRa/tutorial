@@ -536,7 +536,7 @@ I have listed different accounts that are tweeting resources about data science,
 | TensorFlow Hub | [link](https://www.tensorflow.org/hub) [GitHub](https://github.com/tensorflow/hub) | TensorFlow Hub is a repository of reusable assets for machine learning with TensorFlow.   |
 | Tensor2Tensor |  [GitHub](https://github.com/tensorflow/tensor2tensor) | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.  |
 | TensorFlow Transform | [GitHub](https://github.com/tensorflow/transform) |TensorFlow Transform is a library for preprocessing data with TensorFlow.   |
-|  | [link]() [GitHub]() |   |
+| TensorFlow Model Optimization Toolkit | [link](https://www.tensorflow.org/model_optimization) [GitHub](https://github.com/tensorflow/model-optimization) |  The TensorFlow Model Optimization Toolkit is a suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
