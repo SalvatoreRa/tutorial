@@ -555,6 +555,22 @@ I have listed different accounts that are tweeting resources about data science,
 | scikit-opt | [link](https://scikit-opt.github.io/scikit-opt/#/en/) [GitHub](https://github.com/guofei9987/scikit-opt) | Powerful Python module for Heuristic Algorithms: Differential Evolution, Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm  |
 | fancyimpute | [GitHub](https://github.com/iskandr/fancyimpute) |  Multivariate imputation and matrix completion algorithms implemented in Python |
 | scikit-lego | [link](https://scikit-lego.netlify.app/) [GitHub](https://github.com/koaning/scikit-lego) |  Extra blocks for scikit-learn pipelines. |
+| lightning | [link](https://contrib.scikit-learn.org/lightning/) [GitHub](https://github.com/scikit-learn-contrib/lightning) | lightning is a library for large-scale linear classification, regression and ranking in Python.  |
+| combo | [link](https://pycombo.readthedocs.io/en/latest/) [GitHub](https://github.com/yzhao062/combo) |  combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores. Model combination can be considered as a subtask of ensemble learning, and has been widely used in real-world tasks and data science competitions like Kaggle |
+| iterative-stratification |  [GitHub](https://github.com/trent-b/iterative-stratification) | scikit-learn cross validators for iterative stratification of multilabel data  |
+| DESlib |  [GitHub](https://github.com/scikit-learn-contrib/DESlib) | DESlib is an easy-to-use ensemble learning library focused on the implementation of the state-of-the-art techniques for dynamic classifier and ensemble selection.   |
+| Scikit-TDA | [link](https://scikit-tda.org/) [GitHub](https://github.com/scikit-tda/scikit-tda) |  Scikit-TDA is a home for Topological Data Analysis Python libraries intended for non-topologists. |
+
+## Scikit-learn Utilities
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
