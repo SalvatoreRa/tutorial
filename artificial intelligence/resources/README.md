@@ -524,8 +524,8 @@ I have listed different accounts that are tweeting resources about data science,
 | RAPIDS cuGraph | [GitHub](https://github.com/rapidsai/cugraph) | The RAPIDS cuGraph library is a collection of GPU accelerated graph algorithms that process data found in GPU DataFrames.   |
 | scikit-cuda  | [link](https://scikit-cuda.readthedocs.io/en/latest/) [GitHub](https://github.com/lebedov/scikit-cuda) | scikit-cuda provides Python interfaces to many of the functions in the CUDA device/runtime, CUBLAS, CUFFT, and CUSOLVER libraries distributed as part of NVIDIA's CUDA Programming Toolkit  |
 | BlazingSQL  | [link](https://blazingsql.com/) [GitHub](https://github.com/BlazingDB/blazingsql) | BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.  |
-|  | [link]() [GitHub](https://github.com/KomputeProject/kompute) |   |
-|  | [link]() [GitHub]() |   |
+| Kompute | [link](https://kompute.cc/) [GitHub](https://github.com/KomputeProject/kompute) | The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)  |
+| cuSignal | [GitHub](https://github.com/rapidsai/cusignal) |  cuSignal is a GPU-accelerated signal processing library that is both based on and extends the SciPy Signal API. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
