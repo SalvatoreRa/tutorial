@@ -518,9 +518,9 @@ I have listed different accounts that are tweeting resources about data science,
 | ArrayFire | [link](https://arrayfire.com/) [GitHub](https://github.com/arrayfire/arrayfire) |  ArrayFire is a general-purpose tensor library that simplifies the process of software development for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices.  |
 | gpustat | [link](https://pypi.org/project/gpustat/) [GitHub](https://github.com/wookayin/gpustat) | A simple command-line utility for querying and monitoring GPU status  |
 | cuML  | [GitHub](https://github.com/rapidsai/cuml) | cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PyCUDA  | [link](https://mathema.tician.de/software/pycuda/) [GitHub](https://github.com/inducer/pycuda) |  PyCUDA lets you access Nvidia's CUDA parallel computation API from Python.  |
+| NVIDIA Apex | [link](https://nvidia.github.io/apex/) [GitHub](https://github.com/NVIDIA/apex) | A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch  |
+| NVIDIA DALI | [link](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) [GitHub](https://github.com/NVIDIA/DALI) | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
