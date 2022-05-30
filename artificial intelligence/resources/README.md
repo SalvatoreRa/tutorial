@@ -513,7 +513,7 @@ I have listed different accounts that are tweeting resources about data science,
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
+| CuPy  | [link](https://cupy.dev/) [GitHub](https://github.com/cupy/cupy) |  CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
