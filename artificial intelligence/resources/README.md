@@ -518,12 +518,12 @@ I have listed different accounts that are tweeting resources about data science,
 | (Generic) EfficientNets for PyTorch |  [GitHub](https://github.com/rwightman/gen-efficientnet-pytorch) |  Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS |
 | higher | [GitHub](https://github.com/facebookresearch/higher) |  higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps. |
 | performer-pytorch |  [GitHub](https://github.com/lucidrains/performer-pytorch) |  An implementation of Performer, a linear attention-based transformer, in Pytorch |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|reformer-pytorch  | [GitHub](https://github.com/lucidrains/reformer-pytorch) |  Reformer, the efficient Transformer, in Pytorch |
+| vit-pytorch | [GitHub](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  |
+| stylegan2-pytorch |  [GitHub](https://github.com/lucidrains/stylegan2-pytorch) |Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement   |
+| DALLE2-pytorch | [GitHub](https://github.com/lucidrains/DALLE2-pytorch) |  Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
+| imagen-pytorch |  [GitHub](https://github.com/lucidrains/imagen-pytorch) |  Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
+|  | [link]() [GitHub]() |  Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
