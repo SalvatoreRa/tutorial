@@ -504,7 +504,7 @@ I have listed different accounts that are tweeting resources about data science,
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | pytorch-metric-learning | [link](https://kevinmusgrave.github.io/pytorch-metric-learning/) [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) | The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.  |
-|  | [link]() [GitHub]() |   |
+| Accelarate | [link](https://huggingface.co/docs/accelerate/index) [GitHub](https://github.com/huggingface/accelerate) |  A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
