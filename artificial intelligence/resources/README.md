@@ -505,7 +505,7 @@ I have listed different accounts that are tweeting resources about data science,
 | ------- | ----------- | ------ |
 | pytorch-metric-learning | [link](https://kevinmusgrave.github.io/pytorch-metric-learning/) [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) | The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.  |
 | Accelarate | [link](https://huggingface.co/docs/accelerate/index) [GitHub](https://github.com/huggingface/accelerate) |  A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision |
-|  | [link]() [GitHub]() |   |
+| Lighting-Flash | [link](https://lightning-flash.readthedocs.io/en/latest/) [GitHub](https://github.com/PyTorchLightning/lightning-flash) | Flash makes complex AI recipes for over 15 tasks across 7 data domains accessible to all. In a nutshell, Flash is the production grade research framework you always dreamed of but didn't have time to build.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
