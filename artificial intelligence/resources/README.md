@@ -533,6 +533,11 @@ I have listed different accounts that are tweeting resources about data science,
 | Tensor Sensor | [article](https://explained.ai/tensor-sensor/index.html) [GitHub](https://github.com/parrt/tensor-sensor) |  The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. |
 | MADGRAD Optimization Method | [link](https://madgrad.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/madgrad) |  A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization |
 | Pywick | [link](https://pywick.readthedocs.io/en/latest/) [GitHub](https://github.com/achaiah/pywick) | Pywick is a high-level Pytorch training framework that aims to get you up and running quickly with state of the art neural networks.  |
+
+## PyTorch Utilities
+
+| Name | Link |  Description |
+| ------- | ----------- | ------ |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
