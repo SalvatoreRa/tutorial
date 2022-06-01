@@ -501,7 +501,7 @@ I have listed different accounts that are tweeting resources about data science,
 
 
 
-## PyTorch Utilities
+## Others
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
