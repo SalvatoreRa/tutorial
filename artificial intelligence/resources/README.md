@@ -511,9 +511,9 @@ I have listed different accounts that are tweeting resources about data science,
 | torchdiffeq | [GitHub](https://github.com/rtqichen/torchdiffeq) |  This library provides ordinary differential equation (ODE) solvers implemented in PyTorch. |
 | PyTorch Sparse |  [GitHub](https://github.com/rusty1s/pytorch_sparse) | This package consists of a small extension library of optimized sparse matrix operations with autograd support  |
 | TabNet  | [link](https://dreamquark-ai.github.io/tabnet/) [GitHub](https://github.com/dreamquark-ai/tabnet) |  This is a pyTorch implementation of Tabnet:Attentive Interpretable Tabular Learning |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+|Pytorch-toolbelt  |  [GitHub](https://github.com/BloodAxe/pytorch-toolbelt) |  A pytorch-toolbelt is a Python library with a set of bells and whistles for PyTorch for fast R&D prototyping and Kaggle farming |
+| PyTorch Scatter | [link](https://pytorch-scatter.readthedocs.io/en/latest/) [GitHub](https://github.com/rusty1s/pytorch_scatter) |  This package consists of a small extension library of highly optimized sparse update (scatter and segment) operations for the use in PyTorch, which are missing in the main package. |
+| sru | [link](https://www.asapp.com/blog/reducing-the-high-cost-of-training-nlp-models-with-sru/) [GitHub](https://github.com/asappresearch/sru) |  SRU is a recurrent unit that can run over 10 times faster than cuDNN LSTM, without loss of accuracy tested on many tasks. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
