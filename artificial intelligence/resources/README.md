@@ -528,9 +528,9 @@ I have listed different accounts that are tweeting resources about data science,
 | torchsde | [link](https://github.com/google-research/torchsde/blob/master/DOCUMENTATION.md) [GitHub](https://github.com/google-research/torchsde) | Differentiable SDE solvers with GPU support and efficient sensitivity analysis.  |
 | Torch-Struct: Structured Prediction Library | [link](http://nlp.seas.harvard.edu/pytorch-struct/) [GitHub](https://github.com/harvardnlp/pytorch-struct) |  A library of tested, GPU implementations of core structured prediction algorithms for deep learning applications. |
 | pytorchviz |  [GitHub](https://github.com/szagoruyko/pytorchviz) | A small package to create visualizations of PyTorch execution graphs  |
-|  | [link]() [GitHub](https://github.com/abhishekkrthakur/tez) |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| tez |  [GitHub](https://github.com/abhishekkrthakur/tez) |  Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch. |
+|tinygrad |  [GitHub](https://github.com/geohot/tinygrad) | Due to its extreme simplicity, it aims to be the easiest framework to add new accelerators to, with support for both inference and training.  |
+| Tensor Sensor | [link]() [GitHub](https://github.com/parrt/tensor-sensor) |  The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
