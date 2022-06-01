@@ -531,7 +531,7 @@ I have listed different accounts that are tweeting resources about data science,
 | tez |  [GitHub](https://github.com/abhishekkrthakur/tez) |  Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch. |
 |tinygrad |  [GitHub](https://github.com/geohot/tinygrad) | Due to its extreme simplicity, it aims to be the easiest framework to add new accelerators to, with support for both inference and training.  |
 | Tensor Sensor | [article](https://explained.ai/tensor-sensor/index.html) [GitHub](https://github.com/parrt/tensor-sensor) |  The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. |
-|  | [link]() [GitHub]() |   |
+| MADGRAD Optimization Method | [link]() [GitHub](https://github.com/facebookresearch/madgrad) |  A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
