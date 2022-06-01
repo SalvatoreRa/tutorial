@@ -510,7 +510,7 @@ I have listed different accounts that are tweeting resources about data science,
 | pytorch-optimizer | [link](https://pytorch-optimizer.readthedocs.io/en/latest/) [GitHub](https://github.com/jettify/pytorch-optimizer) |  torch-optimizer -- collection of optimizers for PyTorch compatible with optim module. |
 | torchdiffeq | [GitHub](https://github.com/rtqichen/torchdiffeq) |  This library provides ordinary differential equation (ODE) solvers implemented in PyTorch. |
 | PyTorch Sparse |  [GitHub](https://github.com/rusty1s/pytorch_sparse) | This package consists of a small extension library of optimized sparse matrix operations with autograd support  |
-|  | [link]() [GitHub]() |   |
+| TabNet  | [link](https://dreamquark-ai.github.io/tabnet/) [GitHub](https://github.com/dreamquark-ai/tabnet) |  This is a pyTorch implementation of Tabnet:Attentive Interpretable Tabular Learning |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
