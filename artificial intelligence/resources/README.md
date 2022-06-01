@@ -526,9 +526,9 @@ I have listed different accounts that are tweeting resources about data science,
 | PaLM-pytorch |  [GitHub](https://github.com/lucidrains/PaLM-pytorch) |  Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways |
 | lightweight-gan | [GitHub](https://github.com/lucidrains/lightweight-gan) | Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two  |
 | torchsde | [link](https://github.com/google-research/torchsde/blob/master/DOCUMENTATION.md) [GitHub](https://github.com/google-research/torchsde) | Differentiable SDE solvers with GPU support and efficient sensitivity analysis.  |
-| Torch-Struct: Structured Prediction Library | [link](http://nlp.seas.harvard.edu/pytorch-struct/) [GitHub](https://github.com/harvardnlp/pytorch-struct) |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Torch-Struct: Structured Prediction Library | [link](http://nlp.seas.harvard.edu/pytorch-struct/) [GitHub](https://github.com/harvardnlp/pytorch-struct) |  A library of tested, GPU implementations of core structured prediction algorithms for deep learning applications. |
+| pytorchviz |  [GitHub](https://github.com/szagoruyko/pytorchviz) | A small package to create visualizations of PyTorch execution graphs  |
+|  | [link]() [GitHub](https://github.com/abhishekkrthakur/tez) |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
