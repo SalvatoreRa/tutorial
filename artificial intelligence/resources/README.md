@@ -514,6 +514,20 @@ I have listed different accounts that are tweeting resources about data science,
 |Pytorch-toolbelt  |  [GitHub](https://github.com/BloodAxe/pytorch-toolbelt) |  A pytorch-toolbelt is a Python library with a set of bells and whistles for PyTorch for fast R&D prototyping and Kaggle farming |
 | PyTorch Scatter | [link](https://pytorch-scatter.readthedocs.io/en/latest/) [GitHub](https://github.com/rusty1s/pytorch_scatter) |  This package consists of a small extension library of highly optimized sparse update (scatter and segment) operations for the use in PyTorch, which are missing in the main package. |
 | sru | [link](https://www.asapp.com/blog/reducing-the-high-cost-of-training-nlp-models-with-sru/) [GitHub](https://github.com/asappresearch/sru) |  SRU is a recurrent unit that can run over 10 times faster than cuDNN LSTM, without loss of accuracy tested on many tasks. |
+| Torchmeta | [link](https://tristandeleu.github.io/pytorch-meta/) [GitHub](https://github.com/tristandeleu/pytorch-meta) |  A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch |
+| (Generic) EfficientNets for PyTorch |  [GitHub](https://github.com/rwightman/gen-efficientnet-pytorch) |  Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS |
+|  | [link]() [GitHub]() |  higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps. |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
