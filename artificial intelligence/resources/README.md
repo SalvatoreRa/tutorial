@@ -508,8 +508,8 @@ I have listed different accounts that are tweeting resources about data science,
 | Lighting-Flash | [link](https://lightning-flash.readthedocs.io/en/latest/) [GitHub](https://github.com/PyTorchLightning/lightning-flash) | Flash makes complex AI recipes for over 15 tasks across 7 data domains accessible to all. In a nutshell, Flash is the production grade research framework you always dreamed of but didn't have time to build.  |
 | pytorch-summary | [GitHub](https://github.com/sksq96/pytorch-summary) | Keras has a neat API to view the visualization of the model which is very helpful while debugging your network. Here is a barebone code to try and mimic the same in PyTorch.   |
 | pytorch-optimizer | [link](https://pytorch-optimizer.readthedocs.io/en/latest/) [GitHub](https://github.com/jettify/pytorch-optimizer) |  torch-optimizer -- collection of optimizers for PyTorch compatible with optim module. |
-| torchdiffeq | [link]() [GitHub](https://github.com/rtqichen/torchdiffeq) |  This library provides ordinary differential equation (ODE) solvers implemented in PyTorch. |
-|  | [link]() [GitHub]() |   |
+| torchdiffeq | [GitHub](https://github.com/rtqichen/torchdiffeq) |  This library provides ordinary differential equation (ODE) solvers implemented in PyTorch. |
+| PyTorch Sparse |  [GitHub](https://github.com/rusty1s/pytorch_sparse) | This package consists of a small extension library of optimized sparse matrix operations with autograd support  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
