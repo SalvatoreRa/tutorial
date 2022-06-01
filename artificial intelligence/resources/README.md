@@ -499,40 +499,7 @@ I have listed different accounts that are tweeting resources about data science,
 
 
 
-## PyTorch Utilities
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| pytorch-metric-learning | [link](https://kevinmusgrave.github.io/pytorch-metric-learning/) [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) | The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.  |
-| Accelarate | [link](https://huggingface.co/docs/accelerate/index) [GitHub](https://github.com/huggingface/accelerate) |  A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision |
-| Lighting-Flash | [link](https://lightning-flash.readthedocs.io/en/latest/) [GitHub](https://github.com/PyTorchLightning/lightning-flash) | Flash makes complex AI recipes for over 15 tasks across 7 data domains accessible to all. In a nutshell, Flash is the production grade research framework you always dreamed of but didn't have time to build.  |
-| pytorch-summary | [GitHub](https://github.com/sksq96/pytorch-summary) | Keras has a neat API to view the visualization of the model which is very helpful while debugging your network. Here is a barebone code to try and mimic the same in PyTorch.   |
-| pytorch-optimizer | [link](https://pytorch-optimizer.readthedocs.io/en/latest/) [GitHub](https://github.com/jettify/pytorch-optimizer) |  torch-optimizer -- collection of optimizers for PyTorch compatible with optim module. |
-| torchdiffeq | [GitHub](https://github.com/rtqichen/torchdiffeq) |  This library provides ordinary differential equation (ODE) solvers implemented in PyTorch. |
-| PyTorch Sparse |  [GitHub](https://github.com/rusty1s/pytorch_sparse) | This package consists of a small extension library of optimized sparse matrix operations with autograd support  |
-| TabNet  | [link](https://dreamquark-ai.github.io/tabnet/) [GitHub](https://github.com/dreamquark-ai/tabnet) |  This is a pyTorch implementation of Tabnet:Attentive Interpretable Tabular Learning |
-|Pytorch-toolbelt  |  [GitHub](https://github.com/BloodAxe/pytorch-toolbelt) |  A pytorch-toolbelt is a Python library with a set of bells and whistles for PyTorch for fast R&D prototyping and Kaggle farming |
-| PyTorch Scatter | [link](https://pytorch-scatter.readthedocs.io/en/latest/) [GitHub](https://github.com/rusty1s/pytorch_scatter) |  This package consists of a small extension library of highly optimized sparse update (scatter and segment) operations for the use in PyTorch, which are missing in the main package. |
-| sru | [link](https://www.asapp.com/blog/reducing-the-high-cost-of-training-nlp-models-with-sru/) [GitHub](https://github.com/asappresearch/sru) |  SRU is a recurrent unit that can run over 10 times faster than cuDNN LSTM, without loss of accuracy tested on many tasks. |
-| Torchmeta | [link](https://tristandeleu.github.io/pytorch-meta/) [GitHub](https://github.com/tristandeleu/pytorch-meta) |  A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch |
-| (Generic) EfficientNets for PyTorch |  [GitHub](https://github.com/rwightman/gen-efficientnet-pytorch) |  Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS |
-| higher | [GitHub](https://github.com/facebookresearch/higher) |  higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps. |
-| performer-pytorch |  [GitHub](https://github.com/lucidrains/performer-pytorch) |  An implementation of Performer, a linear attention-based transformer, in Pytorch |
-|reformer-pytorch  | [GitHub](https://github.com/lucidrains/reformer-pytorch) |  Reformer, the efficient Transformer, in Pytorch |
-| vit-pytorch | [GitHub](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  |
-| stylegan2-pytorch |  [GitHub](https://github.com/lucidrains/stylegan2-pytorch) |Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement   |
-| DALLE2-pytorch | [GitHub](https://github.com/lucidrains/DALLE2-pytorch) |  Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
-| imagen-pytorch |  [GitHub](https://github.com/lucidrains/imagen-pytorch) |  Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
-| PaLM-pytorch |  [GitHub](https://github.com/lucidrains/PaLM-pytorch) |  Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways |
-| lightweight-gan | [GitHub](https://github.com/lucidrains/lightweight-gan) | Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two  |
-| torchsde | [link](https://github.com/google-research/torchsde/blob/master/DOCUMENTATION.md) [GitHub](https://github.com/google-research/torchsde) | Differentiable SDE solvers with GPU support and efficient sensitivity analysis.  |
-| Torch-Struct: Structured Prediction Library | [link](http://nlp.seas.harvard.edu/pytorch-struct/) [GitHub](https://github.com/harvardnlp/pytorch-struct) |  A library of tested, GPU implementations of core structured prediction algorithms for deep learning applications. |
-| pytorchviz |  [GitHub](https://github.com/szagoruyko/pytorchviz) | A small package to create visualizations of PyTorch execution graphs  |
-| tez |  [GitHub](https://github.com/abhishekkrthakur/tez) |  Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch. |
-|tinygrad |  [GitHub](https://github.com/geohot/tinygrad) | Due to its extreme simplicity, it aims to be the easiest framework to add new accelerators to, with support for both inference and training.  |
-| Tensor Sensor | [article](https://explained.ai/tensor-sensor/index.html) [GitHub](https://github.com/parrt/tensor-sensor) |  The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. |
-| MADGRAD Optimization Method | [link](https://madgrad.readthedocs.io/en/latest/) [GitHub](https://github.com/facebookresearch/madgrad) |  A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization |
-| Pywick | [link](https://pywick.readthedocs.io/en/latest/) [GitHub](https://github.com/achaiah/pywick) | Pywick is a high-level Pytorch training framework that aims to get you up and running quickly with state of the art neural networks.  |
 
 ## PyTorch Utilities
 
