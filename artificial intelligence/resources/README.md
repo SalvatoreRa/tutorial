@@ -503,7 +503,7 @@ I have listed different accounts that are tweeting resources about data science,
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
+| pytorch-metric-learning | [link](https://kevinmusgrave.github.io/pytorch-metric-learning/) [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) | The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
