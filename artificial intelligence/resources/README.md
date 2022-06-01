@@ -523,9 +523,9 @@ I have listed different accounts that are tweeting resources about data science,
 | stylegan2-pytorch |  [GitHub](https://github.com/lucidrains/stylegan2-pytorch) |Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement   |
 | DALLE2-pytorch | [GitHub](https://github.com/lucidrains/DALLE2-pytorch) |  Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
 | imagen-pytorch |  [GitHub](https://github.com/lucidrains/imagen-pytorch) |  Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
-|  | [link]() [GitHub](https://github.com/lucidrains/PaLM-pytorch) |  Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| PaLM-pytorch |  [GitHub](https://github.com/lucidrains/PaLM-pytorch) |  Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways |
+| lightweight-gan | [GitHub](https://github.com/lucidrains/lightweight-gan) | Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two  |
+| torchsde | [link](https://github.com/google-research/torchsde/blob/master/DOCUMENTATION.md) [GitHub](https://github.com/google-research/torchsde) | Differentiable SDE solvers with GPU support and efficient sensitivity analysis.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
