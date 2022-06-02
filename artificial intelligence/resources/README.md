@@ -501,56 +501,7 @@ I have listed different accounts that are tweeting resources about data science,
 
 
 
-## Others
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| SciPy | [link](https://scipy.org/) [GitHub](https://github.com/scipy/scipy) |  SciPy (pronounced "Sigh Pie") is an open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more. |
-| sympy | [link](https://www.sympy.org/en/index.html) [GitHub](https://github.com/sympy/sympy) | A computer algebra system written in pure Python  |
-| Streamlit | [link](https://streamlit.io/) [GitHub](https://github.com/streamlit/streamlit) | Streamlit lets you turn data scripts into sharable web apps in minutes  |
-| Python Outlier Detection (PyOD) | [link](https://pyod.readthedocs.io/en/latest/) [GitHub](https://github.com/yzhao062/pyod) |  PyOD is the most comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. |
-|  DeepChem| [link](https://deepchem.io/) [GitHub](https://github.com/deepchem/deepchem) |  DeepChem aims to provide a high quality open-source toolchain that democratizes the use of deep-learning in drug discovery, materials science, quantum chemistry, and biology. |
-|  Datasette| [link](https://datasette.io/) [GitHub](https://github.com/simonw/datasette) |   Datasette is a tool for exploring and publishing data. It helps people take data of any shape or size and publish that as an interactive, explorable website and accompanying API.|
-| PaddleHub | [link](https://www.paddlepaddle.org.cn/hub) [GitHub](https://github.com/PaddlePaddle/PaddleHub) |  Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment) |
-| Gradio | [link](https://www.gradio.app/) [GitHub](https://github.com/gradio-app/gradio) |  Gradio (pronounced GRAY-dee-oh) is an open-source Python library that is used to build machine learning and data science demos and web applications. |
-| Autograd |  [GitHub](https://github.com/HIPS/autograd) | Autograd can automatically differentiate native Python and Numpy code.  |
-| datalad | [link](https://www.datalad.org/) [GitHub](https://github.com/datalad/datalad) | DataLad makes data management and data distribution more accessible.   |
-| CARLA | [link](http://carla.org/) [GitHub](https://github.com/carla-simulator/carla) | CARLA is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems.  |
-| River  | [link](https://riverml.xyz/0.11.0/) [GitHub](https://github.com/online-ml/river) | River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data.   |
-| PyOpenCL | [link](https://mathema.tician.de/software/pyopencl/) [GitHub](https://github.com/inducer/pyopencl) | PyOpenCL lets you access GPUs and other massively parallel compute devices from Python. It tries to offer computing goodness in the spirit of its sister project PyCUDA  |
-| hdbscan | [link](https://hdbscan.readthedocs.io/en/latest/) [GitHub](https://github.com/scikit-learn-contrib/hdbscan) |  A high performance implementation of HDBSCAN clustering. |
-| Pythran | [link](https://pythran.readthedocs.io/en/latest/) [GitHub](https://github.com/serge-sans-paille/pythran) | Pythran is an ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface descriptions and turns it into a native Python module with the same interface, but (hopefully) faster.  |
-| pennylane | [link](https://pennylane.ai/) [GitHub](https://github.com/PennyLaneAI/pennylane) | PennyLane is a cross-platform Python library for differentiable programming of quantum computers. Train a quantum computer the same way as a neural network.  |
-|  agate | [link](https://agate.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/agate) |  A Python data analysis library that is optimized for humans instead of machines. |
-| kmodes |  [GitHub](https://github.com/nicodv/kmodes) | Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data  |
-| pyjanitor | [link](https://pyjanitor-devs.github.io/pyjanitor/) [GitHub](https://github.com/pyjanitor-devs/pyjanitor) | Clean APIs for data cleaning. Python implementation of R package Janitor  |
-| adapter-transformers | [link](https://docs.adapterhub.ml/) [GitHub](https://github.com/adapter-hub/adapter-transformers) | adapter-transformers is an extension of HuggingFace's Transformers library, integrating adapters into state-of-the-art language models by incorporating AdapterHub, a central repository for pre-trained adapter modules.  |
-|Causal ML  |  [GitHub](https://github.com/uber/causalml) | Uplift modeling and causal inference with machine learning algorithms  |
-|TensorLy  | [link](http://tensorly.org/stable/index.html) [GitHub](https://github.com/tensorly/tensorly) |TensorLy is a Python library that aims at making tensor learning simple and accessible. It allows to easily perform tensor decomposition, tensor learning and tensor algebra.   |
-| Mars | [link](https://docs.pymars.org/en/latest/) [GitHub](https://github.com/mars-project/mars) |  Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions. |
-| Alibi Detect | [link](https://docs.seldon.io/projects/alibi-detect/en/stable/) [GitHub](https://github.com/SeldonIO/alibi-detect) | Alibi Detect is an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series.  |
-| gplearn | [link](https://gplearn.readthedocs.io/en/stable/) [GitHub](https://github.com/trevorstephens/gplearn) | gplearn implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.  |
-| Trax | [link](https://trax-ml.readthedocs.io/en/latest/) [GitHub](https://github.com/google/trax) | Trax is an end-to-end library for deep learning that focuses on clear code and speed. It is actively used and maintained in the Google Brain team.  |
-| TabPy | [link](https://tableau.github.io/TabPy/) [GitHub](https://github.com/tableau/TabPy) | Execute Python code on the fly and display results in Tableau visualizations:  |
-| pycm | [link](https://www.pycm.io/) [GitHub](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix library in Python  |
-| AugLy | [link](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/) [GitHub](https://github.com/facebookresearch/AugLy) |  AugLy is a data augmentations library that currently supports four modalities (audio, image, text & video) and over 100 augmentations. Each modality’s augmentations are contained within its own sub-library. |
-| metric-learn | [link](http://contrib.scikit-learn.org/metric-learn/) [GitHub](https://github.com/scikit-learn-contrib/metric-learn) | metric-learn contains efficient Python implementations of several popular supervised and weakly-supervised metric learning algorithms. As part of scikit-learn-contrib, the API of metric-learn is compatible with scikit-learn |
-| Avalanche | [link](https://avalanche.continualai.org/) [GitHub](https://github.com/ContinualAI/avalanche) | Avalanche: an End-to-End Library for Continual Learning based on PyTorch.  |
-| PySwarms  | [link](https://pyswarms.readthedocs.io/en/latest/) [GitHub](https://github.com/ljvmiranda921/pyswarms) | A research toolkit for particle swarm optimization in Python  |
-| Prince |  [GitHub](https://github.com/MaxHalford/prince) |  Prince is a library for doing factor analysis. This includes a variety of methods including principal component analysis (PCA) and correspondence analysis (CA). The goal is to provide an efficient implementation for each algorithm along with a scikit-learn API. |
-| AstroML | [link](https://www.astroml.org/) [GitHub](https://github.com/astroML/astroML) |  AstroML is a Python module for machine learning and data mining built on numpy, scipy, scikit-learn, and matplotlib, and distributed under the BSD license.  |
-| Biopandas | [link](http://rasbt.github.io/biopandas/) [GitHub](https://github.com/rasbt/biopandas) | Working with molecular structures in pandas DataFrames  |
-| findspark | [GitHub](https://github.com/minrk/findspark) | PySpark isn't on sys.path by default, but that doesn't mean it can't be used as a regular library.   |
-| Feature-engine  |  [GitHub](https://github.com/solegalli/feature_engine) | Feature-engine is a Python library with multiple transformers to engineer and select features for use in machine learning models.   |
-| StreamAlert  | [link](https://streamalert.io/) [GitHub](https://github.com/airbnb/streamalert) | StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.  |
-|impyute  | [link](https://impyute.readthedocs.io/en/master/) [GitHub](https://github.com/eltonlaw/impyute) |  Data imputations library to preprocess datasets with missing data |
-| pykale | [link](https://pykale.github.io/) [GitHub](https://github.com/pykale/pykale) |  Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the PyTorch ecosystem |
-| apricot | [link](https://apricot-select.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/jmschrei/apricot) | apricot implements submodular optimization for the purpose of summarizing massive data sets into minimally redundant subsets that are still representative of the original data.  |
-| KD_Lib | [link](https://kd-lib.readthedocs.io/en/latest/) [GitHub](https://github.com/SforAiDl/KD_Lib) | A Pytorch Knowledge Distillation library for benchmarking and extending works in the domains of Knowledge Distillation, Pruning, and Quantization.  |
-| MiniSom |  [GitHub](https://github.com/JustGlowing/minisom) | MiniSom is a minimalistic and Numpy based implementation of the Self Organizing Maps (SOM).  |
-| cython-blis |  [GitHub](https://github.com/explosion/cython-blis) |  This repository provides the Blis linear algebra routines as a self-contained Python C-extension. |
-| MONAI Label |  [GitHub](https://github.com/Project-MONAI/MONAILabel) | MONAI Label is an intelligent open source image labeling and learning tool.  |
-| NeuralCompression | [GitHub](https://github.com/facebookresearch/NeuralCompression) | NeuralCompression is a Python repository dedicated to research of neural networks that compress data.   |
 
 
 
