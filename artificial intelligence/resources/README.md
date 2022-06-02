@@ -544,8 +544,8 @@ I have listed different accounts that are tweeting resources about data science,
 | Feature-engine  |  [GitHub](https://github.com/solegalli/feature_engine) | Feature-engine is a Python library with multiple transformers to engineer and select features for use in machine learning models.   |
 | StreamAlert  | [link](https://streamalert.io/) [GitHub](https://github.com/airbnb/streamalert) | StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.  |
 |impyute  | [link](https://impyute.readthedocs.io/en/master/) [GitHub](https://github.com/eltonlaw/impyute) |  Data imputations library to preprocess datasets with missing data |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| pykale | [link](https://pykale.github.io/) [GitHub](https://github.com/pykale/pykale) |  Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the PyTorch ecosystem |
+| apricot | [link](https://apricot-select.readthedocs.io/en/latest/index.html) [GitHub](https://github.com/jmschrei/apricot) | apricot implements submodular optimization for the purpose of summarizing massive data sets into minimally redundant subsets that are still representative of the original data.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
