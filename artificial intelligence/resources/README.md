@@ -542,8 +542,8 @@ I have listed different accounts that are tweeting resources about data science,
 | Biopandas | [link](http://rasbt.github.io/biopandas/) [GitHub](https://github.com/rasbt/biopandas) | Working with molecular structures in pandas DataFrames  |
 | findspark | [GitHub](https://github.com/minrk/findspark) | PySpark isn't on sys.path by default, but that doesn't mean it can't be used as a regular library.   |
 | Feature-engine  |  [GitHub](https://github.com/solegalli/feature_engine) | Feature-engine is a Python library with multiple transformers to engineer and select features for use in machine learning models.   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| StreamAlert  | [link](https://streamalert.io/) [GitHub](https://github.com/airbnb/streamalert) | StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.  |
+|impyute  | [link](https://impyute.readthedocs.io/en/master/) [GitHub](https://github.com/eltonlaw/impyute) |  Data imputations library to preprocess datasets with missing data |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
