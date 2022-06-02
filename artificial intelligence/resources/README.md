@@ -530,6 +530,30 @@ I have listed different accounts that are tweeting resources about data science,
 | Mars | [link](https://docs.pymars.org/en/latest/) [GitHub](https://github.com/mars-project/mars) |  Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions. |
 | Alibi Detect | [link](https://docs.seldon.io/projects/alibi-detect/en/stable/) [GitHub](https://github.com/SeldonIO/alibi-detect) | Alibi Detect is an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series.  |
 | gplearn | [link](https://gplearn.readthedocs.io/en/stable/) [GitHub](https://github.com/trevorstephens/gplearn) | gplearn implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.  |
+| Trax | [link](https://trax-ml.readthedocs.io/en/latest/) [GitHub](https://github.com/google/trax) | Trax is an end-to-end library for deep learning that focuses on clear code and speed. It is actively used and maintained in the Google Brain team.  |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
