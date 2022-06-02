@@ -531,8 +531,8 @@ I have listed different accounts that are tweeting resources about data science,
 | Alibi Detect | [link](https://docs.seldon.io/projects/alibi-detect/en/stable/) [GitHub](https://github.com/SeldonIO/alibi-detect) | Alibi Detect is an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series.  |
 | gplearn | [link](https://gplearn.readthedocs.io/en/stable/) [GitHub](https://github.com/trevorstephens/gplearn) | gplearn implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.  |
 | Trax | [link](https://trax-ml.readthedocs.io/en/latest/) [GitHub](https://github.com/google/trax) | Trax is an end-to-end library for deep learning that focuses on clear code and speed. It is actively used and maintained in the Google Brain team.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| TabPy | [link](https://tableau.github.io/TabPy/) [GitHub](https://github.com/tableau/TabPy) | Execute Python code on the fly and display results in Tableau visualizations:  |
+| pycm | [link](https://www.pycm.io/) [GitHub](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix library in Python  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
