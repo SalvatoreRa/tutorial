@@ -515,7 +515,7 @@ I have listed different accounts that are tweeting resources about data science,
 | Gradio | [link](https://www.gradio.app/) [GitHub](https://github.com/gradio-app/gradio) |  Gradio (pronounced GRAY-dee-oh) is an open-source Python library that is used to build machine learning and data science demos and web applications. |
 | Autograd |  [GitHub](https://github.com/HIPS/autograd) | Autograd can automatically differentiate native Python and Numpy code.  |
 | datalad | [link](https://www.datalad.org/) [GitHub](https://github.com/datalad/datalad) | DataLad makes data management and data distribution more accessible.   |
-|  | [link]() [GitHub]() |   |
+| CARLA | [link](http://carla.org/) [GitHub](https://github.com/carla-simulator/carla) | CARLA is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
