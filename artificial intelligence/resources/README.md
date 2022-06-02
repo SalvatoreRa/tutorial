@@ -520,8 +520,8 @@ I have listed different accounts that are tweeting resources about data science,
 | PyOpenCL | [link](https://mathema.tician.de/software/pyopencl/) [GitHub](https://github.com/inducer/pyopencl) | PyOpenCL lets you access GPUs and other massively parallel compute devices from Python. It tries to offer computing goodness in the spirit of its sister project PyCUDA  |
 | hdbscan | [link](https://hdbscan.readthedocs.io/en/latest/) [GitHub](https://github.com/scikit-learn-contrib/hdbscan) |  A high performance implementation of HDBSCAN clustering. |
 | Pythran | [link](https://pythran.readthedocs.io/en/latest/) [GitHub](https://github.com/serge-sans-paille/pythran) | Pythran is an ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface descriptions and turns it into a native Python module with the same interface, but (hopefully) faster.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| pennylane | [link](https://pennylane.ai/) [GitHub](https://github.com/PennyLaneAI/pennylane) | PennyLane is a cross-platform Python library for differentiable programming of quantum computers. Train a quantum computer the same way as a neural network.  |
+|  agate | [link](https://agate.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/agate) |  A Python data analysis library that is optimized for humans instead of machines. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
