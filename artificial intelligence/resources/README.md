@@ -522,8 +522,8 @@ I have listed different accounts that are tweeting resources about data science,
 | Pythran | [link](https://pythran.readthedocs.io/en/latest/) [GitHub](https://github.com/serge-sans-paille/pythran) | Pythran is an ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface descriptions and turns it into a native Python module with the same interface, but (hopefully) faster.  |
 | pennylane | [link](https://pennylane.ai/) [GitHub](https://github.com/PennyLaneAI/pennylane) | PennyLane is a cross-platform Python library for differentiable programming of quantum computers. Train a quantum computer the same way as a neural network.  |
 |  agate | [link](https://agate.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/agate) |  A Python data analysis library that is optimized for humans instead of machines. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| kmodes |  [GitHub](https://github.com/nicodv/kmodes) | Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data  |
+| pyjanitor | [link](https://pyjanitor-devs.github.io/pyjanitor/) [GitHub](https://github.com/pyjanitor-devs/pyjanitor) | Clean APIs for data cleaning. Python implementation of R package Janitor  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
