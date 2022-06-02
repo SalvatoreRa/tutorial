@@ -539,9 +539,9 @@ I have listed different accounts that are tweeting resources about data science,
 | PySwarms  | [link](https://pyswarms.readthedocs.io/en/latest/) [GitHub](https://github.com/ljvmiranda921/pyswarms) | A research toolkit for particle swarm optimization in Python  |
 | Prince |  [GitHub](https://github.com/MaxHalford/prince) |  Prince is a library for doing factor analysis. This includes a variety of methods including principal component analysis (PCA) and correspondence analysis (CA). The goal is to provide an efficient implementation for each algorithm along with a scikit-learn API. |
 | AstroML | [link](https://www.astroml.org/) [GitHub](https://github.com/astroML/astroML) |  AstroML is a Python module for machine learning and data mining built on numpy, scipy, scikit-learn, and matplotlib, and distributed under the BSD license.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Biopandas | [link](http://rasbt.github.io/biopandas/) [GitHub](https://github.com/rasbt/biopandas) | Working with molecular structures in pandas DataFrames  |
+| findspark | [GitHub](https://github.com/minrk/findspark) | PySpark isn't on sys.path by default, but that doesn't mean it can't be used as a regular library.   |
+| Feature-engine  |  [GitHub](https://github.com/solegalli/feature_engine) | Feature-engine is a Python library with multiple transformers to engineer and select features for use in machine learning models.   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
