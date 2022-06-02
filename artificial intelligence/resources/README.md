@@ -519,7 +519,7 @@ I have listed different accounts that are tweeting resources about data science,
 | River  | [link](https://riverml.xyz/0.11.0/) [GitHub](https://github.com/online-ml/river) | River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data.   |
 | PyOpenCL | [link](https://mathema.tician.de/software/pyopencl/) [GitHub](https://github.com/inducer/pyopencl) | PyOpenCL lets you access GPUs and other massively parallel compute devices from Python. It tries to offer computing goodness in the spirit of its sister project PyCUDA  |
 | hdbscan | [link](https://hdbscan.readthedocs.io/en/latest/) [GitHub](https://github.com/scikit-learn-contrib/hdbscan) |  A high performance implementation of HDBSCAN clustering. |
-|  | [link]() [GitHub]() |   |
+| Pythran | [link](https://pythran.readthedocs.io/en/latest/) [GitHub](https://github.com/serge-sans-paille/pythran) | Pythran is an ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface descriptions and turns it into a native Python module with the same interface, but (hopefully) faster.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
