@@ -517,7 +517,7 @@ I have listed different accounts that are tweeting resources about data science,
 | datalad | [link](https://www.datalad.org/) [GitHub](https://github.com/datalad/datalad) | DataLad makes data management and data distribution more accessible.   |
 | CARLA | [link](http://carla.org/) [GitHub](https://github.com/carla-simulator/carla) | CARLA is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems.  |
 | River  | [link](https://riverml.xyz/0.11.0/) [GitHub](https://github.com/online-ml/river) | River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data.   |
-|  | [link]() [GitHub]() |   |
+| PyOpenCL | [link](https://mathema.tician.de/software/pyopencl/) [GitHub](https://github.com/inducer/pyopencl) | PyOpenCL lets you access GPUs and other massively parallel compute devices from Python. It tries to offer computing goodness in the spirit of its sister project PyCUDA  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
