@@ -525,6 +525,14 @@ I have listed different accounts that are tweeting resources about data science,
 | kmodes |  [GitHub](https://github.com/nicodv/kmodes) | Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data  |
 | pyjanitor | [link](https://pyjanitor-devs.github.io/pyjanitor/) [GitHub](https://github.com/pyjanitor-devs/pyjanitor) | Clean APIs for data cleaning. Python implementation of R package Janitor  |
 | adapter-transformers | [link](https://docs.adapterhub.ml/) [GitHub](https://github.com/adapter-hub/adapter-transformers) | adapter-transformers is an extension of HuggingFace's Transformers library, integrating adapters into state-of-the-art language models by incorporating AdapterHub, a central repository for pre-trained adapter modules.  |
+|Causal ML  |  [GitHub](https://github.com/uber/causalml) | Uplift modeling and causal inference with machine learning algorithms  |
+|TensorLy  | [link](http://tensorly.org/stable/index.html) [GitHub](https://github.com/tensorly/tensorly) |TensorLy is a Python library that aims at making tensor learning simple and accessible. It allows to easily perform tensor decomposition, tensor learning and tensor algebra.   |
+|  | [link]() [GitHub](https://github.com/mars-project/mars) |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
+|  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
