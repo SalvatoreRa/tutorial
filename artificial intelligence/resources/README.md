@@ -512,8 +512,8 @@ I have listed different accounts that are tweeting resources about data science,
 |  DeepChem| [link](https://deepchem.io/) [GitHub](https://github.com/deepchem/deepchem) |  DeepChem aims to provide a high quality open-source toolchain that democratizes the use of deep-learning in drug discovery, materials science, quantum chemistry, and biology. |
 |  Datasette| [link](https://datasette.io/) [GitHub](https://github.com/simonw/datasette) |   Datasette is a tool for exploring and publishing data. It helps people take data of any shape or size and publish that as an interactive, explorable website and accompanying API.|
 | PaddleHub | [link](https://www.paddlepaddle.org.cn/hub) [GitHub](https://github.com/PaddlePaddle/PaddleHub) |  Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment) |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Gradio | [link](https://www.gradio.app/) [GitHub](https://github.com/gradio-app/gradio) |  Gradio (pronounced GRAY-dee-oh) is an open-source Python library that is used to build machine learning and data science demos and web applications. |
+| Autograd |  [GitHub](https://github.com/HIPS/autograd) | Autograd can automatically differentiate native Python and Numpy code.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
