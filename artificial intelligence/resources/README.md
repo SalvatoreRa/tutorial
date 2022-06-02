@@ -507,8 +507,8 @@ I have listed different accounts that are tweeting resources about data science,
 | ------- | ----------- | ------ |
 | SciPy | [link](https://scipy.org/) [GitHub](https://github.com/scipy/scipy) |  SciPy (pronounced "Sigh Pie") is an open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more. |
 | sympy | [link](https://www.sympy.org/en/index.html) [GitHub](https://github.com/sympy/sympy) | A computer algebra system written in pure Python  |
-|  | [link]() [GitHub](https://github.com/streamlit/streamlit) | Streamlit lets you turn data scripts into sharable web apps in minutes  |
-|  | [link]() [GitHub]() |   |
+| Streamlit | [link](https://streamlit.io/) [GitHub](https://github.com/streamlit/streamlit) | Streamlit lets you turn data scripts into sharable web apps in minutes  |
+| Python Outlier Detection (PyOD) | [link](https://pyod.readthedocs.io/en/latest/) [GitHub](https://github.com/yzhao062/pyod) |  PyOD is the most comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
