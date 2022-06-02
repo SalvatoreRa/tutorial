@@ -550,7 +550,10 @@ I have listed different accounts that are tweeting resources about data science,
 | MiniSom |  [GitHub](https://github.com/JustGlowing/minisom) | MiniSom is a minimalistic and Numpy based implementation of the Self Organizing Maps (SOM).  |
 | cython-blis |  [GitHub](https://github.com/explosion/cython-blis) |  This repository provides the Blis linear algebra routines as a self-contained Python C-extension. |
 | MONAI Label |  [GitHub](https://github.com/Project-MONAI/MONAILabel) | MONAI Label is an intelligent open source image labeling and learning tool.  |
-|  | [link]() [GitHub]() |   |
+| NeuralCompression | [GitHub](https://github.com/facebookresearch/NeuralCompression) | NeuralCompression is a Python repository dedicated to research of neural networks that compress data.   |
+
+
+
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
