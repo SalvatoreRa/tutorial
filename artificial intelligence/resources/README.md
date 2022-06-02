@@ -527,8 +527,8 @@ I have listed different accounts that are tweeting resources about data science,
 | adapter-transformers | [link](https://docs.adapterhub.ml/) [GitHub](https://github.com/adapter-hub/adapter-transformers) | adapter-transformers is an extension of HuggingFace's Transformers library, integrating adapters into state-of-the-art language models by incorporating AdapterHub, a central repository for pre-trained adapter modules.  |
 |Causal ML  |  [GitHub](https://github.com/uber/causalml) | Uplift modeling and causal inference with machine learning algorithms  |
 |TensorLy  | [link](http://tensorly.org/stable/index.html) [GitHub](https://github.com/tensorly/tensorly) |TensorLy is a Python library that aims at making tensor learning simple and accessible. It allows to easily perform tensor decomposition, tensor learning and tensor algebra.   |
-|  | [link]() [GitHub](https://github.com/mars-project/mars) |   |
-|  | [link]() [GitHub]() |   |
+| Mars | [link](https://docs.pymars.org/en/latest/) [GitHub](https://github.com/mars-project/mars) |  Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions. |
+| Alibi Detect | [link](https://docs.seldon.io/projects/alibi-detect/en/stable/) [GitHub](https://github.com/SeldonIO/alibi-detect) | Alibi Detect is an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
