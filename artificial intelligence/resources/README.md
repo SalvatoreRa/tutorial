@@ -510,8 +510,8 @@ I have listed different accounts that are tweeting resources about data science,
 | Streamlit | [link](https://streamlit.io/) [GitHub](https://github.com/streamlit/streamlit) | Streamlit lets you turn data scripts into sharable web apps in minutes  |
 | Python Outlier Detection (PyOD) | [link](https://pyod.readthedocs.io/en/latest/) [GitHub](https://github.com/yzhao062/pyod) |  PyOD is the most comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. |
 |  DeepChem| [link](https://deepchem.io/) [GitHub](https://github.com/deepchem/deepchem) |  DeepChem aims to provide a high quality open-source toolchain that democratizes the use of deep-learning in drug discovery, materials science, quantum chemistry, and biology. |
-|  | [link]() [GitHub]() |   Datasette is a tool for exploring and publishing data. It helps people take data of any shape or size and publish that as an interactive, explorable website and accompanying API.|
-|  | [link]() [GitHub]() |   |
+|  Datasette| [link](https://datasette.io/) [GitHub](https://github.com/simonw/datasette) |   Datasette is a tool for exploring and publishing data. It helps people take data of any shape or size and publish that as an interactive, explorable website and accompanying API.|
+|  | [link]() [GitHub](https://github.com/PaddlePaddle/PaddleHub) |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
