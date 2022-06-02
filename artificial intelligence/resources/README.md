@@ -524,7 +524,7 @@ I have listed different accounts that are tweeting resources about data science,
 |  agate | [link](https://agate.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/agate) |  A Python data analysis library that is optimized for humans instead of machines. |
 | kmodes |  [GitHub](https://github.com/nicodv/kmodes) | Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data  |
 | pyjanitor | [link](https://pyjanitor-devs.github.io/pyjanitor/) [GitHub](https://github.com/pyjanitor-devs/pyjanitor) | Clean APIs for data cleaning. Python implementation of R package Janitor  |
-|  | [link]() [GitHub]() |   |
+| adapter-transformers | [link](https://docs.adapterhub.ml/) [GitHub](https://github.com/adapter-hub/adapter-transformers) | adapter-transformers is an extension of HuggingFace's Transformers library, integrating adapters into state-of-the-art language models by incorporating AdapterHub, a central repository for pre-trained adapter modules.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
