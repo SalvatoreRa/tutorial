@@ -533,7 +533,7 @@ I have listed different accounts that are tweeting resources about data science,
 | Trax | [link](https://trax-ml.readthedocs.io/en/latest/) [GitHub](https://github.com/google/trax) | Trax is an end-to-end library for deep learning that focuses on clear code and speed. It is actively used and maintained in the Google Brain team.  |
 | TabPy | [link](https://tableau.github.io/TabPy/) [GitHub](https://github.com/tableau/TabPy) | Execute Python code on the fly and display results in Tableau visualizations:  |
 | pycm | [link](https://www.pycm.io/) [GitHub](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix library in Python  |
-|  | [link]() [GitHub]() |   |
+| AugLy | [link](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/) [GitHub](https://github.com/facebookresearch/AugLy) |  AugLy is a data augmentations library that currently supports four modalities (audio, image, text & video) and over 100 augmentations. Each modality’s augmentations are contained within its own sub-library. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
