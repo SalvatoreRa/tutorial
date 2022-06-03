@@ -200,6 +200,8 @@ Keep the pace with the number of articles published every year is impossible (it
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [Deepwalk](https://arxiv.org/abs/1403.6652)| Node embedding  | 2014 | DeepWalk: Online Learning of Social Representations|
+| [node2vec](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)| Node embedding  | 2016 | node2vec: Scalable Feature Learning for Networks |
 | [MFconv](https://arxiv.org/abs/1509.09292)| Convolution on graph | 2015 | Convolutional Networks on Graphs for Learning Molecular Fingerprints |
 | [GNN](https://arxiv.org/abs/1611.08097)| Geometric learning | 2016 | Geometric deep learning: going beyond Euclidean data |
 | [GNN](https://arxiv.org/abs/1609.02907)| GCN conv | 2016 | Semi-Supervised Classification with Graph Convolutional Networks |
@@ -222,6 +224,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [signed GCN](https://arxiv.org/abs/1808.06354)| Signed conv | 2018 | Signed Graph Convolutional Network |
 | [DNA conv](https://arxiv.org/abs/1904.04849)|  Dynamic GCN|  2019| Just Jump: Dynamic Neighborhood Aggregation in Graph Neural Networks |
 | [PointNET](https://arxiv.org/abs/1612.00593)| PointNET | 2017 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation |
+| []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
 | []()|  |  |  |
