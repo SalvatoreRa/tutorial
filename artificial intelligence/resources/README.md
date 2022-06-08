@@ -532,7 +532,6 @@ Documentation and other resources
 | Name |   Description |
 | ------- |  ------ |
 | [Tableau Help]() |the Tableau documentation |
-| [Tableau Discover]() | |
 | []() | |
 | []() | |
 | []() | |
