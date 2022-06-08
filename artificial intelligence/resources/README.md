@@ -498,51 +498,8 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 | []() | |
 
-## MLOps
-
-Book
-
-| Name |   Description |
-| ------- |  ------ |
-| [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php) | this book is one of the few that cover the fundamentals of applied machine learning - paying resource|
 
 
-Video
-
-| Name |   Description |
-| ------- |  ------ |
-| [MLOps Tutorial by DVC](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz&ab_channel=DVCorg) |DVC extends Git version control to datasets and models. |
-| [MLOps — Machine Learning Operations by AIEngineering](https://www.youtube.com/watch?v=K6CWjg09fAQ&list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J&ab_channel=AIEngineering) |AIEngineering is probably one of the best YouTube channel for applied machine learning. |
-
-Blog
-
-| Name |   Description |
-| ------- |  ------ |
-| [ML in Production Blog](https://mlinproduction.com/) |Luigi Patruno’s ML in Production Blog and Newsletter shares insightful content around deploying and maintaining models in production |
-
-Community
-
-| Name |   Description |
-| ------- |  ------ |
-| [MLOps Community](https://mlops.community/) |a community of MLOps practitioners |
-
-
-Courses
-
-| Name |   Description |
-| ------- |  ------ |
-| [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) |This course provides some of the highest quality content in learning how to take complex, large models into production. |
-| [Made With ML by Goku Mohandas](https://madewithml.com/) |a phenomenal and open course on building end-to-end machine learning systems. Made with ML is one of the top repositories on GitHub, and more than 30K+ people are taking his course. |
-
-
-Other resources
-
-| Name |   Description |
-| ------- |  ------ |
-| [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#optimized-computation-frameworks) | This heavily curated GitHub repository is for those looking to just dive right into packages, libraries, and cutting-edge tools to practice for themselves. |
-| [Machine Learning Operations](https://ml-ops.org/) |Machine Learning Operations presents guidelines, frameworks, codes of conduct, and attempts to set the standard on MLOps. |
-
-| []() | |
 | []() | |
 | []() | |
 | []() | |
