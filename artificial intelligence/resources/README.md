@@ -498,41 +498,7 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 | []() | |
 
-## Resources for Tableau
 
-Youtube resources
-
-| Name |   Description |
-| ------- |  ------ |
-| [Tableau Tim](https://www.youtube.com/c/TableauTim) | provides regular content updates, and his tutorials are high quality and engaging|
-| [sqlbelle](https://www.youtube.com/c/sqlbelle) | a lot of highly relevant content to new learners.|
-| [Andy Kriebel](https://www.youtube.com/c/AndyKriebel) |one of the most influential educators in the space of Tableau |
-| [Tableau Software](https://www.youtube.com/c/tableausoftware) |Tableau maintains this channel |
-
-Online support
-
-| Name |   Description |
-| ------- |  ------ |
-| [stackoverflow](https://stackoverflow.com/) | it has online community dedicated on the subject |
-| [Tableau Support Community](https://www.community.tableau.com/s/) |Tableau maintains this online community, using a bulletin board format. |
-| [Reddit tableau](https://www.reddit.com/r/tableau/) | tableau community|
-
-Blog and websites
-
-| Name |   Description |
-| ------- |  ------ |
-| [Tableau Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) |This site, maintained by Tableau, is an excellent resource for inspiration where a new Tableau visualization is published every weekday. |
-| [Workout Wednesday](https://www.workout-wednesday.com/) |A new challenge is posted every week to recreate a data-driven visualization. |
-| [Makeover Monday](https://www.makeovermonday.co.uk/data/) |Every week a visualization is posted along with a link to the original data. |
-| [The Frerlage Twins](https://www.flerlagetwins.com/) | Kevin and Ken Frerlage have been cranking out high-quality Tableau focusing on more advanced technical features of Tableau, |
-
-
-Documentation and other resources
-
-| Name |   Description |
-| ------- |  ------ |
-| [Tableau Help](https://help.tableau.com/current/pro/desktop/en-us/default.htm) |the Tableau documentation |
-| [ Free Training Videos– Tableau](https://www.tableau.com/learn/training/20214) | Tableau itself provides several video resources to learn data visualization using their platform.|
 | []() | |
 | []() | |
 | []() | |
