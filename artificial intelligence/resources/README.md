@@ -506,6 +506,12 @@ Book
 | ------- |  ------ |
 | [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php) | this book is one of the few that cover the fundamentals of applied machine learning - paying resource|
 
+
+Video
+
+| Name |   Description |
+| ------- |  ------ |
+
 Blog
 
 | Name |   Description |
@@ -531,7 +537,7 @@ Other resources
 
 | Name |   Description |
 | ------- |  ------ |
-| [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#optimized-computation-frameworks) | |
+| [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#optimized-computation-frameworks) | This heavily curated GitHub repository is for those looking to just dive right into packages, libraries, and cutting-edge tools to practice for themselves. |
 | []() | |
 | []() | |
 | []() | |
