@@ -473,7 +473,13 @@ Company accounts
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
 | [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
 | [OpenAI](https://twitter.com/OpenAI) | OpenaAI official account|
+| [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
 | [Covariant](https://twitter.com/CovariantAI) |Covariant works on creating a universal AI that will allow robots to see, reason, and act. Their feed is a compilation of their technology updates and links to other resources |
+
+Researcher accounts
+
+| Name |   Description |
+| ------- |  ------ |
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 | [John Carmack](https://twitter.com/ID_AA_Carmack) |an independent AI researcher who reviews some of the latest products and developments and reflects on the AI industry in general. |
@@ -485,9 +491,18 @@ Company accounts
 | [Pedro Domingos](https://twitter.com/pmddomingos) |Pedro Domingos, a professor of computer science at the University of Washington  |
 | [Andrej Karpathy ](https://twitter.com/karpathy) |A senior director of AI at Tesla, Andrej Karpathy is the former research scientist at OpenAI  |
 | [Dr Sally Eaves](https://twitter.com/sallyeaves) |a professor in advanced technologies and as a global strategic advisor, Eaves specialises in the application and integration of blockchain. |
-| [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
+
+Institution and department accounts
+
+| Name |   Description |
+| ------- |  ------ |
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
+
+AI influencer, opinion leaders account
+
+| Name |   Description |
+| ------- |  ------ |
 | [Greg Brockman](https://twitter.com/gdb) | Greg Brockman, the CEO of Open AI|
 | [Kai-Fu Lee](https://twitter.com/kaifulee) | former CEO of Google China, Kai-Fu Lee, tweets about the latest technology trends. |
 | [Demis Hassabis](https://twitter.com/demishassabis) |CEO of Deepmind, Demis Hassabis often retweets what’s going on there and plays around with the more complex issues in AI. |
