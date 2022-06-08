@@ -494,6 +494,12 @@ Researcher accounts
 
 | [Jess Hamrick](https://twitter.com/jhamrick) | Jess is a research scientist at Google’s DeepMind division and often tweets about advanced machine learning research algorithms.|
 
+| [Sebastian Raschka](https://twitter.com/rasbt) | Sebastian is the writer of a book on machine learning practices in Python and assistant professor of statistics at the University of Wisconson-Madison|
+
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 | []() | |
 
 
