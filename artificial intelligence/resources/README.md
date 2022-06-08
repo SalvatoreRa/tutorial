@@ -510,7 +510,7 @@ Blog
 
 | Name |   Description |
 | ------- |  ------ |
-| [ML in Production Blog](https://animadurkar.medium.com/10-awesome-resources-for-learning-mlops-e6ab65a62f2a) | |
+| [ML in Production Blog](https://animadurkar.medium.com/10-awesome-resources-for-learning-mlops-e6ab65a62f2a) |Luigi Patruno’s ML in Production Blog and Newsletter shares insightful content around deploying and maintaining models in production |
 | []() | |
 | []() | |
 | []() | |
