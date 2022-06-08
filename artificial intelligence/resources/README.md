@@ -523,8 +523,8 @@ Blog and websites
 | ------- |  ------ |
 | [Tableau Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) |This site, maintained by Tableau, is an excellent resource for inspiration where a new Tableau visualization is published every weekday. |
 | [Workout Wednesday](https://www.workout-wednesday.com/) |A new challenge is posted every week to recreate a data-driven visualization. |
-| [Makeover Monday]() |Every week a visualization is posted along with a link to the original data. |
-| [The Frerlage Twins]() | Kevin and Ken Frerlage have been cranking out high-quality Tableau focusing on more advanced technical features of Tableau, |
+| [Makeover Monday](https://www.makeovermonday.co.uk/data/) |Every week a visualization is posted along with a link to the original data. |
+| [The Frerlage Twins](https://www.flerlagetwins.com/) | Kevin and Ken Frerlage have been cranking out high-quality Tableau focusing on more advanced technical features of Tableau, |
 | []() | |
 | []() | |
 | []() | |
