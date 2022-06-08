@@ -524,8 +524,14 @@ Courses
 | Name |   Description |
 | ------- |  ------ |
 | [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) |This course provides some of the highest quality content in learning how to take complex, large models into production. |
-| []() | |
-| []() | |
+| [Made With ML by Goku Mohandas](https://madewithml.com/) |a phenomenal and open course on building end-to-end machine learning systems. Made with ML is one of the top repositories on GitHub, and more than 30K+ people are taking his course. |
+
+
+Other resources
+
+| Name |   Description |
+| ------- |  ------ |
+| [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#optimized-computation-frameworks) | |
 | []() | |
 | []() | |
 | []() | |
