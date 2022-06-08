@@ -504,8 +504,8 @@ I have listed different accounts that are tweeting resources about data science,
 | ------- |  ------ |
 | [Tableau Tim](https://www.youtube.com/c/TableauTim) | provides regular content updates, and his tutorials are high quality and engaging|
 | [sqlbelle](https://www.youtube.com/c/sqlbelle) | a lot of highly relevant content to new learners.|
-| []() | |
-| []() | |
+| [Andy Kriebel]() | |
+| [Tableau Software]() | |
 | []() | |
 | []() | |
 | []() | |
