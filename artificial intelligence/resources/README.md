@@ -516,10 +516,17 @@ Online support
 | [stackoverflow](https://stackoverflow.com/) | it has online community dedicated on the subject |
 | [Tableau Support Community](https://www.community.tableau.com/s/) |Tableau maintains this online community, using a bulletin board format. |
 | [Reddit tableau](https://www.reddit.com/r/tableau/) | tableau community|
-| []() | |
-| []() | |
-| []() | |
 
+Blog and websites
+
+| Name |   Description |
+| ------- |  ------ |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 
 
 
