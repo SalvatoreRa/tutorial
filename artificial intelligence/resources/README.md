@@ -498,12 +498,10 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 | []() | |
 
-## Twitter
+## Resources for Tableau
 
 | Name |   Description |
 | ------- |  ------ |
-| [DeepTweet](https://twitter.com/DeepL_Tweet) | News, articles, tutorial all about manchine learning, deep learnig, data science  |
-| [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 | []() | |
 | []() | |
 | []() | |
