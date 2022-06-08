@@ -498,8 +498,13 @@ I have listed different accounts that are tweeting resources about data science,
 | []() | |
 | []() | |
 
+## MLOps
 
-| []() | |
+Book
+
+| Name |   Description |
+| ------- |  ------ |
+| [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php) | this book is one of the few that cover the fundamentals of applied machine learning|
 | []() | |
 | []() | |
 | []() | |
