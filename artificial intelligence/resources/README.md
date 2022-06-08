@@ -511,6 +511,7 @@ Video
 
 | Name |   Description |
 | ------- |  ------ |
+| [MLOps Tutorial by DVC](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz&ab_channel=DVCorg) |DVC extends Git version control to datasets and models. |
 
 Blog
 
@@ -538,8 +539,7 @@ Other resources
 | Name |   Description |
 | ------- |  ------ |
 | [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#optimized-computation-frameworks) | This heavily curated GitHub repository is for those looking to just dive right into packages, libraries, and cutting-edge tools to practice for themselves. |
-| []() | |
-| []() | |
+| [Machine Learning Operations](https://ml-ops.org/) |Machine Learning Operations presents guidelines, frameworks, codes of conduct, and attempts to set the standard on MLOps. |
 | []() | |
 | []() | |
 | []() | |
