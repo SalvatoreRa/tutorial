@@ -505,13 +505,23 @@ Book
 | Name |   Description |
 | ------- |  ------ |
 | [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php) | this book is one of the few that cover the fundamentals of applied machine learning|
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
 
+Blog
+
+| Name |   Description |
+| ------- |  ------ |
+| [ML in Production Blog](https://animadurkar.medium.com/10-awesome-resources-for-learning-mlops-e6ab65a62f2a) | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
