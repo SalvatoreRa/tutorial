@@ -521,13 +521,15 @@ Blog and websites
 
 | Name |   Description |
 | ------- |  ------ |
+| [Tableau Viz of the Day]() | |
+| [Workout Wednesday]() | |
 | []() | |
 | []() | |
 | []() | |
 | []() | |
 | []() | |
 | []() | |
-
+| []() | |
 
 
 
