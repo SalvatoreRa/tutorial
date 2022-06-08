@@ -513,6 +513,7 @@ AI influencer, opinion leaders account
 | Name |   Description |
 | ------- |  ------ |
 | [Greg Brockman](https://twitter.com/gdb) | Greg Brockman, the CEO of Open AI|
+| [Jason Brownlee](https://twitter.com/TeachTheMachine) |The curator of Machine Learning Mastery |
 | [Demis Hassabis](https://twitter.com/demishassabis) |CEO of Deepmind, Demis Hassabis often retweets what’s going on there and plays around with the more complex issues in AI. |
 | [Tessa Lau](https://twitter.com/tessalau) | Tessa Lau advocates for agile AI technologies that help build sustainable robots and provides updates about the latest research and development in Dusty Robotics|
 | [Kai-Fu Lee](https://twitter.com/kaifulee) | former CEO of Google China, Kai-Fu Lee, tweets about the latest technology trends. |
@@ -523,7 +524,7 @@ AI influencer, opinion leaders account
 | [Ronald van Loon](https://twitter.com/Ronald_vanLoon) | The CEO of Intelligent World tweets on big data, ML, AI, and deep learning technologies. His account is a playground that connects businesses and experts. On top of that, he is one of the most prolific Twitter bloggers|
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
-| [Jason Brownlee](https://twitter.com/TeachTheMachine) |The curator of Machine Learning Mastery |
+
 | [Lisha Li](https://twitter.com/lishali88) |Lisha was a Ph.D. in statistics at Berkeley f who decided to found her own stealth AI startup. Tweets about the latest advances and papers in the field. |
 | [Andreas Mueller](https://twitter.com/amuellerml) | Andreas helped develop the scikit-learn framework|
 | []() | |
