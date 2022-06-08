@@ -510,8 +510,13 @@ Blog
 
 | Name |   Description |
 | ------- |  ------ |
-| [ML in Production Blog](https://animadurkar.medium.com/10-awesome-resources-for-learning-mlops-e6ab65a62f2a) |Luigi Patruno’s ML in Production Blog and Newsletter shares insightful content around deploying and maintaining models in production |
-| []() | |
+| [ML in Production Blog](https://mlinproduction.com/) |Luigi Patruno’s ML in Production Blog and Newsletter shares insightful content around deploying and maintaining models in production |
+
+Community
+
+| Name |   Description |
+| ------- |  ------ |
+| [MLOps Community](https://mlops.community/) |a community of MLOps practitioners |
 | []() | |
 | []() | |
 | []() | |
