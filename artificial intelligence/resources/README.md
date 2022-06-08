@@ -512,6 +512,7 @@ Video
 | Name |   Description |
 | ------- |  ------ |
 | [MLOps Tutorial by DVC](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz&ab_channel=DVCorg) |DVC extends Git version control to datasets and models. |
+| [MLOps — Machine Learning Operations by AIEngineering](https://www.youtube.com/watch?v=K6CWjg09fAQ&list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J&ab_channel=AIEngineering) |AIEngineering is probably one of the best YouTube channel for applied machine learning. |
 
 Blog
 
