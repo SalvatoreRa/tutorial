@@ -492,6 +492,11 @@ I have listed different accounts that are tweeting resources about data science,
 | [Tessa Lau](https://twitter.com/tessalau) | Tessa Lau advocates for agile AI technologies that help build sustainable robots and provides updates about the latest research and development in Dusty Robotics|
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 
 ## Twitter
 
