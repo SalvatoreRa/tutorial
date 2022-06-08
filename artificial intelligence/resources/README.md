@@ -531,8 +531,8 @@ Documentation and other resources
 
 | Name |   Description |
 | ------- |  ------ |
-| [Tableau Help]() |the Tableau documentation |
-| []() | |
+| [Tableau Help](https://help.tableau.com/current/pro/desktop/en-us/default.htm) |the Tableau documentation |
+| [ Free Training Videos– Tableau](https://www.tableau.com/learn/training/20214) | Tableau itself provides several video resources to learn data visualization using their platform.|
 | []() | |
 | []() | |
 | []() | |
