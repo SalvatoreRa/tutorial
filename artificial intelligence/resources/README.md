@@ -492,8 +492,9 @@ Researcher accounts
 | [Dr. Angelica Lim](https://twitter.com/petitegeek) |Angelica Lim has a Ph.D. in AI, robotics, and emotions, and her research focuses on building robots that will be able to simulate human emotions. |
 | [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
 
-
-
+| [Jess Hamrick](https://twitter.com/jhamrick) | Jess is a research scientist at Google’s DeepMind division and often tweets about advanced machine learning research algorithms.|
+| []() | |
+| []() | |
 
 
 Institution and department accounts
