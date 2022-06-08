@@ -504,7 +504,7 @@ Book
 
 | Name |   Description |
 | ------- |  ------ |
-| [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php) | this book is one of the few that cover the fundamentals of applied machine learning|
+| [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php) | this book is one of the few that cover the fundamentals of applied machine learning - paying resource|
 
 Blog
 
@@ -517,7 +517,13 @@ Community
 | Name |   Description |
 | ------- |  ------ |
 | [MLOps Community](https://mlops.community/) |a community of MLOps practitioners |
-| []() | |
+
+
+Courses
+
+| Name |   Description |
+| ------- |  ------ |
+| [Full Stack Deep Learning]() | |
 | []() | |
 | []() | |
 | []() | |
