@@ -502,12 +502,16 @@ I have listed different accounts that are tweeting resources about data science,
 
 | Name |   Description |
 | ------- |  ------ |
+| [Tableau Tim]() | provides regular content updates, and his tutorials are high quality and engaging|
+| [sqlbelle]() | |
 | []() | |
 | []() | |
 | []() | |
 | []() | |
 | []() | |
-
+| []() | |
+| []() | |
+| []() | |
 
 
 
