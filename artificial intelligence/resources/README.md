@@ -517,16 +517,18 @@ AI influencer, opinion leaders account
 | [Demis Hassabis](https://twitter.com/demishassabis) |CEO of Deepmind, Demis Hassabis often retweets what’s going on there and plays around with the more complex issues in AI. |
 | [Tessa Lau](https://twitter.com/tessalau) | Tessa Lau advocates for agile AI technologies that help build sustainable robots and provides updates about the latest research and development in Dusty Robotics|
 | [Kai-Fu Lee](https://twitter.com/kaifulee) | former CEO of Google China, Kai-Fu Lee, tweets about the latest technology trends. |
+| [Lisha Li](https://twitter.com/lishali88) |Lisha was a Ph.D. in statistics at Berkeley f who decided to found her own stealth AI startup. Tweets about the latest advances and papers in the field. |
 | [Bernard Marr](https://twitter.com/bernardmarr) | author of more than a dozen best-selling books, a Forbes contributor, and a technology advisor to the world’s top businesses|
 | [Allie K. Miller](https://twitter.com/alliekmiller) |Allie K. Miller is a well-known expert in the industry. Her Twitter thread is not just AI-focused.  |
+| [Andreas Mueller](https://twitter.com/amuellerml) | Andreas helped develop the scikit-learn framework|
 | [Andrew Ng](https://twitter.com/AndrewYNg) | Coursera Co-Founder, former head of Baidu AI Group, and a frequent member of industry panel discussions, he tweets about the latest industry events and conferences|
 | [Marek Rosa](https://twitter.com/marek_rosa) |CEO at GoodAI.com and KeenSWH.com |
 | [Ronald van Loon](https://twitter.com/Ronald_vanLoon) | The CEO of Intelligent World tweets on big data, ML, AI, and deep learning technologies. His account is a playground that connects businesses and experts. On top of that, he is one of the most prolific Twitter bloggers|
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
 
-| [Lisha Li](https://twitter.com/lishali88) |Lisha was a Ph.D. in statistics at Berkeley f who decided to found her own stealth AI startup. Tweets about the latest advances and papers in the field. |
-| [Andreas Mueller](https://twitter.com/amuellerml) | Andreas helped develop the scikit-learn framework|
+
+
 | []() | |
 | []() | |
 | []() | |
