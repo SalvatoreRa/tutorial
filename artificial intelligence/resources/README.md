@@ -523,7 +523,7 @@ Courses
 
 | Name |   Description |
 | ------- |  ------ |
-| [Full Stack Deep Learning]() | |
+| [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) |This course provides some of the highest quality content in learning how to take complex, large models into production. |
 | []() | |
 | []() | |
 | []() | |
