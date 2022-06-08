@@ -524,7 +524,7 @@ Blog and websites
 | [Tableau Viz of the Day]() | |
 | [Workout Wednesday]() | |
 | [Makeover Monday]() | |
-| []() | |
+| [The Frerlage Twins]() | |
 | []() | |
 | []() | |
 | []() | |
