@@ -525,14 +525,14 @@ Blog and websites
 | [Workout Wednesday](https://www.workout-wednesday.com/) |A new challenge is posted every week to recreate a data-driven visualization. |
 | [Makeover Monday](https://www.makeovermonday.co.uk/data/) |Every week a visualization is posted along with a link to the original data. |
 | [The Frerlage Twins](https://www.flerlagetwins.com/) | Kevin and Ken Frerlage have been cranking out high-quality Tableau focusing on more advanced technical features of Tableau, |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
 
 
 
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 
 
 
