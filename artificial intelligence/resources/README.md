@@ -522,8 +522,8 @@ Blog and websites
 | Name |   Description |
 | ------- |  ------ |
 | [Tableau Viz of the Day]() |This site, maintained by Tableau, is an excellent resource for inspiration where a new Tableau visualization is published every weekday. |
-| [Workout Wednesday]() | |
-| [Makeover Monday]() | |
+| [Workout Wednesday]() |A new challenge is posted every week to recreate a data-driven visualization. |
+| [Makeover Monday]() |Every week a visualization is posted along with a link to the original data. |
 | [The Frerlage Twins]() | |
 | []() | |
 | []() | |
