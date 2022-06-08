@@ -448,6 +448,8 @@ Other interesting resources
 
 I have listed different accounts that are tweeting resources about data science, machine learning and artificial intelligence. These accounts are divulgative accounts, companies, university departments focused on AI or AI researchers.
 
+General and divulgative accounts
+
 | Name |   Description |
 | ------- |  ------ |
 | [DeepTweet](https://twitter.com/DeepL_Tweet) | News, articles, tutorial all about manchine learning, deep learnig, data science  |
@@ -462,6 +464,11 @@ I have listed different accounts that are tweeting resources about data science,
 | [ActuIA - Artificial Intelligence](https://twitter.com/ActuIAen) | the account follows the latest news in artificial intelligence|
 | [ActuIA - Artificial Intelligence](https://twitter.com/ActuIAFr) | the account follows the latest news in artificial intelligence, frech edition|
 | [MONTREAL.AI](https://twitter.com/Montreal_AI) | a glimpse into all of the possibilities offered by artificial intelligence.|
+
+Company accounts
+
+| Name |   Description |
+| ------- |  ------ |
 | [NVIDIA AI](https://twitter.com/NVIDIAAI) |official NVIDIA AI account  |
 | [META AI](https://twitter.com/MetaAI) |official META AI account  |
 | [Google AI](https://twitter.com/GoogleAI) |official Google AI account  |
