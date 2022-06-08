@@ -508,7 +508,12 @@ Youtube resources
 | [sqlbelle](https://www.youtube.com/c/sqlbelle) | a lot of highly relevant content to new learners.|
 | [Andy Kriebel](https://www.youtube.com/c/AndyKriebel) |one of the most influential educators in the space of Tableau |
 | [Tableau Software](https://www.youtube.com/c/tableausoftware) |Tableau maintains this channel |
-| []() | |
+
+Online support
+
+| Name |   Description |
+| ------- |  ------ |
+| [stackoverflow](https://stackoverflow.com/) | it has online community dedicated on the subject |
 | []() | |
 | []() | |
 | []() | |
