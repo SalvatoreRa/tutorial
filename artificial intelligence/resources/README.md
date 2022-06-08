@@ -493,7 +493,7 @@ Researcher accounts
 | [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
 
 | [Jess Hamrick](https://twitter.com/jhamrick) | Jess is a research scientist at Google’s DeepMind division and often tweets about advanced machine learning research algorithms.|
-| []() | |
+
 | []() | |
 
 
@@ -520,7 +520,8 @@ AI influencer, opinion leaders account
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
 | [Jason Brownlee](https://twitter.com/TeachTheMachine) |The curator of Machine Learning Mastery |
-| [Lisha Li]() | |
+| [Lisha Li](https://twitter.com/lishali88) |Lisha was a Ph.D. in statistics at Berkeley f who decided to found her own stealth AI startup. Tweets about the latest advances and papers in the field. |
+| [Andreas Mueller](https://twitter.com/amuellerml) | Andreas helped develop the scikit-learn framework|
 | []() | |
 | []() | |
 | []() | |
