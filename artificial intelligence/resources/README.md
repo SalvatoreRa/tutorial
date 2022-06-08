@@ -527,13 +527,20 @@ Blog and websites
 | [The Frerlage Twins](https://www.flerlagetwins.com/) | Kevin and Ken Frerlage have been cranking out high-quality Tableau focusing on more advanced technical features of Tableau, |
 
 
+Documentation and other resources
 
+| Name |   Description |
+| ------- |  ------ |
+| [Tableau Help]() |the Tableau documentation |
+| [Tableau Discover]() | |
 | []() | |
 | []() | |
 | []() | |
 | []() | |
 | []() | |
-
+| []() | |
+| []() | |
+| []() | |
 
 
 |  | [link]() [GitHub]() |   |
