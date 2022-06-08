@@ -493,7 +493,12 @@ I have listed different accounts that are tweeting resources about data science,
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
 
+## Twitter
 
+| Name |   Description |
+| ------- |  ------ |
+| [DeepTweet](https://twitter.com/DeepL_Tweet) | News, articles, tutorial all about manchine learning, deep learnig, data science  |
+| [TensorFlow](https://twitter.com/TensorFlow) | TensorFlow official account   |
 | []() | |
 | []() | |
 | []() | |
