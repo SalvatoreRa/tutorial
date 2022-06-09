@@ -498,7 +498,7 @@ Researcher accounts
 
 | [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
 | [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
-| []() | |
+| [Oriol Vinyals](https://twitter.com/OriolVinyalsML) | As a research scientist at Google DeepMind|
 | []() | |
 | []() | |
 | []() | |
@@ -544,8 +544,8 @@ AI influencer, opinion leaders account
 | [Michael Galvin](https://twitter.com/MikeJGalvin) | Michael is the executive director  at Metis, an educational resource and workshop for aspiring data scientists. He’ll often post educational resources in the space.|
 | [John Keefe](https://twitter.com/jkeefe) |John works at Quartz in bots and machine learning, and tweets about the convergence of machine learning and journalism from a perspective that is less technical  |
 | [Caroline Sinders](https://twitter.com/carolinesinders) | Caroline is a machine learning designer who sits at the intersection between machine learning and art. She is a senior fellow at Mozilla.|
-| []() | |
-| []() | |
+| [Justin Herman](https://twitter.com/JustinHerman) |Justin is a veteran who posts often about machine learning and the adoption of machine learning by the federal government. |
+| []() |Suchana is a data scientist who also works as an open web fellow with the Mozilla Foundation. |
 | []() | |
 | []() | |
 | []() | |
