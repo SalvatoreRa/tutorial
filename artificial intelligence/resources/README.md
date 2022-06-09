@@ -495,7 +495,7 @@ Researcher accounts
 | [Sebastian Raschka](https://twitter.com/rasbt) | Sebastian is the writer of a book on machine learning practices in Python and assistant professor of statistics at the University of Wisconson-Madison|
 
 | [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
-| []() | |
+| [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
 | []() | |
 | []() | |
 | []() | |
