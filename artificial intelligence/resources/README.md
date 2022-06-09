@@ -498,7 +498,7 @@ Researcher accounts
 
 | [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
 | [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
-| [Kirk Borne](https://twitter.com/KirkDBorne) | Kirk is the principal data scientist at Booz Allen Hamilton and a speaker on data topics.|
+
 | []() | |
 | []() | |
 
@@ -514,6 +514,7 @@ AI influencer, opinion leaders account
 
 | Name |   Description |
 | ------- |  ------ |
+| [Kirk Borne](https://twitter.com/KirkDBorne) | Kirk is the principal data scientist at Booz Allen Hamilton and a speaker on data topics.|
 | [Greg Brockman](https://twitter.com/gdb) | Greg Brockman, the CEO of Open AI|
 | [Jason Brownlee](https://twitter.com/TeachTheMachine) |The curator of Machine Learning Mastery |
 | [Demis Hassabis](https://twitter.com/demishassabis) |CEO of Deepmind, Demis Hassabis often retweets what’s going on there and plays around with the more complex issues in AI. |
@@ -537,7 +538,7 @@ AI influencer, opinion leaders account
 | [Ramesh Sampath](https://twitter.com/sampathweb) |A machine learning engineer with deep background in different ventures, Sampath will often post tutorials and machine learning papers. |
 | [Hilary Mason](https://twitter.com/hmason) |general manager for machine learning at Cloudera and she will often retweet and share original posts on machine learning theory. |
 | [Michael Galvin](https://twitter.com/MikeJGalvin) | Michael is the executive director  at Metis, an educational resource and workshop for aspiring data scientists. He’ll often post educational resources in the space.|
-| []() | |
+| [John Keefe]() | |
 | []() | |
 | []() | |
 | []() | |
