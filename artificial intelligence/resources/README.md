@@ -521,28 +521,29 @@ AI influencer, opinion leaders account
 | [Kirk Borne](https://twitter.com/KirkDBorne) | Kirk is the principal data scientist at Booz Allen Hamilton and a speaker on data topics.|
 | [Greg Brockman](https://twitter.com/gdb) | Greg Brockman, the CEO of Open AI|
 | [Jason Brownlee](https://twitter.com/TeachTheMachine) |The curator of Machine Learning Mastery |
+| [Michael Galvin](https://twitter.com/MikeJGalvin) | Michael is the executive director  at Metis, an educational resource and workshop for aspiring data scientists. He’ll often post educational resources in the space.|
 | [Demis Hassabis](https://twitter.com/demishassabis) |CEO of Deepmind, Demis Hassabis often retweets what’s going on there and plays around with the more complex issues in AI. |
+| [John Keefe](https://twitter.com/jkeefe) |John works at Quartz in bots and machine learning, and tweets about the convergence of machine learning and journalism from a perspective that is less technical  |
 | [Tessa Lau](https://twitter.com/tessalau) | Tessa Lau advocates for agile AI technologies that help build sustainable robots and provides updates about the latest research and development in Dusty Robotics|
 | [Kai-Fu Lee](https://twitter.com/kaifulee) | former CEO of Google China, Kai-Fu Lee, tweets about the latest technology trends. |
 | [Lisha Li](https://twitter.com/lishali88) |Lisha was a Ph.D. in statistics at Berkeley f who decided to found her own stealth AI startup. Tweets about the latest advances and papers in the field. |
 | [Bernard Marr](https://twitter.com/bernardmarr) | author of more than a dozen best-selling books, a Forbes contributor, and a technology advisor to the world’s top businesses|
+| [Hilary Mason](https://twitter.com/hmason) |general manager for machine learning at Cloudera and she will often retweet and share original posts on machine learning theory. |
+| [Ines Montani](https://twitter.com/_inesmontani) | front-end developer specializing in web applications for AI. She co-founded Explosion AI, the maker of spaCy, |
 | [Allie K. Miller](https://twitter.com/alliekmiller) |Allie K. Miller is a well-known expert in the industry. Her Twitter thread is not just AI-focused.  |
 | [Andreas Mueller](https://twitter.com/amuellerml) | Andreas helped develop the scikit-learn framework|
 | [Andrew Ng](https://twitter.com/AndrewYNg) | Coursera Co-Founder, former head of Baidu AI Group, and a frequent member of industry panel discussions, he tweets about the latest industry events and conferences|
 | [Marek Rosa](https://twitter.com/marek_rosa) |CEO at GoodAI.com and KeenSWH.com |
+| [Ramesh Sampath](https://twitter.com/sampathweb) |A machine learning engineer with deep background in different ventures, Sampath will often post tutorials and machine learning papers. |
+| [Kriti Sharma](https://twitter.com/sharma_kriti) | Kriti is a young leader on the topic of AI and ethics, an increasingly relevant and important intersection.|
+| [Peter Skomoroch](https://twitter.com/peteskomoroch) | early data lead at LinkedIn and an entrepreneur-in-residence at Accel Ventures. He’ll often retweet or post insights about machine learning.|
 | [Ronald van Loon](https://twitter.com/Ronald_vanLoon) | The CEO of Intelligent World tweets on big data, ML, AI, and deep learning technologies. His account is a playground that connects businesses and experts. On top of that, he is one of the most prolific Twitter bloggers|
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
 
 
 
-| [Ines Montani](https://twitter.com/_inesmontani) | front-end developer specializing in web applications for AI. She co-founded Explosion AI, the maker of spaCy, |
-| [Peter Skomoroch](https://twitter.com/peteskomoroch) | early data lead at LinkedIn and an entrepreneur-in-residence at Accel Ventures. He’ll often retweet or post insights about machine learning.|
-| [Kriti Sharma](https://twitter.com/sharma_kriti) | Kriti is a young leader on the topic of AI and ethics, an increasingly relevant and important intersection.|
-| [Ramesh Sampath](https://twitter.com/sampathweb) |A machine learning engineer with deep background in different ventures, Sampath will often post tutorials and machine learning papers. |
-| [Hilary Mason](https://twitter.com/hmason) |general manager for machine learning at Cloudera and she will often retweet and share original posts on machine learning theory. |
-| [Michael Galvin](https://twitter.com/MikeJGalvin) | Michael is the executive director  at Metis, an educational resource and workshop for aspiring data scientists. He’ll often post educational resources in the space.|
-| [John Keefe](https://twitter.com/jkeefe) |John works at Quartz in bots and machine learning, and tweets about the convergence of machine learning and journalism from a perspective that is less technical  |
+
 | [Caroline Sinders](https://twitter.com/carolinesinders) | Caroline is a machine learning designer who sits at the intersection between machine learning and art. She is a senior fellow at Mozilla.|
 | [Justin Herman](https://twitter.com/JustinHerman) |Justin is a veteran who posts often about machine learning and the adoption of machine learning by the federal government. |
 | [Suchana Seth](https://twitter.com/suchanaseth) |Suchana is a data scientist who also works as an open web fellow with the Mozilla Foundation. |
