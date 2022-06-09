@@ -494,7 +494,7 @@ Researcher accounts
 | [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
 | [Sebastian Raschka](https://twitter.com/rasbt) | Sebastian is the writer of a book on machine learning practices in Python and assistant professor of statistics at the University of Wisconson-Madison|
 
-| []() | |
+| [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
 | []() | |
 | []() | |
 | []() | |
