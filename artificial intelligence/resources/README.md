@@ -531,8 +531,8 @@ AI influencer, opinion leaders account
 
 | [Ines Montani](https://twitter.com/_inesmontani) | front-end developer specializing in web applications for AI. She co-founded Explosion AI, the maker of spaCy, |
 | [Peter Skomoroch](https://twitter.com/peteskomoroch) | early data lead at LinkedIn and an entrepreneur-in-residence at Accel Ventures. He’ll often retweet or post insights about machine learning.|
-| []() | |
-| []() | |
+| [Kriti Sharma](https://twitter.com/sharma_kriti) | Kriti is a young leader on the topic of AI and ethics, an increasingly relevant and important intersection.|
+| [Ramesh Sampath]() | |
 | []() | |
 | []() | |
 
