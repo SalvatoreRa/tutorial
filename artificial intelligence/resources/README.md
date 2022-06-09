@@ -498,7 +498,7 @@ Researcher accounts
 
 | [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
 | [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
-| []() | |
+| [Kirk Borne](https://twitter.com/KirkDBorne) | Kirk is the principal data scientist at Booz Allen Hamilton and a speaker on data topics.|
 | []() | |
 | []() | |
 
