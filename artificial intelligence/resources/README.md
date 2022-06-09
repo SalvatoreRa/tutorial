@@ -464,6 +464,8 @@ General and divulgative accounts
 | [ActuIA - Artificial Intelligence](https://twitter.com/ActuIAen) | the account follows the latest news in artificial intelligence|
 | [ActuIA - Artificial Intelligence](https://twitter.com/ActuIAFr) | the account follows the latest news in artificial intelligence, frech edition|
 | [MONTREAL.AI](https://twitter.com/Montreal_AI) | a glimpse into all of the possibilities offered by artificial intelligence.|
+| [KDnuggets](https://twitter.com/kdnuggets) |  a media source dedicated to data science, but it contains plenty of machine learning and deep learning resources |
+
 
 Company accounts
 
