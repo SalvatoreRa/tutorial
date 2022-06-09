@@ -529,7 +529,7 @@ AI influencer, opinion leaders account
 
 
 
-| [Ines Montani]() | front-end developer specializing in web applications for AI. She co-founded Explosion AI, the maker of spaCy, |
+| [Ines Montani](https://twitter.com/_inesmontani) | front-end developer specializing in web applications for AI. She co-founded Explosion AI, the maker of spaCy, |
 | []() | |
 | []() | |
 | []() | |
