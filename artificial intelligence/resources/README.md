@@ -549,8 +549,8 @@ AI influencer, opinion leaders account
 | [Max Sklar](https://twitter.com/maxsklar) | An engineer at Foursquare, Max hosts a podcast that deals with statistical concepts and regularly works in machine learning concepts as well.|
 | [Kendall Dabaghi](https://twitter.com/kendalldabaghi) | Kendall writes about the combination of biology and machine learning, an interesting topic at a time when both fields are converging.|
 | [Charlie Oliver](https://twitter.com/itscomplicated) |Charlie is a strategist who writes frequently about AI and machine learning issues in their greater context.  |
-| [Tyler Neylon]() | a machine learning engineer who often pours into the details about the programming frameworks and skills required to do machine learning at scale.|
-| []() | |
+| [Tyler Neylon](https://twitter.com/tylerneylon) | a machine learning engineer who often pours into the details about the programming frameworks and skills required to do machine learning at scale.|
+| [Hanna Wallach](https://twitter.com/hannawallach) | a machine learning engineer who focuses on the intersection of social science and machine learning. |
 | []() | |
 | []() | |
 | []() | |
