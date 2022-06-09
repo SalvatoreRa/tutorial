@@ -545,8 +545,8 @@ AI influencer, opinion leaders account
 | [John Keefe](https://twitter.com/jkeefe) |John works at Quartz in bots and machine learning, and tweets about the convergence of machine learning and journalism from a perspective that is less technical  |
 | [Caroline Sinders](https://twitter.com/carolinesinders) | Caroline is a machine learning designer who sits at the intersection between machine learning and art. She is a senior fellow at Mozilla.|
 | [Justin Herman](https://twitter.com/JustinHerman) |Justin is a veteran who posts often about machine learning and the adoption of machine learning by the federal government. |
-| []() |Suchana is a data scientist who also works as an open web fellow with the Mozilla Foundation. |
-| []() | |
+| [Suchana Seth](https://twitter.com/suchanaseth) |Suchana is a data scientist who also works as an open web fellow with the Mozilla Foundation. |
+| [Max Sklar](https://twitter.com/maxsklar) | An engineer at Foursquare, Max hosts a podcast that deals with statistical concepts and regularly works in machine learning concepts as well.|
 | []() | |
 | []() | |
 | []() | |
