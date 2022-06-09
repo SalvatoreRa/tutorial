@@ -498,10 +498,14 @@ Researcher accounts
 
 | [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
 | [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
-
 | []() | |
 | []() | |
-
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
 
 Institution and department accounts
 
@@ -539,7 +543,7 @@ AI influencer, opinion leaders account
 | [Hilary Mason](https://twitter.com/hmason) |general manager for machine learning at Cloudera and she will often retweet and share original posts on machine learning theory. |
 | [Michael Galvin](https://twitter.com/MikeJGalvin) | Michael is the executive director  at Metis, an educational resource and workshop for aspiring data scientists. He’ll often post educational resources in the space.|
 | [John Keefe](https://twitter.com/jkeefe) |John works at Quartz in bots and machine learning, and tweets about the convergence of machine learning and journalism from a perspective that is less technical  |
-| [Caroline Sinders]() | Caroline is a machine learning designer who sits at the intersection between machine learning and art. She is a senior fellow at Mozilla.|
+| [Caroline Sinders](https://twitter.com/carolinesinders) | Caroline is a machine learning designer who sits at the intersection between machine learning and art. She is a senior fellow at Mozilla.|
 | []() | |
 | []() | |
 | []() | |
