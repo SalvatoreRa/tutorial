@@ -534,7 +534,7 @@ AI influencer, opinion leaders account
 | [Kriti Sharma](https://twitter.com/sharma_kriti) | Kriti is a young leader on the topic of AI and ethics, an increasingly relevant and important intersection.|
 | [Ramesh Sampath](https://twitter.com/sampathweb) |A machine learning engineer with deep background in different ventures, Sampath will often post tutorials and machine learning papers. |
 | [Hilary Mason](https://twitter.com/hmason) |general manager for machine learning at Cloudera and she will often retweet and share original posts on machine learning theory. |
-| []() | |
+| [Michael Galvin](https://twitter.com/MikeJGalvin) | Michael is the executive director  at Metis, an educational resource and workshop for aspiring data scientists. He’ll often post educational resources in the space.|
 | []() | |
 | []() | |
 | []() | |
