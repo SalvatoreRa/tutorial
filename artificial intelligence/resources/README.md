@@ -489,16 +489,16 @@ Researcher accounts
 | [Lex Fridman](https://twitter.com/lexfridman) | Lex Fridman is an AI researcher in addition to his industry achievements also has a podcast where he invites influential guests to discuss all sorts of topics connected with AI|
 | [Ian Goodfellow](https://twitter.com/goodfellow_ian) |GAN inventor  |
 | [Jess Hamrick](https://twitter.com/jhamrick) | Jess is a research scientist at Google’s DeepMind division and often tweets about advanced machine learning research algorithms. tweets about machine learning practice and theory.|
+| [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
 | [Andrej Karpathy ](https://twitter.com/karpathy) |A senior director of AI at Tesla, Andrej Karpathy is the former research scientist at OpenAI  |
 | [Yann LeCun](https://twitter.com/ylecun) |One of the father of artificial intelligence  |
 | [Fei-Fei Li](https://twitter.com/drfeifei) | Fei-Fei Li is a professor at Stanford and a StanfordHAI co-director, which makes her tweets both scientifically-based and practical.|
 | [Dr. Angelica Lim](https://twitter.com/petitegeek) |Angelica Lim has a Ph.D. in AI, robotics, and emotions, and her research focuses on building robots that will be able to simulate human emotions. |
 | [Gary Marcus](https://twitter.com/GaryMarcus) | CEO and Founder of Robust.AI and a professor at NYU, Gary Marcus feed focuses on scientific research.|
 | [Sebastian Raschka](https://twitter.com/rasbt) | Sebastian is the writer of a book on machine learning practices in Python and assistant professor of statistics at the University of Wisconson-Madison|
-
-| [Abigail Jacobs](https://twitter.com/az_jacobs) | Abigail is a postdoc at Berkeley focused on how computers, social justice, and governance intersect.|
-| [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
 | [Oriol Vinyals](https://twitter.com/OriolVinyalsML) | As a research scientist at Google DeepMind|
+| [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
+
 | []() | |
 | []() | |
 | []() | |
