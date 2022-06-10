@@ -557,38 +557,8 @@ AI influencer, opinion leaders account
 
 
 
-# Work offer sites
 
-| Name |   Description |
-| ------- |  ------ |
-| [Glassdor](https://www.glassdoor.fr/index.htm?countryRedirect=true) | full time job|
-| [zipdirect](https://www.ziprecruiter.co.uk/?utm_source=ziprecruiter-com-redirect) |full time job |
-| [CodeRemote](https://www.coderemote.com/jobs) | full time job - specialized in remote job|
-| [linkedIn](https://www.linkedin.com/) | full time job - LinkedIn now offers “remote” as a location option for job postings and job searching.|
-| [Indeed](https://pk.indeed.com/?r=us) |full time job |
-| [ DataCamp Jobs](https://www.datacamp.com/data-jobs) |full time job |
-| [upwork](https://www.upwork.com/) | freelance job|
-| [ AngelList](https://angel.co/) | freelance job|
-| [Kolabtree](https://www.kolabtree.com/) | freelance job|
-| [Fiverr](https://www.fiverr.com/) | freelance job|
-| [ Toptal](https://www.toptal.com/) | freelance job - higher standards of only hiring the top 3% of freelance talent but providing high paying jobs|
-| [Hubstaff Talent ](https://talent.hubstaff.com/) |They offer full-time and part-time remote jobs, with different compensation packages (salary, hourly, etc.) |
-| [WeWorkRemotely](https://weworkremotely.com/) |This is another one of the biggest and longest-running remote job boards. Mostly programming|
-| [VirtualVocations](https://www.virtualvocations.com/ ) |one of the biggest and best remote job websites. different kind of jobs available |
-| [Remote.co](https://remote.co/) | another large remote job site covering a variety of fields, not just programming jobs.|
-| [ WorkingNomads](https://www.workingnomads.com/jobs) | This remote job board features primarily full-time remote positions and has a great category/tag system to help you filter down the results |
-| [ JobsPresso](https://jobspresso.co/) | medium-sized (but fast-growing) remote job website featuring the usual software-related categories|
-| [Remotive.io](https://remotive.com/) | Remotive.io provides a list of remote jobs that’s updated daily. The site is modern and easy/simple to use and has a good overall quality of jobs posted.|
-| [Crossover.com](https://www.crossover.com/jobs) |Crossover features a really good assortment of high-paying remote jobs with a focus on long-term, full-time positions. The interface is easy to navigate and you can see the starting pay for each job. |
-| [JustRemote.co](https://justremote.co/) |JustRemote isn’t as large as some of the job boards mentioned above, but they still have a good-sized listing of fully remote positions in programming, design, marketing, copywriting and more |
-| [SkipTheDrive](https://www.skipthedrive.com/) |This is going to be one of the best job board choices if you’re in a field that’s slightly outside of the “normal” remote job offering – e.g. not a programmer, designer, etc. the strength of this site really seems to be the variety of categories.|
-| [Remoteok.io](https://remoteok.com/) | This remote job search website also has a nice system of tags to filter the search results. They offer remote jobs in marketing, design, programming and more|
-| [Outsourcely.com](https://www.outsourcely.com/) |The majority of jobs we saw were full-time remote positions. The job descriptions are detailed, and the jobs seem high-quality overall.  |
-| [LetsWorkRemotely.com](https://www.letsworkremotely.com/) |LetsWorkRemotely isn’t as popular as some of the job boards mentioned above but an easy layout, good filter selection, and a mix of full-time, part-time, and freelance jobs  |
-| [AuthenticJobs.com ](https://authenticjobs.com/) | it’s not 100% focused on remote positions, the majority of positions are remote.|
-| [RemoteWorkHub.com](https://remoteworkhub.com/) |is a popular remote job board and also a job search advice website with good articles and ideas |
-| [DynamiteJobs.com](https://dynamitejobs.com/) |This site offers great remote job search filters. You can immediately narrow down for timezone and area of focus |
-| []() | |
+
 | []() | |
 | []() | |
 | []() | |
