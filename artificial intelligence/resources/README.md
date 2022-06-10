@@ -569,7 +569,7 @@ AI influencer, opinion leaders account
 | [ DataCamp Jobs](https://www.datacamp.com/data-jobs) |full time job |
 | [upwork](https://www.upwork.com/) | freelance job|
 | [ AngelList](https://angel.co/) | freelance job|
-| [Kolabtree]() | freelance job|
+| [Kolabtree](https://www.kolabtree.com/) | freelance job|
 | [Fiverr]() | freelance job|
 | [ Toptal]() | freelance job|
 
