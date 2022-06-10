@@ -566,7 +566,7 @@ AI influencer, opinion leaders account
 | [CodeRemote](https://www.coderemote.com/jobs) | full time job - specialized in remote job|
 | [linkedIn](https://www.linkedin.com/) | full time job|
 | [ DataCamp Jobs](https://www.datacamp.com/data-jobs) |full time job |
-| []() | |
+| [upwork](https://www.upwork.com/) | freelance job|
 | []() | |
 | []() | |
 | []() | |
