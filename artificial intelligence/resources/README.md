@@ -575,7 +575,7 @@ AI influencer, opinion leaders account
 
 | [Hubstaff Talent ](https://talent.hubstaff.com/) |They offer full-time and part-time remote jobs, with different compensation packages (salary, hourly, etc.) |
 | [WeWorkRemotely](https://weworkremotely.com/) |This is another one of the biggest and longest-running remote job boards. Mostly programming|
-| []() | |
+| [VirtualVocations](https://www.virtualvocations.com/ ) |one of the biggest and best remote job websites. different kind of jobs available |
 | []() | |
 | []() | |
 | []() | |
