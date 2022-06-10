@@ -581,8 +581,8 @@ AI influencer, opinion leaders account
 | [ JobsPresso](https://jobspresso.co/) | medium-sized (but fast-growing) remote job website featuring the usual software-related categories|
 | [Remotive.io](https://remotive.com/) | Remotive.io provides a list of remote jobs that’s updated daily. The site is modern and easy/simple to use and has a good overall quality of jobs posted.|
 | [Crossover.com](https://www.crossover.com/jobs) |Crossover features a really good assortment of high-paying remote jobs with a focus on long-term, full-time positions. The interface is easy to navigate and you can see the starting pay for each job. |
-| []() | |
-| []() | |
+| [JustRemote.co](https://justremote.co/) |JustRemote isn’t as large as some of the job boards mentioned above, but they still have a good-sized listing of fully remote positions in programming, design, marketing, copywriting and more |
+| [SkipTheDrive]() | |
 | []() | |
 | []() | |
 | []() | |
