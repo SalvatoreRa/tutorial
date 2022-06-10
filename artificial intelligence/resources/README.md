@@ -584,9 +584,9 @@ AI influencer, opinion leaders account
 | [JustRemote.co](https://justremote.co/) |JustRemote isn’t as large as some of the job boards mentioned above, but they still have a good-sized listing of fully remote positions in programming, design, marketing, copywriting and more |
 | [SkipTheDrive](https://www.skipthedrive.com/) |This is going to be one of the best job board choices if you’re in a field that’s slightly outside of the “normal” remote job offering – e.g. not a programmer, designer, etc. the strength of this site really seems to be the variety of categories.|
 | [Remoteok.io](https://remoteok.com/) | This remote job search website also has a nice system of tags to filter the search results. They offer remote jobs in marketing, design, programming and more|
-| [Outsourcely.com]() | |
-| []() | |
-| []() | |
+| [Outsourcely.com](https://www.outsourcely.com/) |The majority of jobs we saw were full-time remote positions. The job descriptions are detailed, and the jobs seem high-quality overall.  |
+| [LetsWorkRemotely.com]() |LetsWorkRemotely isn’t as popular as some of the job boards mentioned above but an easy layout, good filter selection, and a mix of full-time, part-time, and freelance jobs  |
+| [RemoteCircle.com]() | |
 | []() | |
 | []() | |
 | []() | |
