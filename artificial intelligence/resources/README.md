@@ -571,7 +571,7 @@ AI influencer, opinion leaders account
 | [ AngelList](https://angel.co/) | freelance job|
 | [Kolabtree](https://www.kolabtree.com/) | freelance job|
 | [Fiverr](https://www.fiverr.com/) | freelance job|
-| [ Toptal]() | freelance job|
+| [ Toptal](https://www.toptal.com/) | freelance job - higher standards of only hiring the top 3% of freelance talent but providing high paying jobs|
 
 | []() | |
 | []() | |
