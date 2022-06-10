@@ -567,10 +567,10 @@ AI influencer, opinion leaders account
 | [linkedIn](https://www.linkedin.com/) | full time job|
 | [ DataCamp Jobs](https://www.datacamp.com/data-jobs) |full time job |
 | [upwork](https://www.upwork.com/) | freelance job|
-| []() | |
-| []() | |
-| []() | |
-| []() | |
+| [ AngelList](https://angel.co/) | |
+| [Kolabtree]() | |
+| [Fiverr]() | |
+| [Indeed]() | |
 
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
