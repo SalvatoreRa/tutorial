@@ -573,7 +573,7 @@ AI influencer, opinion leaders account
 | [Fiverr](https://www.fiverr.com/) | freelance job|
 | [ Toptal](https://www.toptal.com/) | freelance job - higher standards of only hiring the top 3% of freelance talent but providing high paying jobs|
 
-| []() | |
+| [Hubstaff Talent ](https://talent.hubstaff.com/) |They offer full-time and part-time remote jobs, with different compensation packages (salary, hourly, etc.) |
 | []() | |
 | []() | |
 | []() | |
