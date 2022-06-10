@@ -565,13 +565,14 @@ AI influencer, opinion leaders account
 | [zipdirect](https://www.ziprecruiter.co.uk/?utm_source=ziprecruiter-com-redirect) |full time job |
 | [CodeRemote](https://www.coderemote.com/jobs) | full time job - specialized in remote job|
 | [linkedIn](https://www.linkedin.com/) | full time job|
+| [Indeed]() |full time job |
 | [ DataCamp Jobs](https://www.datacamp.com/data-jobs) |full time job |
 | [upwork](https://www.upwork.com/) | freelance job|
-| [ AngelList](https://angel.co/) | |
-| [Kolabtree]() | |
-| [Fiverr]() | |
-| [Indeed]() | |
+| [ AngelList](https://angel.co/) | freelance job|
+| [Kolabtree]() | freelance job|
+| [Fiverr]() | freelance job|
 
+| [Fiverr]() | freelance job|
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
