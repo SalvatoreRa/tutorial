@@ -561,7 +561,7 @@ AI influencer, opinion leaders account
 
 | Name |   Description |
 | ------- |  ------ |
-| []() | |
+| [Glassdor](https://www.glassdoor.fr/index.htm?countryRedirect=true) | full time job|
 | []() | |
 | []() | |
 | []() | |
