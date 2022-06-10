@@ -564,7 +564,7 @@ AI influencer, opinion leaders account
 | [Glassdor](https://www.glassdoor.fr/index.htm?countryRedirect=true) | full time job|
 | [zipdirect](https://www.ziprecruiter.co.uk/?utm_source=ziprecruiter-com-redirect) |full time job |
 | [CodeRemote](https://www.coderemote.com/jobs) | full time job - specialized in remote job|
-| [linkedIn](https://www.linkedin.com/) | full time job|
+| [linkedIn](https://www.linkedin.com/) | full time job - LinkedIn now offers “remote” as a location option for job postings and job searching.|
 | [Indeed](https://pk.indeed.com/?r=us) |full time job |
 | [ DataCamp Jobs](https://www.datacamp.com/data-jobs) |full time job |
 | [upwork](https://www.upwork.com/) | freelance job|
@@ -572,7 +572,6 @@ AI influencer, opinion leaders account
 | [Kolabtree](https://www.kolabtree.com/) | freelance job|
 | [Fiverr](https://www.fiverr.com/) | freelance job|
 | [ Toptal](https://www.toptal.com/) | freelance job - higher standards of only hiring the top 3% of freelance talent but providing high paying jobs|
-
 | [Hubstaff Talent ](https://talent.hubstaff.com/) |They offer full-time and part-time remote jobs, with different compensation packages (salary, hourly, etc.) |
 | [WeWorkRemotely](https://weworkremotely.com/) |This is another one of the biggest and longest-running remote job boards. Mostly programming|
 | [VirtualVocations](https://www.virtualvocations.com/ ) |one of the biggest and best remote job websites. different kind of jobs available |
@@ -587,8 +586,8 @@ AI influencer, opinion leaders account
 | [Outsourcely.com](https://www.outsourcely.com/) |The majority of jobs we saw were full-time remote positions. The job descriptions are detailed, and the jobs seem high-quality overall.  |
 | [LetsWorkRemotely.com](https://www.letsworkremotely.com/) |LetsWorkRemotely isn’t as popular as some of the job boards mentioned above but an easy layout, good filter selection, and a mix of full-time, part-time, and freelance jobs  |
 | [AuthenticJobs.com ](https://authenticjobs.com/) | it’s not 100% focused on remote positions, the majority of positions are remote.|
-| []() | |
-| []() | |
+| [RemoteWorkHub.com](https://remoteworkhub.com/) |is a popular remote job board and also a job search advice website with good articles and ideas |
+| [DynamiteJobs.com](https://dynamitejobs.com/) |This site offers great remote job search filters. You can immediately narrow down for timezone and area of focus |
 | []() | |
 | []() | |
 | []() | |
