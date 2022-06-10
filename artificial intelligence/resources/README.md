@@ -564,7 +564,7 @@ AI influencer, opinion leaders account
 | [Glassdor](https://www.glassdoor.fr/index.htm?countryRedirect=true) | full time job|
 | [zipdirect](https://www.ziprecruiter.co.uk/?utm_source=ziprecruiter-com-redirect) |full time job |
 | [CodeRemote](https://www.coderemote.com/jobs) | full time job - specialized in remote job|
-| []() | |
+| [linkedIn](https://www.linkedin.com/) | full time job|
 | []() | |
 | []() | |
 | []() | |
