@@ -578,7 +578,7 @@ AI influencer, opinion leaders account
 | [VirtualVocations](https://www.virtualvocations.com/ ) |one of the biggest and best remote job websites. different kind of jobs available |
 | [Remote.co](https://remote.co/) | another large remote job site covering a variety of fields, not just programming jobs.|
 | [ WorkingNomads](https://www.workingnomads.com/jobs) | This remote job board features primarily full-time remote positions and has a great category/tag system to help you filter down the results |
-| []() | |
+| [ JobsPresso](https://jobspresso.co/) | medium-sized (but fast-growing) remote job website featuring the usual software-related categories|
 | []() | |
 | []() | |
 | []() | |
