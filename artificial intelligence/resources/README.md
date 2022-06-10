@@ -570,7 +570,7 @@ AI influencer, opinion leaders account
 | [upwork](https://www.upwork.com/) | freelance job|
 | [ AngelList](https://angel.co/) | freelance job|
 | [Kolabtree](https://www.kolabtree.com/) | freelance job|
-| [Fiverr]() | freelance job|
+| [Fiverr](https://www.fiverr.com/) | freelance job|
 | [ Toptal]() | freelance job|
 
 | []() | |
