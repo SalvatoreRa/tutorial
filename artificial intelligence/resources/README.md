@@ -565,7 +565,7 @@ AI influencer, opinion leaders account
 | [zipdirect](https://www.ziprecruiter.co.uk/?utm_source=ziprecruiter-com-redirect) |full time job |
 | [CodeRemote](https://www.coderemote.com/jobs) | full time job - specialized in remote job|
 | [linkedIn](https://www.linkedin.com/) | full time job|
-| []() | |
+| [ DataCamp Jobs](https://www.datacamp.com/data-jobs) |full time job |
 | []() | |
 | []() | |
 | []() | |
