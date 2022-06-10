@@ -583,8 +583,8 @@ AI influencer, opinion leaders account
 | [Crossover.com](https://www.crossover.com/jobs) |Crossover features a really good assortment of high-paying remote jobs with a focus on long-term, full-time positions. The interface is easy to navigate and you can see the starting pay for each job. |
 | [JustRemote.co](https://justremote.co/) |JustRemote isn’t as large as some of the job boards mentioned above, but they still have a good-sized listing of fully remote positions in programming, design, marketing, copywriting and more |
 | [SkipTheDrive](https://www.skipthedrive.com/) |This is going to be one of the best job board choices if you’re in a field that’s slightly outside of the “normal” remote job offering – e.g. not a programmer, designer, etc. the strength of this site really seems to be the variety of categories.|
-| []() | |
-| []() | |
+| [Remoteok.io](https://remoteok.com/) | This remote job search website also has a nice system of tags to filter the search results. They offer remote jobs in marketing, design, programming and more|
+| [Outsourcely.com]() | |
 | []() | |
 | []() | |
 | []() | |
