@@ -595,7 +595,7 @@ AI influencer, opinion leaders account
 | csvkit  | [link](https://csvkit.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/csvkit) |  A suite of utilities for converting to and working with CSV, the king of tabular file formats. |
 | snorkel | [link](https://www.snorkel.org/) [GitHub](https://github.com/snorkel-team/snorkel) |  A system for quickly generating training data with weak supervision |
 | intake | [link](https://intake.readthedocs.io/en/latest/) [GitHub](https://github.com/intake/intake) | Intake is a lightweight package for finding, investigating, loading and disseminating data.  |
-|  | [link]() [GitHub]() |   |
+| textract | [link](https://textract.readthedocs.io/en/stable/) [GitHub](https://github.com/deanmalmgren/textract) | Extract text from any document. No muss. No fuss.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
