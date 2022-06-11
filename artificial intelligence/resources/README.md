@@ -584,7 +584,7 @@ AI influencer, opinion leaders account
 
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
-|  | [link]() [GitHub]() |   |
+| Faker  | [link](https://faker.readthedocs.io/en/master/) [GitHub](https://github.com/joke2k/faker) |  Faker is a Python package that generates fake data for you. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
