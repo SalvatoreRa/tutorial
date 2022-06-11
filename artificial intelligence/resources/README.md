@@ -558,9 +558,9 @@ AI influencer, opinion leaders account
 | [AlgoExpert](https://www.algoexpert.io/product)| online platform | The platform provides organised structure, detailed solutions, video explanations and quick crash courses on data structures. While the library has only 160 questions, it covers the more important topics spanning fifteen categories like string, binary trees, dynamic programming, sorting, algorithms and more.  |
 | [Udacity ](https://www.udacity.com/course/data-science-interview-prep--ud944)| MOOC course |Udacity’s ‘Data Science Interview Prep’ course is a one-in-all package to crack the various functionalities of a data science interview. The course consists of common questions, answering prediction questions, statistics & probability, and data structures & algorithms.  |
 | [KDNuggets Data Science Interview ](https://www.kdnuggets.com/2020/01/data-science-interview-study-guide.html)| Blog post |  |
-| [TDS post ](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)|  | 100 Data Scientist Interview Questions and Answers |
-| [TDS post](https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e)|  | 120+ Data Scientist Interview |
-| [TDS post](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271)|  |50+ Statistics Interview Questions and Answers for Data Scientists  |
+| [TDS post ](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)| Blog post | 100 Data Scientist Interview Questions and Answers |
+| [TDS post](https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e)| Blog post | 120+ Data Scientist Interview |
+| [TDS post](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271)| Blog post |50+ Statistics Interview Questions and Answers for Data Scientists  |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
