@@ -574,7 +574,12 @@ AI influencer, opinion leaders account
 | [A/B Testing - Interview Questions](https://www.tutorialspoint.com/ab_testing/ab_testing_interview_questions.htm)| Blog post  | A/B Testing - Interview Questions |
 | [A/B testing post](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)| Blog post  |How Not To Run an A/B Test  |
 | [Testing post](https://flowingdata.com/2014/05/09/type-i-and-ii-errors-simplified/)| Blog post | Type I and II errors simplified |
-| []()|  | Guidelines for A/B Testing |
+| [A/B testing post](https://hookedondata.org/guidelines-for-ab-testing/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_194)| Blog post | Guidelines for A/B Testing |
+| [Data science question](https://github.com/kojino/120-Data-Science-Interview-Questions)| Github repository | 120-Data-Science-Interview-Questions |
+| []()|  |  |
+| []()|  |  |
+| []()|  |  |
+| []()|  |  |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
