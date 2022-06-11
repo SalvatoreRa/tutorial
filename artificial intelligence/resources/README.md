@@ -590,7 +590,7 @@ AI influencer, opinion leaders account
 | xmltodict |  [GitHub](https://github.com/martinblech/xmltodict) | Python module that makes working with XML feel like you are working with JSON  |
 | python-magic | [link](https://pypi.org/project/python-magic/) [GitHub](https://github.com/ahupp/python-magic) |python-magic is a Python interface to the libmagic file type identification library. libmagic identifies file types by checking their headers according to a predefined list of file types.    |
 | tablib | [link](https://tablib.readthedocs.io/en/stable/) [GitHub](https://github.com/jazzband/tablib) | Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.  |
-|  | [link]() [GitHub](https://github.com/RaRe-Technologies/smart_open) |  smart_open is a Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem.  |
+| smart_open |  [GitHub](https://github.com/RaRe-Technologies/smart_open) |  smart_open is a Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
