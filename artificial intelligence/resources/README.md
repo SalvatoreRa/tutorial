@@ -592,8 +592,8 @@ AI influencer, opinion leaders account
 | tablib | [link](https://tablib.readthedocs.io/en/stable/) [GitHub](https://github.com/jazzband/tablib) | Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.  |
 | smart_open |  [GitHub](https://github.com/RaRe-Technologies/smart_open) |  smart_open is a Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem.  |
 | xlrd | [link](https://www.python-excel.org/) [GitHub](https://github.com/python-excel/xlrd) | xlrd is a library for reading data and formatting information from Excel files in the historical .xls format.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| csvkit  | [link](https://csvkit.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/csvkit) |  A suite of utilities for converting to and working with CSV, the king of tabular file formats. |
+| snorkel | [link](https://www.snorkel.org/) [GitHub](https://github.com/snorkel-team/snorkel) |  A system for quickly generating training data with weak supervision |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
