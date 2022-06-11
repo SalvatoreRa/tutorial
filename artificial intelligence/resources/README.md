@@ -566,8 +566,8 @@ AI influencer, opinion leaders account
 | [TDS post](https://towardsdatascience.com/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47)| Blog Post | Prep Guide for Data Scientists and Data Analysts |
 | [Chen’s probability cheatsheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)| Cheat-sheet | probability and other concepts to refresh knowledge |
 | [analyticsvidhya post](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)| Blog post  | 40 Questions on Probability for data science |
-| [SQL questions](https://quip.com/2gwZArKuWk7W)|Blog post   | The Best Medium-Hard Data Analyst SQL Interview Questions   |
-| []()|  |  |
+| [SQL questions](https://quip.com/2gwZArKuWk7W)|Blog post | The Best Medium-Hard Data Analyst SQL Interview Questions   |
+| [SQL post](https://www.datacamp.com/tutorial/sql-tutorial-query)| Blog post | SQL Tutorial: How To Write Better Queries |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
