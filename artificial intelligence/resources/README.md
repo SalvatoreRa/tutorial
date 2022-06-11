@@ -601,8 +601,8 @@ AI influencer, opinion leaders account
 | SDV | [link](https://sdv.dev/SDV/) [GitHub](https://github.com/sdv-dev/SDV) |  Synthetic Data Generation for tabular, relational and time series data. |
 | Camelot | [link](https://camelot-py.readthedocs.io/en/master/) [GitHub](https://github.com/camelot-dev/camelot) |  A Python library to extract tabular data from PDFs |
 | rows |  [GitHub](https://github.com/turicas/rows) |  https://camelot-py.readthedocs.io/en/master/ |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| img2dataset |  [GitHub](https://github.com/rom1504/img2dataset) | Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.  |
+|  | [link]() [GitHub]() | Flexible HDF5 saving/loading and other data science tools from the University of Chicago  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
