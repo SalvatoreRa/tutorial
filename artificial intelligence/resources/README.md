@@ -599,8 +599,8 @@ AI influencer, opinion leaders account
 | pandas-datareader | [link](https://pydata.github.io/pandas-datareader/stable/index.html) [GitHub](https://github.com/pydata/pandas-datareader) | Extract data from a wide range of Internet sources into a pandas DataFrame.  |
 | gdown | [GitHub](https://github.com/wkentaro/gdown) | Download a large file from Google Drive (curl/wget fails because of the security notice).  |
 | SDV | [link](https://sdv.dev/SDV/) [GitHub](https://github.com/sdv-dev/SDV) |  Synthetic Data Generation for tabular, relational and time series data. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| Camelot | [link](https://camelot-py.readthedocs.io/en/master/) [GitHub](https://github.com/camelot-dev/camelot) |  A Python library to extract tabular data from PDFs |
+| rows |  [GitHub](https://github.com/turicas/rows) |  https://camelot-py.readthedocs.io/en/master/ |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
