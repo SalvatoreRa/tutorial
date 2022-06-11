@@ -585,8 +585,8 @@ AI influencer, opinion leaders account
 | Name | Link |  Description |
 | ------- | ----------- | ------ |
 | Faker  | [link](https://faker.readthedocs.io/en/master/) [GitHub](https://github.com/joke2k/faker) |  Faker is a Python package that generates fake data for you. |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| huggingface/datasets | [link](https://huggingface.co/docs/datasets/index) [GitHub](https://github.com/huggingface/datasets) | The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools  |
+| xlwings | [link](https://www.xlwings.org/) [GitHub](https://github.com/xlwings/xlwings) |  xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
