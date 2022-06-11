@@ -597,8 +597,8 @@ AI influencer, opinion leaders account
 | intake | [link](https://intake.readthedocs.io/en/latest/) [GitHub](https://github.com/intake/intake) | Intake is a lightweight package for finding, investigating, loading and disseminating data.  |
 | textract | [link](https://textract.readthedocs.io/en/stable/) [GitHub](https://github.com/deanmalmgren/textract) | Extract text from any document. No muss. No fuss.  |
 | pandas-datareader | [link](https://pydata.github.io/pandas-datareader/stable/index.html) [GitHub](https://github.com/pydata/pandas-datareader) | Extract data from a wide range of Internet sources into a pandas DataFrame.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| gdown | [GitHub](https://github.com/wkentaro/gdown) | Download a large file from Google Drive (curl/wget fails because of the security notice).  |
+| SDV | [link](https://sdv.dev/SDV/) [GitHub](https://github.com/sdv-dev/SDV) |  Synthetic Data Generation for tabular, relational and time series data. |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
