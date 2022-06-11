@@ -568,9 +568,9 @@ AI influencer, opinion leaders account
 | [analyticsvidhya post](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)| Blog post | 40 Questions on Probability for data science |
 | [SQL questions](https://quip.com/2gwZArKuWk7W)| Blog post | The Best Medium-Hard Data Analyst SQL Interview Questions   |
 | [SQL post](https://www.datacamp.com/tutorial/sql-tutorial-query)| Blog post | SQL Tutorial: How To Write Better Queries |
-| []()|  |  |
-| []()|  |  |
-| []()|  |  |
+| [Machine Learning Flashcards](https://machinelearningflashcards.com/)| Flash cards | 300 digital flashcards, cost 16 dollars |
+| [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)| Github repository | to refresh concept  |
+| [ML questions](https://www.springboard.com/blog/data-science/machine-learning-interview-questions/)| Blog post  |51 Essential Machine Learning Interview Questions and Answers  |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
