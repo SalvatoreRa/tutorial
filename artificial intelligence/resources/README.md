@@ -561,8 +561,8 @@ AI influencer, opinion leaders account
 | [TDS post ](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)| Blog post | 100 Data Scientist Interview Questions and Answers |
 | [TDS post](https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e)| Blog post | 120+ Data Scientist Interview |
 | [TDS post](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271)| Blog post |50+ Statistics Interview Questions and Answers for Data Scientists  |
-| []()|  |  |
-| []()|  |  |
+| [Data science check list](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723)|  check list | a checklist to keep track of what subject areas you studied and what you still need to cover. |
+| [TDS post](https://towardsdatascience.com/answering-the-data-science-metric-change-interview-question-the-ultimate-guide-5e18d62d0dc6)| Blog Post | Answering the Data Science Metric Change Interview Question  |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
