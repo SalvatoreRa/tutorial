@@ -553,7 +553,7 @@ AI influencer, opinion leaders account
 
 | Name | Type |  Description |
 | ------- | ----------- | ------ |
-| []()|  |  |
+| [LeetCode ](https://leetcode.com/problemset/all/)| online platform |The platform was developed for computer scientists and software developers to prepare for their interviews. LeetCode’s question library consists of 20,000+ questions to practice algorithm and data structure problems.  |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
