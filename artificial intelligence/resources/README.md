@@ -556,8 +556,8 @@ AI influencer, opinion leaders account
 | [LeetCode ](https://leetcode.com/problemset/all/)| online platform |The platform was developed for computer scientists and software developers to prepare for their interviews. LeetCode’s question library consists of 20,000+ questions to practice algorithm and data structure problems.  |
 | [StrataScratch ](https://www.stratascratch.com/)| online platform |  a platform solely to assist data scientists in preparing for interview questions, focusing on coding questions from 500+ big companies like Google, Airbnb, Twitch, Postmates, Amazon, Microsoft and more |
 | [AlgoExpert](https://www.algoexpert.io/product)| online platform | The platform provides organised structure, detailed solutions, video explanations and quick crash courses on data structures. While the library has only 160 questions, it covers the more important topics spanning fifteen categories like string, binary trees, dynamic programming, sorting, algorithms and more.  |
-| [Udacity ]()|  |  |
-| []()|  |  |
+| [Udacity ](https://www.udacity.com/course/data-science-interview-prep--ud944)| MOOC course |Udacity’s ‘Data Science Interview Prep’ course is a one-in-all package to crack the various functionalities of a data science interview. The course consists of common questions, answering prediction questions, statistics & probability, and data structures & algorithms.  |
+| [KDNuggets Data Science Interview ](https://www.kdnuggets.com/2020/01/data-science-interview-study-guide.html)|  |  |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
