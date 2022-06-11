@@ -571,8 +571,8 @@ AI influencer, opinion leaders account
 | [Machine Learning Flashcards](https://machinelearningflashcards.com/)| Flash cards | 300 digital flashcards, cost 16 dollars |
 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)| Github repository | to refresh concept  |
 | [ML questions](https://www.springboard.com/blog/data-science/machine-learning-interview-questions/)| Blog post  |51 Essential Machine Learning Interview Questions and Answers  |
-| []()|  |  |
-| []()|  |  |
+| [A/B Testing - Interview Questions](https://www.tutorialspoint.com/ab_testing/ab_testing_interview_questions.htm)| Blog post  | A/B Testing - Interview Questions |
+| [A/B testing post](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)|  |How Not To Run an A/B Test  |
 | []()|  |  |
 | []()|  |  |
 | []()|  |  |
