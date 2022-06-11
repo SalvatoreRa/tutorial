@@ -596,7 +596,7 @@ AI influencer, opinion leaders account
 | snorkel | [link](https://www.snorkel.org/) [GitHub](https://github.com/snorkel-team/snorkel) |  A system for quickly generating training data with weak supervision |
 | intake | [link](https://intake.readthedocs.io/en/latest/) [GitHub](https://github.com/intake/intake) | Intake is a lightweight package for finding, investigating, loading and disseminating data.  |
 | textract | [link](https://textract.readthedocs.io/en/stable/) [GitHub](https://github.com/deanmalmgren/textract) | Extract text from any document. No muss. No fuss.  |
-|  | [link]() [GitHub]() |   |
+| pandas-datareader | [link](https://pydata.github.io/pandas-datareader/stable/index.html) [GitHub](https://github.com/pydata/pandas-datareader) | Extract data from a wide range of Internet sources into a pandas DataFrame.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
