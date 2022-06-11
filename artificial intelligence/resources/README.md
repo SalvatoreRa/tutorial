@@ -604,8 +604,8 @@ AI influencer, opinion leaders account
 | img2dataset |  [GitHub](https://github.com/rom1504/img2dataset) | Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.  |
 | deepdish | [link](http://deepdish.io/) [GitHub](https://github.com/uchicago-cs/deepdish) | Flexible HDF5 saving/loading and other data science tools from the University of Chicago  |
 | datatest | [link](https://pypi.org/project/datatest/) [GitHub](https://github.com/shawnbrown/datatest) | Tools for test driven data-wrangling and data validation.  |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
+| csvs-to-sqlite | [link]() [GitHub](https://github.com/simonw/csvs-to-sqlite) | Convert CSV files into a SQLite database  |
+| borb | [link](https://borbpdf.com/) [GitHub](https://github.com/jorisschellekens/borb) | borb is a library for reading, creating and manipulating PDF files in python.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
