@@ -594,7 +594,7 @@ AI influencer, opinion leaders account
 | xlrd | [link](https://www.python-excel.org/) [GitHub](https://github.com/python-excel/xlrd) | xlrd is a library for reading data and formatting information from Excel files in the historical .xls format.  |
 | csvkit  | [link](https://csvkit.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/csvkit) |  A suite of utilities for converting to and working with CSV, the king of tabular file formats. |
 | snorkel | [link](https://www.snorkel.org/) [GitHub](https://github.com/snorkel-team/snorkel) |  A system for quickly generating training data with weak supervision |
-|  | [link]() [GitHub]() |   |
+| intake | [link](https://intake.readthedocs.io/en/latest/) [GitHub](https://github.com/intake/intake) | Intake is a lightweight package for finding, investigating, loading and disseminating data.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
