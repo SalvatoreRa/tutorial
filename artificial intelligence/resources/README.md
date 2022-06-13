@@ -614,6 +614,10 @@ AI influencer, opinion leaders account
 | ------- | ------| ---- | ------ |
 | Openclassroom| [link](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) | Programming |Free course on programming on python |
 
+## Machine learning
+
+| Name | Link | Topic | Description |
+| ------- | ------| ---- | ------ |
 | Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
 | Introduction to Deep Learning by MIT| [link](http://introtodeeplearning.com/) | Deep Learning | an introductory course on deep learning methods with applications to computer vision, NLP, biology, etc... |
 | DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning | Deep learning with PyTorch |
