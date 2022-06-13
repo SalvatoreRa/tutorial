@@ -619,6 +619,7 @@ AI influencer, opinion leaders account
 | Name | Link | Topic | Description |
 | ------- | ------| ---- | ------ |
 | Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
+|   Machine Learning by CalTech| [link](https://home.work.caltech.edu/telecourse.html) | Machine learning| This course is introductory but less friendly for novices. It covers most of the same topics as Ng’s course, but more deeply and with a more theoretical approach, and is recommended for students and practicing data scientists. |
 
 ## Deep learning
 
@@ -654,8 +655,12 @@ AI influencer, opinion leaders account
 | Berkeley: Applied Natural Language Processing | [link](https://people.ischool.berkeley.edu/~dbamman/info256.html) | NLP | This course examines the use of natural language processing as a set of methods for exploring and reasoning about text as data |
 | Carnegie Mellon NLP | [link](http://demo.clab.cs.cmu.edu/NLP/) | NLP |  this course is about a variety of ways to represent human languages, and how to exploit those representations to build models to perform translation, summarization, extracting information and so on |
 
+## Reinforcement learning
+
+| Name | Link | Topic | Description |
+| ------- | ------| ---- | ------ |
 | Reinforcement Learning by Georgia Tech| [link](https://omscs.gatech.edu/cs-7642-reinforcement-learning) | Reinforcement learning | The course explores automated decision-making from a computational perspective through a combination of classic papers and more recent work |
-|   Machine Learning by CalTech| [link](https://home.work.caltech.edu/telecourse.html) |  This course is introductory but less friendly for novices. It covers most of the same topics as Ng’s course, but more deeply and with a more theoretical approach, and is recommended for students and practicing data scientists. |
+
 
 
 
