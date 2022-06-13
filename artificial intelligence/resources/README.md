@@ -633,7 +633,7 @@ Reinforcement learning
 | --------- | ------ | ------ |------ |
 | [Barto AG](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) | Reinforcement learning | - |   Reinforcement Learning, Second Edition, an introduction|
 | [ MJ. Kochenderfer, TA. Wheeler and KH. Wray](https://mitpress.mit.edu/books/algorithms-decision-making) | Reinforcement learning  | - | Algorithms for Decision Making. the algorithm in Julia  |
-| []() |  | - |   |
+| [T. Lattimore and C. Szepesvári](https://www.cambridge.org/core/books/bandit-algorithms/8E39FD004E6CE036680F90DD0C6F09FC) | Reinforcement learning | - | Bandit Algorithms  |
 | []() |  | - |   |
 | []() |  | - |   |
 | []() |  | - |   |
