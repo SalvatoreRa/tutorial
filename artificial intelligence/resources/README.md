@@ -618,6 +618,7 @@ Programming
 | --------- | ------ | ------ |------ |
 | [Mason ](http://automatetheboringstuff.com/) | Python Programming | - | Automate the Boring Stuff with Python |
 
+Machine learning
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
@@ -627,6 +628,14 @@ Programming
 | [Murphy](https://probml.github.io/pml-book/book2.html) | Machine learning | 2022 | Probabilistic Machine Learning: Advanced topics. The pre-print would be available soon at that link.|
 | [Gelman and Hill](https://avehtari.github.io/ROS-Examples/) | Machine learning | 2022 | Regression and other stories, book focus more on applying machine learning to real case|
 | [Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/) | Machine learning | 2022 | Understanding Machine Learning: From Theory to Algorithms. Introductory book, medium complexity|
+
+Machine learning
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
 | [Goodfellow and Bengio](https://www.deeplearningbook.org/) | Deep learning | 2016 | One of the most famous book about deep learning|
 | [Zhang and other](http://d2l.ai/) | Deep learning | 2021 | Dive into Deep Learning|
 | [Easley and Kleinberg](https://www.cs.mcgill.ca/~wlh/grl_book/) | Geometric learning | 2010 | Networks, Crowds, and Markets: Reasoning About a Highly Connected World |
