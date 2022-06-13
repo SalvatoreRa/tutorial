@@ -646,12 +646,10 @@ Graph machine learning
 | [Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/) | Geometric learning | 2020 | Graph Representation Learning Book |
 | [Ma and Tang](https://web.njit.edu/~ym329/dlg_book/) | Geometric learning | 2021 | Deep Learning on Graphs |
 
+Natural language processing
+
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
-| [Bronstein, Bruna, Cohen and Veličković](https://arxiv.org/abs/2104.13478) | Geometric learning | 2021 | Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges |
-| [Barabasi](http://networksciencebook.com/) | Geometric learning | 2020 | Networkscience |
-| [Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/) | Geometric learning | 2020 | Graph Representation Learning Book |
-| [Ma and Tang](https://web.njit.edu/~ym329/dlg_book/) | Geometric learning | 2021 | Deep Learning on Graphs |
 | [Jurafsky and  Martin](https://web.stanford.edu/~jurafsky/slp3/) | NLP | 2021 | Speech and Language Processing  |
 | [Leskovec and  Rajaraman](http://www.mmds.org/) | data mining | 2021 | Mining of Massive Datasets. The book is based on Stanford Computer Science course CS246: Mining Massive Datasets  |
 | [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) | explainable AI | 2021 | Interpretable Machine Learning - A Guide for Making Black Box Models Explainable  |
@@ -664,6 +662,12 @@ Reinforcement learning
 | [ MJ. Kochenderfer, TA. Wheeler and KH. Wray](https://mitpress.mit.edu/books/algorithms-decision-making) | Reinforcement learning  | - | Algorithms for Decision Making. the algorithm in Julia  |
 | [T. Lattimore and C. Szepesvári](https://www.cambridge.org/core/books/bandit-algorithms/8E39FD004E6CE036680F90DD0C6F09FC) | Reinforcement learning | - | Bandit Algorithms  |
 | [A. Agarwal, N.Jiang, SM. Kakade and W. Sun](https://rltheorybook.github.io/) | Reinforcement learning | - | Reinforcement Learning: Theory and Algorithms  |
+
+
+Natural language processing
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
 | []() |  | - |   |
 | []() |  | - |   |
 | []() |  | - |   |
