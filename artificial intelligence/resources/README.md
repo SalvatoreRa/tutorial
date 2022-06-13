@@ -598,6 +598,8 @@ AI influencer, opinion leaders account
 
 # Books
 
+Mathematics and statistics
+
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/) | linear algebra  | 2016 |  Introduction to Linear Algebra |
@@ -609,6 +611,11 @@ AI influencer, opinion leaders account
 | [ Pishro-Nik ](https://www.probabilitycourse.com/) | Probability | - | Introduction to Probability, Statistics, and Random Processes |
 | [Lebanon](http://theanalysisofdata.com/probability/0_1.html) | Probability | - |  The Analysis of Data |
 | [Hastie ](https://link.springer.com/book/10.1007/978-0-387-84858-7) | Math and statistics, and machine learning | 2009 | The Elements of Statistical Learning. Introductory book |
+
+
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
 | [Mason ](http://automatetheboringstuff.com/) | Python Programming | - | Automate the Boring Stuff with Python |
 | [Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html) | Machine learning | - | Understanding Machine Learning: From Theory to Algorithms  |
 | [Bishop](https://readyforai.com/download/pattern-recognition-and-machine-learning-pdf/) | Machine learning | 2018 | Pattern Recognition and Machine Learning  |
