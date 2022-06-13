@@ -596,84 +596,8 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
-# Books
-
-Mathematics and statistics
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/) | linear algebra  | 2016 |  Introduction to Linear Algebra |
-| [Guichard ](https://www.whitman.edu/mathematics/multivariable/) | Calculus | 2022 |  Single and Multivariable calculus |
-| [Deisenroth](https://mml-book.github.io/) | Math and statistics | 2018 | Mathematics for Machine Learning  |
-| [Gareth ](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) | Math and statistics | 2018 | Introduction to Statistical Learning: With Applications in R  |
-| [Bruce ](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf) | statistics | 2018 | Practical Statistics for Data Scientists, a book for beginner  |
-| [ Downey ](https://greenteapress.com/thinkstats/) | statistics | - | PThink Stats - Beginners with a basic introduction to Python |
-| [ Pishro-Nik ](https://www.probabilitycourse.com/) | Probability | - | Introduction to Probability, Statistics, and Random Processes |
-| [Lebanon](http://theanalysisofdata.com/probability/0_1.html) | Probability | - |  The Analysis of Data |
-| [Hastie ](https://link.springer.com/book/10.1007/978-0-387-84858-7) | Math and statistics, and machine learning | 2009 | The Elements of Statistical Learning. Introductory book |
-
-Programming
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Mason ](http://automatetheboringstuff.com/) | Python Programming | - | Automate the Boring Stuff with Python |
-
-Machine learning
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html) | Machine learning | - | Understanding Machine Learning: From Theory to Algorithms  |
-| [Bishop](https://readyforai.com/download/pattern-recognition-and-machine-learning-pdf/) | Machine learning | 2018 | Pattern Recognition and Machine Learning  |
-| [Murphy](https://probml.github.io/pml-book/book1.html) | Machine learning | 2022 | Probabilistic Machine Learning: An Introduction. In deep, medium complexity|
-| [Murphy](https://probml.github.io/pml-book/book2.html) | Machine learning | 2022 | Probabilistic Machine Learning: Advanced topics. The pre-print would be available soon at that link.|
-| [Gelman and Hill](https://avehtari.github.io/ROS-Examples/) | Machine learning | 2022 | Regression and other stories, book focus more on applying machine learning to real case|
-| [Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/) | Machine learning | 2022 | Understanding Machine Learning: From Theory to Algorithms. Introductory book, medium complexity|
-
-Deep learning
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Goodfellow and Bengio](https://www.deeplearningbook.org/) | Deep learning | 2016 | One of the most famous book about deep learning|
-| [Zhang and other](http://d2l.ai/) | Deep learning | 2021 | Dive into Deep Learning|
-| [Easley and Kleinberg](https://www.cs.mcgill.ca/~wlh/grl_book/) | Geometric learning | 2010 | Networks, Crowds, and Markets: Reasoning About a Highly Connected World |
-
-Graph machine learning
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Bronstein, Bruna, Cohen and Veličković](https://arxiv.org/abs/2104.13478) | Geometric learning | 2021 | Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges |
-| [Barabasi](http://networksciencebook.com/) | Geometric learning | 2020 | Networkscience |
-| [Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/) | Geometric learning | 2020 | Graph Representation Learning Book |
-| [Ma and Tang](https://web.njit.edu/~ym329/dlg_book/) | Geometric learning | 2021 | Deep Learning on Graphs |
-
-Natural language processing
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Jurafsky and  Martin](https://web.stanford.edu/~jurafsky/slp3/) | NLP | 2021 | Speech and Language Processing  |
-| [Leskovec and  Rajaraman](http://www.mmds.org/) | data mining | 2021 | Mining of Massive Datasets. The book is based on Stanford Computer Science course CS246: Mining Massive Datasets  |
-
-
-Reinforcement learning
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Barto AG](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) | Reinforcement learning | - |   Reinforcement Learning, Second Edition, an introduction|
-| [ MJ. Kochenderfer, TA. Wheeler and KH. Wray](https://mitpress.mit.edu/books/algorithms-decision-making) | Reinforcement learning  | - | Algorithms for Decision Making. the algorithm in Julia  |
-| [T. Lattimore and C. Szepesvári](https://www.cambridge.org/core/books/bandit-algorithms/8E39FD004E6CE036680F90DD0C6F09FC) | Reinforcement learning | - | Bandit Algorithms  |
-| [A. Agarwal, N.Jiang, SM. Kakade and W. Sun](https://rltheorybook.github.io/) | Reinforcement learning | - | Reinforcement Learning: Theory and Algorithms  |
-
-
-Others
-
-| Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
-| [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) | explainable AI | 2021 | Interpretable Machine Learning - A Guide for Making Black Box Models Explainable  |
-| []() |  | - |   |
-| []() |  | - |   |
-| []() |  | - |   |
-| []() |  | - |   |
-
+| reinforcement-learning-discord-wiki | [link](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki) |  This is the wiki for the reinforcement learning Discord. |
+| reinforcement-learning-discord-wiki | [link](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki) |  This is the wiki for the reinforcement learning Discord. |
 
 
 
