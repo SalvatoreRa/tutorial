@@ -596,6 +596,7 @@ AI influencer, opinion leaders account
 
 # Free Courses
 
+## Mathematics, statistics and probability
 
 | Name | Link | Topic | Description |
 | ------- | ------| ---- | ------ |
@@ -607,6 +608,9 @@ AI influencer, opinion leaders account
 | OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | Statistics| a source for statistics |
 | Statistical Methods Course by Georgia Tech’s | [link](https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m) | Statistics| statistical methods course taught by David Goldsman at Georgia Tech |
 | Probability for Data Science by Harvard| [link](https://pll.harvard.edu/course/data-science-probability?delta=2) | Statistics| Probability for Data Science Course by Harvard |
+
+
+
 | Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
 | Introduction to Deep Learning by MIT| [link](http://introtodeeplearning.com/) | Deep Learning | an introductory course on deep learning methods with applications to computer vision, NLP, biology, etc... |
 | DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning | Deep learning with PyTorch |
