@@ -600,7 +600,6 @@ AI influencer, opinion leaders account
 
 | Name | Link | Topic | Description |
 | ------- | ------| ---- | ------ |
-| Openclassroom| [link](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) | Programming |Free course on programming on python |
 | Causal inference| [link](https://www.bradyneal.com/causal-inference-course) | online causal inference course page |
 | Discrete Mathematics| [link](https://www.cs.sfu.ca/~ggbaker/zju/math/) | online corse about discrete mathematics |
 | MIT linear algebra| [link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | linear algebra |Linear algebra course taught by Prof. Gilbert Strang at MIT |
@@ -609,7 +608,11 @@ AI influencer, opinion leaders account
 | Statistical Methods Course by Georgia Tech’s | [link](https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m) | Statistics| statistical methods course taught by David Goldsman at Georgia Tech |
 | Probability for Data Science by Harvard| [link](https://pll.harvard.edu/course/data-science-probability?delta=2) | Statistics| Probability for Data Science Course by Harvard |
 
+## Programming
 
+| Name | Link | Topic | Description |
+| ------- | ------| ---- | ------ |
+| Openclassroom| [link](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) | Programming |Free course on programming on python |
 
 | Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
 | Introduction to Deep Learning by MIT| [link](http://introtodeeplearning.com/) | Deep Learning | an introductory course on deep learning methods with applications to computer vision, NLP, biology, etc... |
