@@ -580,32 +580,7 @@ AI influencer, opinion leaders account
 | []() | |
 | []() | |
 
-## Data Loading & Extraction
 
-| Name | Link |  Description |
-| ------- | ----------- | ------ |
-| Faker  | [link](https://faker.readthedocs.io/en/master/) [GitHub](https://github.com/joke2k/faker) |  Faker is a Python package that generates fake data for you. |
-| huggingface/datasets | [link](https://huggingface.co/docs/datasets/index) [GitHub](https://github.com/huggingface/datasets) | The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools  |
-| xlwings | [link](https://www.xlwings.org/) [GitHub](https://github.com/xlwings/xlwings) |  xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web. |
-| xmltodict |  [GitHub](https://github.com/martinblech/xmltodict) | Python module that makes working with XML feel like you are working with JSON  |
-| python-magic | [link](https://pypi.org/project/python-magic/) [GitHub](https://github.com/ahupp/python-magic) |python-magic is a Python interface to the libmagic file type identification library. libmagic identifies file types by checking their headers according to a predefined list of file types.    |
-| tablib | [link](https://tablib.readthedocs.io/en/stable/) [GitHub](https://github.com/jazzband/tablib) | Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.  |
-| smart_open |  [GitHub](https://github.com/RaRe-Technologies/smart_open) |  smart_open is a Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem.  |
-| xlrd | [link](https://www.python-excel.org/) [GitHub](https://github.com/python-excel/xlrd) | xlrd is a library for reading data and formatting information from Excel files in the historical .xls format.  |
-| csvkit  | [link](https://csvkit.readthedocs.io/en/latest/) [GitHub](https://github.com/wireservice/csvkit) |  A suite of utilities for converting to and working with CSV, the king of tabular file formats. |
-| snorkel | [link](https://www.snorkel.org/) [GitHub](https://github.com/snorkel-team/snorkel) |  A system for quickly generating training data with weak supervision |
-| intake | [link](https://intake.readthedocs.io/en/latest/) [GitHub](https://github.com/intake/intake) | Intake is a lightweight package for finding, investigating, loading and disseminating data.  |
-| textract | [link](https://textract.readthedocs.io/en/stable/) [GitHub](https://github.com/deanmalmgren/textract) | Extract text from any document. No muss. No fuss.  |
-| pandas-datareader | [link](https://pydata.github.io/pandas-datareader/stable/index.html) [GitHub](https://github.com/pydata/pandas-datareader) | Extract data from a wide range of Internet sources into a pandas DataFrame.  |
-| gdown | [GitHub](https://github.com/wkentaro/gdown) | Download a large file from Google Drive (curl/wget fails because of the security notice).  |
-| SDV | [link](https://sdv.dev/SDV/) [GitHub](https://github.com/sdv-dev/SDV) |  Synthetic Data Generation for tabular, relational and time series data. |
-| Camelot | [link](https://camelot-py.readthedocs.io/en/master/) [GitHub](https://github.com/camelot-dev/camelot) |  A Python library to extract tabular data from PDFs |
-| rows |  [GitHub](https://github.com/turicas/rows) |  https://camelot-py.readthedocs.io/en/master/ |
-| img2dataset |  [GitHub](https://github.com/rom1504/img2dataset) | Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.  |
-| deepdish | [link](http://deepdish.io/) [GitHub](https://github.com/uchicago-cs/deepdish) | Flexible HDF5 saving/loading and other data science tools from the University of Chicago  |
-| datatest | [link](https://pypi.org/project/datatest/) [GitHub](https://github.com/shawnbrown/datatest) | Tools for test driven data-wrangling and data validation.  |
-| csvs-to-sqlite | [link]() [GitHub](https://github.com/simonw/csvs-to-sqlite) | Convert CSV files into a SQLite database  |
-| borb | [link](https://borbpdf.com/) [GitHub](https://github.com/jorisschellekens/borb) | borb is a library for reading, creating and manipulating PDF files in python.  |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
@@ -620,6 +595,49 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
+
+# Books
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
+| [Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/) | linear algebra  | 2016 |  Introduction to Linear Algebra |
+| [Guichard ](https://www.whitman.edu/mathematics/multivariable/) | Calculus | 2022 |  Single and Multivariable calculus |
+| [Deisenroth](https://mml-book.github.io/) | Math and statistics | 2018 | Mathematics for Machine Learning  |
+| [Gareth ](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) | Math and statistics | 2018 | Introduction to Statistical Learning: With Applications in R  |
+| [Bruce ](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf) | statistics | 2018 | Practical Statistics for Data Scientists, a book for beginner  |
+| [ Downey ](https://greenteapress.com/thinkstats/) | statistics | - | PThink Stats - Beginners with a basic introduction to Python |
+| [ Pishro-Nik ](https://www.probabilitycourse.com/) | Probability | - | Introduction to Probability, Statistics, and Random Processes |
+| [Lebanon](http://theanalysisofdata.com/probability/0_1.html) | Probability | - |  The Analysis of Data |
+| [Hastie ](https://link.springer.com/book/10.1007/978-0-387-84858-7) | Math and statistics, and machine learning | 2009 | The Elements of Statistical Learning. Introductory book |
+| [Mason ](http://automatetheboringstuff.com/) | Python Programming | - | Automate the Boring Stuff with Python |
+| [Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html) | Machine learning | - | Understanding Machine Learning: From Theory to Algorithms  |
+| [Bishop](https://readyforai.com/download/pattern-recognition-and-machine-learning-pdf/) | Machine learning | 2018 | Pattern Recognition and Machine Learning  |
+| [Murphy](https://probml.github.io/pml-book/book1.html) | Machine learning | 2022 | Probabilistic Machine Learning: An Introduction. In deep, medium complexity|
+| [Murphy](https://probml.github.io/pml-book/book2.html) | Machine learning | 2022 | Probabilistic Machine Learning: Advanced topics. The pre-print would be available soon at that link.|
+| [Gelman and Hill](https://avehtari.github.io/ROS-Examples/) | Machine learning | 2022 | Regression and other stories, book focus more on applying machine learning to real case|
+| [Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/) | Machine learning | 2022 | Understanding Machine Learning: From Theory to Algorithms. Introductory book, medium complexity|
+| [Goodfellow and Bengio](https://www.deeplearningbook.org/) | Deep learning | 2016 | One of the most famous book about deep learning|
+| [Zhang and other](http://d2l.ai/) | Deep learning | 2021 | Dive into Deep Learning|
+| [Easley and Kleinberg](https://www.cs.mcgill.ca/~wlh/grl_book/) | Geometric learning | 2010 | Networks, Crowds, and Markets: Reasoning About a Highly Connected World |
+| [Bronstein, Bruna, Cohen and Veličković](https://arxiv.org/abs/2104.13478) | Geometric learning | 2021 | Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges |
+| [Barabasi](http://networksciencebook.com/) | Geometric learning | 2020 | Networkscience |
+| [Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/) | Geometric learning | 2020 | Graph Representation Learning Book |
+| [Ma and Tang](https://web.njit.edu/~ym329/dlg_book/) | Geometric learning | 2021 | Deep Learning on Graphs |
+| [Jurafsky and  Martin](https://web.stanford.edu/~jurafsky/slp3/) | NLP | 2021 | Speech and Language Processing  |
+| [Leskovec and  Rajaraman](http://www.mmds.org/) | data mining | 2021 | Mining of Massive Datasets. The book is based on Stanford Computer Science course CS246: Mining Massive Datasets  |
+| [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) | explainable AI | 2021 | Interpretable Machine Learning - A Guide for Making Black Box Models Explainable  |
+| []() |  | - |   |
+| []() |  | - |   |
+
+
+
+
+
+
+
+
+
+
 
 # Contributing
 
