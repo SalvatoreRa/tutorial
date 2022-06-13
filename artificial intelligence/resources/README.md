@@ -612,11 +612,15 @@ Mathematics and statistics
 | [Lebanon](http://theanalysisofdata.com/probability/0_1.html) | Probability | - |  The Analysis of Data |
 | [Hastie ](https://link.springer.com/book/10.1007/978-0-387-84858-7) | Math and statistics, and machine learning | 2009 | The Elements of Statistical Learning. Introductory book |
 
-
+Programming
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [Mason ](http://automatetheboringstuff.com/) | Python Programming | - | Automate the Boring Stuff with Python |
+
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
 | [Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html) | Machine learning | - | Understanding Machine Learning: From Theory to Algorithms  |
 | [Bishop](https://readyforai.com/download/pattern-recognition-and-machine-learning-pdf/) | Machine learning | 2018 | Pattern Recognition and Machine Learning  |
 | [Murphy](https://probml.github.io/pml-book/book1.html) | Machine learning | 2022 | Probabilistic Machine Learning: An Introduction. In deep, medium complexity|
