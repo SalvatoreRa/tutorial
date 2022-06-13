@@ -597,7 +597,7 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 
 | reinforcement-learning-discord-wiki | [link](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki) |  This is the wiki for the reinforcement learning Discord. |
-| reinforcement-learning-discord-wiki | [link](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki) |  This is the wiki for the reinforcement learning Discord. |
+| Reinforcement Learning Summer School | [link](https://rlsummerschool.com/) | Reinforcement Learning Summer School by Vrije Universiteit Amsterdam  |
 
 
 
