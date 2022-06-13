@@ -619,6 +619,11 @@ AI influencer, opinion leaders account
 | Name | Link | Topic | Description |
 | ------- | ------| ---- | ------ |
 | Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning| Machine Learning course taught by Andrew Ng at Stanford University |
+
+## Deep learning
+
+| Name | Link | Topic | Description |
+| ------- | ------| ---- | ------ |
 | Introduction to Deep Learning by MIT| [link](http://introtodeeplearning.com/) | Deep Learning | an introductory course on deep learning methods with applications to computer vision, NLP, biology, etc... |
 | DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning | Deep learning with PyTorch |
 | Deep Learning by Yann LeCun| [link](https://cds.nyu.edu/deep-learning/) | Deep Learning | This course concerns the latest techniques in deep learning and representation learning - NY University course|
