@@ -652,7 +652,7 @@ Natural language processing
 | --------- | ------ | ------ |------ |
 | [Jurafsky and  Martin](https://web.stanford.edu/~jurafsky/slp3/) | NLP | 2021 | Speech and Language Processing  |
 | [Leskovec and  Rajaraman](http://www.mmds.org/) | data mining | 2021 | Mining of Massive Datasets. The book is based on Stanford Computer Science course CS246: Mining Massive Datasets  |
-| [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) | explainable AI | 2021 | Interpretable Machine Learning - A Guide for Making Black Box Models Explainable  |
+
 
 Reinforcement learning
 
@@ -664,10 +664,11 @@ Reinforcement learning
 | [A. Agarwal, N.Jiang, SM. Kakade and W. Sun](https://rltheorybook.github.io/) | Reinforcement learning | - | Reinforcement Learning: Theory and Algorithms  |
 
 
-Natural language processing
+Others
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
+| [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) | explainable AI | 2021 | Interpretable Machine Learning - A Guide for Making Black Box Models Explainable  |
 | []() |  | - |   |
 | []() |  | - |   |
 | []() |  | - |   |
