@@ -626,10 +626,19 @@ AI influencer, opinion leaders account
 | [Jurafsky and  Martin](https://web.stanford.edu/~jurafsky/slp3/) | NLP | 2021 | Speech and Language Processing  |
 | [Leskovec and  Rajaraman](http://www.mmds.org/) | data mining | 2021 | Mining of Massive Datasets. The book is based on Stanford Computer Science course CS246: Mining Massive Datasets  |
 | [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) | explainable AI | 2021 | Interpretable Machine Learning - A Guide for Making Black Box Models Explainable  |
+
+Reinforcement learning
+
+| Link | Topic | Year | Description |
+| --------- | ------ | ------ |------ |
+| [Barto AG](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) | Reinforcement learning | - |   Reinforcement Learning, Second Edition, an introduction|
 | []() |  | - |   |
 | []() |  | - |   |
-
-
+| []() |  | - |   |
+| []() |  | - |   |
+| []() |  | - |   |
+| []() |  | - |   |
+| []() |  | - |   |
 
 
 
