@@ -596,8 +596,8 @@ AI influencer, opinion leaders account
 | Checkio | [link](https://checkio.org/) |   |
 | CodingBat | [link](https://codingbat.com/python) |   |
 | Exercism.io | [link](https://exercism.org/) |   |
-|  | [link]() |   |
-|  | [link]() |   |
+| HackerRank  | [link](https://www.hackerrank.com/) |   |
+| LeetCode  | [link]() |   |
 |  | [link]() |   |
 
 # Contributing
