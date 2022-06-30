@@ -597,8 +597,8 @@ AI influencer, opinion leaders account
 | CodingBat | [link](https://codingbat.com/python) |   |
 | Exercism.io | [link](https://exercism.org/) |   |
 | HackerRank  | [link](https://www.hackerrank.com/) |   |
-| LeetCode  | [link]() |   |
-| Project Euler | [link]() |   |
+| LeetCode  | [link](https://leetcode.com/) |   |
+| Project Euler | [link](https://projecteuler.net/) |   |
 
 # Contributing
 
