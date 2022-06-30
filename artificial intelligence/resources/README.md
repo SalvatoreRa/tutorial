@@ -592,9 +592,9 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
-| Codecademy  | [link]() |   |
-|  | [link]() |   |
-|  | [link]() |   |
+| Codecademy  | [link](https://www.codecademy.com/) |   |
+| Checkio | [link](https://checkio.org/) |   |
+| CodingBat | [link]() |   |
 |  | [link]() |   |
 |  | [link]() |   |
 |  | [link]() |   |
