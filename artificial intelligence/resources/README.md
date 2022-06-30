@@ -592,7 +592,7 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
-
+| Reinforcement Learning Summer School | [link](https://rlsummerschool.com/) | Reinforcement Learning Summer School by Vrije Universiteit Amsterdam  |
 
 # Contributing
 
