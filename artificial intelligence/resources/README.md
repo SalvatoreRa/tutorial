@@ -598,7 +598,7 @@ AI influencer, opinion leaders account
 | Exercism.io | [link](https://exercism.org/) |   |
 | HackerRank  | [link](https://www.hackerrank.com/) |   |
 | LeetCode  | [link]() |   |
-|  | [link]() |   |
+| Project Euler | [link]() |   |
 
 # Contributing
 
