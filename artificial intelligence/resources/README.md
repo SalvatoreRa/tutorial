@@ -594,8 +594,8 @@ AI influencer, opinion leaders account
 
 | Codecademy  | [link](https://www.codecademy.com/) |   |
 | Checkio | [link](https://checkio.org/) |   |
-| CodingBat | [link]() |   |
-|  | [link]() |   |
+| CodingBat | [link](https://codingbat.com/python) |   |
+| Exercism.io | [link](https://exercism.org/) |   |
 |  | [link]() |   |
 |  | [link]() |   |
 |  | [link]() |   |
