@@ -592,9 +592,9 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
-| Codecademy  | [link](https://www.codecademy.com/) |   |
-| Checkio | [link](https://checkio.org/) |   |
-| CodingBat | [link](https://codingbat.com/python) |   |
+| Codecademy  | [link](https://www.codecademy.com/) | The website offers a Python course that takes you through the basics of the language in an interactive way  |
+| Checkio | [link](https://checkio.org/) |   The website presents you with small tasks to complete. These missions gradually become more difficul |
+| CodingBat | [link](https://codingbat.com/python) | contains a collection of programming problems to solve. The website is divided into sections, each of which covers a different topic.  |
 | Exercism.io | [link](https://exercism.org/) | a website that helps you improve your coding skills by providing feedback on your code. The website also has a great forum where you can ask for help   |
 | HackerRank  | [link](https://www.hackerrank.com/) | contains a large number of programming challenges  |
 | LeetCode  | [link](https://leetcode.com/) | contains a large number of programming challenges  |
