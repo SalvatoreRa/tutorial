@@ -595,10 +595,10 @@ AI influencer, opinion leaders account
 | Codecademy  | [link](https://www.codecademy.com/) |   |
 | Checkio | [link](https://checkio.org/) |   |
 | CodingBat | [link](https://codingbat.com/python) |   |
-| Exercism.io | [link](https://exercism.org/) |   |
-| HackerRank  | [link](https://www.hackerrank.com/) |   |
-| LeetCode  | [link](https://leetcode.com/) |   |
-| Project Euler | [link](https://projecteuler.net/) |   |
+| Exercism.io | [link](https://exercism.org/) | a website that helps you improve your coding skills by providing feedback on your code. The website also has a great forum where you can ask for help   |
+| HackerRank  | [link](https://www.hackerrank.com/) | contains a large number of programming challenges  |
+| LeetCode  | [link](https://leetcode.com/) | contains a large number of programming challenges  |
+| Project Euler | [link](https://projecteuler.net/) | Contains a large number of mathematical problems to solve which can be solved with programming   |
 
 # Contributing
 
