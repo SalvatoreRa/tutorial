@@ -592,6 +592,12 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
+| Codecademy  | [link]() |   |
+|  | [link]() |   |
+|  | [link]() |   |
+|  | [link]() |   |
+|  | [link]() |   |
+|  | [link]() |   |
 |  | [link]() |   |
 
 # Contributing
