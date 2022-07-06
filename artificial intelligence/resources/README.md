@@ -36,6 +36,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | --------- | ------ | ------ |
 | [Google Scholar](https://scholar.google.com/)| search engine  | search engine that helps researchers find scholarly literature across disciplines using relevant keywords|
 | [lens.org](https://www.lens.org/)| search engine  | Search, Analyze and Manage Patent and Scholarly Data|
+| [scite](https://scite.ai/)| search engine  | Scite is a system that uses machine learning to categorize citations into “mentioning”, “supporting” and “contradicting”|
 | [PubPeer](https://pubpeer.com/)| search engine  | Researchers can use this platform to search for publications using DOI, PMID, arXiv ID, keyword, or author. You can also provide feedback|
 | [Airxiv Sanity](http://www.arxiv-sanity.com/)| General  | website to keep up pace with airxiv mantaining mental health |
 | [paperswithcode](https://paperswithcode.com/)| General  | website listing articles and corresponding code |
