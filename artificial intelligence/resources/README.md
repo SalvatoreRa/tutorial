@@ -152,13 +152,22 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Review ](https://www.researchgate.net/publication/344158120_A_Survey_on_Language_Models)| language models | 2020 |A Survey on Language Models |
 | [Review ](https://arxiv.org/pdf/2007.13069.pdf)| Question answering | 2020 |A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges  |
 | [Review ](https://arxiv.org/pdf/2112.03572.pdf)| Question answering | 2021 |Question Answering Survey: Directions, Challenges, Datasets, Evaluation Matrices  |
-
-
+| [survey ](https://arxiv.org/pdf/1904.08067.pdf)| text classification  | 2019 |Text Classification Algorithms: A Survey |
+| [survey ](https://arxiv.org/pdf/2008.00364.pdf)| text classification | 2020 |A Survey on Text Classification: From Traditional to Deep Learning: reviewing the state-of-the-art approaches from 1961 to 2021, focusing on models from traditional models to deep learning. |
+| [survey ](https://arxiv.org/pdf/2103.00498.pdf)| topic modelling | 2021 |Topic Modelling Meets Deep Neural Networks: A Survey |
+| [survey ](https://arxiv.org/pdf/2010.00711.pdf)| explainable NLP | 2020 |A Survey of the State of Explainable AI for Natural Language Processing |
+| [survey ](https://arxiv.org/pdf/2003.07278.pdf)| Contextual Embeddings  | 2020 | A Survey on Contextual Embeddings (Contextual embeddings assign each word a representation based on its context)|
+| [survey ](https://arxiv.org/pdf/2010.15036.pdf)| Word representation | 2020 |A Comprehensive Survey on Word Representation Models: From Classical to State-Of-The-Art Word Representation Language Models |
+| [survey ](https://arxiv.org/pdf/2007.04239.pdf)| |  | |
+| [survey ](https://arxiv.org/pdf/2007.04239.pdf)| Transfer Learning NLP | 2020 |A Survey on Transfer Learning in Natural Language Processing |
+| [survey ](https://arxiv.org/pdf/2105.03075.pdf)| text augmentation |  | A Survey of Data Augmentation Approaches for NLP|
+| [survey ](https://arxiv.org/pdf/2106.04554.pdf)| Transformers  | 2021 | A Survey of Transformers |
+| [survey ](https://arxiv.org/pdf/1704.08531.pdf)| text extraction | 2017 |A Survey of Neural Network Techniques for Feature Extraction from Text. This paper aims to catalyze research discussions about text feature extraction techniques using neural network architectures.  |
 
 ## Generative Learning
 
 | Link | Topic | Year | Description |
-| --------- | ------ | ------ |------ |
+| --------- | ------ | ------ |------ | 
 | [VAE ](https://arxiv.org/abs/1312.6114)| Generative Learning | 2013 |Variational autoencoder first paper|
 | [VAE ](http://proceedings.mlr.press/v37/gregor15.pdf)| Generative Learning | 2015 |Variational autoencoder with attention|
 | [GAN ](https://arxiv.org/pdf/1406.2661v1.pdf)| Generative Learning | 2014 |Generative Adversarial Nets |
