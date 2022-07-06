@@ -35,6 +35,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | Link | Topic | Description |
 | --------- | ------ | ------ |
 | [Google Scholar](https://scholar.google.com/)| search engine  | search engine that helps researchers find scholarly literature across disciplines using relevant keywords|
+| [lens.org](https://www.lens.org/)| search engine  | Search, Analyze and Manage Patent and Scholarly Data|
 | [PubPeer](https://pubpeer.com/)| search engine  | Researchers can use this platform to search for publications using DOI, PMID, arXiv ID, keyword, or author. You can also provide feedback|
 | [Airxiv Sanity](http://www.arxiv-sanity.com/)| General  | website to keep up pace with airxiv mantaining mental health |
 | [paperswithcode](https://paperswithcode.com/)| General  | website listing articles and corresponding code |
@@ -592,13 +593,7 @@ AI influencer, opinion leaders account
 |  | [link]() [GitHub]() |   |
 |  | [link]() [GitHub]() |   |
 
-| Codecademy  | [link](https://www.codecademy.com/) | The website offers a Python course that takes you through the basics of the language in an interactive way  |
-| Checkio | [link](https://checkio.org/) |   The website presents you with small tasks to complete. These missions gradually become more difficul |
-| CodingBat | [link](https://codingbat.com/python) | contains a collection of programming problems to solve. The website is divided into sections, each of which covers a different topic.  |
-| Exercism.io | [link](https://exercism.org/) | a website that helps you improve your coding skills by providing feedback on your code. The website also has a great forum where you can ask for help   |
-| HackerRank  | [link](https://www.hackerrank.com/) | contains a large number of programming challenges  |
-| LeetCode  | [link](https://leetcode.com/) | contains a large number of programming challenges  |
-| Project Euler | [link](https://projecteuler.net/) | Contains a large number of mathematical problems to solve which can be solved with programming   |
+
 
 # Contributing
 
