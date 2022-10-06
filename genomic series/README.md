@@ -30,6 +30,7 @@ You may write me for any request, suggestions and comments.
 | [Linear regression](https://medium.com/leukemiaairesearch/a-complete-guide-to-linear-regression-using-gene-expression-data-fit-and-algorithm-evaluation-d73e39b2eb8f) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/linear_regression.ipynb) | Python: Linear regression, training, evaluation, inspection and solution |
 | [Logistic regression](https://salvatore-raieli.medium.com/complete-guide-on-logistic-regression-with-gene-expression-data-the-math-1589d95236f8) | -- | Python: Introduction to logistic regression math  |
 | [Logistic regression](https://salvatore-raieli.medium.com/a-complete-guide-on-logistic-regression-with-gene-expression-data-training-the-model-dfd1aaf3828e) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/logistic_regression.ipynb) | Python: Logistic regression, training, evaluation, inspection and solution |
+
 &nbsp;
 
 # Contributing
