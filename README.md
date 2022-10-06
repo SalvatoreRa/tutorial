@@ -75,6 +75,19 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 This series of tutorials on use of  and machine learning and trascriptmic data with transcriptomic data. I will implement also tutorials about the use of machine learning with biomedical images. 
 
+| Tutorial | notebook | description |
+| ------- | ----------- | ------ |
+| [AML introduction](https://medium.com/leukemiaairesearch/acute-myeloid-leukemia-a-general-introduction-9a033502fe47) | -- | Acute Myeloid Leukemia: A general introduction |
+| [Intorduction on AI in leukemia](https://medium.com/leukemiaairesearch/artificial-intelligence-in-leukemia-1c8c189d2ad7) | -- | Artificial intelligence in leukemia |
+| [Introduction on computer vision in AML](https://medium.com/leukemiaairesearch/medical-image-diagnosis-in-leukemia-7797fce237b5) | -- | Medical image diagnosis in leukemia |
+| [Introduction on computer vision in Covid-19](https://towardsdatascience.com/medical-image-diagnosis-in-covid-19-ba5f6664efe9) | -- | Medical Image Diagnosis in COVID-19 |
+| [Complexity reduction techniques](https://medium.com/leukemiaairesearch/complexity-reduction-techniques-with-gene-expression-data-961491979bc8) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/complexity%20reduction%20techniques.ipynb) | Python: PCA, t-SNE, UMAP |
+| [Clustering techniques](https://medium.com/leukemiaairesearch/clustering-techniques-with-gene-expression-data-4b35a04f87d5) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/hierarchical_cluster_and_K_means.ipynb) | Python: Hierarchical clustering, k-means |
+| [Clustering: DBSCAN and GMM](https://medium.com/leukemiaairesearch/clustering-techniques-with-gene-expression-data-4b35a04f87d5) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/DBSCAN_and_GMM.ipynb) | Python: DBSCAN and GMM |
+| [Linear regression](https://medium.com/leukemiaairesearch/a-complete-guide-to-linear-regression-using-gene-expression-data-an-introduction-f861596ff0d0) | -- | Introduction and the linear regression math |
+| [Linear regression](https://medium.com/leukemiaairesearch/a-complete-guide-to-linear-regression-using-gene-expression-data-fit-and-algorithm-evaluation-d73e39b2eb8f) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/linear_regression.ipynb) | Python: Linear regression, training, evaluation, inspection and solution |
+| [Logistic regression](https://salvatore-raieli.medium.com/complete-guide-on-logistic-regression-with-gene-expression-data-the-math-1589d95236f8) | -- | Python: Introduction to logistic regression math  |
+| [Logistic regression](https://salvatore-raieli.medium.com/a-complete-guide-on-logistic-regression-with-gene-expression-data-training-the-model-dfd1aaf3828e) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/logistic_regression.ipynb) | Python: Logistic regression, training, evaluation, inspection and solution |
 
 &nbsp;
 
