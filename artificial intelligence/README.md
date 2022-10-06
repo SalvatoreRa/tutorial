@@ -38,7 +38,7 @@ You may write me for any request, suggestions and comments.
  |
 | [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
 | [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
-| []() | -- |  |
+| [Blending the power of AI with the delicacy of poetry](https://towardsdatascience.com/blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1) | -- | AI models are now able to generate images from text, what if we furnish them with the words of great poets? A dreamy trip between poetry and AI. |
 
 &nbsp;
 
