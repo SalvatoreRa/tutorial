@@ -23,7 +23,7 @@ You may write me for any request, suggestions and comments.
 | [Meta’s new model can turn text prompt into videos](https://medium.com/geekculture/metas-new-model-can-turn-text-prompt-into-videos-b6dadb94ab3b) | -- | Make-A-Vide, a new break-through in generative art |
 | [Robotics Join Machine Learning for an Electric Future](https://pub.towardsai.net/robotics-join-machine-learning-for-an-electric-future-420067527337) | -- | How robotics and AI can speed energy transition and reduce emissions |
 | [AlphaFold2 Year 1: Did It Change the World?](https://towardsdatascience.com/alphafold2-year-1-did-it-change-the-world-499a5a38130a) | -- | DeepMind promised us a revolution. Did it happen? |
-| []() | -- |  |
+| [Google’s PaLI: language-image learning in 100 languages](https://towardsdatascience.com/googles-pali-language-image-learning-in-100-languages-31d32f9b74fe) | -- | A new impressive model able to reach state-of-the-art in complex tasks |
 | []() | -- |  |
 | []() | -- |  |
 
