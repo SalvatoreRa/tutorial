@@ -30,7 +30,7 @@ You may write me for any request, suggestions and comments.
 | [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
 | [Machine learning to tackle climate change](https://towardsdatascience.com/machine-learning-to-tackle-climate-change-7911e004c3a2) | -- | How AI could help against global warming and save the world from humans |
 | [How Science Contribution Has Become a Toxic Environment](https://towardsdatascience.com/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) | -- | How computer science has inherited the same mistakes as other disciplines |
-| []() | -- |  |
+| [Machine learning: a friend or a foe for science?](https://towardsdatascience.com/machine-learning-a-friend-or-a-foe-for-science-9c0b421eabd8) | -- | How machine learning is affecting science reproducibility and how to solve it |
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
