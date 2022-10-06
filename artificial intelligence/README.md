@@ -27,7 +27,7 @@ You may write me for any request, suggestions and comments.
 | [How AI could save a pillar of science](https://towardsdatascience.com/how-ai-could-save-a-pillar-of-science-43d564d5564d) | -- | Peer review is a human job, but we may need the aid of the machine |
 | [A critical analysis of your dataset](https://towardsdatascience.com/a-critical-analysis-of-your-dataset-2b388e7ca01e) | -- |  Stop finetuning your model: your model is already good, but not your data|
 | [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
-| [Machine unlearning: The duty of forgetting]() | -- |  How and why it is important to erase data point information from an AI model|
+| [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
