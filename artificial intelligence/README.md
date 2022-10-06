@@ -20,7 +20,7 @@ You may write me for any request, suggestions and comments.
 | Tutorial | notebook | description |
 | ------- | ----------- | ------ |
 | [Nobel prize Cyberpunk](https://medium.com/mlearning-ai/nobel-prize-cyberpunk-e1803aa0e087) | -- | A computational view of the most important prize and perspective on AI in scientific discovery |
-| []() | -- |  |
+| [Meta’s new model can turn text prompt into videos](https://medium.com/geekculture/metas-new-model-can-turn-text-prompt-into-videos-b6dadb94ab3b) | -- | Make-A-Vide, a new break-through in generative art |
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
