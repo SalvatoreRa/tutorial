@@ -29,7 +29,7 @@ You may write me for any request, suggestions and comments.
 | [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
 | [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
 | [Machine learning to tackle climate change](https://towardsdatascience.com/machine-learning-to-tackle-climate-change-7911e004c3a2) | -- | How AI could help against global warming and save the world from humans |
-| []() | -- |  |
+| [How Science Contribution Has Become a Toxic Environment](https://towardsdatascience.com/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) | -- | How computer science has inherited the same mistakes as other disciplines |
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
