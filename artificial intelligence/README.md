@@ -26,8 +26,8 @@ You may write me for any request, suggestions and comments.
 | [Google’s PaLI: language-image learning in 100 languages](https://towardsdatascience.com/googles-pali-language-image-learning-in-100-languages-31d32f9b74fe) | -- | A new impressive model able to reach state-of-the-art in complex tasks |
 | [How AI could save a pillar of science](https://towardsdatascience.com/how-ai-could-save-a-pillar-of-science-43d564d5564d) | -- | Peer review is a human job, but we may need the aid of the machine |
 | [A critical analysis of your dataset](https://towardsdatascience.com/a-critical-analysis-of-your-dataset-2b388e7ca01e) | -- |  Stop finetuning your model: your model is already good, but not your data|
-| []() | -- |  |
-| []() | -- |  |
+| [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
+| [Machine unlearning: The duty of forgetting]() | -- |  How and why it is important to erase data point information from an AI model|
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
