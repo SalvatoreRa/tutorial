@@ -33,7 +33,7 @@ You may write me for any request, suggestions and comments.
 | [Machine learning: a friend or a foe for science?](https://towardsdatascience.com/machine-learning-a-friend-or-a-foe-for-science-9c0b421eabd8) | -- | How machine learning is affecting science reproducibility and how to solve it |
 | [How AI could fuel global warming](https://towardsdatascience.com/how-ai-could-fuel-global-warming-8f6e1dda6711) | -- |New large models are energy intensive. How much CO2 is needed for their training?  |
 | [The Curious Case of How MS-excel Was a Nightmare for Bioinformatics](https://pub.towardsai.net/the-curious-case-of-how-ms-excel-was-a-nightmare-for-bioinformatics-cc937a697350) | -- | An example of how Ms-Excel can be deleterious in data science |
-| []() | -- |  |
+| [Speaking the Language of Life: How AlphaFold2 and Co. Are Changing Biology](https://towardsdatascience.com/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) | -- | AI is reshaping research in biology and opening new frontiers in therapy |
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
