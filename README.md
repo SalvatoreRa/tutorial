@@ -47,6 +47,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [DeepMind’s AlphaTensor: Deepmind’s Alphatensor: The AI That Is Reinventing Math](https://pub.towardsai.net/deepminds-alphatensor-deepmind-s-alphatensor-the-ai-that-is-reinventing-math-4e282e25da35) | -- | How the DeepMind’s latest model could revolutionize math |
 | [Nobel prize Cyberpunk](https://medium.com/mlearning-ai/nobel-prize-cyberpunk-e1803aa0e087) | -- | A computational view of the most important prize and perspective on AI in scientific discovery |
 | [Meta’s new model can turn text prompt into videos](https://medium.com/geekculture/metas-new-model-can-turn-text-prompt-into-videos-b6dadb94ab3b) | -- | Make-A-Vide, a new break-through in generative art |
 | [Robotics Join Machine Learning for an Electric Future](https://pub.towardsai.net/robotics-join-machine-learning-for-an-electric-future-420067527337) | -- | How robotics and AI can speed energy transition and reduce emissions |
