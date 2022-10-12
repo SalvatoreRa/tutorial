@@ -47,6 +47,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [How artificial intelligence could save the Amazon rainforest](https://medium.com/towards-data-science/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) | -- | Amazonia is at risk and AI could help preserve it |
 | [DeepMind’s AlphaTensor: Deepmind’s Alphatensor: The AI That Is Reinventing Math](https://pub.towardsai.net/deepminds-alphatensor-deepmind-s-alphatensor-the-ai-that-is-reinventing-math-4e282e25da35) | -- | How the DeepMind’s latest model could revolutionize math |
 | [Nobel prize Cyberpunk](https://medium.com/mlearning-ai/nobel-prize-cyberpunk-e1803aa0e087) | -- | A computational view of the most important prize and perspective on AI in scientific discovery |
 | [Meta’s new model can turn text prompt into videos](https://medium.com/geekculture/metas-new-model-can-turn-text-prompt-into-videos-b6dadb94ab3b) | -- | Make-A-Vide, a new break-through in generative art |
