@@ -47,6 +47,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Google’s Audiolm: Generating Music by Hearing a Song’s Snippet](https://pub.towardsai.net/googles-audiolm-generating-music-by-hearing-a-song-s-snippet-c9512a9290cd) | -- | Whether music or speech, Google's new model can continue playing what is hearing. |
 | [How artificial intelligence could save the Amazon rainforest](https://medium.com/towards-data-science/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) | -- | Amazonia is at risk and AI could help preserve it |
 | [DeepMind’s AlphaTensor: Deepmind’s Alphatensor: The AI That Is Reinventing Math](https://pub.towardsai.net/deepminds-alphatensor-deepmind-s-alphatensor-the-ai-that-is-reinventing-math-4e282e25da35) | -- | How the DeepMind’s latest model could revolutionize math |
 | [Nobel prize Cyberpunk](https://medium.com/mlearning-ai/nobel-prize-cyberpunk-e1803aa0e087) | -- | A computational view of the most important prize and perspective on AI in scientific discovery |
