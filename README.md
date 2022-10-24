@@ -47,6 +47,10 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [AI reimagines the world’s 20 most beautiful words](https://medium.com/mlearning-ai/ai-reimagines-the-worlds-20-most-beautiful-words-cd07090ea59b) | -- | How to translate words that cannot be translated? |
+| [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
+| [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
+| [How AI Could Help Preserve Art](https://towardsdatascience.com/how-ai-could-help-preserve-art-f40c8376781d) | -- | Art masterpieces are a risk at any time; AI and new technologies can give a hand |
 | [Reimagining The Little Prince with AI](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c) | -- | How AI can reimagine the little prince’s characters from their descriptions |
 | [Google’s Audiolm: Generating Music by Hearing a Song’s Snippet](https://pub.towardsai.net/googles-audiolm-generating-music-by-hearing-a-song-s-snippet-c9512a9290cd) | -- | Whether music or speech, Google's new model can continue playing what is hearing. |
 | [How artificial intelligence could save the Amazon rainforest](https://medium.com/towards-data-science/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) | -- | Amazonia is at risk and AI could help preserve it |
