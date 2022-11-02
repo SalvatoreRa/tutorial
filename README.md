@@ -83,7 +83,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 &nbsp;
 
-** Others **
+**Others**
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
