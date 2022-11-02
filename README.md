@@ -45,36 +45,60 @@ This series of tutorials is focused on classical machine learning (regression, c
 
 In this series of tutorials I will focus on artificial intelligence (neural networks, convolutional neural networks and many other related topics). I will discuss the basic, the math behind models and how to implement. I will use Keras and PyTorch
 
+**AI and science**
+
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Code Reproducibility Crisis in Science And AI](https://pub.towardsai.net/code-reproducibility-crisis-in-science-and-ai-fa2f2ec955b4) | -- | Saving AI and scientific research requires we share more |
+| [Nobel prize Cyberpunk](https://medium.com/mlearning-ai/nobel-prize-cyberpunk-e1803aa0e087) | -- | A computational view of the most important prize and perspective on AI in scientific discovery |
+| [How AI could save a pillar of science](https://towardsdatascience.com/how-ai-could-save-a-pillar-of-science-43d564d5564d) | -- | Peer review is a human job, but we may need the aid of the machine |
+| [How Science Contribution Has Become a Toxic Environment](https://towardsdatascience.com/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) | -- | How computer science has inherited the same mistakes as other disciplines |
+| [Machine learning: a friend or a foe for science?](https://towardsdatascience.com/machine-learning-a-friend-or-a-foe-for-science-9c0b421eabd8) | -- | How machine learning is affecting science reproducibility and how to solve it |
+| [AlphaFold2 Year 1: Did It Change the World?](https://towardsdatascience.com/alphafold2-year-1-did-it-change-the-world-499a5a38130a) | -- | DeepMind promised us a revolution. Did it happen? |
+| [The Curious Case of How MS-excel Was a Nightmare for Bioinformatics](https://pub.towardsai.net/the-curious-case-of-how-ms-excel-was-a-nightmare-for-bioinformatics-cc937a697350) | -- | An example of how Ms-Excel can be deleterious in data science |
+| [Speaking the Language of Life: How AlphaFold2 and Co. Are Changing Biology](https://towardsdatascience.com/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) | -- | AI is reshaping research in biology and opening new frontiers in therapy |
+
+&nbsp;
+
+**AI and art**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [How AI Could Help Preserve Art](https://towardsdatascience.com/how-ai-could-help-preserve-art-f40c8376781d) | -- | Art masterpieces are a risk at any time; AI and new technologies can give a hand |
 | [AI reimagines the world’s 20 most beautiful words](https://medium.com/mlearning-ai/ai-reimagines-the-worlds-20-most-beautiful-words-cd07090ea59b) | -- | How to translate words that cannot be translated? |
+| [Reimagining The Little Prince with AI](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c) | -- | How AI can reimagine the little prince’s characters from their descriptions |
+| [Meta’s new model can turn text prompt into videos](https://medium.com/geekculture/metas-new-model-can-turn-text-prompt-into-videos-b6dadb94ab3b) | -- | Make-A-Vide, a new break-through in generative art |
+| [Blending the power of AI with the delicacy of poetry](https://towardsdatascience.com/blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1) | -- | AI models are now able to generate images from text, what if we furnish them with the words of great poets? A dreamy trip between poetry and AI. |
+
+&nbsp;
+
+**AI and Climate change**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [How artificial intelligence could save the Amazon rainforest](https://medium.com/towards-data-science/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) | -- | Amazonia is at risk and AI could help preserve it |
+| [How AI could fuel global warming](https://towardsdatascience.com/how-ai-could-fuel-global-warming-8f6e1dda6711) | -- |New large models are energy intensive. How much CO2 is needed for their training?  |
+| [Machine learning to tackle climate change](https://towardsdatascience.com/machine-learning-to-tackle-climate-change-7911e004c3a2) | -- | How AI could help against global warming and save the world from humans |
+| [Robotics Join Machine Learning for an Electric Future](https://pub.towardsai.net/robotics-join-machine-learning-for-an-electric-future-420067527337) | -- | How robotics and AI can speed energy transition and reduce emissions |
+
+&nbsp;
+
+** Others **
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [Microsoft’s Museformer: AI music is the new frontier](https://medium.com/mlearning-ai/microsofts-museformer-ai-music-is-the-new-frontier-8dc5cb24459c) | -- | AI art is exploding, music can be next. |
 | [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
 | [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
-| [How AI Could Help Preserve Art](https://towardsdatascience.com/how-ai-could-help-preserve-art-f40c8376781d) | -- | Art masterpieces are a risk at any time; AI and new technologies can give a hand |
-| [Reimagining The Little Prince with AI](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c) | -- | How AI can reimagine the little prince’s characters from their descriptions |
 | [Google’s Audiolm: Generating Music by Hearing a Song’s Snippet](https://pub.towardsai.net/googles-audiolm-generating-music-by-hearing-a-song-s-snippet-c9512a9290cd) | -- | Whether music or speech, Google's new model can continue playing what is hearing. |
-| [How artificial intelligence could save the Amazon rainforest](https://medium.com/towards-data-science/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) | -- | Amazonia is at risk and AI could help preserve it |
-| [DeepMind’s AlphaTensor: Deepmind’s Alphatensor: The AI That Is Reinventing Math](https://pub.towardsai.net/deepminds-alphatensor-deepmind-s-alphatensor-the-ai-that-is-reinventing-math-4e282e25da35) | -- | How the DeepMind’s latest model could revolutionize math |
-| [Nobel prize Cyberpunk](https://medium.com/mlearning-ai/nobel-prize-cyberpunk-e1803aa0e087) | -- | A computational view of the most important prize and perspective on AI in scientific discovery |
-| [Meta’s new model can turn text prompt into videos](https://medium.com/geekculture/metas-new-model-can-turn-text-prompt-into-videos-b6dadb94ab3b) | -- | Make-A-Vide, a new break-through in generative art |
-| [Robotics Join Machine Learning for an Electric Future](https://pub.towardsai.net/robotics-join-machine-learning-for-an-electric-future-420067527337) | -- | How robotics and AI can speed energy transition and reduce emissions |
-| [AlphaFold2 Year 1: Did It Change the World?](https://towardsdatascience.com/alphafold2-year-1-did-it-change-the-world-499a5a38130a) | -- | DeepMind promised us a revolution. Did it happen? |
+| [ Deepmind’s Alphatensor: The AI That Is Reinventing Math](https://pub.towardsai.net/deepminds-alphatensor-deepmind-s-alphatensor-the-ai-that-is-reinventing-math-4e282e25da35) | -- | How the DeepMind’s latest model could revolutionize math |
 | [Google’s PaLI: language-image learning in 100 languages](https://towardsdatascience.com/googles-pali-language-image-learning-in-100-languages-31d32f9b74fe) | -- | A new impressive model able to reach state-of-the-art in complex tasks |
-| [How AI could save a pillar of science](https://towardsdatascience.com/how-ai-could-save-a-pillar-of-science-43d564d5564d) | -- | Peer review is a human job, but we may need the aid of the machine |
 | [A critical analysis of your dataset](https://towardsdatascience.com/a-critical-analysis-of-your-dataset-2b388e7ca01e) | -- |  Stop finetuning your model: your model is already good, but not your data|
 | [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
 | [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
-| [Machine learning to tackle climate change](https://towardsdatascience.com/machine-learning-to-tackle-climate-change-7911e004c3a2) | -- | How AI could help against global warming and save the world from humans |
-| [How Science Contribution Has Become a Toxic Environment](https://towardsdatascience.com/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) | -- | How computer science has inherited the same mistakes as other disciplines |
-| [Machine learning: a friend or a foe for science?](https://towardsdatascience.com/machine-learning-a-friend-or-a-foe-for-science-9c0b421eabd8) | -- | How machine learning is affecting science reproducibility and how to solve it |
-| [How AI could fuel global warming](https://towardsdatascience.com/how-ai-could-fuel-global-warming-8f6e1dda6711) | -- |New large models are energy intensive. How much CO2 is needed for their training?  |
-| [The Curious Case of How MS-excel Was a Nightmare for Bioinformatics](https://pub.towardsai.net/the-curious-case-of-how-ms-excel-was-a-nightmare-for-bioinformatics-cc937a697350) | -- | An example of how Ms-Excel can be deleterious in data science |
-| [Speaking the Language of Life: How AlphaFold2 and Co. Are Changing Biology](https://towardsdatascience.com/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) | -- | AI is reshaping research in biology and opening new frontiers in therapy |
 | [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
 | [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
 | [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
-| [Blending the power of AI with the delicacy of poetry](https://towardsdatascience.com/blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1) | -- | AI models are now able to generate images from text, what if we furnish them with the words of great poets? A dreamy trip between poetry and AI. |
-
 
 &nbsp;
 
