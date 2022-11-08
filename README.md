@@ -49,6 +49,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Meta’s ESMfold: the rival of AlpahFold2](https://medium.com/mlearning-ai/metas-esmfold-the-rival-of-alpahfold2-2223b67f6021) | -- | Meta uses a new approach to predict over 600 million protein structures |
+| [Cancer Research Needs Better Data](https://pub.towardsai.net/cancer-research-needs-better-data-eee2bb3488a5) | -- | We have many open questions, and we need data to answer them |
 | [Code Reproducibility Crisis in Science And AI](https://pub.towardsai.net/code-reproducibility-crisis-in-science-and-ai-fa2f2ec955b4) | -- | Saving AI and scientific research requires we share more |
 | [Nobel prize Cyberpunk](https://medium.com/mlearning-ai/nobel-prize-cyberpunk-e1803aa0e087) | -- | A computational view of the most important prize and perspective on AI in scientific discovery |
 | [How AI could save a pillar of science](https://towardsdatascience.com/how-ai-could-save-a-pillar-of-science-43d564d5564d) | -- | Peer review is a human job, but we may need the aid of the machine |
@@ -64,6 +66,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [AI Reimagines Mythical Creatures](https://medium.com/illumination/ai-reimagines-mythical-creatures-49a57d5be909) | -- | A modern bestiary inspired by medieval ones. |
+| [Restore your images with AI](https://medium.com/mlearning-ai/restore-your-images-with-ai-669a333194ba) | -- | how to easily restore images with AI |
 | [How AI Could Help Preserve Art](https://towardsdatascience.com/how-ai-could-help-preserve-art-f40c8376781d) | -- | Art masterpieces are a risk at any time; AI and new technologies can give a hand |
 | [AI reimagines the world’s 20 most beautiful words](https://medium.com/mlearning-ai/ai-reimagines-the-worlds-20-most-beautiful-words-cd07090ea59b) | -- | How to translate words that cannot be translated? |
 | [Reimagining The Little Prince with AI](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c) | -- | How AI can reimagine the little prince’s characters from their descriptions |
