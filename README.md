@@ -66,6 +66,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [How AI reimages emotions](https://medium.com/illumination/how-ai-reimages-emotions-618c97cea132) | -- |Could AI transform in images concepts that are even hard to explain with words? |
 | [AI Reimagines Mythical Creatures](https://medium.com/illumination/ai-reimagines-mythical-creatures-49a57d5be909) | -- | A modern bestiary inspired by medieval ones. |
 | [Restore your images with AI](https://medium.com/mlearning-ai/restore-your-images-with-ai-669a333194ba) | -- | how to easily restore images with AI |
 | [How AI Could Help Preserve Art](https://towardsdatascience.com/how-ai-could-help-preserve-art-f40c8376781d) | -- | Art masterpieces are a risk at any time; AI and new technologies can give a hand |
@@ -91,6 +92,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [DreamFusion: 3D models from text](https://medium.com/mlearning-ai/dreamfusion-3d-models-from-text-561e8268a24c) | -- |A new Google diffusion model that allows 3D images to be obtained from the text. |
+| [Generate a piano cover with AI](https://medium.com/mlearning-ai/generate-a-piano-cover-with-ai-f4178bc9cb30) | -- | A new model generates a piano cover from a pop song: how it works? how you can try it? |
 | [Microsoft’s Museformer: AI music is the new frontier](https://medium.com/mlearning-ai/microsofts-museformer-ai-music-is-the-new-frontier-8dc5cb24459c) | -- | AI art is exploding, music can be next. |
 | [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
 | [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
