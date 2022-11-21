@@ -92,7 +92,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| [Make an app with streamlit in minutes]([https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)) | [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
+| [Make an app with streamlit in minutes](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)| [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
 | [META’s PEER: A Collaborative Language Model](https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe) | -- | PEER (Plan, Edit, Explain, Repeat): collaborate with the AI to write a text |
 | [DreamFusion: 3D models from text](https://medium.com/mlearning-ai/dreamfusion-3d-models-from-text-561e8268a24c) | -- |A new Google diffusion model that allows 3D images to be obtained from the text. |
 | [Generate a piano cover with AI](https://medium.com/mlearning-ai/generate-a-piano-cover-with-ai-f4178bc9cb30) | -- | A new model generates a piano cover from a pop song: how it works? how you can try it? |
