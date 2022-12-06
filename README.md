@@ -49,6 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Data sovereignty: sharing is not caring](https://medium.com/mlearning-ai/data-sovereignty-sharing-is-not-caring-f816f77c04fc) | -- | Researchers are urging more data transparency, is it right to grant always data access? |
 | [Meta’s ESMfold: the rival of AlpahFold2](https://medium.com/mlearning-ai/metas-esmfold-the-rival-of-alpahfold2-2223b67f6021) | -- | Meta uses a new approach to predict over 600 million protein structures |
 | [Cancer Research Needs Better Data](https://pub.towardsai.net/cancer-research-needs-better-data-eee2bb3488a5) | -- | We have many open questions, and we need data to answer them |
 | [Code Reproducibility Crisis in Science And AI](https://pub.towardsai.net/code-reproducibility-crisis-in-science-and-ai-fa2f2ec955b4) | -- | Saving AI and scientific research requires we share more |
@@ -92,6 +93,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7) | -- | A model able to conversate, persuade and beat you in a game of trust and betrayal |
+| [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b) | -- |Data science has arrived in football. How teams and companies are using it?  |
 | [Make an app with streamlit in minutes](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)| [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
 | [META’s PEER: A Collaborative Language Model](https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe) | -- | PEER (Plan, Edit, Explain, Repeat): collaborate with the AI to write a text |
 | [DreamFusion: 3D models from text](https://medium.com/mlearning-ai/dreamfusion-3d-models-from-text-561e8268a24c) | -- |A new Google diffusion model that allows 3D images to be obtained from the text. |
