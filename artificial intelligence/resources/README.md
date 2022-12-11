@@ -235,10 +235,6 @@ Keep the pace with the number of articles published every year is impossible (it
 | [signed GCN](https://arxiv.org/abs/1808.06354)| Signed conv | 2018 | Signed Graph Convolutional Network |
 | [DNA conv](https://arxiv.org/abs/1904.04849)|  Dynamic GCN|  2019| Just Jump: Dynamic Neighborhood Aggregation in Graph Neural Networks |
 | [PointNET](https://arxiv.org/abs/1612.00593)| PointNET | 2017 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation |
-| []()|  |  |  |
-| []()|  |  |  |
-| []()|  |  |  |
-| []()|  |  |  |
 | [Knowledge graph review](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016)| Geometric learning | 2020 | A Survey on Application of Knowledge Graph |
 | [GNN review](https://arxiv.org/ftp/arxiv/papers/1812/1812.08434.pdf)| Geometric learning | 2020 | Graph neural networks: A review of methods and applications |
 | [GNN benchmark](https://arxiv.org/abs/2003.00982)| Geometric learning | 2020 | Benchmarking Graph Neural Networks |
@@ -251,12 +247,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GNN explainaibility](https://arxiv.org/abs/1905.13686)| Geometric learning | 2019 | Explainability Techniques for Graph Convolutional Networks |
 | [GNN explainaibility](https://arxiv.org/abs/2001.06216)| Geometric learning | 2020 | GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks |
 | [GNN explainaibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285761/)| Geometric learning | 2021 | Deep Graph Mapper: Seeing Graphs Through the Neural Lens |
-| []()|  |  |  |
-| []()|  |  |  |
-| []()|  |  |  |
-| []()|  |  |  |
-| []()|  |  |  |
-| []()|  |  |  |
+
 
 ## Neural network and art
 
@@ -506,14 +497,6 @@ Researcher accounts
 | [Oriol Vinyals](https://twitter.com/OriolVinyalsML) | As a research scientist at Google DeepMind|
 | [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
 
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-
 Institution and department accounts
 
 | Name |   Description |
@@ -555,53 +538,6 @@ AI influencer, opinion leaders account
 | [Hanna Wallach](https://twitter.com/hannawallach) | a machine learning engineer who focuses on the intersection of social science and machine learning. |
 | [Nige Willson](https://twitter.com/nigewillson) |Nige Willson was a senior manager at Microsoft for two decades and later on established We and AI, a nonprofit organization that helps educate people about AI |
 
-
-
-
-
-
-
-
-
-
-
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-
-
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
-|  | [link]() [GitHub]() |   |
 
 
 
