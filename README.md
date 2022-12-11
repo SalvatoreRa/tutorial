@@ -67,6 +67,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Unleashing the Power of Generative AI: the Definitive List](https://medium.com/mlearning-ai/unleashing-the-power-of-generative-ai-the-definitive-list-13988d422c16)| -- | Exploring the latest advancements in AI technology and how they can benefit you |
 | [How AI reimages emotions](https://medium.com/illumination/how-ai-reimages-emotions-618c97cea132) | -- |Could AI transform in images concepts that are even hard to explain with words? |
 | [AI Reimagines Mythical Creatures](https://medium.com/illumination/ai-reimagines-mythical-creatures-49a57d5be909) | -- | A modern bestiary inspired by medieval ones. |
 | [Restore your images with AI](https://medium.com/mlearning-ai/restore-your-images-with-ai-669a333194ba) | -- | how to easily restore images with AI |
