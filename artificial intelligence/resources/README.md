@@ -1,5 +1,5 @@
 # Artificial Intelligence Resources
-## Resources on the artfificial intelligence
+## Resources on the artificial intelligence
 
 ![Resources](https://images.unsplash.com/photo-1548048026-5a1a941d93d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
