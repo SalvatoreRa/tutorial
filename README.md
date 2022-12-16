@@ -49,7 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[Twitter’s Acquisition Raises Red Flags for Scientific Community](Why scientists and data scientists are concerned)| -- | Why scientists and data scientists are concerned |
+|[Twitter’s Acquisition Raises Red Flags for Scientific Community](https://medium.com/mlearning-ai/twitters-acquisition-raises-red-flags-for-scientific-community-9b865fb2f694)| -- | Why scientists and data scientists are concerned |
 | [Data sovereignty: sharing is not caring](https://medium.com/mlearning-ai/data-sovereignty-sharing-is-not-caring-f816f77c04fc) | -- | Researchers are urging more data transparency, is it right to grant always data access? |
 | [Meta’s ESMfold: the rival of AlpahFold2](https://medium.com/mlearning-ai/metas-esmfold-the-rival-of-alpahfold2-2223b67f6021) | -- | Meta uses a new approach to predict over 600 million protein structures |
 | [Cancer Research Needs Better Data](https://pub.towardsai.net/cancer-research-needs-better-data-eee2bb3488a5) | -- | We have many open questions, and we need data to answer them |
