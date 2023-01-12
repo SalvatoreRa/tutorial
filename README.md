@@ -49,6 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[The decline of disruptive science](https://medium.com/mlearning-ai/the-decline-of-disruptive-science-730cc3fe28b1)|--|We are publishing more than ever but we are now less innovative: why?|
 |[Twitter’s Acquisition Raises Red Flags for Scientific Community](https://medium.com/mlearning-ai/twitters-acquisition-raises-red-flags-for-scientific-community-9b865fb2f694)| -- | Why scientists and data scientists are concerned |
 | [Data sovereignty: sharing is not caring](https://medium.com/mlearning-ai/data-sovereignty-sharing-is-not-caring-f816f77c04fc) | -- | Researchers are urging more data transparency, is it right to grant always data access? |
 | [Meta’s ESMfold: the rival of AlpahFold2](https://medium.com/mlearning-ai/metas-esmfold-the-rival-of-alpahfold2-2223b67f6021) | -- | Meta uses a new approach to predict over 600 million protein structures |
@@ -95,6 +96,9 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[2023: what should we expect to see in AI?](https://medium.datadriveninvestor.com/2023-what-should-we-expect-to-see-in-ai-7a6af1757ea8)|--|A discussion on emerging trends and possible scenarios|
+|[Data2vec: one AI to rule all](https://levelup.gitconnected.com/data2vec-one-ai-to-rule-all-6c9be729331d)|--|A model that can learn across modalities learning by itself|
+|[A Visual Journey in What Vision-Transformers See](https://pub.towardsai.net/a-visual-journey-in-what-vision-transformers-see-9db9c8ba62d4)|--|How some of the largest models see the world|
 |[The Rise of AI: A Look at the 2022 Landscape](https://medium.com/towards-artificial-intelligence/the-rise-of-ai-a-look-at-the-2022-landscape-956e7e3f1839)| -- | Innovation and disruption: a look-up on what happened in AI in 2022 |
 |[The Unbearable Lightness of Being ChatGPT](https://medium.com/mlearning-ai/the-unbearable-lightness-of-being-chatgpt-95a4d9b48ed1)| -- | An ethical discussion with the most talked-about chatbot of the moment|
 |[Can an AI be a data scientist?](https://medium.com/mlearning-ai/can-an-ai-be-a-data-scientist-2d4d9b6c5d5)|[notebook](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/OpenAI_ChatGPT_test.ipynb)|OpenAI’s ChatGPT is blowing data scientists' minds. Could it steal their job?|
@@ -119,7 +123,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 &nbsp;
 
-# Articles on Biology
+# Articles and tutorials of Bioinformatics/AI/ML applied on Biology
 
 This series of tutorials on use of  and machine learning and trascriptmic data with transcriptomic data. I will implement also tutorials about the use of machine learning with biomedical images. 
 
