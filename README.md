@@ -96,6 +96,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[The EU wants to regulate your favorite AI tools](https://medium.com/mlearning-ai/the-eu-wants-to-regulate-your-favorite-ai-tools-7419d985f2f2)|--| EU is preparing a new AI bill and generative AI is included|
+|[Everything but everything you need to know about ChatGPT](https://medium.com/data-driven-fiction/everything-but-everything-you-need-to-know-about-chatgpt-546af7153ee2)|--| what is known, the latest news, what it is impacting, and what is changing. all in one article |
 |[2023: what should we expect to see in AI?](https://medium.datadriveninvestor.com/2023-what-should-we-expect-to-see-in-ai-7a6af1757ea8)|--|A discussion on emerging trends and possible scenarios|
 |[Data2vec: one AI to rule all](https://levelup.gitconnected.com/data2vec-one-ai-to-rule-all-6c9be729331d)|--|A model that can learn across modalities learning by itself|
 |[A Visual Journey in What Vision-Transformers See](https://pub.towardsai.net/a-visual-journey-in-what-vision-transformers-see-9db9c8ba62d4)|--|How some of the largest models see the world|
