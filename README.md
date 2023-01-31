@@ -49,6 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [This Is Your Brain On Code](https://pub.towardsai.net/this-is-your-brain-on-code-ad24b55c16dd) | -- | New research highlights what happens in the brain while coding|
 |[The decline of disruptive science](https://medium.com/mlearning-ai/the-decline-of-disruptive-science-730cc3fe28b1)|--|We are publishing more than ever but we are now less innovative: why?|
 |[Twitter’s Acquisition Raises Red Flags for Scientific Community](https://medium.com/mlearning-ai/twitters-acquisition-raises-red-flags-for-scientific-community-9b865fb2f694)| -- | Why scientists and data scientists are concerned |
 | [Data sovereignty: sharing is not caring](https://medium.com/mlearning-ai/data-sovereignty-sharing-is-not-caring-f816f77c04fc) | -- | Researchers are urging more data transparency, is it right to grant always data access? |
@@ -69,6 +70,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Exploring the Wisdom of the Ages: Using AI art to Draw Philosopher Quotes](https://medium.com/data-driven-fiction/exploring-the-wisdom-of-the-ages-using-ai-art-to-draw-philosopher-quotes-2f5adeab5343) | -- | Does an image worth thousands of words? or some words remain elusive? |
 |[Unleashing the Power of Generative AI: the Definitive List](https://medium.com/mlearning-ai/unleashing-the-power-of-generative-ai-the-definitive-list-13988d422c16)| -- | Exploring the latest advancements in AI technology and how they can benefit you |
 | [How AI reimages emotions](https://medium.com/illumination/how-ai-reimages-emotions-618c97cea132) | -- |Could AI transform in images concepts that are even hard to explain with words? |
 | [AI Reimagines Mythical Creatures](https://medium.com/illumination/ai-reimagines-mythical-creatures-49a57d5be909) | -- | A modern bestiary inspired by medieval ones. |
@@ -96,6 +98,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Deep learning can tell if you are above the drinking limit](https://medium.com/geekculture/deep-learning-can-tell-if-you-are-above-the-drinking-limit-40bea9205878) | -- | A new algorithm that can measure your alcohol consumption from your speech|
+| [Create your painting app with AI and Streamlit](https://medium.com/mlearning-ai/create-your-painting-app-with-ai-and-streamlit-62ad079fb117) | [App Link](https://salvatorera-streamstyle-main-4my47f.streamlit.app/) [GitHub repository](https://github.com/SalvatoreRa/StreamStyle) |How to make an app with few lines of code and a spare afternoon |
 |[The EU wants to regulate your favorite AI tools](https://medium.com/mlearning-ai/the-eu-wants-to-regulate-your-favorite-ai-tools-7419d985f2f2)|--| EU is preparing a new AI bill and generative AI is included|
 |[Everything but everything you need to know about ChatGPT](https://medium.com/data-driven-fiction/everything-but-everything-you-need-to-know-about-chatgpt-546af7153ee2)|--| what is known, the latest news, what it is impacting, and what is changing. all in one article |
 |[2023: what should we expect to see in AI?](https://medium.datadriveninvestor.com/2023-what-should-we-expect-to-see-in-ai-7a6af1757ea8)|--|A discussion on emerging trends and possible scenarios|
