@@ -98,6 +98,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c#c3a5-8cd785447f67) | -- | A new model is generating impressive music from just text prompt |
 | [Deep learning can tell if you are above the drinking limit](https://medium.com/geekculture/deep-learning-can-tell-if-you-are-above-the-drinking-limit-40bea9205878) | -- | A new algorithm that can measure your alcohol consumption from your speech|
 | [Create your painting app with AI and Streamlit](https://medium.com/mlearning-ai/create-your-painting-app-with-ai-and-streamlit-62ad079fb117) | [App Link](https://salvatorera-streamstyle-main-4my47f.streamlit.app/) / [GitHub repository](https://github.com/SalvatoreRa/StreamStyle) |How to make an app with few lines of code and a spare afternoon |
 |[The EU wants to regulate your favorite AI tools](https://medium.com/mlearning-ai/the-eu-wants-to-regulate-your-favorite-ai-tools-7419d985f2f2)|--| EU is preparing a new AI bill and generative AI is included|
