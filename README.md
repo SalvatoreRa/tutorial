@@ -49,6 +49,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Artificial intelligence to search for alien intelligence](https://medium.com/geekculture/artificial-intelligence-to-search-for-alien-intelligence-8d5fbe8c1c9d)| -- | How SETI project is using AI to answer the question: are we alone? |
+|[AI enables designing new proteins from scratch](https://medium.com/advances-in-biological-science/ai-enables-designing-new-proteins-from-scratch-c53798118942)| -- | https://medium.com/advances-in-biological-science/ai-enables-designing-new-proteins-from-scratch-c53798118942 |
 | [This Is Your Brain On Code](https://pub.towardsai.net/this-is-your-brain-on-code-ad24b55c16dd) | -- | New research highlights what happens in the brain while coding|
 |[The decline of disruptive science](https://medium.com/mlearning-ai/the-decline-of-disruptive-science-730cc3fe28b1)|--|We are publishing more than ever but we are now less innovative: why?|
 |[Twitter’s Acquisition Raises Red Flags for Scientific Community](https://medium.com/mlearning-ai/twitters-acquisition-raises-red-flags-for-scientific-community-9b865fb2f694)| -- | Why scientists and data scientists are concerned |
@@ -70,6 +72,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[InstructPix2Pix: use text instructions to edit your images](https://levelup.gitconnected.com/instructpix2pix-use-text-instructions-to-edit-your-images-50acf7afa72a)| -- | A new model that allows you to modify your images just by writing the editing instructions |
 | [Exploring the Wisdom of the Ages: Using AI art to Draw Philosopher Quotes](https://medium.com/data-driven-fiction/exploring-the-wisdom-of-the-ages-using-ai-art-to-draw-philosopher-quotes-2f5adeab5343) | -- | Does an image worth thousands of words? or some words remain elusive? |
 |[Unleashing the Power of Generative AI: the Definitive List](https://medium.com/mlearning-ai/unleashing-the-power-of-generative-ai-the-definitive-list-13988d422c16)| -- | Exploring the latest advancements in AI technology and how they can benefit you |
 | [How AI reimages emotions](https://medium.com/illumination/how-ai-reimages-emotions-618c97cea132) | -- |Could AI transform in images concepts that are even hard to explain with words? |
@@ -98,6 +101,9 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[SparseGPT: fewer parameters is better?](https://levelup.gitconnected.com/sparsegpt-fewer-parameters-is-better-7b47ad60ac00)| -- | How to get rid of 100 billion parameters and happily infer on one GPU |
+|[Microsoft or: How I Learned to Stop Worrying and Love ChatGPT](https://medium.com/data-driven-fiction/microsoft-or-how-i-learned-to-stop-worrying-and-love-chatgpt-2ca1e7b446a3)| -- | how Google disapproves of this love and other stories related |
+|[Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c)| -- | A new model is generating impressive music from just text prompt |
 | [Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c#c3a5-8cd785447f67) | -- | A new model is generating impressive music from just text prompt |
 | [Deep learning can tell if you are above the drinking limit](https://medium.com/geekculture/deep-learning-can-tell-if-you-are-above-the-drinking-limit-40bea9205878) | -- | A new algorithm that can measure your alcohol consumption from your speech|
 | [Create your painting app with AI and Streamlit](https://medium.com/mlearning-ai/create-your-painting-app-with-ai-and-streamlit-62ad079fb117) | [App Link](https://salvatorera-streamstyle-main-4my47f.streamlit.app/) / [GitHub repository](https://github.com/SalvatoreRa/StreamStyle) |How to make an app with few lines of code and a spare afternoon |
