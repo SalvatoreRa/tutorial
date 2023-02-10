@@ -64,6 +64,7 @@ If the file is contained in a zip.file, to upload in Google Colab
 ```Python
 import sys
 import os
+import pandas as pd
 #this for unzip and read the file
 !wget https://github.com/SalvatoreRa/tutorial/blob/main/datasets/IMDB.zip?raw=true
 !unzip IMDB.zip?raw=true
