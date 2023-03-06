@@ -49,6 +49,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Stable diffusion and the brain: how AI can read our minds](https://levelup.gitconnected.com/stable-diffusion-and-the-brain-how-ai-can-read-our-minds-45398b395ea9)|--|Researchers were able to reconstruct images using fMRI data |
+| [Stable diffusion to fill gaps in medical image data](https://levelup.gitconnected.com/stable-diffusion-to-fill-gaps-in-medical-image-data-b78a2a7d6c9d)|--| A new study shows that stable diffusion could help with medical image analysis and rare diseases. How? |
 |[Artificial intelligence to search for alien intelligence](https://medium.com/geekculture/artificial-intelligence-to-search-for-alien-intelligence-8d5fbe8c1c9d)| -- | How SETI project is using AI to answer the question: are we alone? |
 |[AI enables designing new proteins from scratch](https://medium.com/advances-in-biological-science/ai-enables-designing-new-proteins-from-scratch-c53798118942)| -- | https://medium.com/advances-in-biological-science/ai-enables-designing-new-proteins-from-scratch-c53798118942 |
 | [This Is Your Brain On Code](https://pub.towardsai.net/this-is-your-brain-on-code-ad24b55c16dd) | -- | New research highlights what happens in the brain while coding|
@@ -72,6 +74,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [ControlNet: control your AI art generation](https://levelup.gitconnected.com/controlnet-control-your-ai-art-generation-616c86c88964)|--| A new model allows fine control and gets the maximum from stable diffusion |
 |[InstructPix2Pix: use text instructions to edit your images](https://levelup.gitconnected.com/instructpix2pix-use-text-instructions-to-edit-your-images-50acf7afa72a)| -- | A new model that allows you to modify your images just by writing the editing instructions |
 | [Exploring the Wisdom of the Ages: Using AI art to Draw Philosopher Quotes](https://medium.com/data-driven-fiction/exploring-the-wisdom-of-the-ages-using-ai-art-to-draw-philosopher-quotes-2f5adeab5343) | -- | Does an image worth thousands of words? or some words remain elusive? |
 |[Unleashing the Power of Generative AI: the Definitive List](https://medium.com/mlearning-ai/unleashing-the-power-of-generative-ai-the-definitive-list-13988d422c16)| -- | Exploring the latest advancements in AI technology and how they can benefit you |
@@ -101,6 +104,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
+| [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 |[Why Do We Have Huge Language Models and Small Vision Transformers?](https://towardsdatascience.com/why-do-we-have-huge-language-models-and-small-vision-transformers-5d59ac36c1d6)| -- | Google ViT-22 paves the way for new large transformers and to revolutionize computer vision |
 |[RazzAIe awards 2022: what are the worst AI of the year?](https://medium.datadriveninvestor.com/razzaie-awards-2022-what-are-the-worst-ai-of-the-year-a2596c566218)| -- |What are the worst models of the year? What went wrong? |
 |[Microsoft BioGPT: Towards the ChatGPT of life science?](https://levelup.gitconnected.com/microsoft-biogpt-towards-the-chatgpt-of-life-science-56e251536af6)| -- |BioGPT achieves the SOTA in different biomedical NLP tasks |
