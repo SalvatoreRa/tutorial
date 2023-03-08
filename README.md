@@ -104,6 +104,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
 | [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 |[Why Do We Have Huge Language Models and Small Vision Transformers?](https://towardsdatascience.com/why-do-we-have-huge-language-models-and-small-vision-transformers-5d59ac36c1d6)| -- | Google ViT-22 paves the way for new large transformers and to revolutionize computer vision |
