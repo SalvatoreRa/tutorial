@@ -105,9 +105,9 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| []() | -- | |
-| []() | -- | |
-| []() | -- | |
+| [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa) | -- | The world is not only text: How to extend the chain of thoughts to image and text?|
+| [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
+| [Did ChatGPT have an impact?](https://levelup.gitconnected.com/did-chatgpt-have-an-impact-bcb4c64a9816) | -- | Three months after the chatbot took the world by storm what happened? |
 |[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
 | [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
