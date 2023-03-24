@@ -49,6 +49,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Making Language Models Similar to the Human Brain](https://towardsdatascience.com/making-language-models-similar-to-human-brain-b6ea8270be08) | -- | There is still a gap between LMs and the human brain in NLP, inspiring AI to the latter could fill it |
+| [Google Med-PaLM: The AI Clinician](https://towardsdatascience.com/google-med-palm-the-ai-clinician-a4482143d60e) | -- |Google's new model is trained to answer medical questions. How? |
 | [PCA: Bioinformatician’s Favorite Tool Can Be Misleading](https://pub.towardsai.net/pca-bioinformaticians-favorite-tool-can-be-misleading-fe139262a576) | -- | A new study assesses how a most used technique can be problematic |
 | [Stable diffusion and the brain: how AI can read our minds](https://levelup.gitconnected.com/stable-diffusion-and-the-brain-how-ai-can-read-our-minds-45398b395ea9)|--|Researchers were able to reconstruct images using fMRI data |
 | [Stable diffusion to fill gaps in medical image data](https://levelup.gitconnected.com/stable-diffusion-to-fill-gaps-in-medical-image-data-b78a2a7d6c9d)|--| A new study shows that stable diffusion could help with medical image analysis and rare diseases. How? |
