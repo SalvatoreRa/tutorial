@@ -49,6 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Through the Looking Glass, and What Google find there in the eye](https://towardsdatascience.com/through-the-looking-glass-and-what-google-find-there-in-the-eye-e7a836eb9571)| -- | Or How Google is Using Deep Learning to Diagnose Diseases in Eye Photos |
 | [Making Language Models Similar to the Human Brain](https://towardsdatascience.com/making-language-models-similar-to-human-brain-b6ea8270be08) | -- | There is still a gap between LMs and the human brain in NLP, inspiring AI to the latter could fill it |
 | [Google Med-PaLM: The AI Clinician](https://towardsdatascience.com/google-med-palm-the-ai-clinician-a4482143d60e) | -- |Google's new model is trained to answer medical questions. How? |
 | [PCA: Bioinformatician’s Favorite Tool Can Be Misleading](https://pub.towardsai.net/pca-bioinformaticians-favorite-tool-can-be-misleading-fe139262a576) | -- | A new study assesses how a most used technique can be problematic |
@@ -107,6 +108,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
 | [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa) | -- | The world is not only text: How to extend the chain of thoughts to image and text?|
 | [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
 | [Did ChatGPT have an impact?](https://levelup.gitconnected.com/did-chatgpt-have-an-impact-bcb4c64a9816) | -- | Three months after the chatbot took the world by storm what happened? |
