@@ -108,6 +108,9 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [HuggingGPT: Give Your Chatbot an AI Army](https://levelup.gitconnected.com/hugginggpt-give-your-chatbot-an-ai-army-cfadf5647f98) | -- | HuggingGPT is capable to manage other models and solve complex tasks |
+| [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
+| [The Intelligence Quotient of GPT-4: how to determinate intelligence](https://levelup.gitconnected.com/the-intelligence-quotient-of-gpt-4-how-to-determinate-intelligence-990586a276c5) | -- | From Artificial Intelligence to Artificial General Intelligence: Where Does GPT-4 Stand? |
 | [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
 | [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa) | -- | The world is not only text: How to extend the chain of thoughts to image and text?|
 | [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
