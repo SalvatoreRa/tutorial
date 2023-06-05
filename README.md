@@ -49,6 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Looking into Your Eyes: How Google AI Model Can Predict Your Age from the Eye](https://levelup.gitconnected.com/looking-into-your-eyes-how-google-ai-model-can-predict-your-age-from-the-eye-857979339da9) | -- |The new model can unlock secrets of aging by analyzing eye photos |
 | [Through the Looking Glass, and What Google find there in the eye](https://towardsdatascience.com/through-the-looking-glass-and-what-google-find-there-in-the-eye-e7a836eb9571)| -- | Or How Google is Using Deep Learning to Diagnose Diseases in Eye Photos |
 | [Making Language Models Similar to the Human Brain](https://towardsdatascience.com/making-language-models-similar-to-human-brain-b6ea8270be08) | -- | There is still a gap between LMs and the human brain in NLP, inspiring AI to the latter could fill it |
 | [Google Med-PaLM: The AI Clinician](https://towardsdatascience.com/google-med-palm-the-ai-clinician-a4482143d60e) | -- |Google's new model is trained to answer medical questions. How? |
@@ -108,6 +109,12 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| []() | -- | |
+| []() | -- | |
+| []() | -- | |
+| []() | -- | |
+| []() | -- | |
+| [META’S SAM: A Unique Model to Segment Anything](https://levelup.gitconnected.com/metas-sam-a-unique-model-to-segment-anything-c3a956bf5d62) | -- |Segmentation needs a foundation model: why is it important? |
 | [HuggingGPT: Give Your Chatbot an AI Army](https://levelup.gitconnected.com/hugginggpt-give-your-chatbot-an-ai-army-cfadf5647f98) | -- | HuggingGPT is capable to manage other models and solve complex tasks |
 | [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
 | [The Intelligence Quotient of GPT-4: how to determinate intelligence](https://levelup.gitconnected.com/the-intelligence-quotient-of-gpt-4-how-to-determinate-intelligence-990586a276c5) | -- | From Artificial Intelligence to Artificial General Intelligence: Where Does GPT-4 Stand? |
