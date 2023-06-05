@@ -112,6 +112,12 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | []() | -- | |
 | []() | -- | |
 | []() | -- | |
+| []() | -- | |
+| []() | -- | |
+| []() | -- | |
+| [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
+| [AudioGPT: bridging text to music](https://levelup.gitconnected.com/audiogpt-bridging-text-to-music-7fa16c0cce43) | -- | A new AI model connects ChatGPT with audio and music models|
+| [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
 | [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc) | -- |The Hyena model shows how convolution could be faster than self-attention |
 | [META DINO: how self-supervised learning is changing computer vision](https://levelup.gitconnected.com/meta-dino-how-self-supervised-learning-is-changing-computer-vision-1666a5e43dbb) | -- |Curated data, visual features, and knowledge distillation: the foundations of next computer vision models |
 | [META’S SAM: A Unique Model to Segment Anything](https://levelup.gitconnected.com/metas-sam-a-unique-model-to-segment-anything-c3a956bf5d62) | -- |Segmentation needs a foundation model: why is it important? |
