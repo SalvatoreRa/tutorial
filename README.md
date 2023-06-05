@@ -49,6 +49,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [scGPT: When Transformers Meet Biology and Fall in Love](https://levelup.gitconnected.com/scgpt-when-transformers-meet-biology-and-fall-in-love-777d95887050) | -- |Exploring the Potential of Generative Pre-Training for Single-Cell Sequencing and Analysis |
+| [PMC-LLaMA: Because Googling Symptoms is Not Enough](https://levelup.gitconnected.com/pmc-llama-because-googling-symptoms-is-not-enough-e1b875ee4c4a) | -- | A small model that can be your best friend in medical school (or on trivia night)|
 | [Looking into Your Eyes: How Google AI Model Can Predict Your Age from the Eye](https://levelup.gitconnected.com/looking-into-your-eyes-how-google-ai-model-can-predict-your-age-from-the-eye-857979339da9) | -- |The new model can unlock secrets of aging by analyzing eye photos |
 | [Through the Looking Glass, and What Google find there in the eye](https://towardsdatascience.com/through-the-looking-glass-and-what-google-find-there-in-the-eye-e7a836eb9571)| -- | Or How Google is Using Deep Learning to Diagnose Diseases in Eye Photos |
 | [Making Language Models Similar to the Human Brain](https://towardsdatascience.com/making-language-models-similar-to-human-brain-b6ea8270be08) | -- | There is still a gap between LMs and the human brain in NLP, inspiring AI to the latter could fill it |
@@ -115,6 +117,10 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | []() | -- | |
 | []() | -- | |
 | []() | -- | |
+| []() | -- | |
+| []() | -- | |
+| []() | -- | |
+| [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
 | [AudioGPT: bridging text to music](https://levelup.gitconnected.com/audiogpt-bridging-text-to-music-7fa16c0cce43) | -- | A new AI model connects ChatGPT with audio and music models|
 | [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
