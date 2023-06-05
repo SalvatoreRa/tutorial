@@ -49,6 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Google Med-PaLM 2: is AI ready for medical residency?](https://levelup.gitconnected.com/google-med-palm-2-is-ai-ready-for-medical-residency-e37907115bd0) | -- |Google's new model achieves impressive results in the medical domain |
 | [scGPT: When Transformers Meet Biology and Fall in Love](https://levelup.gitconnected.com/scgpt-when-transformers-meet-biology-and-fall-in-love-777d95887050) | -- |Exploring the Potential of Generative Pre-Training for Single-Cell Sequencing and Analysis |
 | [PMC-LLaMA: Because Googling Symptoms is Not Enough](https://levelup.gitconnected.com/pmc-llama-because-googling-symptoms-is-not-enough-e1b875ee4c4a) | -- | A small model that can be your best friend in medical school (or on trivia night)|
 | [Looking into Your Eyes: How Google AI Model Can Predict Your Age from the Eye](https://levelup.gitconnected.com/looking-into-your-eyes-how-google-ai-model-can-predict-your-age-from-the-eye-857979339da9) | -- |The new model can unlock secrets of aging by analyzing eye photos |
@@ -107,43 +108,53 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 &nbsp;
 
+**Natural Language Processing and LLMs**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [The imitation game: Taming the gap between open source and proprietary models](https://levelup.gitconnected.com/the-imitation-game-taming-the-gap-between-open-source-and-proprietary-models-627374b390e5) | -- | Can imitation models reach the performance of proprietary models like ChatGPT?|
+| [Scaling Isn’t Everything: How Bigger Models Fail Harder](https://salvatore-raieli.medium.com/scaling-isnt-everything-how-bigger-models-fail-harder-d64589be4f04) | -- | Are Large Language Models really understanding programming languages?|
+| [META’S LIMA: Maria Kondo’s way for LLMs training](https://levelup.gitconnected.com/metas-lima-maria-kondo-s-way-for-llms-training-8411e3907fed) | -- | Less and tidy data to create a model capable to rival ChatGPT|
+| [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9) | -- |Changing Perspective on Large Language Models emerging properties |
+| [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc) | -- |The Hyena model shows how convolution could be faster than self-attention |
+| [HuggingGPT: Give Your Chatbot an AI Army](https://levelup.gitconnected.com/hugginggpt-give-your-chatbot-an-ai-army-cfadf5647f98) | -- | HuggingGPT is capable to manage other models and solve complex tasks |
+| [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
+| [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa) | -- | The world is not only text: How to extend the chain of thoughts to image and text?|
+| [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
+| [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
+|[SparseGPT: fewer parameters is better?](https://levelup.gitconnected.com/sparsegpt-fewer-parameters-is-better-7b47ad60ac00)| -- | How to get rid of 100 billion parameters and happily infer on one GPU |
+| [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7) | -- | A model able to conversate, persuade and beat you in a game of trust and betrayal |
+| [META’s PEER: A Collaborative Language Model](https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe) | -- | PEER (Plan, Edit, Explain, Repeat): collaborate with the AI to write a text |
+| [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
+| [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
+| [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
+
+&nbsp;
+
 **Others**
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| []() | -- | |
-| []() | -- | |
-| []() | -- | |
-| []() | -- | |
-| []() | -- | |
-| []() | -- | |
-| []() | -- | |
-| [Scaling Isn’t Everything: How Bigger Models Fail Harder](https://salvatore-raieli.medium.com/scaling-isnt-everything-how-bigger-models-fail-harder-d64589be4f04) | -- | Are Large Language Models really understanding programming languages?|
-| [META’S LIMA: Maria Kondo’s way for LLMs training](https://levelup.gitconnected.com/metas-lima-maria-kondo-s-way-for-llms-training-8411e3907fed) | -- | Less and tidy data to create a model capable to rival ChatGPT|
-| [Google Med-PaLM 2: is AI ready for medical residency?](https://levelup.gitconnected.com/google-med-palm-2-is-ai-ready-for-medical-residency-e37907115bd0) | -- |Google's new model achieves impressive results in the medical domain |
 | [To AI or not to AI: how to survive?](https://levelup.gitconnected.com/to-ai-or-not-to-ai-how-to-survive-f5e853aebd5b) | -- |With generative AI threatening businesses and side hustles, how you can find space? |
-| [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9) | -- |Changing Perspective on Large Language Models emerging properties |
 | [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
 | [AudioGPT: bridging text to music](https://levelup.gitconnected.com/audiogpt-bridging-text-to-music-7fa16c0cce43) | -- | A new AI model connects ChatGPT with audio and music models|
 | [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
-| [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc) | -- |The Hyena model shows how convolution could be faster than self-attention |
+
 | [META DINO: how self-supervised learning is changing computer vision](https://levelup.gitconnected.com/meta-dino-how-self-supervised-learning-is-changing-computer-vision-1666a5e43dbb) | -- |Curated data, visual features, and knowledge distillation: the foundations of next computer vision models |
 | [META’S SAM: A Unique Model to Segment Anything](https://levelup.gitconnected.com/metas-sam-a-unique-model-to-segment-anything-c3a956bf5d62) | -- |Segmentation needs a foundation model: why is it important? |
-| [HuggingGPT: Give Your Chatbot an AI Army](https://levelup.gitconnected.com/hugginggpt-give-your-chatbot-an-ai-army-cfadf5647f98) | -- | HuggingGPT is capable to manage other models and solve complex tasks |
+
 | [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
 | [The Intelligence Quotient of GPT-4: how to determinate intelligence](https://levelup.gitconnected.com/the-intelligence-quotient-of-gpt-4-how-to-determinate-intelligence-990586a276c5) | -- | From Artificial Intelligence to Artificial General Intelligence: Where Does GPT-4 Stand? |
-| [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
-| [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa) | -- | The world is not only text: How to extend the chain of thoughts to image and text?|
-| [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
+
 | [Did ChatGPT have an impact?](https://levelup.gitconnected.com/did-chatgpt-have-an-impact-bcb4c64a9816) | -- | Three months after the chatbot took the world by storm what happened? |
 |[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
-| [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
+
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 |[Why Do We Have Huge Language Models and Small Vision Transformers?](https://towardsdatascience.com/why-do-we-have-huge-language-models-and-small-vision-transformers-5d59ac36c1d6)| -- | Google ViT-22 paves the way for new large transformers and to revolutionize computer vision |
 |[RazzAIe awards 2022: what are the worst AI of the year?](https://medium.datadriveninvestor.com/razzaie-awards-2022-what-are-the-worst-ai-of-the-year-a2596c566218)| -- |What are the worst models of the year? What went wrong? |
 |[Microsoft BioGPT: Towards the ChatGPT of life science?](https://levelup.gitconnected.com/microsoft-biogpt-towards-the-chatgpt-of-life-science-56e251536af6)| -- |BioGPT achieves the SOTA in different biomedical NLP tasks |
-|[SparseGPT: fewer parameters is better?](https://levelup.gitconnected.com/sparsegpt-fewer-parameters-is-better-7b47ad60ac00)| -- | How to get rid of 100 billion parameters and happily infer on one GPU |
+
 |[Microsoft or: How I Learned to Stop Worrying and Love ChatGPT](https://medium.com/data-driven-fiction/microsoft-or-how-i-learned-to-stop-worrying-and-love-chatgpt-2ca1e7b446a3)| -- | how Google disapproves of this love and other stories related |
 |[Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c)| -- | A new model is generating impressive music from just text prompt |
 | [Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c#c3a5-8cd785447f67) | -- | A new model is generating impressive music from just text prompt |
@@ -157,10 +168,10 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 |[The Rise of AI: A Look at the 2022 Landscape](https://medium.com/towards-artificial-intelligence/the-rise-of-ai-a-look-at-the-2022-landscape-956e7e3f1839)| -- | Innovation and disruption: a look-up on what happened in AI in 2022 |
 |[The Unbearable Lightness of Being ChatGPT](https://medium.com/mlearning-ai/the-unbearable-lightness-of-being-chatgpt-95a4d9b48ed1)| -- | An ethical discussion with the most talked-about chatbot of the moment|
 |[Can an AI be a data scientist?](https://medium.com/mlearning-ai/can-an-ai-be-a-data-scientist-2d4d9b6c5d5)|[notebook](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/OpenAI_ChatGPT_test.ipynb)|OpenAI’s ChatGPT is blowing data scientists' minds. Could it steal their job?|
-| [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7) | -- | A model able to conversate, persuade and beat you in a game of trust and betrayal |
+
 | [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b) | -- |Data science has arrived in football. How teams and companies are using it?  |
 | [Make an app with streamlit in minutes](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)| [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
-| [META’s PEER: A Collaborative Language Model](https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe) | -- | PEER (Plan, Edit, Explain, Repeat): collaborate with the AI to write a text |
+
 | [DreamFusion: 3D models from text](https://medium.com/mlearning-ai/dreamfusion-3d-models-from-text-561e8268a24c) | -- |A new Google diffusion model that allows 3D images to be obtained from the text. |
 | [Generate a piano cover with AI](https://medium.com/mlearning-ai/generate-a-piano-cover-with-ai-f4178bc9cb30) | -- | A new model generates a piano cover from a pop song: how it works? how you can try it? |
 | [Microsoft’s Museformer: AI music is the new frontier](https://medium.com/mlearning-ai/microsofts-museformer-ai-music-is-the-new-frontier-8dc5cb24459c) | -- | AI art is exploding, music can be next. |
@@ -172,9 +183,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | [A critical analysis of your dataset](https://towardsdatascience.com/a-critical-analysis-of-your-dataset-2b388e7ca01e) | -- |  Stop finetuning your model: your model is already good, but not your data|
 | [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
 | [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
-| [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
-| [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
-| [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
+
 
 &nbsp;
 
