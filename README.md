@@ -118,8 +118,11 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | []() | -- | |
 | []() | -- | |
 | []() | -- | |
-| []() | -- | |
-| []() | -- | |
+| [Scaling Isn’t Everything: How Bigger Models Fail Harder](https://salvatore-raieli.medium.com/scaling-isnt-everything-how-bigger-models-fail-harder-d64589be4f04) | -- | Are Large Language Models really understanding programming languages?|
+| [META’S LIMA: Maria Kondo’s way for LLMs training](https://levelup.gitconnected.com/metas-lima-maria-kondo-s-way-for-llms-training-8411e3907fed) | -- | Less and tidy data to create a model capable to rival ChatGPT|
+| [Google Med-PaLM 2: is AI ready for medical residency?](https://levelup.gitconnected.com/google-med-palm-2-is-ai-ready-for-medical-residency-e37907115bd0) | -- |Google's new model achieves impressive results in the medical domain |
+| [To AI or not to AI: how to survive?](https://levelup.gitconnected.com/to-ai-or-not-to-ai-how-to-survive-f5e853aebd5b) | -- |With generative AI threatening businesses and side hustles, how you can find space? |
+| [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9) | -- |Changing Perspective on Large Language Models emerging properties |
 | [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
 | [AudioGPT: bridging text to music](https://levelup.gitconnected.com/audiogpt-bridging-text-to-music-7fa16c0cce43) | -- | A new AI model connects ChatGPT with audio and music models|
