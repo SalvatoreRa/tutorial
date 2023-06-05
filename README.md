@@ -140,21 +140,16 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
 | [AudioGPT: bridging text to music](https://levelup.gitconnected.com/audiogpt-bridging-text-to-music-7fa16c0cce43) | -- | A new AI model connects ChatGPT with audio and music models|
 | [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
-
 | [META DINO: how self-supervised learning is changing computer vision](https://levelup.gitconnected.com/meta-dino-how-self-supervised-learning-is-changing-computer-vision-1666a5e43dbb) | -- |Curated data, visual features, and knowledge distillation: the foundations of next computer vision models |
 | [META’S SAM: A Unique Model to Segment Anything](https://levelup.gitconnected.com/metas-sam-a-unique-model-to-segment-anything-c3a956bf5d62) | -- |Segmentation needs a foundation model: why is it important? |
-
 | [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
 | [The Intelligence Quotient of GPT-4: how to determinate intelligence](https://levelup.gitconnected.com/the-intelligence-quotient-of-gpt-4-how-to-determinate-intelligence-990586a276c5) | -- | From Artificial Intelligence to Artificial General Intelligence: Where Does GPT-4 Stand? |
-
 | [Did ChatGPT have an impact?](https://levelup.gitconnected.com/did-chatgpt-have-an-impact-bcb4c64a9816) | -- | Three months after the chatbot took the world by storm what happened? |
 |[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
-
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 |[Why Do We Have Huge Language Models and Small Vision Transformers?](https://towardsdatascience.com/why-do-we-have-huge-language-models-and-small-vision-transformers-5d59ac36c1d6)| -- | Google ViT-22 paves the way for new large transformers and to revolutionize computer vision |
 |[RazzAIe awards 2022: what are the worst AI of the year?](https://medium.datadriveninvestor.com/razzaie-awards-2022-what-are-the-worst-ai-of-the-year-a2596c566218)| -- |What are the worst models of the year? What went wrong? |
 |[Microsoft BioGPT: Towards the ChatGPT of life science?](https://levelup.gitconnected.com/microsoft-biogpt-towards-the-chatgpt-of-life-science-56e251536af6)| -- |BioGPT achieves the SOTA in different biomedical NLP tasks |
-
 |[Microsoft or: How I Learned to Stop Worrying and Love ChatGPT](https://medium.com/data-driven-fiction/microsoft-or-how-i-learned-to-stop-worrying-and-love-chatgpt-2ca1e7b446a3)| -- | how Google disapproves of this love and other stories related |
 |[Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c)| -- | A new model is generating impressive music from just text prompt |
 | [Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c#c3a5-8cd785447f67) | -- | A new model is generating impressive music from just text prompt |
@@ -168,10 +163,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 |[The Rise of AI: A Look at the 2022 Landscape](https://medium.com/towards-artificial-intelligence/the-rise-of-ai-a-look-at-the-2022-landscape-956e7e3f1839)| -- | Innovation and disruption: a look-up on what happened in AI in 2022 |
 |[The Unbearable Lightness of Being ChatGPT](https://medium.com/mlearning-ai/the-unbearable-lightness-of-being-chatgpt-95a4d9b48ed1)| -- | An ethical discussion with the most talked-about chatbot of the moment|
 |[Can an AI be a data scientist?](https://medium.com/mlearning-ai/can-an-ai-be-a-data-scientist-2d4d9b6c5d5)|[notebook](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/OpenAI_ChatGPT_test.ipynb)|OpenAI’s ChatGPT is blowing data scientists' minds. Could it steal their job?|
-
 | [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b) | -- |Data science has arrived in football. How teams and companies are using it?  |
 | [Make an app with streamlit in minutes](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)| [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
-
 | [DreamFusion: 3D models from text](https://medium.com/mlearning-ai/dreamfusion-3d-models-from-text-561e8268a24c) | -- |A new Google diffusion model that allows 3D images to be obtained from the text. |
 | [Generate a piano cover with AI](https://medium.com/mlearning-ai/generate-a-piano-cover-with-ai-f4178bc9cb30) | -- | A new model generates a piano cover from a pop song: how it works? how you can try it? |
 | [Microsoft’s Museformer: AI music is the new frontier](https://medium.com/mlearning-ai/microsofts-museformer-ai-music-is-the-new-frontier-8dc5cb24459c) | -- | AI art is exploding, music can be next. |
