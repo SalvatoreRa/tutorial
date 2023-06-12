@@ -131,15 +131,25 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 &nbsp;
 
-**Others**
+**Artificial intelligence and music**
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 | [Meta’s MusicGen: a melody is worth 1000 tokens](https://levelup.gitconnected.com/metas-musicgen-a-melody-is-worth-1000-tokens-a023acc454ce) | -- | Meta's new model has incredible results on text-to-audio |
+| [AudioGPT: bridging text to music](https://levelup.gitconnected.com/audiogpt-bridging-text-to-music-7fa16c0cce43) | -- | A new AI model connects ChatGPT with audio and music models|
+| [Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c#c3a5-8cd785447f67) | -- | A new model is generating impressive music from just text prompt |
+| [Generate a piano cover with AI](https://medium.com/mlearning-ai/generate-a-piano-cover-with-ai-f4178bc9cb30) | -- | A new model generates a piano cover from a pop song: how it works? how you can try it? |
+| [Microsoft’s Museformer: AI music is the new frontier](https://medium.com/mlearning-ai/microsofts-museformer-ai-music-is-the-new-frontier-8dc5cb24459c) | -- | AI art is exploding, music can be next. |
+
+&nbsp;
+
+**Others**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
 | [To AI or not to AI: how to survive?](https://levelup.gitconnected.com/to-ai-or-not-to-ai-how-to-survive-f5e853aebd5b) | -- |With generative AI threatening businesses and side hustles, how you can find space? |
 | [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
-| [AudioGPT: bridging text to music](https://levelup.gitconnected.com/audiogpt-bridging-text-to-music-7fa16c0cce43) | -- | A new AI model connects ChatGPT with audio and music models|
 | [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
 | [META DINO: how self-supervised learning is changing computer vision](https://levelup.gitconnected.com/meta-dino-how-self-supervised-learning-is-changing-computer-vision-1666a5e43dbb) | -- |Curated data, visual features, and knowledge distillation: the foundations of next computer vision models |
 | [META’S SAM: A Unique Model to Segment Anything](https://levelup.gitconnected.com/metas-sam-a-unique-model-to-segment-anything-c3a956bf5d62) | -- |Segmentation needs a foundation model: why is it important? |
@@ -152,8 +162,6 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 |[RazzAIe awards 2022: what are the worst AI of the year?](https://medium.datadriveninvestor.com/razzaie-awards-2022-what-are-the-worst-ai-of-the-year-a2596c566218)| -- |What are the worst models of the year? What went wrong? |
 |[Microsoft BioGPT: Towards the ChatGPT of life science?](https://levelup.gitconnected.com/microsoft-biogpt-towards-the-chatgpt-of-life-science-56e251536af6)| -- |BioGPT achieves the SOTA in different biomedical NLP tasks |
 |[Microsoft or: How I Learned to Stop Worrying and Love ChatGPT](https://medium.com/data-driven-fiction/microsoft-or-how-i-learned-to-stop-worrying-and-love-chatgpt-2ca1e7b446a3)| -- | how Google disapproves of this love and other stories related |
-|[Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c)| -- | A new model is generating impressive music from just text prompt |
-| [Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c#c3a5-8cd785447f67) | -- | A new model is generating impressive music from just text prompt |
 | [Deep learning can tell if you are above the drinking limit](https://medium.com/geekculture/deep-learning-can-tell-if-you-are-above-the-drinking-limit-40bea9205878) | -- | A new algorithm that can measure your alcohol consumption from your speech|
 | [Create your painting app with AI and Streamlit](https://medium.com/mlearning-ai/create-your-painting-app-with-ai-and-streamlit-62ad079fb117) | [App Link](https://salvatorera-streamstyle-main-4my47f.streamlit.app/) / [GitHub repository](https://github.com/SalvatoreRa/StreamStyle) |How to make an app with few lines of code and a spare afternoon |
 |[The EU wants to regulate your favorite AI tools](https://medium.com/mlearning-ai/the-eu-wants-to-regulate-your-favorite-ai-tools-7419d985f2f2)|--| EU is preparing a new AI bill and generative AI is included|
@@ -167,8 +175,6 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b) | -- |Data science has arrived in football. How teams and companies are using it?  |
 | [Make an app with streamlit in minutes](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)| [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
 | [DreamFusion: 3D models from text](https://medium.com/mlearning-ai/dreamfusion-3d-models-from-text-561e8268a24c) | -- |A new Google diffusion model that allows 3D images to be obtained from the text. |
-| [Generate a piano cover with AI](https://medium.com/mlearning-ai/generate-a-piano-cover-with-ai-f4178bc9cb30) | -- | A new model generates a piano cover from a pop song: how it works? how you can try it? |
-| [Microsoft’s Museformer: AI music is the new frontier](https://medium.com/mlearning-ai/microsofts-museformer-ai-music-is-the-new-frontier-8dc5cb24459c) | -- | AI art is exploding, music can be next. |
 | [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
 | [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
 | [Google’s Audiolm: Generating Music by Hearing a Song’s Snippet](https://pub.towardsai.net/googles-audiolm-generating-music-by-hearing-a-song-s-snippet-c9512a9290cd) | -- | Whether music or speech, Google's new model can continue playing what is hearing. |
