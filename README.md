@@ -82,6 +82,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
 | [ControlNet: control your AI art generation](https://levelup.gitconnected.com/controlnet-control-your-ai-art-generation-616c86c88964)|--| A new model allows fine control and gets the maximum from stable diffusion |
 |[InstructPix2Pix: use text instructions to edit your images](https://levelup.gitconnected.com/instructpix2pix-use-text-instructions-to-edit-your-images-50acf7afa72a)| -- | A new model that allows you to modify your images just by writing the editing instructions |
 | [Exploring the Wisdom of the Ages: Using AI art to Draw Philosopher Quotes](https://medium.com/data-driven-fiction/exploring-the-wisdom-of-the-ages-using-ai-art-to-draw-philosopher-quotes-2f5adeab5343) | -- | Does an image worth thousands of words? or some words remain elusive? |
@@ -119,12 +120,12 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc) | -- |The Hyena model shows how convolution could be faster than self-attention |
 | [HuggingGPT: Give Your Chatbot an AI Army](https://levelup.gitconnected.com/hugginggpt-give-your-chatbot-an-ai-army-cfadf5647f98) | -- | HuggingGPT is capable to manage other models and solve complex tasks |
 | [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
-| [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa) | -- | The world is not only text: How to extend the chain of thoughts to image and text?|
 | [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
 | [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
 |[SparseGPT: fewer parameters is better?](https://levelup.gitconnected.com/sparsegpt-fewer-parameters-is-better-7b47ad60ac00)| -- | How to get rid of 100 billion parameters and happily infer on one GPU |
 | [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7) | -- | A model able to conversate, persuade and beat you in a game of trust and betrayal |
 | [META’s PEER: A Collaborative Language Model](https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe) | -- | PEER (Plan, Edit, Explain, Repeat): collaborate with the AI to write a text |
+| [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
 | [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
 | [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
 | [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
@@ -156,17 +157,27 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 &nbsp;
 
+**Multi-modal**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
+|[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
+|[Data2vec: one AI to rule all](https://levelup.gitconnected.com/data2vec-one-ai-to-rule-all-6c9be729331d)|--|A model that can learn across modalities learning by itself|
+| [Google’s PaLI: language-image learning in 100 languages](https://towardsdatascience.com/googles-pali-language-image-learning-in-100-languages-31d32f9b74fe) | -- | A new impressive model able to reach state-of-the-art in complex tasks |
+| [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa) | -- | The world is not only text: How to extend the chain of thoughts to image and text?|
+
+&nbsp;
+
 **Others**
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 | [To AI or not to AI: how to survive?](https://levelup.gitconnected.com/to-ai-or-not-to-ai-how-to-survive-f5e853aebd5b) | -- |With generative AI threatening businesses and side hustles, how you can find space? |
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
-| [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
 | [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
 | [The Intelligence Quotient of GPT-4: how to determinate intelligence](https://levelup.gitconnected.com/the-intelligence-quotient-of-gpt-4-how-to-determinate-intelligence-990586a276c5) | -- | From Artificial Intelligence to Artificial General Intelligence: Where Does GPT-4 Stand? |
 | [Did ChatGPT have an impact?](https://levelup.gitconnected.com/did-chatgpt-have-an-impact-bcb4c64a9816) | -- | Three months after the chatbot took the world by storm what happened? |
-|[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 |[RazzAIe awards 2022: what are the worst AI of the year?](https://medium.datadriveninvestor.com/razzaie-awards-2022-what-are-the-worst-ai-of-the-year-a2596c566218)| -- |What are the worst models of the year? What went wrong? |
 |[Microsoft BioGPT: Towards the ChatGPT of life science?](https://levelup.gitconnected.com/microsoft-biogpt-towards-the-chatgpt-of-life-science-56e251536af6)| -- |BioGPT achieves the SOTA in different biomedical NLP tasks |
@@ -175,18 +186,14 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 |[The EU wants to regulate your favorite AI tools](https://medium.com/mlearning-ai/the-eu-wants-to-regulate-your-favorite-ai-tools-7419d985f2f2)|--| EU is preparing a new AI bill and generative AI is included|
 |[Everything but everything you need to know about ChatGPT](https://medium.com/data-driven-fiction/everything-but-everything-you-need-to-know-about-chatgpt-546af7153ee2)|--| what is known, the latest news, what it is impacting, and what is changing. all in one article |
 |[2023: what should we expect to see in AI?](https://medium.datadriveninvestor.com/2023-what-should-we-expect-to-see-in-ai-7a6af1757ea8)|--|A discussion on emerging trends and possible scenarios|
-|[Data2vec: one AI to rule all](https://levelup.gitconnected.com/data2vec-one-ai-to-rule-all-6c9be729331d)|--|A model that can learn across modalities learning by itself|
 |[The Rise of AI: A Look at the 2022 Landscape](https://medium.com/towards-artificial-intelligence/the-rise-of-ai-a-look-at-the-2022-landscape-956e7e3f1839)| -- | Innovation and disruption: a look-up on what happened in AI in 2022 |
 |[The Unbearable Lightness of Being ChatGPT](https://medium.com/mlearning-ai/the-unbearable-lightness-of-being-chatgpt-95a4d9b48ed1)| -- | An ethical discussion with the most talked-about chatbot of the moment|
 |[Can an AI be a data scientist?](https://medium.com/mlearning-ai/can-an-ai-be-a-data-scientist-2d4d9b6c5d5)|[notebook](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/OpenAI_ChatGPT_test.ipynb)|OpenAI’s ChatGPT is blowing data scientists' minds. Could it steal their job?|
 | [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b) | -- |Data science has arrived in football. How teams and companies are using it?  |
 | [Make an app with streamlit in minutes](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)| [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
 | [DreamFusion: 3D models from text](https://medium.com/mlearning-ai/dreamfusion-3d-models-from-text-561e8268a24c) | -- |A new Google diffusion model that allows 3D images to be obtained from the text. |
-| [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
-| [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
 | [Google’s Audiolm: Generating Music by Hearing a Song’s Snippet](https://pub.towardsai.net/googles-audiolm-generating-music-by-hearing-a-song-s-snippet-c9512a9290cd) | -- | Whether music or speech, Google's new model can continue playing what is hearing. |
 | [ Deepmind’s Alphatensor: The AI That Is Reinventing Math](https://pub.towardsai.net/deepminds-alphatensor-deepmind-s-alphatensor-the-ai-that-is-reinventing-math-4e282e25da35) | -- | How the DeepMind’s latest model could revolutionize math |
-| [Google’s PaLI: language-image learning in 100 languages](https://towardsdatascience.com/googles-pali-language-image-learning-in-100-languages-31d32f9b74fe) | -- | A new impressive model able to reach state-of-the-art in complex tasks |
 | [A critical analysis of your dataset](https://towardsdatascience.com/a-critical-analysis-of-your-dataset-2b388e7ca01e) | -- |  Stop finetuning your model: your model is already good, but not your data|
 | [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
 | [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
