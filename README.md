@@ -114,12 +114,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-
-
-
 | [The AI college student goes back to the bench](https://levelup.gitconnected.com/the-ai-college-student-goes-back-to-the-bench-daa6d9bdfb14) | -- | How LLM can solve college exams and why this is important |
 | [Can we detect AI-generated text?](https://levelup.gitconnected.com/can-we-detect-ai-generated-text-91293463dc52) | -- | Watermarking could be the solution for detecting it |
-
 | [Say Once! Repeating Words Is Not Helping AI](https://towardsdatascience.com/say-once-repeating-words-is-not-helping-ai-58f38035f66e) | -- |How and why is repeating tokens harming LLMs? Why is this a problem?  |
 | [FinGPT: open-source LLM for finance](https://medium.com/gitconnected/fingpt-open-source-llm-for-finance-e8ec10d0bf40) | -- |  Why this is important? Why do we need it?|
 | [Is AI funny? Maybe, a Bit](https://levelup.gitconnected.com/is-ai-funny-maybe-a-bit-fd5183f68779) | -- | Why AI is still struggling with humor and why this an important step |
