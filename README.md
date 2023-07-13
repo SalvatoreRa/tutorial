@@ -113,6 +113,12 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| []() | -- |  |
+| []() | -- |  |
+| []() | -- |  |
+| []() | -- |  |
+| []() | -- |  |
+
 | [Say Once! Repeating Words Is Not Helping AI](https://towardsdatascience.com/say-once-repeating-words-is-not-helping-ai-58f38035f66e) | -- |How and why is repeating tokens harming LLMs? Why is this a problem?  |
 | [FinGPT: open-source LLM for finance](https://medium.com/gitconnected/fingpt-open-source-llm-for-finance-e8ec10d0bf40) | -- |  Why this is important? Why do we need it?|
 | [Is AI funny? Maybe, a Bit](https://levelup.gitconnected.com/is-ai-funny-maybe-a-bit-fd5183f68779) | -- | Why AI is still struggling with humor and why this an important step |
@@ -139,6 +145,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [META’s Hiera: reduce complexity to increase accuracy](https://towardsdatascience.com/metas-hiera-reduce-complexity-to-increase-accuracy-30f7a147ad0b) | -- | Simplicity allows AI to reach incredible performance and surprising speed |
 | [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
 | [META DINO: how self-supervised learning is changing computer vision](https://levelup.gitconnected.com/meta-dino-how-self-supervised-learning-is-changing-computer-vision-1666a5e43dbb) | -- |Curated data, visual features, and knowledge distillation: the foundations of next computer vision models |
 | [META’S SAM: A Unique Model to Segment Anything](https://levelup.gitconnected.com/metas-sam-a-unique-model-to-segment-anything-c3a956bf5d62) | -- |Segmentation needs a foundation model: why is it important? |
