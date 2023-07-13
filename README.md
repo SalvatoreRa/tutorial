@@ -49,6 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [ClinicalGPT: the LLM clinician](https://levelup.gitconnected.com/clinicalgpt-the-llm-clinician-5e1f7866b6d1) | -- | a new model using for medicine using a clever trick to be more factual correct  |
 | [Google Med-PaLM 2: is AI ready for medical residency?](https://levelup.gitconnected.com/google-med-palm-2-is-ai-ready-for-medical-residency-e37907115bd0) | -- |Google's new model achieves impressive results in the medical domain |
 | [scGPT: When Transformers Meet Biology and Fall in Love](https://levelup.gitconnected.com/scgpt-when-transformers-meet-biology-and-fall-in-love-777d95887050) | -- |Exploring the Potential of Generative Pre-Training for Single-Cell Sequencing and Analysis |
 | [PMC-LLaMA: Because Googling Symptoms is Not Enough](https://levelup.gitconnected.com/pmc-llama-because-googling-symptoms-is-not-enough-e1b875ee4c4a) | -- | A small model that can be your best friend in medical school (or on trivia night)|
@@ -114,7 +115,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 | []() | -- |  |
-| []() | -- |  |
+
 
 | [The AI college student goes back to the bench](https://levelup.gitconnected.com/the-ai-college-student-goes-back-to-the-bench-daa6d9bdfb14) | -- | How LLM can solve college exams and why this is important |
 | [Can we detect AI-generated text?](https://levelup.gitconnected.com/can-we-detect-ai-generated-text-91293463dc52) | -- | Watermarking could be the solution for detecting it |
