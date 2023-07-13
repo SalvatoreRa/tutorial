@@ -117,7 +117,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
-| []() | -- |  |
+| [Can we detect AI-generated text?](https://levelup.gitconnected.com/can-we-detect-ai-generated-text-91293463dc52) | -- | Watermarking could be the solution for detecting it |
 
 | [Say Once! Repeating Words Is Not Helping AI](https://towardsdatascience.com/say-once-repeating-words-is-not-helping-ai-58f38035f66e) | -- |How and why is repeating tokens harming LLMs? Why is this a problem?  |
 | [FinGPT: open-source LLM for finance](https://medium.com/gitconnected/fingpt-open-source-llm-for-finance-e8ec10d0bf40) | -- |  Why this is important? Why do we need it?|
