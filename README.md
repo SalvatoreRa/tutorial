@@ -116,7 +116,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | []() | -- |  |
 | []() | -- |  |
 | []() | -- |  |
-| []() | -- |  |
+| [The AI college student goes back to the bench](https://levelup.gitconnected.com/the-ai-college-student-goes-back-to-the-bench-daa6d9bdfb14) | -- | How LLM can solve college exams and why this is important |
 | [Can we detect AI-generated text?](https://levelup.gitconnected.com/can-we-detect-ai-generated-text-91293463dc52) | -- | Watermarking could be the solution for detecting it |
 
 | [Say Once! Repeating Words Is Not Helping AI](https://towardsdatascience.com/say-once-repeating-words-is-not-helping-ai-58f38035f66e) | -- |How and why is repeating tokens harming LLMs? Why is this a problem?  |
