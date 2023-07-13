@@ -115,7 +115,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 | ------- | ----------- | ------ |
 | []() | -- |  |
 | []() | -- |  |
-| []() | -- |  |
+
 | [The AI college student goes back to the bench](https://levelup.gitconnected.com/the-ai-college-student-goes-back-to-the-bench-daa6d9bdfb14) | -- | How LLM can solve college exams and why this is important |
 | [Can we detect AI-generated text?](https://levelup.gitconnected.com/can-we-detect-ai-generated-text-91293463dc52) | -- | Watermarking could be the solution for detecting it |
 
@@ -183,6 +183,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
 | [Is AI funny? Maybe, a Bit](https://medium.com/gitconnected/is-ai-funny-maybe-a-bit-fd5183f68779) | -- | Why AI is still struggling with humor and why this an important step |
 | [To AI or not to AI: how to survive?](https://levelup.gitconnected.com/to-ai-or-not-to-ai-how-to-survive-f5e853aebd5b) | -- |With generative AI threatening businesses and side hustles, how you can find space? |
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
