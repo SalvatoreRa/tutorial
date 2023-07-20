@@ -114,6 +114,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[META LLaMA 2.0: the most disruptive AInimal](https://levelup.gitconnected.com/meta-llama-2-0-the-most-disruptive-ainimal-d465ef187f2)| -- |Meta LLaMA can reshape the chatbot and LLM usage landscape|
 | [Speak to me: How many words a model is reading](https://towardsdatascience.com/speak-to-me-how-many-words-a-model-is-reading-331e3af86d27) |--|Why and how to overcome the inner limit of a Large Language Model|
 | [The AI college student goes back to the bench](https://levelup.gitconnected.com/the-ai-college-student-goes-back-to-the-bench-daa6d9bdfb14) | -- | How LLM can solve college exams and why this is important |
 | [Can we detect AI-generated text?](https://levelup.gitconnected.com/can-we-detect-ai-generated-text-91293463dc52) | -- | Watermarking could be the solution for detecting it |
