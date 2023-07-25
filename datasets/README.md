@@ -34,6 +34,7 @@ Here are listed all the datasets in this repository, there are also the associat
 | 12.| [CORA dataset: network](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.cites)| --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
 |   |[CORA dataset: Node features](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.content) | --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
 | 13.| [Census Income](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/adult.csv)| --- | [source]([https://linqs.soe.ucsc.edu/data](https://www.kaggle.com/datasets/uciml/adult-census-income)) |This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). The prediction task is to determine whether a person makes over $50K a year. [Alternative source](https://archive.ics.uci.edu/dataset/2/adult)|
+| 14.| [Faults](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/adult.csv)| --- | [source]([[https://linqs.soe.ucsc.edu/data](https://www.kaggle.com/datasets/uciml/adult-census-income](https://www.kaggle.com/datasets/shrutimechlearn/steel-plate-fault))) |small size dataset where the target variable is multi-class, ideal for starting with multi-class classification |
 
 &nbsp;
 
