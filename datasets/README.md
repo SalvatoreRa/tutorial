@@ -41,6 +41,7 @@ Here are listed all the datasets in this repository, there are also the associat
 | 18.| [Indian college reviews](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Nuclear_Explosions_Data.zip)| --- | [source](https://www.kaggle.com/datasets/utkarshx27/nuclear-explosions-data) |Details of all nuclear explosions prior to 2000. information about source, weapon source country, Region where the nuclear device was deployed, Longitude and Latitudine position, magnitude of explosion, Surface wave magnitude, power and so on   |
 | 19.| [World Airports](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/World_Airports.zip)| --- | [source](https://www.kaggle.com/datasets/mexwell/world-airports) |Airports of the world with informations about codenames, elevation, frequency, runways and wikipedia links.  zip file (file: csv)|
 | 20.| [CO2 Emissions](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/CO2%20Emissions.zip)| --- | [source](https://www.kaggle.com/datasets/bhuviranga/co2-emissions) |car emission CO2, variable includes the car maker, vehicle, type of vehicle, engine and so on.  zip file (file: csv)|
+| 21.| [Global Stock Market (2008-2023)]()| --- | [source](https://www.kaggle.com/datasets/pavankrishnanarne/global-stock-market-2008-present) |car emission CO2, variable includes the car maker, vehicle, type of vehicle, engine and so on.  zip file (file: csv)|
 
 
 &nbsp;
