@@ -175,7 +175,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| []()| -- | |
+| [Meta-Transformer: one model to rule all](https://levelup.gitconnected.com/meta-transformer-one-model-to-rule-all-a3eeb9bd96b9)| -- |From text to video, from graph to images, what if we could use just one model? |
 | [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
 |[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
 |[Data2vec: one AI to rule all](https://levelup.gitconnected.com/data2vec-one-ai-to-rule-all-6c9be729331d)|--|A model that can learn across modalities learning by itself|
