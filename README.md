@@ -49,7 +49,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| []()| -- | |
+| [Google Med-PaLM M: Towards the Medical AI Generalist](https://levelup.gitconnected.com/google-med-palm-m-towards-the-medical-ai-generalist-cf2e173672e4)| -- | Google unveils a multi-modal model capable of incredible skills|
 | [ClinicalGPT: the LLM clinician](https://levelup.gitconnected.com/clinicalgpt-the-llm-clinician-5e1f7866b6d1) | -- | a new model using for medicine using a clever trick to be more factual correct  |
 | [Google Med-PaLM 2: is AI ready for medical residency?](https://levelup.gitconnected.com/google-med-palm-2-is-ai-ready-for-medical-residency-e37907115bd0) | -- |Google's new model achieves impressive results in the medical domain |
 | [scGPT: When Transformers Meet Biology and Fall in Love](https://levelup.gitconnected.com/scgpt-when-transformers-meet-biology-and-fall-in-love-777d95887050) | -- |Exploring the Potential of Generative Pre-Training for Single-Cell Sequencing and Analysis |
@@ -115,8 +115,8 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| []()| -- | |
-| []()| -- | |
+| [Platypus: Quick, Cheap, and Powerful LLM](https://levelup.gitconnected.com/platypus-quick-cheap-and-powerful-llm-404b86af8755)| -- | Winning over the others with only one GPU and 5 hours of fine-tuning|
+| [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)| -- |How to modify your text prompt to obtain the best from an LLM without training |
 | [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)| -- | What is and how does it work what makes Large Language Models so powerful
 |
 |[META LLaMA 2.0: the most disruptive AInimal](https://levelup.gitconnected.com/meta-llama-2-0-the-most-disruptive-ainimal-d465ef187f2)| -- |Meta LLaMA can reshape the chatbot and LLM usage landscape|
@@ -149,7 +149,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| []()| -- | |
+| [UniverSeg: Universal Scissor for Medical Image Segmentation](https://levelup.gitconnected.com/universeg-universal-scissor-for-medical-image-segmentation-edf90bb15922)| -- |Medical segmentation is hard and expensive. Would be possible a model to cut them all? |
 | [META’s Hiera: reduce complexity to increase accuracy](https://towardsdatascience.com/metas-hiera-reduce-complexity-to-increase-accuracy-30f7a147ad0b) | -- | Simplicity allows AI to reach incredible performance and surprising speed |
 | [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
 | [META DINO: how self-supervised learning is changing computer vision](https://levelup.gitconnected.com/meta-dino-how-self-supervised-learning-is-changing-computer-vision-1666a5e43dbb) | -- |Curated data, visual features, and knowledge distillation: the foundations of next computer vision models |
