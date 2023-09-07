@@ -115,6 +115,9 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| []()| -- | |
+| []()| -- | |
+| []()| -- | |
 |[META LLaMA 2.0: the most disruptive AInimal](https://levelup.gitconnected.com/meta-llama-2-0-the-most-disruptive-ainimal-d465ef187f2)| -- |Meta LLaMA can reshape the chatbot and LLM usage landscape|
 | [Speak to me: How many words a model is reading](https://towardsdatascience.com/speak-to-me-how-many-words-a-model-is-reading-331e3af86d27) |--|Why and how to overcome the inner limit of a Large Language Model|
 | [The AI college student goes back to the bench](https://levelup.gitconnected.com/the-ai-college-student-goes-back-to-the-bench-daa6d9bdfb14) | -- | How LLM can solve college exams and why this is important |
@@ -145,6 +148,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| []()| -- | |
 | [META’s Hiera: reduce complexity to increase accuracy](https://towardsdatascience.com/metas-hiera-reduce-complexity-to-increase-accuracy-30f7a147ad0b) | -- | Simplicity allows AI to reach incredible performance and surprising speed |
 | [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
 | [META DINO: how self-supervised learning is changing computer vision](https://levelup.gitconnected.com/meta-dino-how-self-supervised-learning-is-changing-computer-vision-1666a5e43dbb) | -- |Curated data, visual features, and knowledge distillation: the foundations of next computer vision models |
@@ -171,6 +175,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| []()| -- | |
 | [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
 |[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
 |[Data2vec: one AI to rule all](https://levelup.gitconnected.com/data2vec-one-ai-to-rule-all-6c9be729331d)|--|A model that can learn across modalities learning by itself|
@@ -183,6 +188,7 @@ In this series of tutorials I will focus on artificial intelligence (neural netw
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Is ChatGPT losing its capabilities?](https://levelup.gitconnected.com/is-chatgpt-losing-its-capabilities-33df3d7d5a9e)| -- |The updated version of GPT-4 seems performing worst, is it true? |
 | [CodeGen2: a new open-source model for coding](https://levelup.gitconnected.com/codegen2-a-new-open-source-model-for-coding-214d3d464030) | -- | SaleForce’s effect on how to design an efficient model for coding |
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
 | [Is AI funny? Maybe, a Bit](https://medium.com/gitconnected/is-ai-funny-maybe-a-bit-fd5183f68779) | -- | Why AI is still struggling with humor and why this an important step |
