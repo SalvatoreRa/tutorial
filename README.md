@@ -128,8 +128,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()| -- ||
-|[]()| -- ||
+|[Mistral 7B: a New Wind Blowing Away Other Language Models](Mistral 7B is more performing and faster than other LLMs)| -- |https://levelup.gitconnected.com/mistral-7b-a-new-wind-blowing-other-language-models-b74d7bfe137e|
+|[GPT-InvestAR: LLMs for better investment](https://levelup.gitconnected.com/gpt-investar-llms-for-better-investment-f13f2ac72b3d)| -- |From Text to Trade: Could an LLM exploit annual reports to predict stock to buy?|
 | [Platypus: Quick, Cheap, and Powerful LLM](https://levelup.gitconnected.com/platypus-quick-cheap-and-powerful-llm-404b86af8755)| -- | Winning over the others with only one GPU and 5 hours of fine-tuning|
 | [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)| -- |How to modify your text prompt to obtain the best from an LLM without training |
 | [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)| -- | What is and how does it work what makes Large Language Models so powerful|
