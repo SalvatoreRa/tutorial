@@ -192,7 +192,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 |[]()| -- ||
-|[]()| -- ||
+|[PrAIde and Prejudice: Tracking and Minimize Political Bias in LLMs](https://levelup.gitconnected.com/praide-and-prejudice-tracking-and-minimize-political-bias-in-llms-47f82d354514)| -- |How to track the political biases and their impact on NLP|
 
 &nbsp;
 
