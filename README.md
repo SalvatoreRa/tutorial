@@ -45,6 +45,16 @@ This series of tutorials is focused on classical machine learning (regression, c
 
 In this series of tutorials, I will focus on artificial intelligence (neural networks, convolutional neural networks, and many other related topics). I will discuss the basics, the math behind models, and how to implement them. I will use Keras and PyTorch
 
+**Artificial intelligence's bases**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+|[]()| -- ||
+
+**Tabular learning**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
 |[]()| -- ||
 
 **AI and science**
@@ -191,6 +201,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[]()| -- ||
 |[Reshaping the Model’s Memory without the Need for Retraining](https://towardsdatascience.com/reshaping-the-models-memory-without-the-need-for-retraining-9ade69f56296)| -- |Erasing any echo of problematic content a large language model has learned|
 |[PrAIde and Prejudice: Tracking and Minimize Political Bias in LLMs](https://levelup.gitconnected.com/praide-and-prejudice-tracking-and-minimize-political-bias-in-llms-47f82d354514)| -- |How to track the political biases and their impact on NLP|
 | [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
