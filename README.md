@@ -191,8 +191,11 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()| -- ||
+|[Reshaping the Model’s Memory without the Need for Retraining](https://towardsdatascience.com/reshaping-the-models-memory-without-the-need-for-retraining-9ade69f56296)| -- |Erasing any echo of problematic content a large language model has learned|
 |[PrAIde and Prejudice: Tracking and Minimize Political Bias in LLMs](https://levelup.gitconnected.com/praide-and-prejudice-tracking-and-minimize-political-bias-in-llms-47f82d354514)| -- |How to track the political biases and their impact on NLP|
+| [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
+|[The EU wants to regulate your favorite AI tools](https://medium.com/mlearning-ai/the-eu-wants-to-regulate-your-favorite-ai-tools-7419d985f2f2)|--| EU is preparing a new AI bill and generative AI is included|
+| [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
 
 &nbsp;
 
@@ -206,7 +209,6 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Is AI funny? Maybe, a Bit](https://medium.com/gitconnected/is-ai-funny-maybe-a-bit-fd5183f68779) | -- | Why AI is still struggling with humor and why this an important step |
 | [To AI or not to AI: how to survive?](https://levelup.gitconnected.com/to-ai-or-not-to-ai-how-to-survive-f5e853aebd5b) | -- |With generative AI threatening businesses and side hustles, how you can find space? |
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
-| [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
 | [The Intelligence Quotient of GPT-4: how to determinate intelligence](https://levelup.gitconnected.com/the-intelligence-quotient-of-gpt-4-how-to-determinate-intelligence-990586a276c5) | -- | From Artificial Intelligence to Artificial General Intelligence: Where Does GPT-4 Stand? |
 | [Did ChatGPT have an impact?](https://levelup.gitconnected.com/did-chatgpt-have-an-impact-bcb4c64a9816) | -- | Three months after the chatbot took the world by storm what happened? |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
@@ -214,7 +216,6 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Microsoft BioGPT: Towards the ChatGPT of life science?](https://levelup.gitconnected.com/microsoft-biogpt-towards-the-chatgpt-of-life-science-56e251536af6)| -- |BioGPT achieves the SOTA in different biomedical NLP tasks |
 |[Microsoft or: How I Learned to Stop Worrying and Love ChatGPT](https://medium.com/data-driven-fiction/microsoft-or-how-i-learned-to-stop-worrying-and-love-chatgpt-2ca1e7b446a3)| -- | how Google disapproves of this love and other stories related |
 | [Deep learning can tell if you are above the drinking limit](https://medium.com/geekculture/deep-learning-can-tell-if-you-are-above-the-drinking-limit-40bea9205878) | -- | A new algorithm that can measure your alcohol consumption from your speech|
-|[The EU wants to regulate your favorite AI tools](https://medium.com/mlearning-ai/the-eu-wants-to-regulate-your-favorite-ai-tools-7419d985f2f2)|--| EU is preparing a new AI bill and generative AI is included|
 |[Everything but everything you need to know about ChatGPT](https://medium.com/data-driven-fiction/everything-but-everything-you-need-to-know-about-chatgpt-546af7153ee2)|--| what is known, the latest news, what it is impacting, and what is changing. all in one article |
 |[2023: what should we expect to see in AI?](https://medium.datadriveninvestor.com/2023-what-should-we-expect-to-see-in-ai-7a6af1757ea8)|--|A discussion on emerging trends and possible scenarios|
 |[The Rise of AI: A Look at the 2022 Landscape](https://medium.com/towards-artificial-intelligence/the-rise-of-ai-a-look-at-the-2022-landscape-956e7e3f1839)| -- | Innovation and disruption: a look-up on what happened in AI in 2022 |
@@ -227,7 +228,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [ Deepmind’s Alphatensor: The AI That Is Reinventing Math](https://pub.towardsai.net/deepminds-alphatensor-deepmind-s-alphatensor-the-ai-that-is-reinventing-math-4e282e25da35) | -- | How the DeepMind’s latest model could revolutionize math |
 | [A critical analysis of your dataset](https://towardsdatascience.com/a-critical-analysis-of-your-dataset-2b388e7ca01e) | -- |  Stop finetuning your model: your model is already good, but not your data|
 | [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
-| [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
+
 
 
 &nbsp;
