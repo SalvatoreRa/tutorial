@@ -55,7 +55,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()| -- ||
+|[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)| -- |Tree-based algorithms are the winner in tabular data: Why?|
 
 **AI and science**
 
