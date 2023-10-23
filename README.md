@@ -43,12 +43,15 @@ This series of tutorials is focused on classical machine learning (regression, c
 
 # Articles on artificial intelligence
 
-In this series of tutorials I will focus on artificial intelligence (neural networks, convolutional neural networks and many other related topics). I will discuss the basic, the math behind models and how to implement. I will use Keras and PyTorch
+In this series of tutorials, I will focus on artificial intelligence (neural networks, convolutional neural networks, and many other related topics). I will discuss the basics, the math behind models, and how to implement them. I will use Keras and PyTorch
+
+|[]()| -- ||
 
 **AI and science**
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Beyond Words: Unraveling Speech from Brain Waves with AI](https://levelup.gitconnected.com/beyond-words-unraveling-speech-from-brain-waves-with-ai-7ff81862dfff)| -- |AI is capable of decoding speech from non-invasive brain recordings|
 | [Google Med-PaLM M: Towards the Medical AI Generalist](https://levelup.gitconnected.com/google-med-palm-m-towards-the-medical-ai-generalist-cf2e173672e4)| -- | Google unveils a multi-modal model capable of incredible skills|
 | [ClinicalGPT: the LLM clinician](https://levelup.gitconnected.com/clinicalgpt-the-llm-clinician-5e1f7866b6d1) | -- | a new model using for medicine using a clever trick to be more factual correct  |
 | [Google Med-PaLM 2: is AI ready for medical residency?](https://levelup.gitconnected.com/google-med-palm-2-is-ai-ready-for-medical-residency-e37907115bd0) | -- |Google's new model achieves impressive results in the medical domain |
