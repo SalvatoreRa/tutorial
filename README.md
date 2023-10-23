@@ -187,6 +187,15 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
+**AI and ethics**
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+|[]()| -- ||
+|[]()| -- ||
+
+&nbsp;
+
 **Others**
 
 | Articles | notebook | description |
