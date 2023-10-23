@@ -50,6 +50,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 |[Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)| -- |Understanding how a neural network learns helps us to avoid that the model from forgetting what it learns|
+| [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
+| [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 
 **Tabular learning**
 
@@ -216,16 +218,14 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()| -- ||
+|[Lord of Vectors: One Embedder to Rule Them All](https://levelup.gitconnected.com/lord-of-vectors-one-embedder-to-rule-them-all-205d22ca6a0a)| -- |Embedders are back in vogue, so why not have a universal one?|
 | [Is ChatGPT losing its capabilities?](https://levelup.gitconnected.com/is-chatgpt-losing-its-capabilities-33df3d7d5a9e)| -- |The updated version of GPT-4 seems performing worst, is it true? |
 | [CodeGen2: a new open-source model for coding](https://levelup.gitconnected.com/codegen2-a-new-open-source-model-for-coding-214d3d464030) | -- | SaleForce’s effect on how to design an efficient model for coding |
-| [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
 | [Is AI funny? Maybe, a Bit](https://medium.com/gitconnected/is-ai-funny-maybe-a-bit-fd5183f68779) | -- | Why AI is still struggling with humor and why this an important step |
 | [To AI or not to AI: how to survive?](https://levelup.gitconnected.com/to-ai-or-not-to-ai-how-to-survive-f5e853aebd5b) | -- |With generative AI threatening businesses and side hustles, how you can find space? |
 | [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0) | -- |Open-source, data, and attention: How the future of LLMs will change |
 | [The Intelligence Quotient of GPT-4: how to determinate intelligence](https://levelup.gitconnected.com/the-intelligence-quotient-of-gpt-4-how-to-determinate-intelligence-990586a276c5) | -- | From Artificial Intelligence to Artificial General Intelligence: Where Does GPT-4 Stand? |
 | [Did ChatGPT have an impact?](https://levelup.gitconnected.com/did-chatgpt-have-an-impact-bcb4c64a9816) | -- | Three months after the chatbot took the world by storm what happened? |
-| [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 |[RazzAIe awards 2022: what are the worst AI of the year?](https://medium.datadriveninvestor.com/razzaie-awards-2022-what-are-the-worst-ai-of-the-year-a2596c566218)| -- |What are the worst models of the year? What went wrong? |
 |[Microsoft BioGPT: Towards the ChatGPT of life science?](https://levelup.gitconnected.com/microsoft-biogpt-towards-the-chatgpt-of-life-science-56e251536af6)| -- |BioGPT achieves the SOTA in different biomedical NLP tasks |
 |[Microsoft or: How I Learned to Stop Worrying and Love ChatGPT](https://medium.com/data-driven-fiction/microsoft-or-how-i-learned-to-stop-worrying-and-love-chatgpt-2ca1e7b446a3)| -- | how Google disapproves of this love and other stories related |
