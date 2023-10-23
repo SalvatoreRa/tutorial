@@ -203,7 +203,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()| -- ||
+|[Scaling Data, Scaling Bias: A Deep Dive into Hateful Content and Racial Bias in Generative AI](https://levelup.gitconnected.com/scaling-data-scaling-bias-a-deep-dive-into-hateful-content-and-racial-bias-in-generative-ai-70d8aa27a631)| -- |scaling seems the solution for every issue in machine learning: but it is true?|
 |[Reshaping the Model’s Memory without the Need for Retraining](https://towardsdatascience.com/reshaping-the-models-memory-without-the-need-for-retraining-9ade69f56296)| -- |Erasing any echo of problematic content a large language model has learned|
 |[PrAIde and Prejudice: Tracking and Minimize Political Bias in LLMs](https://levelup.gitconnected.com/praide-and-prejudice-tracking-and-minimize-political-bias-in-llms-47f82d354514)| -- |How to track the political biases and their impact on NLP|
 | [The Mechanical Symphony: Will AI Displace the Human Workforce?](https://levelup.gitconnected.com/the-mechanical-symphony-will-ai-displace-the-human-workforce-9baeb786efa4) | -- | GPT-4 shows impressive skills: what will be the impact on the labor market? |
