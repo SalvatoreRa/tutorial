@@ -128,6 +128,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[]()| -- ||
+|[]()| -- ||
 | [Platypus: Quick, Cheap, and Powerful LLM](https://levelup.gitconnected.com/platypus-quick-cheap-and-powerful-llm-404b86af8755)| -- | Winning over the others with only one GPU and 5 hours of fine-tuning|
 | [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)| -- |How to modify your text prompt to obtain the best from an LLM without training |
 | [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)| -- | What is and how does it work what makes Large Language Models so powerful|
@@ -214,6 +216,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[]()| -- ||
 | [Is ChatGPT losing its capabilities?](https://levelup.gitconnected.com/is-chatgpt-losing-its-capabilities-33df3d7d5a9e)| -- |The updated version of GPT-4 seems performing worst, is it true? |
 | [CodeGen2: a new open-source model for coding](https://levelup.gitconnected.com/codegen2-a-new-open-source-model-for-coding-214d3d464030) | -- | SaleForce’s effect on how to design an efficient model for coding |
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
