@@ -52,10 +52,10 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 * [AI and Climate Change](#AI-and-Climate-change) - A general overview
 * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - A general overview
 * [Computer vision](#Computer-vision) - A general overview
-* [](#) - A general overview
-* [](#) - A general overview
-* [](#) - A general overview
-* [](#) - A general overview
+* [Artificial intelligence and music](#Artificial-intelligence-and-music) - A general overview
+* [AI and ethics](#AI-and-ethics) - A general overview
+* [Others](#Others) - A general overview
+* [Articles and tutorials of Bioinformatics/AI/ML applied to Biology](#Articles and tutorials of Bioinformatics/AI/ML applied to Biology) - A general overview
 
 ## Artificial intelligence's bases
 
