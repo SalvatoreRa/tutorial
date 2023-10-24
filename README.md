@@ -49,6 +49,13 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 * [Tabular learning](#Tabular-learning) - A general overview
 * [AI and science](#AI-and-science) - A general overview
 * [AI and art](#AI-and-art) - A general overview
+* [AI and Climate Change](#AI-and-Climate-change) - A general overview
+* [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - A general overview
+* [Computer vision](#Computer-vision) - A general overview
+* [](#) - A general overview
+* [](#) - A general overview
+* [](#) - A general overview
+* [](#) - A general overview
 
 ## Artificial intelligence's bases
 
