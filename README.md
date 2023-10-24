@@ -56,13 +56,13 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 
-**Tabular learning**
+## Tabular learning
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 |[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)| -- |Tree-based algorithms are the winner in tabular data: Why?|
 
-**AI and science**
+## AI and science
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -98,7 +98,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**AI and art**
+## AI and art 
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -118,7 +118,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**AI and Climate change**
+## AI and Climate change
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -129,7 +129,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**Natural Language Processing and LLMs**
+## Natural Language Processing and LLMs
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -164,7 +164,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**Computer vision**
+## Computer vision
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -178,7 +178,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**Artificial intelligence and music**
+## Artificial intelligence and music
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -191,7 +191,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**Multi-modal**
+## Multi-modal
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -204,7 +204,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**AI and ethics**
+## AI and ethics
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -217,7 +217,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-**Others**
+## Others
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
@@ -250,9 +250,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-# Articles and tutorials of Bioinformatics/AI/ML applied on Biology
+## Articles and tutorials of Bioinformatics/AI/ML applied to Biology
 
-This series of tutorials on use of  and machine learning and trascriptmic data with transcriptomic data. I will implement also tutorials about the use of machine learning with biomedical images. 
+This series of tutorials on using machine learning and transcriptomic data with transcriptomic data. I will implement also tutorials about the use of machine learning with biomedical images. 
 
 | Tutorial | notebook | description |
 | ------- | ----------- | ------ |
