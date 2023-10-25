@@ -70,6 +70,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 |[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)| -- |Tree-based algorithms are the winner in tabular data: Why?|
+|[Tabula Rasa: How to save your network from the category drama](https://levelup.gitconnected.com/tabula-rasa-how-to-save-your-network-from-the-category-drama-623d67ad2e65)| -- | Neural networks do not like categories but you have techniques to save your favorite model |
 
 ## AI and science
 
