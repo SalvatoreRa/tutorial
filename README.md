@@ -143,6 +143,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning|
 |[Mistral 7B: a New Wind Blowing Away Other Language Models](Mistral 7B is more performing and faster than other LLMs)| -- |https://levelup.gitconnected.com/mistral-7b-a-new-wind-blowing-other-language-models-b74d7bfe137e|
 |[GPT-InvestAR: LLMs for better investment](https://levelup.gitconnected.com/gpt-investar-llms-for-better-investment-f13f2ac72b3d)| -- |From Text to Trade: Could an LLM exploit annual reports to predict stock to buy?|
 | [Platypus: Quick, Cheap, and Powerful LLM](https://levelup.gitconnected.com/platypus-quick-cheap-and-powerful-llm-404b86af8755)| -- | Winning over the others with only one GPU and 5 hours of fine-tuning|
