@@ -143,7 +143,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning|
+|[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning |
 |[Order Matters: How AI Struggles with the Reverse](https://pub.towardsai.net/order-matters-how-ai-struggles-with-the-reverse-ed0a2e8f09df)| -- |How and why does the reversal curse impact the large language models |
 |[Mistral 7B: a New Wind Blowing Away Other Language Models](https://levelup.gitconnected.com/mistral-7b-a-new-wind-blowing-other-language-models-b74d7bfe137e)| -- | Mistral 7B is more performing and faster than other LLMs|
 |[GPT-InvestAR: LLMs for better investment](https://levelup.gitconnected.com/gpt-investar-llms-for-better-investment-f13f2ac72b3d)| -- |From Text to Trade: Could an LLM exploit annual reports to predict stock to buy?|
