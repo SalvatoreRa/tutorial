@@ -29,8 +29,13 @@ I am Salvatore Raieli, Senior Data Scientist in a pharmaceutical company. My wor
 
 I think that artificial intelligence will drive the new wave of innovation and it will revolution biology, medicine and pharma industry. I always thought that science should be more democratic and sharing knowledge is fundamental for the improvement of science. For this reason, I have planned to write tutorials where trying to explain machine learning and artificial intelligence in the easiest way possible. 
 
-[Medium account](https://medium.com/@salvatore-raieli) 
+[Medium account](https://medium.com/@salvatore-raieli)
 
+&nbsp;
+
+Stay Updated with the most important news and research on machine learning and artificial intelligence, you can find them every week here:
+
+[ML news of the week](https://github.com/SalvatoreRa/ML-news-of-the-week)
 
 &nbsp;
 
