@@ -52,8 +52,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 * [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
 * [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
-* [AI and science](#AI-and-science) - A general overview
-* [AI and art](#AI-and-art) - A general overview
+* [AI and science](#AI-and-science) - Artificial intelligence is changing all disciplines, but what is AI's impact on science itself?
+* [AI and art](#AI-and-art) - AI is impacting art, how? which are the models that are driving this revolution? how do they work?
 * [AI and Climate Change](#AI-and-Climate-change) - A general overview
 * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - A general overview
 * [Computer vision](#Computer-vision) - A general overview
