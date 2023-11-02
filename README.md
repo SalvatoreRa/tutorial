@@ -185,6 +185,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Have convolutional networks become obsolete](https://levelup.gitconnected.com/have-convolutional-networks-become-obsolete-245969f6b9d9)| -- |Vision transformers seem to have replaced convolutional networks, but are they really better?|
 | [UniverSeg: Universal Scissor for Medical Image Segmentation](https://levelup.gitconnected.com/universeg-universal-scissor-for-medical-image-segmentation-edf90bb15922)| -- |Medical segmentation is hard and expensive. Would be possible a model to cut them all? |
 | [META’s Hiera: reduce complexity to increase accuracy](https://towardsdatascience.com/metas-hiera-reduce-complexity-to-increase-accuracy-30f7a147ad0b) | -- | Simplicity allows AI to reach incredible performance and surprising speed |
 | [META’S ImageBind: The Embedding Glue for Your Modalities](https://levelup.gitconnected.com/metas-imagebind-the-embedding-glue-for-your-modalities-876f941fe3ab) | -- | New META’s model is able to obtain a unique embedding for up to six modalities.|
