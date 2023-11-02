@@ -50,8 +50,8 @@ This series of tutorials is focused on classical machine learning (regression, c
 
 In this series of tutorials, I will focus on artificial intelligence (neural networks, convolutional neural networks, and many other related topics). I will discuss the basics, the math behind models, and how to implement them. I will use Keras and PyTorch
 
-* [Artificial intelligence's bases](#Artificial-intelligence's-bases) - A general overview
-* [Tabular learning](#Tabular-learning) - A general overview
+* [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
+* [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
 * [AI and science](#AI-and-science) - A general overview
 * [AI and art](#AI-and-art) - A general overview
 * [AI and Climate Change](#AI-and-Climate-change) - A general overview
