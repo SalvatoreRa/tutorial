@@ -226,6 +226,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[How transparent are large language models?](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c)| -- |Stanford proposes an index to measure LLM transparency, and the results are not encouraging|
 |[Scaling Data, Scaling Bias: A Deep Dive into Hateful Content and Racial Bias in Generative AI](https://levelup.gitconnected.com/scaling-data-scaling-bias-a-deep-dive-into-hateful-content-and-racial-bias-in-generative-ai-70d8aa27a631)| -- |scaling seems the solution for every issue in machine learning: but it is true?|
 |[Reshaping the Model’s Memory without the Need for Retraining](https://towardsdatascience.com/reshaping-the-models-memory-without-the-need-for-retraining-9ade69f56296)| -- |Erasing any echo of problematic content a large language model has learned|
 |[PrAIde and Prejudice: Tracking and Minimize Political Bias in LLMs](https://levelup.gitconnected.com/praide-and-prejudice-tracking-and-minimize-political-bias-in-llms-47f82d354514)| -- |How to track the political biases and their impact on NLP|
