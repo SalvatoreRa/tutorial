@@ -41,7 +41,7 @@ Stay Updated with the most important news and research on machine learning and a
 
 # Tutorials on machine learning
 
-This series of tutorials is focused on classical machine learning (regression, classification, dimentional reduction and so on). I will discuss the basic, the math behind models and how to implement. 
+This series of tutorials is focused on classical machine learning (regression, classification, dimensional reduction, and so on). I will discuss the basics, the math behind models, and how to implement them. 
 
 
 &nbsp;
@@ -58,9 +58,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development
 * [Computer vision](#Computer-vision) - all you need and want to know about convolutional neural networks and vision transformers.
 * [Artificial intelligence and music](#Artificial-intelligence-and-music) - music is a sequence, and AI knows well how to deal with sequences
-* [AI and ethics](#AI-and-ethics) - A general overview
-* [Others](#Others) - A general overview
-* [Articles and tutorials of Bioinformatics/AI/ML applied to Biology](#Articles-and-tutorials-of-Bioinformatics/AI/ML-applied-to-Biology) - A general overview
+* [AI and ethics](#AI-and-ethics) - Artificial intelligence opens important ethical questions that need to be discussed.
+* [Articles and tutorials of Bioinformatics/AI/ML applied to Biology](#Articles-and-tutorials-of-Bioinformatics/AI/ML-applied-to-Biology) - Practical tutorials about applying AI and ML to biological questions.
+* [Others](#Others) - Articles and tutorials that do not fall inside the previous categories
 
 ## Artificial intelligence's bases
 
