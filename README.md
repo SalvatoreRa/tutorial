@@ -148,6 +148,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[LeMA: For an LLM Learning Math is Making Mistakes](https://levelup.gitconnected.com/lema-for-an-llm-learning-math-is-making-mistakes-f758f63eaafe)| -- | learning from mistakes helps large language models achieve better performance in reasoning tasks |
 |[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning |
 |[Order Matters: How AI Struggles with the Reverse](https://pub.towardsai.net/order-matters-how-ai-struggles-with-the-reverse-ed0a2e8f09df)| -- |How and why does the reversal curse impact the large language models |
 |[Mistral 7B: a New Wind Blowing Away Other Language Models](https://levelup.gitconnected.com/mistral-7b-a-new-wind-blowing-other-language-models-b74d7bfe137e)| -- | Mistral 7B is more performing and faster than other LLMs|
