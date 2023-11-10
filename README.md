@@ -76,6 +76,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | ------- | ----------- | ------ |
 |[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)| -- |Tree-based algorithms are the winner in tabular data: Why?|
 |[Tabula Rasa: How to save your network from the category drama](https://levelup.gitconnected.com/tabula-rasa-how-to-save-your-network-from-the-category-drama-623d67ad2e65)| -- | Neural networks do not like categories but you have techniques to save your favorite model |
+|[Neural Ensemble: what’s Better than a Neural Network? A group of them](https://levelup.gitconnected.com/neural-ensemble-whats-better-than-a-neural-network-a-group-of-them-0c9e156fca15)| -- | Neural ensemble: how to combine different neural networks in a powerful model |
 
 ## AI and science
 
