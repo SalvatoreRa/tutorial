@@ -149,6 +149,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Teaching is Hard: How to Train Small Models and Outperforming Large Counterparts](https://towardsdatascience.com/teaching-is-hard-how-to-train-small-models-and-outperforming-large-counterparts-f131f9d463e1)| -- |Distilling the knowledge of a large model is complex but a new method shows incredible performances|
 |[LeMA: For an LLM Learning Math is Making Mistakes](https://levelup.gitconnected.com/lema-for-an-llm-learning-math-is-making-mistakes-f758f63eaafe)| -- | learning from mistakes helps large language models achieve better performance in reasoning tasks |
 |[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning |
 |[Order Matters: How AI Struggles with the Reverse](https://pub.towardsai.net/order-matters-how-ai-struggles-with-the-reverse-ed0a2e8f09df)| -- |How and why does the reversal curse impact the large language models |
@@ -243,6 +244,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)| -- |Unveiling the Limits and Wonders of In-Context Learning in Large Language Models|
 |[Lord of Vectors: One Embedder to Rule Them All](https://levelup.gitconnected.com/lord-of-vectors-one-embedder-to-rule-them-all-205d22ca6a0a)| -- |Embedders are back in vogue, so why not have a universal one?|
 | [Is ChatGPT losing its capabilities?](https://levelup.gitconnected.com/is-chatgpt-losing-its-capabilities-33df3d7d5a9e)| -- |The updated version of GPT-4 seems performing worst, is it true? |
 | [CodeGen2: a new open-source model for coding](https://levelup.gitconnected.com/codegen2-a-new-open-source-model-for-coding-214d3d464030) | -- | SaleForce’s effect on how to design an efficient model for coding |
