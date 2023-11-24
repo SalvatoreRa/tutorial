@@ -25,9 +25,9 @@ You may write me for any request, suggestions and comments. If you find useful p
 
 # About me
 
-I am Salvatore Raieli, Senior Data Scientist in a pharmaceutical company. My work consist in applying machine learning and artificial intelligence in drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning and bioinformatics. I have worked in different projects related to machine learning and biology (for work or for passion). I am following a master in Artificial Intelligence to dive inside the theory. I have always been passionated about artificial intelligence, biology and understand how complex systems work.   
+I am Salvatore Raieli, a Senior Data Scientist in a pharmaceutical company. My work consist in applying machine learning and artificial intelligence in drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning and bioinformatics. I have worked in different projects related to machine learning and biology (for work or for passion). I am following a master in Artificial Intelligence to dive inside the theory. I have always been passionated about artificial intelligence, biology and understand how complex systems work.   
 
-I think that artificial intelligence will drive the new wave of innovation and it will revolution biology, medicine and pharma industry. I always thought that science should be more democratic and sharing knowledge is fundamental for the improvement of science. For this reason, I have planned to write tutorials where trying to explain machine learning and artificial intelligence in the easiest way possible. 
+I think that artificial intelligence will drive the new wave of innovation and it will revolutionize biology, medicine, and the pharma industry. I always thought that science should be more democratic and that sharing knowledge is fundamental for the improvement of science. For this reason, I have planned to write tutorials where I am trying to explain machine learning and artificial intelligence in the easiest way possible. 
 
 [Medium account](https://medium.com/@salvatore-raieli)
 
