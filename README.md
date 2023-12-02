@@ -245,6 +245,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[The 2023 AI year in brief](https://levelup.gitconnected.com/the-2023-ai-year-in-brief-7eeaab2552b5)| -- | A recap of an incredible AI year |
 |[Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)| -- |Unveiling the Limits and Wonders of In-Context Learning in Large Language Models|
 |[Lord of Vectors: One Embedder to Rule Them All](https://levelup.gitconnected.com/lord-of-vectors-one-embedder-to-rule-them-all-205d22ca6a0a)| -- |Embedders are back in vogue, so why not have a universal one?|
