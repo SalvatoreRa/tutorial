@@ -25,9 +25,9 @@ You may write me for any request, suggestions and comments. If you find useful p
 
 # About me
 
-I am Salvatore Raieli, Senior Data Scientist in a pharmaceutical company. My work consist in applying machine learning and artificial intelligence in drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning and bioinformatics. I have worked in different projects related to machine learning and biology (for work or for passion). I am following a master in Artificial Intelligence to dive inside the theory. I have always been passionated about artificial intelligence, biology and understand how complex systems work.   
+I am Salvatore Raieli, a Senior Data Scientist in a pharmaceutical company. My work consists of applying machine learning and artificial intelligence in the drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning, and bioinformatics. I have worked on different projects related to machine learning and biology (for work or for passion). I attended a Msc in Artificial Intelligence to dive inside the theory. I have always been passionate about artificial intelligence, and biology and understand how complex systems work.   
 
-I think that artificial intelligence will drive the new wave of innovation and it will revolution biology, medicine and pharma industry. I always thought that science should be more democratic and sharing knowledge is fundamental for the improvement of science. For this reason, I have planned to write tutorials where trying to explain machine learning and artificial intelligence in the easiest way possible. 
+I think that artificial intelligence will drive the new wave of innovation and it will revolutionize biology, medicine, and the pharma industry. I always thought that science should be more democratic and that sharing knowledge is fundamental for the improvement of science. For this reason, I have planned to write tutorials where I am trying to explain machine learning and artificial intelligence in the easiest way possible. 
 
 [Medium account](https://medium.com/@salvatore-raieli)
 
@@ -76,6 +76,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | ------- | ----------- | ------ |
 |[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)| -- |Tree-based algorithms are the winner in tabular data: Why?|
 |[Tabula Rasa: How to save your network from the category drama](https://levelup.gitconnected.com/tabula-rasa-how-to-save-your-network-from-the-category-drama-623d67ad2e65)| -- | Neural networks do not like categories but you have techniques to save your favorite model |
+|[Neural Ensemble: what’s Better than a Neural Network? A group of them](https://levelup.gitconnected.com/neural-ensemble-whats-better-than-a-neural-network-a-group-of-them-0c9e156fca15)| -- | Neural ensemble: how to combine different neural networks in a powerful model |
+|[Tabula rasa: Give your Neural Networks Rules, They Will Learn Better](https://levelup.gitconnected.com/tabula-rasa-give-your-neural-networks-rules-they-will-learn-better-ba53b555cbb4)| -- |From great powers derive great responsibilities: regularization allows AI to exploit its power|
 
 ## AI and science
 
@@ -148,6 +150,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Teaching is Hard: How to Train Small Models and Outperforming Large Counterparts](https://towardsdatascience.com/teaching-is-hard-how-to-train-small-models-and-outperforming-large-counterparts-f131f9d463e1)| -- |Distilling the knowledge of a large model is complex but a new method shows incredible performances|
 |[LeMA: For an LLM Learning Math is Making Mistakes](https://levelup.gitconnected.com/lema-for-an-llm-learning-math-is-making-mistakes-f758f63eaafe)| -- | learning from mistakes helps large language models achieve better performance in reasoning tasks |
 |[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning |
 |[Order Matters: How AI Struggles with the Reverse](https://pub.towardsai.net/order-matters-how-ai-struggles-with-the-reverse-ed0a2e8f09df)| -- |How and why does the reversal curse impact the large language models |
@@ -242,6 +245,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[The 2023 AI year in brief](https://levelup.gitconnected.com/the-2023-ai-year-in-brief-7eeaab2552b5)| -- | A recap of an incredible AI year |
+|[Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)| -- |Unveiling the Limits and Wonders of In-Context Learning in Large Language Models|
 |[Lord of Vectors: One Embedder to Rule Them All](https://levelup.gitconnected.com/lord-of-vectors-one-embedder-to-rule-them-all-205d22ca6a0a)| -- |Embedders are back in vogue, so why not have a universal one?|
 | [Is ChatGPT losing its capabilities?](https://levelup.gitconnected.com/is-chatgpt-losing-its-capabilities-33df3d7d5a9e)| -- |The updated version of GPT-4 seems performing worst, is it true? |
 | [CodeGen2: a new open-source model for coding](https://levelup.gitconnected.com/codegen2-a-new-open-source-model-for-coding-214d3d464030) | -- | SaleForce’s effect on how to design an efficient model for coding |

@@ -7,15 +7,25 @@ Photo by [Iñaki del Olmo](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
-In this section, you will find a collection of datasets for machine learning project. I am curating here a selection of datasets that you can use for different tasks and I am using in my tutorials. I am adding also some notebook where I show and explain in details the dataset (making it easy to use them). Check the **Google Colab** notebook, I am presenting the dataset providing information (history, context, additional information) but also showing visualization techniques for exploratory data analysis. The idea is the a ML beginner (but also who is interested in data science) can find a selection of datasets appropriate for different tasks: Moreover, the notebook can help to have a quick view of the datasets, to gain data visualization idea. In addition, I am using these datasets in my tutorial on Machine learning and artificial intelligence, provided real case uses and explain in details algorithm.
+In this section, you will find a collection of datasets for machine learning project. I am curating here a selection of datasets that you can use for different tasks and that I am using in my tutorials. I am adding also some notebooks where I show and explain in detail the dataset (making it easy to use them). Check the **Google Colab** notebook, I am presenting the dataset providing information (history, context, additional information) but also showing visualization techniques for exploratory data analysis. The idea is that an ML beginner (but also one who is interested in data science) can find a selection of datasets appropriate for different tasks: Moreover, the notebook can help to have a quick view of the datasets, to gain data visualization ideas. In addition, I am using these datasets in my tutorial on Machine learning and artificial intelligence, providing real case uses and explaining in detail the algorithm.
 
-I am storing here the datasets as CSV file, if bigger than 50 MB I uploading the zip file. Check below how to import in Colab a zip file.
+I am storing here the datasets as CSV files, if bigger than 50 MB I uploading the zip file. Check below how to import in Colab a zip file.
 
-I will add other datasets soon. You may write me for any request, suggestions and comments.
+I will add other datasets soon. You may write me with any requests, suggestions, and comments.
+
+# Possible tasks
+
+You find here datasets for these possible tasks:
+* Binary tabular classification
+* Multi-class tabular classification
+* Tabular regression
+* Survival analysis (special case of regression)
+* Graph node classification
+* Text classification
 
 # Datasets and Notebooks
 
-Here are listed all the datasets in this repository, there are also the associated colab file. Check also the first notebook to quick check how to load any of this datasets.
+Here are listed all the datasets in this repository, there is also the associated Google Colab file. Check also the first notebook to quickly check how to load any of these datasets.
 
 | #| Dataset | Notebook | Source | Description |
 | -| ------- | ----------- | ------ |------ |
@@ -30,20 +40,27 @@ Here are listed all the datasets in this repository, there are also the associat
 | 8.| [Penguin](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/penguins.csv) | --- | [source](https://cran.r-project.org/web/packages/palmerpenguins/readme/README.html) | classification of the penguin species- NOTEBOOK NOT READY YET|
 | 9.| [Mushroom](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/mushrooms.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
 | 10.| [Iris dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/iris_flowers.csv) | --- | [source](https://archive.ics.uci.edu/ml/datasets/mushroom) | classification of the mushroom species- NOTEBOOK NOT READY YET|
-| 11.| [FIF21 dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/FIFA_players_21.csv) | --- | [source](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv) | FIF21 player from kaggle- NOTEBOOK NOT READY YET|
+| 11.| [FIF21 dataset](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/FIFA_players_21.csv) | --- | [source](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv) | FIF21 player from Kaggle- NOTEBOOK NOT READY YET|
 | 12.| [CORA dataset: network](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.cites)| --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
 |   |[CORA dataset: Node features](https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/cora.content) | --- | [source](https://linqs.soe.ucsc.edu/data) | citation network of scientific articles (two files: network and node attributes)|
 | 13.| [Census Income](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/adult.csv)| --- | [source]([https://linqs.soe.ucsc.edu/data](https://www.kaggle.com/datasets/uciml/adult-census-income)) |This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). The prediction task is to determine whether a person makes over $50K a year. [Alternative source](https://archive.ics.uci.edu/dataset/2/adult)|
 | 14.| [Faults](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/faults.csv)| --- | [source](https://www.kaggle.com/datasets/shrutimechlearn/steel-plate-fault) |small size dataset where the target variable is multi-class, ideal for starting with multi-class classification |
 | 15.| [Salary IoT](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Salary_Data_Based_country_and_race.csv)| --- | [source](https://www.kaggle.com/datasets/sudheerp2147234/salary-dataset-based-on-country-and-race?select=Salary_Data_Based_country_and_race.csv) |The dataset consists of a comprehensive collection of salary and demographic information with additional details on years of experience. It offers a valuable resource for studying the relationship between income and various socio-demographic factors. The demographic attributes include age, gender, education, country, and race, providing a diverse range of variables for analysis. Researchers can explore patterns and trends in income distribution across different demographic categories, allowing for insights into potential disparities or variations in earning potential.  |
 | 16.| [Interstate Traffic Dataset](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Metro_Interstate_Traffic_Volume.zip)| --- | [source](https://www.kaggle.com/datasets/anshtanwar/metro-interstate-traffic-volume) |This dataset contains hourly data on the traffic volume for westbound I-94, a major interstate highway in the US that connects Minneapolis and St Paul, Minnesota. The data was collected by the Minnesota Department of Transportation (MnDOT) from 2012 to 2018 at a station roughly midway between the two cities. The dataset has 48204 instances and 9 attributes.   |
-| 17.| [Indian college reviews](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Indian_college_reviews.zip)| --- | [source](https://www.kaggle.com/datasets/prateekkhandelwal18/indian-college-reviews) |This dataset contains all the Engineering college reviews for colleges in India. I scraped the data from the Collegedunia website. The data contains 4 variables : Username, College name, Review, Rating  |
-| 18.| [Indian college reviews](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Nuclear_Explosions_Data.zip)| --- | [source](https://www.kaggle.com/datasets/utkarshx27/nuclear-explosions-data) |Details of all nuclear explosions prior to 2000. information about source, weapon source country, Region where the nuclear device was deployed, Longitude and Latitudine position, magnitude of explosion, Surface wave magnitude, power and so on   |
-| 19.| [World Airports](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/World_Airports.zip)| --- | [source](https://www.kaggle.com/datasets/mexwell/world-airports) |Airports of the world with informations about codenames, elevation, frequency, runways and wikipedia links.  zip file (file: csv)|
-| 20.| [CO2 Emissions](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/CO2%20Emissions.zip)| --- | [source](https://www.kaggle.com/datasets/bhuviranga/co2-emissions) |car emission CO2, variable includes the car maker, vehicle, type of vehicle, engine and so on.  zip file (file: csv)|
-| 21.| [Global Stock Market (2008-2023)](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Global_Stock_Market%20_2008_2023.zip)| --- | [source](https://www.kaggle.com/datasets/pavankrishnanarne/global-stock-market-2008-present) |This dataset encompasses daily price and volume data from several major global stock indices and commodities for the period of 2008 to 2023. The dataset includes about most important stock exchanges. It can be use for financial analysis, trading strategies, machine learning models, and interconnections between the markets.zip file (file: csv)|
-| 22.| [pol](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/pol.csv)| --- | [source](https://www.openml.org/search?type=data&sort=runs&id=722&status=active) |Binarized version of the original data set. It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N'). (file: csv)|
-
+| 17.| [Indian college reviews](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Indian_college_reviews.zip)| --- | [source](https://www.kaggle.com/datasets/prateekkhandelwal18/indian-college-reviews) |This dataset contains all the Engineering college reviews for colleges in India. I scraped the data from the Collegedunia website. The data contains 4 variables: Username, College name, Review, Rating  |
+| 18.| [Indian college reviews](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Nuclear_Explosions_Data.zip)| --- | [source](https://www.kaggle.com/datasets/utkarshx27/nuclear-explosions-data) |Details of all nuclear explosions prior to 2000. information about the source, weapon source country, Region where the nuclear device was deployed, Longitude and Latitudine position, the magnitude of the explosion, Surface wave magnitude, power, and so on   |
+| 19.| [World Airports](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/World_Airports.zip)| --- | [source](https://www.kaggle.com/datasets/mexwell/world-airports) |Airports of the world with information about codenames, elevation, frequency, runways and Wikipedia links.  zip file (file: csv)|
+| 20.| [CO2 Emissions](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/CO2%20Emissions.zip)| --- | [source](https://www.kaggle.com/datasets/bhuviranga/co2-emissions) |car emission CO2, variable includes the carmaker, vehicle, type of vehicle, engine and so on.  zip file (file: csv)|
+| 21.| [Global Stock Market (2008-2023)](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/Global_Stock_Market%20_2008_2023.zip)| --- | [source](https://www.kaggle.com/datasets/pavankrishnanarne/global-stock-market-2008-present) |This dataset encompasses daily price and volume data from several major global stock indices and commodities for the period of 2008 to 2023. The dataset includes the most important stock exchanges. It can be used for financial analysis, trading strategies, machine learning models, and interconnections between the markets.zip file (file: CSV)|
+| 22.| [pol](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/pol.csv)| --- | [source](https://www.openml.org/search?type=data&sort=runs&id=722&status=active) |Binarized version of the original data set. It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N'). (file: CSV)|
+| 23.| [Breast cancer](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/breast_cancer.csv)| --- | [source](https://github.com/sebp/scikit-survival/tree/v0.22.1/sksurv/datasets) |The dataset has 198 examples and 80 features, the last two columns represent time and event (metastasis appearance), information on the datasets: [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE7390) and [here](https://pubmed.ncbi.nlm.nih.gov/17545524/) (file: CSV)|
+| 24.| [AIDS progression](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/aids_progression.csv)| --- | [source](https://github.com/sebp/scikit-survival/tree/v0.22.1/sksurv/datasets)  | 1,151 samples and 11 features, the last two columns represent time and event, there are two different outcomes: progression and death. To make the usage easier, the datasets are separated. Additional information on the dataset: [here](https://web.archive.org/web/20170114043458/http://www.umass.edu/statdata/statdata/data/) and [here](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470258019)  (file: CSV)|
+| 25.| [AIDS death](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/aids_progression.csv)| --- | [source](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/aids_death.csv)  | 1,151 samples and 11 features, the last two columns represent time and event, there are two different outcomes: progression and death. To make the usage easier, the datasets are separated. Additional information on the dataset: [here](https://web.archive.org/web/20170114043458/http://www.umass.edu/statdata/statdata/data/) and [here](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470258019) (file: CSV)|
+| 26.| [flchain](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/flchain.csv)| --- | [source](https://github.com/sebp/scikit-survival/tree/v0.22.1/sksurv/datasets)  | 7874 samples and 9 features. the last two columns represent time and event (death for 215 patients), additional info: [here](https://doi.org/10.1016/j.mayocp.2012.03.009) and [here](https://pubmed.ncbi.nlm.nih.gov/22677072/) (file: CSV)|
+| 27.| [gbsg2](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/gbsg2.csv)| --- | [source](https://github.com/sebp/scikit-survival/tree/v0.22.1/sksurv/datasets) 6 | 86 samples and 8 features. the last two columns represent time and event (recurrence of the disease for 299 patients), additional info: [here](http://ascopubs.org/doi/abs/10.1200/jco.1994.12.10.2086) and [here](https://pubmed.ncbi.nlm.nih.gov/7931478/)(file: CSV)|
+| 28.| [hnscc](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/hnscc.csv)| --- | [source](https://github.com/sebp/scikit-survival/tree/v0.22.1/sksurv/datasets)  |451 samples and 14 features. the last two columns represent time and event (death), additional info: [here](https://wiki.cancerimagingarchive.net/display/Public/HNSCC) and [here](https://openreview.net/pdf?id=LW-QxwZWSss) (file: CSV)|
+| 29.| [veterans_lung_cancer](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/veterans_lung_cancer.csv)| --- | [source](https://github.com/sebp/scikit-survival/tree/v0.22.1/sksurv/datasets) 1| 37 samples and 6 features. the last two columns represent time and event (death for 128 patients), additional info: [here](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118032985) (file: CSV)|
+| 30.| [whas500](https://github.com/SalvatoreRa/tutorial/blob/main/datasets/whas500.csv)| --- | [source.](https://github.com/sebp/scikit-survival/tree/v0.22.1/sksurv/datasets) |500 samples and 14 features. the last two columns represent time and event (death for 215 patients), additional info: [here](https://web.archive.org/web/20170114043458/http://www.umass.edu/statdata/statdata/data/) and [here](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470258019) (file: CSV)|
 
 &nbsp;
 
@@ -59,13 +76,13 @@ A quick chart about which dataset to use for different tasks.
 
 # Usage in Python
 
-To use the dataset in your project you can download them (but also remember that pandas read also CSV file from the web) or if you use in colab:
+To use the dataset in your project you can download them (but also remember that pandas read also CSV files from the web) or if you use in Colab:
 
 for CSV file 
 
 ```Python
 #example for a dataset
-#you can read from directory or directly from url
+#you can read from the directory or directly from the URL
 data_dir = "https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/Boston.csv"
 df = pd.read_csv(data_dir)
 ```
@@ -76,7 +93,7 @@ If the file is contained in a zip.file, to upload in Google Colab
 import sys
 import os
 import pandas as pd
-#this for unzip and read the file
+#this is for unzipping and read the file
 !wget https://github.com/SalvatoreRa/tutorial/blob/main/datasets/IMDB.zip?raw=true
 !unzip IMDB.zip?raw=true
 imdb_data=pd.read_csv("IMDB Dataset.csv")
