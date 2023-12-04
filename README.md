@@ -245,6 +245,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Make it simple! Can we have simple models for complex tasks?](https://levelup.gitconnected.com/make-it-simple-can-we-have-simple-models-for-complex-tasks-c73d7b2347bf)| -- | Can we simplify the current architectures without losing performance?|
 |[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[The 2023 AI year in brief](https://levelup.gitconnected.com/the-2023-ai-year-in-brief-7eeaab2552b5)| -- | A recap of an incredible AI year |
 |[Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)| -- |Unveiling the Limits and Wonders of In-Context Learning in Large Language Models|
