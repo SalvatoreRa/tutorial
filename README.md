@@ -66,6 +66,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Tensors: a Gentle Introduction](https://medium.com/ai-in-plain-english/tensors-a-gentle-introduction-2d82e25b70c)| [PyTorch Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/PyTorch_tensors.ipynb), [Tensorflow Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/TensorFlow_tensors.ipynb), [Excel](https://github.com/SalvatoreRa/tutorial/blob/main/excel%20files/tensors.xlsx)|What there are? Why do you care? The name is intimidating, but fear not them! |
 |[Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)| -- |Understanding how a neural network learns helps us to avoid that the model from forgetting what it learns|
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
