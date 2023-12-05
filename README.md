@@ -140,6 +140,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Generative AI Fuels Climate Change](https://medium.com/gitconnected/generative-ai-fuels-climate-change-588f4be2a7c9) | -- | What is the associated carbon dioxide of your favorite model? |
 | [How artificial intelligence could save the Amazon rainforest](https://medium.com/towards-data-science/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) | -- | Amazonia is at risk and AI could help preserve it |
 | [How AI could fuel global warming](https://towardsdatascience.com/how-ai-could-fuel-global-warming-8f6e1dda6711) | -- |New large models are energy intensive. How much CO2 is needed for their training?  |
 | [Machine learning to tackle climate change](https://towardsdatascience.com/machine-learning-to-tackle-climate-change-7911e004c3a2) | -- | How AI could help against global warming and save the world from humans |
