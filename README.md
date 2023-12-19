@@ -79,6 +79,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Tabula Rasa: How to save your network from the category drama](https://levelup.gitconnected.com/tabula-rasa-how-to-save-your-network-from-the-category-drama-623d67ad2e65)| -- | Neural networks do not like categories but you have techniques to save your favorite model |
 |[Neural Ensemble: what’s Better than a Neural Network? A group of them](https://levelup.gitconnected.com/neural-ensemble-whats-better-than-a-neural-network-a-group-of-them-0c9e156fca15)| -- | Neural ensemble: how to combine different neural networks in a powerful model |
 |[Tabula rasa: Give your Neural Networks Rules, They Will Learn Better](https://levelup.gitconnected.com/tabula-rasa-give-your-neural-networks-rules-they-will-learn-better-ba53b555cbb4)| -- |From great powers derive great responsibilities: regularization allows AI to exploit its power|
+| [Tabula rasa: take the best of trees and neural networks](https://levelup.gitconnected.com/tabula-rasa-take-the-best-of-trees-and-neural-networks-ddc22c1884cb) | -- | Hybrid ideas for complex data: how to join two powerful models in one|
 
 ## AI and science
 
