@@ -153,6 +153,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[Teaching is Hard: How to Train Small Models and Outperforming Large Counterparts](https://towardsdatascience.com/teaching-is-hard-how-to-train-small-models-and-outperforming-large-counterparts-f131f9d463e1)| -- |Distilling the knowledge of a large model is complex but a new method shows incredible performances|
 |[LeMA: For an LLM Learning Math is Making Mistakes](https://levelup.gitconnected.com/lema-for-an-llm-learning-math-is-making-mistakes-f758f63eaafe)| -- | learning from mistakes helps large language models achieve better performance in reasoning tasks |
 |[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning |
@@ -248,8 +249,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Human-Centered Loss Functions: Not All the Risks Are the Same](https://levelup.gitconnected.com/human-centered-loss-functions-not-all-the-risks-are-the-same-4bae47841a24) | -- |Aligning large language models with human behavior in uncertain futures |
+| [SwitchHead: Be Faster To Catch the Prey](https://levelup.gitconnected.com/switchhead-be-faster-to-catch-the-prey-3e28ccd84ce1) | -- |How MoE applied to self-attention can make your model faster and performing |
 |[Make it simple! Can we have simple models for complex tasks?](https://levelup.gitconnected.com/make-it-simple-can-we-have-simple-models-for-complex-tasks-c73d7b2347bf)| -- | Can we simplify the current architectures without losing performance?|
-|[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[The 2023 AI year in brief](https://levelup.gitconnected.com/the-2023-ai-year-in-brief-7eeaab2552b5)| -- | A recap of an incredible AI year |
 |[Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)| -- |Unveiling the Limits and Wonders of In-Context Learning in Large Language Models|
 |[Lord of Vectors: One Embedder to Rule Them All](https://levelup.gitconnected.com/lord-of-vectors-one-embedder-to-rule-them-all-205d22ca6a0a)| -- |Embedders are back in vogue, so why not have a universal one?|
