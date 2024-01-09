@@ -80,6 +80,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Neural Ensemble: what’s Better than a Neural Network? A group of them](https://levelup.gitconnected.com/neural-ensemble-whats-better-than-a-neural-network-a-group-of-them-0c9e156fca15)| -- | Neural ensemble: how to combine different neural networks in a powerful model |
 |[Tabula rasa: Give your Neural Networks Rules, They Will Learn Better](https://levelup.gitconnected.com/tabula-rasa-give-your-neural-networks-rules-they-will-learn-better-ba53b555cbb4)| -- |From great powers derive great responsibilities: regularization allows AI to exploit its power|
 | [Tabula rasa: take the best of trees and neural networks](https://levelup.gitconnected.com/tabula-rasa-take-the-best-of-trees-and-neural-networks-ddc22c1884cb) | -- | Hybrid ideas for complex data: how to join two powerful models in one|
+| [Tabula rasa: Could We Have a Transformer for Tabular Data](https://medium.com/gitconnected/tabula-rasa-could-we-have-a-transformer-for-tabular-data-9e4b238cde2c) | -- | We are using large language models for everything, so why not for tabular data? |
 
 ## AI and science
 
