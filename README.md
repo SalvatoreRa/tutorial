@@ -25,8 +25,8 @@ You may write me for any request, suggestions and comments. If you find useful p
 
 # Index
 * [About me](#About-me)
-* [Tutorials on machine learning](#Tutorials on machine learning)
-* [Tutorials on artificial intelligence](#Tutorials-on-artificial-intelligence)
+* [Tutorials on machine learning](#Tutorials-on-machine-learning)
+* [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
 
 # About me
 
@@ -58,6 +58,8 @@ This series of tutorials is focused on classical machine learning (regression, c
 
 &nbsp;
 
+[Back to index](#Index)
+
 # Tutorials on artificial intelligence
 
 In this series of tutorials, I will focus on artificial intelligence (neural networks, convolutional neural networks, and many other related topics). I will discuss the basics, the math behind models, and how to implement them. I will use Keras and PyTorch
@@ -74,6 +76,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 * [Articles and tutorials of Bioinformatics/AI/ML applied to Biology](#Articles-and-tutorials-of-Bioinformatics/AI/ML-applied-to-Biology) - Practical tutorials about applying AI and ML to biological questions.
 * [Others](#Others) - Articles and tutorials that do not fall inside the previous categories
 
+[Back to index](#Index)
+
 ## Artificial intelligence's bases
 
 | Articles | notebook | description |
@@ -82,6 +86,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)| -- |Understanding how a neural network learns helps us to avoid that the model from forgetting what it learns|
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
+
+[Back to index](#Index)
 
 ## Tabular learning
 
@@ -93,6 +99,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Tabula rasa: Give your Neural Networks Rules, They Will Learn Better](https://levelup.gitconnected.com/tabula-rasa-give-your-neural-networks-rules-they-will-learn-better-ba53b555cbb4)| -- |From great powers derive great responsibilities: regularization allows AI to exploit its power|
 | [Tabula rasa: take the best of trees and neural networks](https://levelup.gitconnected.com/tabula-rasa-take-the-best-of-trees-and-neural-networks-ddc22c1884cb) | -- | Hybrid ideas for complex data: how to join two powerful models in one|
 | [Tabula rasa: Could We Have a Transformer for Tabular Data](https://medium.com/gitconnected/tabula-rasa-could-we-have-a-transformer-for-tabular-data-9e4b238cde2c) | -- | We are using large language models for everything, so why not for tabular data? |
+
+[Back to index](#Index)
 
 ## AI and science
 
@@ -130,6 +138,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
+[Back to index](#Index)
+
 ## AI and art 
 
 | Articles | notebook | description |
@@ -150,6 +160,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
+[Back to index](#Index)
+
 ## AI and Climate change
 
 | Articles | notebook | description |
@@ -161,6 +173,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Robotics Join Machine Learning for an Electric Future](https://pub.towardsai.net/robotics-join-machine-learning-for-an-electric-future-420067527337) | -- | How robotics and AI can speed energy transition and reduce emissions |
 
 &nbsp;
+
+[Back to index](#Index)
 
 ## Natural Language Processing and LLMs
 
@@ -202,6 +216,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
+[Back to index](#Index)
+
 ## Computer vision
 
 | Articles | notebook | description |
@@ -218,6 +234,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
+[Back to index](#Index)
+
 ## Artificial intelligence and music
 
 | Articles | notebook | description |
@@ -230,6 +248,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[A Visual Journey in What Vision-Transformers See](https://pub.towardsai.net/a-visual-journey-in-what-vision-transformers-see-9db9c8ba62d4)|--|How some of the largest models see the world|
 
 &nbsp;
+
+[Back to index](#Index)
 
 ## Multi-modal
 
@@ -244,6 +264,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
+[Back to index](#Index)
+
 ## AI and ethics
 
 | Articles | notebook | description |
@@ -257,6 +279,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Machine unlearning: The duty of forgetting](https://towardsdatascience.com/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) | -- |  How and why it is important to erase data point information from an AI model|
 
 &nbsp;
+
+[Back to index](#Index)
 
 ## Others
 
@@ -292,9 +316,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [A critical analysis of your dataset](https://towardsdatascience.com/a-critical-analysis-of-your-dataset-2b388e7ca01e) | -- |  Stop finetuning your model: your model is already good, but not your data|
 | [How AI and X-rays To Detect Explosives Could Also Identify Cancers](https://medium.com/geekculture/how-ai-and-x-rays-to-detect-explosives-could-also-identify-cancers-63dbd4c44fa3) | -- | How AI enhance X-rays to detect concealed explosive and potentially tumors, wall breach by their textures |
 
-
-
 &nbsp;
+
+[Back to index](#Index)
 
 ## Articles and tutorials of Bioinformatics/AI/ML applied to Biology
 
@@ -315,6 +339,8 @@ This series of tutorials on using machine learning and transcriptomic data with 
 | [Logistic regression](https://salvatore-raieli.medium.com/a-complete-guide-on-logistic-regression-with-gene-expression-data-training-the-model-dfd1aaf3828e) | [Jupiter notebook](https://github.com/SalvatoreRa/tutorial/blob/main/genomic%20series/logistic_regression.ipynb) | Python: Logistic regression, training, evaluation, inspection and solution |
 
 &nbsp;
+
+[Back to index](#Index)
 
 
 # Contributing
