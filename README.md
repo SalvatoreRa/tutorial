@@ -23,6 +23,8 @@ You may write me for any request, suggestions and comments. If you find useful p
 [Medium account](https://medium.com/@salvatore-raieli) 
 &nbsp;
 
+# Index
+
 # About me
 
 I am Salvatore Raieli, a Senior Data Scientist in a pharmaceutical company. My work consists of applying machine learning and artificial intelligence in the drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning, and bioinformatics. I have worked on different projects related to machine learning and biology (for work or for passion). I attended a Msc in Artificial Intelligence to dive inside the theory. I have always been passionate about artificial intelligence, and biology and understand how complex systems work.   
@@ -43,6 +45,11 @@ Stay Updated with the most important news and research on machine learning and a
 
 This series of tutorials is focused on classical machine learning (regression, classification, dimensional reduction, and so on). I will discuss the basics, the math behind models, and how to implement them. 
 
+## Introduction to medical image analysis
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [Introduction to medical image analysis](https://medium.com/ai-in-plain-english/introduction-to-medical-image-analysis-aca3ec75b576) | -- | Brief introduction to medical image analyss |
 
 &nbsp;
 
