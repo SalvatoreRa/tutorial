@@ -26,7 +26,7 @@ You may write me for any request, suggestions and comments. If you find useful p
 # Index
 * [About me](#About-me)
 * [Tutorials on machine learning](#Tutorials-on-machine-learning)
-    * [Introduction to medical image analysis](#Introduction-to-medical-image analysis)
+    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis)
 * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
     * [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
     * [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
