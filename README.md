@@ -24,6 +24,9 @@ You may write me for any request, suggestions and comments. If you find useful p
 &nbsp;
 
 # Index
+* [About me](#About-me)
+* [Tutorials on machine learning](#Tutorials on machine learning)
+* [Tutorials on artificial intelligence](#Tutorials-on-artificial-intelligence)
 
 # About me
 
@@ -41,6 +44,8 @@ Stay Updated with the most important news and research on machine learning and a
 
 &nbsp;
 
+[Back to index](#Index)
+
 # Tutorials on machine learning
 
 This series of tutorials is focused on classical machine learning (regression, classification, dimensional reduction, and so on). I will discuss the basics, the math behind models, and how to implement them. 
@@ -53,7 +58,7 @@ This series of tutorials is focused on classical machine learning (regression, c
 
 &nbsp;
 
-# Articles on artificial intelligence
+# Tutorials on artificial intelligence
 
 In this series of tutorials, I will focus on artificial intelligence (neural networks, convolutional neural networks, and many other related topics). I will discuss the basics, the math behind models, and how to implement them. I will use Keras and PyTorch
 
