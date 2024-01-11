@@ -14,19 +14,22 @@ I decided to collect a set of tutorials and complementary codes about artificial
 
 Here, you will find the Jupiter Notebook for the tutorial I published in Medium. I suggest reading the tutorial and the companion tutorial code in the order provided in the table below. For practical reasons, I have divided some of the tutorials into more than one part (allowing me to concentrate on one of the tutorials on the theoretical part and the others about the programming). Tutorials dedicated only to the theory have not a linked Jupiter notebook. 
 
-Most of the code is written in Python, but you can find also some Excel file that I have created to make easier understand some of the concepts. I have also planned to add some script in R (since it is wide used by statistician, biologist and so on).
+Most of the code is written in Python, but you can find also some Excel files that I have created to make it easier to understand some of the concepts. I have also planned to add some script in R (since it is widely used by statisticians, biologists, and so on).
 
-Moreover, you may find here some colab notebook without a theoretical tutorial (yet). I decided to upload the code before I have finish to write the theoretical part (this would be indicated). I am convinced that the code alone is already beneficial. I would successively publish on Medium the written article (with details and comment to the code).
+Moreover, you may find here some Colab notebooks without a theoretical tutorial (yet). I decided to upload the code before I finished writing the theoretical part (this would be indicated). I am convinced that the code alone is already beneficial. I would successively publish on Medium the written article (with details and comments to the code).
 
-You may write me for any request, suggestions and comments. If you find useful please follow and/or share (a star is always really appreciated).
+You may write me with any requests, suggestions, and comments. If you find it useful please follow and/or share (a star is always really appreciated).
 
 [Medium account](https://medium.com/@salvatore-raieli) 
 &nbsp;
 
 # Index
+
+Here is an index of the different sections and subsections:
+
 * [About me](#About-me)
 * [Tutorials on machine learning](#Tutorials-on-machine-learning)
-    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis)
+    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis) - An introduction on how to use machine learning for image medical analysis
 * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
     * [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
     * [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
@@ -42,7 +45,7 @@ You may write me for any request, suggestions and comments. If you find useful p
 
 # About me
 
-I am Salvatore Raieli, a Senior Data Scientist in a pharmaceutical company. My work consists of applying machine learning and artificial intelligence in the drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning, and bioinformatics. I have worked on different projects related to machine learning and biology (for work or for passion). I attended a Msc in Artificial Intelligence to dive inside the theory. I have always been passionate about artificial intelligence, and biology and understand how complex systems work.   
+I am Salvatore Raieli, a Senior Data Scientist in a pharmaceutical company. My work consists of applying machine learning and artificial intelligence in the drug discovery process. I have a PhD in immunology and I have years of experience in coding, machine learning, and bioinformatics. I have worked on different projects related to machine learning and biology (for work or for passion). I attended an MSc in Artificial Intelligence to dive inside the theory. I have always been passionate about artificial intelligence, and biology and understand how complex systems work.   
 
 I think that artificial intelligence will drive the new wave of innovation and it will revolutionize biology, medicine, and the pharma industry. I always thought that science should be more democratic and that sharing knowledge is fundamental for the improvement of science. For this reason, I have planned to write tutorials where I am trying to explain machine learning and artificial intelligence in the easiest way possible. 
 
