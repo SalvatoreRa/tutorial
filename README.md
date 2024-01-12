@@ -10,7 +10,7 @@ Photo by [National Cancer Institute
 
 &nbsp;
 
-I decided to collect a set of tutorials and complementary codes about artificial intelligence, machine learning, and data science. I have divided this repository into different sections (each one covers a different macro area of data science). You will find tutorials, code, and a list of resources related to the different topics (links to articles, free books, free courses, libraries, and so on).
+I decided to collect a set of tutorials and articles (with complementary codes) about artificial intelligence, machine learning, and data science. I have divided this repository into different sections (each one covers a different macro area of data science). You will find tutorials, code, and a list of resources related to the different topics (links to articles, free books, free courses, libraries, and so on).
 
 Here, you will find the Jupiter Notebook for the tutorial I published in Medium. I suggest reading the tutorial and the companion tutorial code in the order provided in the table below. For practical reasons, I have divided some of the tutorials into more than one part (allowing me to concentrate on one of the tutorials on the theoretical part and the others about the programming). Tutorials dedicated only to the theory have not a linked Jupiter notebook. 
 
