@@ -40,6 +40,7 @@ You may write me for any request, suggestions and comments.
 | Introduction to NetworkX | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Intro_to_Networkx.ipynb)  | A notebook to refresh the use of NetworkX|
 | Introduction to Python iGraph | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Igraph.ipynb)  | A notebook to refresh the use of Python iGraph|
 | Introduction to R iGraph | [Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/iGraph%20introduction.R)  | A notebook to refresh the use of Python iGraph|
+| [Introduction to point processing](https://medium.com/ai-in-plain-english/introduction-to-point-processing-b9d022ad8cf8) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Point_processing.ipynb) |Whether you are doing medical image analysis or you use Photoshop, you are using point preprocessing|
 
 &nbsp;
 
