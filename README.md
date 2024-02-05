@@ -302,6 +302,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [MiQu: Can a mysterious model be a GPT-4 rival?](https://medium.com/gitconnected/miqu-can-a-mysterious-model-be-a-gpt-4-rival-a94f57e2f07f) | -- |An open-source model seems to be performing as GPT-4 but we do not know much about it |
 | [Human-Centered Loss Functions: Not All the Risks Are the Same](https://levelup.gitconnected.com/human-centered-loss-functions-not-all-the-risks-are-the-same-4bae47841a24) | -- |Aligning large language models with human behavior in uncertain futures |
 | [SwitchHead: Be Faster To Catch the Prey](https://levelup.gitconnected.com/switchhead-be-faster-to-catch-the-prey-3e28ccd84ce1) | -- |How MoE applied to self-attention can make your model faster and performing |
 |[Make it simple! Can we have simple models for complex tasks?](https://levelup.gitconnected.com/make-it-simple-can-we-have-simple-models-for-complex-tasks-c73d7b2347bf)| -- | Can we simplify the current architectures without losing performance?|
