@@ -71,6 +71,7 @@ This series of tutorials is focused on classical machine learning (regression, c
 | ------- | ----------- | ------ |
 | [Introduction to medical image analysis](https://medium.com/ai-in-plain-english/introduction-to-medical-image-analysis-aca3ec75b576) | -- | Brief introduction to medical image analyss |
 | [Introduction to point processing](https://medium.com/ai-in-plain-english/introduction-to-point-processing-b9d022ad8cf8) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Point_processing.ipynb) |Whether you are doing medical image analysis or you use Photoshop, you are using point preprocessing|
+| [Introduction to Thresholding](https://medium.com/ai-in-plain-english/introduction-to-thresholding-cd985ae2ecba) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Thresholding.ipynb) | A simple but powerful system for segmenting images |
 
 &nbsp;
 
