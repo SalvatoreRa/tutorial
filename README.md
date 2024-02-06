@@ -161,6 +161,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [MobileDiffusion: Can we generate images on the phone?](https://medium.com/p/fe1f13f6d5fa) | -- | A small and fast model could be used to generate images on the device|
 | [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
 | [ControlNet: control your AI art generation](https://levelup.gitconnected.com/controlnet-control-your-ai-art-generation-616c86c88964)|--| A new model allows fine control and gets the maximum from stable diffusion |
 |[InstructPix2Pix: use text instructions to edit your images](https://levelup.gitconnected.com/instructpix2pix-use-text-instructions-to-edit-your-images-50acf7afa72a)| -- | A new model that allows you to modify your images just by writing the editing instructions |
