@@ -163,6 +163,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [OpenAI Sora: Welcome to a Simulated World](https://levelup.gitconnected.com/openai-sora-welcome-to-a-simulated-world-1e88c6844dd2) | -- | A new text-to-video model shows astonishing capabilities but it is also terrifying experts |
 | [How AI is reading a forgotten history](https://medium.com/gitconnected/how-ai-is-reading-a-forgotten-history-d1ce2cb2e49d) | -- | Ancient scrolls that contain lost literature have been read by AI |
 | [MobileDiffusion: Can we generate images on the phone?](https://medium.com/p/fe1f13f6d5fa) | -- | A small and fast model could be used to generate images on the device|
 | [Google UniTune: Text-driven Image Editing](https://pub.towardsai.net/google-unitune-text-driven-image-editing-4b176b1b16a1) | -- | How to use words to modify your images |
@@ -201,6 +202,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Indirect Reasoning for LLMs: Not Always There is a Direct Way to the Answer](https://levelup.gitconnected.com/indirect-reasoning-for-llms-not-always-there-is-a-direct-way-to-the-answer-d9cfee83bf58) | -- | Contrapositive and Contradiction for Automated Reasoning can help your model find the right answering | 
 |[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[Teaching is Hard: How to Train Small Models and Outperforming Large Counterparts](https://towardsdatascience.com/teaching-is-hard-how-to-train-small-models-and-outperforming-large-counterparts-f131f9d463e1)| -- |Distilling the knowledge of a large model is complex but a new method shows incredible performances|
 |[LeMA: For an LLM Learning Math is Making Mistakes](https://levelup.gitconnected.com/lema-for-an-llm-learning-math-is-making-mistakes-f758f63eaafe)| -- | learning from mistakes helps large language models achieve better performance in reasoning tasks |
