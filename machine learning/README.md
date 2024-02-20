@@ -43,6 +43,7 @@ You may write me for any request, suggestions and comments.
 | [Introduction to point processing](https://medium.com/ai-in-plain-english/introduction-to-point-processing-b9d022ad8cf8) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Point_processing.ipynb) |Whether you are doing medical image analysis or you use Photoshop, you are using point preprocessing|
 | [Introduction to Thresholding](https://medium.com/ai-in-plain-english/introduction-to-thresholding-cd985ae2ecba) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Thresholding.ipynb) | A simple but powerful system for segmenting images |
 | [A practical guide to neighborhood image processing](https://ai.plainenglish.io/a-practical-guide-to-neighborhood-image-processing-cd3cc7f264a7) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/neighborhood_processing.ipynb) | Love thy neighbors: How the neighbors are influencing a pixel|
+| [A practical guide to morphological image processing](https://medium.com/ai-in-plain-english/a-practical-guide-to-morphological-image-processing-8df5cb6ec39f) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Morphology.ipynb) |simple but powerful operations to analyze images |
 
 &nbsp;
 
