@@ -111,6 +111,14 @@ plot_upset(data = df)
 
 ![upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/images/upset_plot.png?raw=true)
 
+## Random NA generation
+
+A simple function to insert NA randomly in your dataset.
+
+## Utility for NA
+
+A series of utilities for generating NA. It allows to generate MNAR, MCAR and MAR. These functions have been modified from [here]( https://rmisstastic.netlify.app/how-to/python/generate_html/how%20to%20generate%20missing%20values)
+
 
 &nbsp;
 
