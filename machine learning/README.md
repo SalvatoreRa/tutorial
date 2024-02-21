@@ -77,6 +77,10 @@ Or alternatively, you can use in this way in Colab:
 
 ```Python
 
+!pip install wget 
+import wget
+wget.download('https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py')
+
 ```
 
 
