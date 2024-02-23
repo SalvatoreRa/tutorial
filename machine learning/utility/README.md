@@ -120,6 +120,14 @@ A simple function to insert NA randomly in your dataset.
 A series of utilities for generating NA. It allows to generate MNAR, MCAR and MAR. These functions have been modified from [here]( https://rmisstastic.netlify.app/how-to/python/generate_html/how%20to%20generate%20missing%20values)
 
 
+```Python
+wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machine learning/utility/utils_NA.py')
+!pip install wget 
+from utils import *
+import torch
+import seaborn as sns
+```
+
 &nbsp;
 
 # Contributing
