@@ -126,6 +126,13 @@ wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machi
 from utils import *
 import torch
 import seaborn as sns
+
+#generate different type of NA
+X_miss_mcar = produce_NA(df, p_miss=0.4, mecha="MCAR")
+X_miss_mar = produce_NA(df, p_miss=0.4, mecha="MAR", p_obs=0.5)
+X_miss_mnar = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="logistic", p_obs=0.5)
+X_miss_quant = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="quantile", p_obs=0.5, q=0.3)
+
 ```
 
 &nbsp;
