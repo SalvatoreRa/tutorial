@@ -27,6 +27,8 @@ You may write me for any request, suggestions and comments.
 |----------- | ------ |
 | [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
 | [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
+| [Random NA generation](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/random_NA_generation.py) |Introduces random missing values into a dataset.|
+| [Utils NA](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py) | a set of utils to generate and insert NA in your dataset|
 
 # How to import
 
