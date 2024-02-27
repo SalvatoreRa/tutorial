@@ -310,6 +310,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Google Gemma: is it Really a Gem?](https://levelup.gitconnected.com/google-gemma-is-it-really-a-gem-5b76d6607d3b) | -- |Google has just released two new open-source LLMs and is pushing for their adoption|
+| [Stable Diffusion 3: Can You Still Believe in Your Eyes?](https://levelup.gitconnected.com/stable-diffusion-3-can-you-still-believe-in-your-eyes-3d9ba8f2a9d8) | -- |Stable Diffusion 3 has been announced: what all we know so far|
 | [MiQu: Can a mysterious model be a GPT-4 rival?](https://medium.com/gitconnected/miqu-can-a-mysterious-model-be-a-gpt-4-rival-a94f57e2f07f) | -- |An open-source model seems to be performing as GPT-4 but we do not know much about it |
 | [Human-Centered Loss Functions: Not All the Risks Are the Same](https://levelup.gitconnected.com/human-centered-loss-functions-not-all-the-risks-are-the-same-4bae47841a24) | -- |Aligning large language models with human behavior in uncertain futures |
 | [SwitchHead: Be Faster To Catch the Prey](https://levelup.gitconnected.com/switchhead-be-faster-to-catch-the-prey-3e28ccd84ce1) | -- |How MoE applied to self-attention can make your model faster and performing |
