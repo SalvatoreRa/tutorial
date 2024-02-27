@@ -23,13 +23,13 @@ You may write me with any requests, suggestions, and comments. If you find it us
 [Medium account](https://medium.com/@salvatore-raieli) 
 &nbsp;
 
-# Index
+# Index 
 
 Here is an index of the different sections and subsections:
 
 * [About me](#About-me)
 * [Tutorials on machine learning](#Tutorials-on-machine-learning)
-    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis) - An introduction on how to use machine learning for image medical analysis
+    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis) - An introduction to how to use machine learning for image medical analysis
 * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
     * [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
     * [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
