@@ -27,6 +27,11 @@ You may write me with any requests, suggestions, and comments. If you find it us
 
 This is the general index of this repository:
 
+* [About me](#About-me)
+* [Index of tutorials](#-Index-of-tutorials)
+    * [Tutorials on machine learning](#Tutorials-on-machine-learning)
+    * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
+* 
 
 
 
