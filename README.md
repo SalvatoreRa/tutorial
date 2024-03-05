@@ -32,7 +32,10 @@ This is the general index of this repository:
     * [Tutorials on machine learning](#Tutorials-on-machine-learning)
     * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
 * [Datasets](https://github.com/SalvatoreRa/tutorial/tree/main/datasets) - More than 30 available datasets and a list of resources to where find the datasets you need for your project
-* [Machine Learning](https://github.com/SalvatoreRa/tutorial/tree/main/machine%20learning)
+* [Machine Learning]([https://github.com/SalvatoreRa/tutorial/tree/main/machine%20learning](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/README.md))
+    * [Tutorials and code](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/README.md#Tutorials)
+    * [Utility](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/README.md#Utility)
+    * [Scripts](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/README.md#Scripts)
 * [Artificial Intelligence](https://github.com/SalvatoreRa/tutorial/tree/main/artificial%20intelligence)
 * [Data visualization](https://github.com/SalvatoreRa/tutorial/tree/main/dataviz)
 * [Genomic series](https://github.com/SalvatoreRa/tutorial/tree/main/genomic%20series)
