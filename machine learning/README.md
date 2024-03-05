@@ -45,6 +45,7 @@ You can open a Github Issue for any request, comment or any issue you encounter.
 | [A practical guide to neighborhood image processing](https://ai.plainenglish.io/a-practical-guide-to-neighborhood-image-processing-cd3cc7f264a7) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/neighborhood_processing.ipynb) | Love thy neighbors: How the neighbors are influencing a pixel|
 | [A practical guide to morphological image processing](https://medium.com/ai-in-plain-english/a-practical-guide-to-morphological-image-processing-8df5cb6ec39f) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Morphology.ipynb) |simple but powerful operations to analyze images |
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index)
 &nbsp;
 
 # Utility
@@ -98,7 +99,30 @@ X_miss_quant = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="quantile", p_obs=0.
 | [Random NA generation](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/random_NA_generation.py) |Introduces random missing values into a dataset.|
 | [Utils NA](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py) | a set of utils to generate and insert NA in your dataset|
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index)
+&nbsp;
+## Scripts 
 
+For example, if you want to use my MAR script in your pc you can simply execute it in this way:
+
+```Python
+python3 MAR.py
+```
+
+Or alternatively:
+
+```Python
+python3.8 MAR.py
+```
+
+
+| File |  Description |
+|----------- | ------ |
+|[MAR](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MAR.py)| Loop to test different algorithms for MAR missing value imputation. The script is generating missing values, testing different imputation methods, and generating the plots |
+|[MNAR](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MNAR.py)| Loop to test different algorithms for MNAR missing value imputation. The script is generating missing values, testing different imputation methods, and generating the plots |
+|[MCAR](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MCAR.py)| Loop to test different algorithms for MCAR missing value imputation. The script is generating missing values, testing different imputation methods, and generating the plots |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index)
 &nbsp;
 
 # Contributing
