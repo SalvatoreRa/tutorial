@@ -17,6 +17,12 @@ Moreover, you may find here some Colab notebooks without a theoretical tutorial 
 
 You can open a Github Issue for any request, comment or any issue you encounter.
 
+# Index
+
+* [Tutorial List](#Tutorial) -
+* [Utility](#Utility) -
+* [Scripts](#Scripts) -
+
 # Tutorial
 
 | Tutorial | Notebook | Description |
@@ -101,7 +107,8 @@ X_miss_quant = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="quantile", p_obs=0.
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index)
 &nbsp;
-## Scripts 
+
+# Scripts 
 
 For example, if you want to use my MAR script in your pc you can simply execute it in this way:
 
