@@ -18,56 +18,26 @@ You may modify the script to execute with your data
 
 ## Usage 
 
-I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use. You find them in the **utility folder**.
-
-Check in the utiliy folder the example of usages and the explanation about them. Each function is document and you can access the provided documentation.
-
-For example, if you want to use my regression_report function in Colab you can import in this way:
+For example, if you want to use my MAR script in your pc you can simply execute it in this way:
 
 ```Python
-import sys
-import os
-
-user = "SalvatoreRa"
-repo = "tutorial"
-src_dir = "machine%20learning/utility/"
-pyfile = "regression_report.py" #here the name of the file py
-
-url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{src_dir}/{pyfile}"
-!wget --no-cache --backups=1 {url}
-#copy here the link of the file
-py_file_location = "https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py"
-sys.path.append(os.path.abspath(py_file_location))
-#here the importing
-from regression_report import regression_report 
+python3 MAR.py
 ```
 
-Or alternatively, you can use in this way in Colab:
+Or alternatively:
 
 ```Python
-wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machine learning/utility/utils_NA.py')
-!pip install wget 
-from utils import *
-import torch
-import seaborn as sns
-
-#generate different type of NA
-X_miss_mcar = produce_NA(df, p_miss=0.4, mecha="MCAR")
-X_miss_mar = produce_NA(df, p_miss=0.4, mecha="MAR", p_obs=0.5)
-X_miss_mnar = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="logistic", p_obs=0.5)
-X_miss_quant = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="quantile", p_obs=0.5, q=0.3)
-
+python3.8 MAR.py
 ```
 
 
 | File |  Description |
 |----------- | ------ |
-| [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
-| [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
-| [Random NA generation](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/random_NA_generation.py) |Introduces random missing values into a dataset.|
-| [Utils NA](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py) | a set of utils to generate and insert NA in your dataset|
+|[MAR](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MAR.py)| Loop to test different algorithms for MAR missing value imputation. The script is generating missing values, testing different imputation methods, and generating the plots |
+|[MNAR](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MNAR.py)| Loop to test different algorithms for MNAR missing value imputation. The script is generating missing values, testing different imputation methods, and generating the plots |
+|[MCAR](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MCAR.py)| Loop to test different algorithms for MCAR missing value imputation. The script is generating missing values, testing different imputation methods, and generating the plots |
 
-
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index)
 &nbsp;
 
 # Contributing
