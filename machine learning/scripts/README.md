@@ -7,12 +7,16 @@ Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign) on [Unsplash](h
 
 &nbsp;
 
-This section is dedicated 
+This section is dedicated to scripts that can be used by the user. Here, there are different scripts dedicated to different topics. The scripts can be directly executed (the data are present in this repository). Provided, you have installed the required libraries the script can be executed on any computer. 
+
+You may modify the script to execute with your data
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index)
 
 
 &nbsp;
 
-# Utility
+## Usage 
 
 I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use. You find them in the **utility folder**.
 
