@@ -19,11 +19,11 @@ You can open a Github Issue for any request, comment or any issue you encounter.
 
 # Index
 
-* [Tutorial List](#Tutorial) - The list of tutorials and corresponding code
+* [Tutorial List](#Tutorials) - The list of tutorials and corresponding code
 * [Utility](#Utility) - A list of functions and code you can use for your projects.
 * [Scripts](#Scripts) - A list of scripts you can execute on your PC.
 
-# Tutorial
+# Tutorials
 
 | Tutorial | Notebook | Description |
 | ------- | ----------- | ------ |
