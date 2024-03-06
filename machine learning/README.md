@@ -50,6 +50,8 @@ You can open a Github Issue for any request, comment or any issue you encounter.
 | [Introduction to Thresholding](https://medium.com/ai-in-plain-english/introduction-to-thresholding-cd985ae2ecba) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Thresholding.ipynb) | A simple but powerful system for segmenting images |
 | [A practical guide to neighborhood image processing](https://ai.plainenglish.io/a-practical-guide-to-neighborhood-image-processing-cd3cc7f264a7) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/neighborhood_processing.ipynb) | Love thy neighbors: How the neighbors are influencing a pixel|
 | [A practical guide to morphological image processing](https://medium.com/ai-in-plain-english/a-practical-guide-to-morphological-image-processing-8df5cb6ec39f) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Morphology.ipynb) |simple but powerful operations to analyze images |
+|[Dividi et Impera: A Practical Guide to BLOB Analysis and Extraction with Python](https://ai.plainenglish.io/dividi-et-impera-a-practical-guide-to-blob-analysis-and-extraction-with-python-3ea520407e88)| [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/BLOB_extraction.ipynb) |Simple yet powerful techniques to extract objects.|
+
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local index](#Index)
 &nbsp;
