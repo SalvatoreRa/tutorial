@@ -120,6 +120,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[]()| -- | |
 |[Tensors: a Gentle Introduction](https://medium.com/ai-in-plain-english/tensors-a-gentle-introduction-2d82e25b70c)| [PyTorch Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/PyTorch_tensors.ipynb), [Tensorflow Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/TensorFlow_tensors.ipynb), [Excel](https://github.com/SalvatoreRa/tutorial/blob/main/excel%20files/tensors.xlsx)|What there are? Why do you care? The name is intimidating, but fear not them! |
 |[Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)| -- |Understanding how a neural network learns helps us to avoid that the model from forgetting what it learns|
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
@@ -146,6 +147,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[]()| -- | |
 |[Beyond Words: Unraveling Speech from Brain Waves with AI](https://levelup.gitconnected.com/beyond-words-unraveling-speech-from-brain-waves-with-ai-7ff81862dfff)| -- |AI is capable of decoding speech from non-invasive brain recordings|
 | [Google Med-PaLM M: Towards the Medical AI Generalist](https://levelup.gitconnected.com/google-med-palm-m-towards-the-medical-ai-generalist-cf2e173672e4)| -- | Google unveils a multi-modal model capable of incredible skills|
 | [ClinicalGPT: the LLM clinician](https://levelup.gitconnected.com/clinicalgpt-the-llm-clinician-5e1f7866b6d1) | -- | a new model using for medicine using a clever trick to be more factual correct  |
@@ -223,6 +225,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[]()| -- | |
+|[]()| -- | |
 | [Indirect Reasoning for LLMs: Not Always There is a Direct Way to the Answer](https://levelup.gitconnected.com/indirect-reasoning-for-llms-not-always-there-is-a-direct-way-to-the-answer-d9cfee83bf58) | -- | Contrapositive and Contradiction for Automated Reasoning can help your model find the right answering | 
 |[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[Teaching is Hard: How to Train Small Models and Outperforming Large Counterparts](https://towardsdatascience.com/teaching-is-hard-how-to-train-small-models-and-outperforming-large-counterparts-f131f9d463e1)| -- |Distilling the knowledge of a large model is complex but a new method shows incredible performances|
@@ -275,6 +279,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [META’S SAM: A Unique Model to Segment Anything](https://levelup.gitconnected.com/metas-sam-a-unique-model-to-segment-anything-c3a956bf5d62) | -- |Segmentation needs a foundation model: why is it important? |
 |[Why Do We Have Huge Language Models and Small Vision Transformers?](https://towardsdatascience.com/why-do-we-have-huge-language-models-and-small-vision-transformers-5d59ac36c1d6)| -- | Google ViT-22 paves the way for new large transformers and to revolutionize computer vision |
 | [Create your painting app with AI and Streamlit](https://medium.com/mlearning-ai/create-your-painting-app-with-ai-and-streamlit-62ad079fb117) | [App Link](https://salvatorera-streamstyle-main-4my47f.streamlit.app/) / [GitHub repository](https://github.com/SalvatoreRa/StreamStyle) |How to make an app with few lines of code and a spare afternoon |
+|[A Visual Journey in What Vision-Transformers See](https://pub.towardsai.net/a-visual-journey-in-what-vision-transformers-see-9db9c8ba62d4)|--|How some of the largest models see the world|
 
 &nbsp;
 
@@ -289,7 +294,6 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Google’s MusicLM: from text description to music](https://towardsdatascience.com/googles-musiclm-from-text-description-to-music-23794ab6955c#c3a5-8cd785447f67) | -- | A new model is generating impressive music from just text prompt |
 | [Generate a piano cover with AI](https://medium.com/mlearning-ai/generate-a-piano-cover-with-ai-f4178bc9cb30) | -- | A new model generates a piano cover from a pop song: how it works? how you can try it? |
 | [Microsoft’s Museformer: AI music is the new frontier](https://medium.com/mlearning-ai/microsofts-museformer-ai-music-is-the-new-frontier-8dc5cb24459c) | -- | AI art is exploding, music can be next. |
-|[A Visual Journey in What Vision-Transformers See](https://pub.towardsai.net/a-visual-journey-in-what-vision-transformers-see-9db9c8ba62d4)|--|How some of the largest models see the world|
 
 &nbsp;
 
