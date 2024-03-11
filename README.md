@@ -120,7 +120,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()| -- | |
+|[Learning to Learn: How AI and Humans Learn](https://levelup.gitconnected.com/learning-to-learn-how-ai-and-humans-learn-8825fded0a7b)| -- |Understanding learning to create better AI and understand ourselves |
 |[Tensors: a Gentle Introduction](https://medium.com/ai-in-plain-english/tensors-a-gentle-introduction-2d82e25b70c)| [PyTorch Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/PyTorch_tensors.ipynb), [Tensorflow Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/TensorFlow_tensors.ipynb), [Excel](https://github.com/SalvatoreRa/tutorial/blob/main/excel%20files/tensors.xlsx)|What there are? Why do you care? The name is intimidating, but fear not them! |
 |[Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)| -- |Understanding how a neural network learns helps us to avoid that the model from forgetting what it learns|
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
@@ -147,7 +147,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()| -- | |
+|[Unlocking the Dance of Proteins: AlphaFold meets Diffusion](https://levelup.gitconnected.com/unlocking-the-dance-of-proteins-alphafold-meets-diffusion-571141004bc4)| -- |AlphaFlow Makes Protein Structure PredictionFrom Static to Dynamic |
 |[Beyond Words: Unraveling Speech from Brain Waves with AI](https://levelup.gitconnected.com/beyond-words-unraveling-speech-from-brain-waves-with-ai-7ff81862dfff)| -- |AI is capable of decoding speech from non-invasive brain recordings|
 | [Google Med-PaLM M: Towards the Medical AI Generalist](https://levelup.gitconnected.com/google-med-palm-m-towards-the-medical-ai-generalist-cf2e173672e4)| -- | Google unveils a multi-modal model capable of incredible skills|
 | [ClinicalGPT: the LLM clinician](https://levelup.gitconnected.com/clinicalgpt-the-llm-clinician-5e1f7866b6d1) | -- | a new model using for medicine using a clever trick to be more factual correct  |
