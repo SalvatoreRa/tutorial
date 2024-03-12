@@ -1,6 +1,6 @@
 # Tutorials
 
-## Tutorials on machine learning, artificial intelligence in general and in biomedical research
+## Tutorials on machine learning, artificial intelligence in general, and biomedical research
 
 
 ![cancer cells](https://github.com/SalvatoreRa/tutorial/blob/main/images/photo-1576086476234-1103be98f096.jpg?raw=true)
@@ -225,6 +225,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [PlanGPT: LLM domain specific to revolutionizing industries](https://levelup.gitconnected.com/plangpt-llm-domain-specific-to-revolutionizing-industries-f6c0ad87aec7)| -- | Knowledge and planning give the power to reshape industries|
 |[Bring Your AI Agents from Virtual to Reality](https://levelup.gitconnected.com/bring-your-ai-agents-from-virtual-to-reality-f16e40894ddd)| -- |AI agents are the new frontier, but how they are doing in the real world? |
 |[Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)| -- |How to overcome the limits of Autoregressive Models for embedding |
 | [Indirect Reasoning for LLMs: Not Always There is a Direct Way to the Answer](https://levelup.gitconnected.com/indirect-reasoning-for-llms-not-always-there-is-a-direct-way-to-the-answer-d9cfee83bf58) | -- | Contrapositive and Contradiction for Automated Reasoning can help your model find the right answering | 
