@@ -225,6 +225,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Cosine Similarity and Embeddings Are Still in Love?](https://medium.com/gitconnected/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)| -- |Cosine similarity is the most used method, but it is really the best?|
 | [PlanGPT: LLM domain specific to revolutionizing industries](https://levelup.gitconnected.com/plangpt-llm-domain-specific-to-revolutionizing-industries-f6c0ad87aec7)| -- | Knowledge and planning give the power to reshape industries|
 |[Bring Your AI Agents from Virtual to Reality](https://levelup.gitconnected.com/bring-your-ai-agents-from-virtual-to-reality-f16e40894ddd)| -- |AI agents are the new frontier, but how they are doing in the real world? |
 |[Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)| -- |How to overcome the limits of Autoregressive Models for embedding |
