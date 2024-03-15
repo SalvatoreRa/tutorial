@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# the function here are intended to conduct quick exploration of the dataset
+# currently implemented: missing value
+# this will expanded with time
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -36,6 +40,9 @@ def missing_values_table(df):
     
 def classification_EDA(X_df = None,target= None):
     '''
+    Provide a description of the dataset for classification
+    missing value in X and target variable
+    number of examples for each classes and the relative percentage to identify if the dataset is unbalanced
     
     '''
     missing_table= missing_values_table(X_df)
