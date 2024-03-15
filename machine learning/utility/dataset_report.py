@@ -43,16 +43,44 @@ def classification_EDA(X_df = None,target= None):
     Provide a description of the dataset for classification
     missing value in X and target variable
     number of examples for each classes and the relative percentage to identify if the dataset is unbalanced
-    
+        
     '''
     missing_table= missing_values_table(X_df)
     print('Dataset')
     print(missing_table)
     print('Target variable')
+    print('the target has '+ str(target.isnull().sum()) + 'missing value, representing the '+ 
+          str( np.round((target.isnull().sum()/ np.array(target).shape[0]) * 100,2)) +'%')
+    
+    duplicate_rows_df = X_df[X_df.duplicated()]
+    print("number of duplicate rows: ", duplicate_rows_df.shape)
     target = pd.DataFrame(target, columns= ['target'])
-    missing_target= missing_values_table(target)
-    print(missing_target)
+    
     target_count = target.target.value_counts()
     print('Target classes: ' + str(target_count.index.to_list()))
     print('number examples for class: ' + str(target_count.values))
     print('percentage for class: ' + str(target_count.values/np.sum(target_count.values)*100))
+    
+    
+    
+def regression_EDA(X_df = None,target= None):
+    '''
+    Provide a description of the dataset for regression
+    missing value in X and target variable    
+    '''
+    missing_table= missing_values_table(X_df)
+    print('Dataset')
+    print(missing_table)
+    print('Target variable')
+    print('the target has '+ str(target.isnull().sum()) + 'missing value, representing the '+ 
+          str( np.round((target.isnull().sum()/ np.array(target).shape[0]) * 100,2)) +'%')
+    
+    
+    duplicate_rows_df = X_df[X_df.duplicated()]
+    print("number of duplicate rows: ", duplicate_rows_df.shape)
+    target = pd.DataFrame(target, columns= ['target'])
+    
+    X_df['target'] = target
+    df_num_corr = X_df.corr(method='pearson')['target'][:-1]
+    corr_list = df_num_corr[abs(df_num_corr) > 0.5].sort_values(ascending=False)
+    print("There is {} strongly correlated values with the Target:\n{}".format(len(corr_list), corr_list))
