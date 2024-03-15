@@ -32,3 +32,20 @@ def missing_values_table(df):
         
         # Return the dataframe with missing information
         return mis_val_table_ren_columns
+    
+    
+def classification_EDA(X_df = None,target= None):
+    '''
+    
+    '''
+    missing_table= missing_values_table(X_df)
+    print('Dataset')
+    print(missing_table)
+    print('Target variable')
+    target = pd.DataFrame(target, columns= ['target'])
+    missing_target= missing_values_table(target)
+    print(missing_target)
+    target_count = target.target.value_counts()
+    print('Target classes: ' + str(target_count.index.to_list()))
+    print('number examples for class: ' + str(target_count.values))
+    print('percentage for class: ' + str(target_count.values/np.sum(target_count.values)*100))
