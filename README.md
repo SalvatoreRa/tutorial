@@ -61,6 +61,8 @@ Stay Updated with the most important news and research on machine learning and a
 
 # How to use this repository
 
+This repository is intended for those who want to learn artificial intelligence and machine learning in general. I have collected different scripts, tutorials and articles I have written that can be freely used on different topics. Moreover, you can find more than 30 datasets you can use for your projects
+
 [Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
 
 # Index of tutorials
