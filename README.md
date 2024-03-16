@@ -28,6 +28,7 @@ You may write me with any requests, suggestions, and comments. If you find it us
 This is the general index of this repository:
 
 * [About me](#About-me)
+* [How to use this repository](#How-to-use-this-repository)
 * [Index of tutorials](#-Index-of-tutorials)
     * [Tutorials on machine learning](#Tutorials-on-machine-learning)
     * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
@@ -39,27 +40,6 @@ This is the general index of this repository:
 * [Artificial Intelligence](https://github.com/SalvatoreRa/tutorial/tree/main/artificial%20intelligence)
 * [Data visualization](https://github.com/SalvatoreRa/tutorial/tree/main/dataviz)
 * [Genomic series](https://github.com/SalvatoreRa/tutorial/tree/main/genomic%20series)
-
-
-# Index of tutorials
-
-Here is an index of the different sections and subsections:
-
-* [About me](#About-me)
-* [Tutorials on machine learning](#Tutorials-on-machine-learning)
-    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis) - An introduction to how to use machine learning for image medical analysis
-* [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
-    * [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
-    * [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
-    * [AI and science](#AI-and-science) - Artificial intelligence is changing all disciplines, but what is AI's impact on science itself?
-    * [AI and art](#AI-and-art) - AI is impacting art, how? Which are the models that are driving this revolution? how do they work?
-    * [AI and Climate Change](#AI-and-Climate-change) - Climate change is the most pressing issue of mankind. Can AI help us to solve it? Or it is a foe?
-    * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development
-    * [Computer vision](#Computer-vision) - all you need and want to know about convolutional neural networks and vision transformers.
-    * [Artificial intelligence and music](#Artificial-intelligence-and-music) - music is a sequence, and AI knows well how to deal with sequences
-    * [AI and ethics](#AI-and-ethics) - Artificial intelligence opens important ethical questions that need to be discussed.
-    * [Articles and tutorials of Bioinformatics/AI/ML applied to Biology](#Articles-and-tutorials-of-Bioinformatics/AI/ML-applied-to-Biology) - Practical tutorials about applying AI and ML to biological questions.
-    * [Others](#Others) - Articles and tutorials that do not fall inside the previous categories
 
 # About me
 
@@ -78,6 +58,29 @@ Stay Updated with the most important news and research on machine learning and a
 &nbsp;
 
 [Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+
+# How to use this repository
+
+[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+
+# Index of tutorials
+
+Here is an index of the different sections and subsections:
+
+* [Tutorials on machine learning](#Tutorials-on-machine-learning)
+    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis) - An introduction to how to use machine learning for image medical analysis
+* [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
+    * [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
+    * [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
+    * [AI and science](#AI-and-science) - Artificial intelligence is changing all disciplines, but what is AI's impact on science itself?
+    * [AI and art](#AI-and-art) - AI is impacting art, how? Which are the models that are driving this revolution? how do they work?
+    * [AI and Climate Change](#AI-and-Climate-change) - Climate change is the most pressing issue of mankind. Can AI help us to solve it? Or it is a foe?
+    * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development
+    * [Computer vision](#Computer-vision) - all you need and want to know about convolutional neural networks and vision transformers.
+    * [Artificial intelligence and music](#Artificial-intelligence-and-music) - music is a sequence, and AI knows well how to deal with sequences
+    * [AI and ethics](#AI-and-ethics) - Artificial intelligence opens important ethical questions that need to be discussed.
+    * [Articles and tutorials of Bioinformatics/AI/ML applied to Biology](#Articles-and-tutorials-of-Bioinformatics/AI/ML-applied-to-Biology) - Practical tutorials about applying AI and ML to biological questions.
+    * [Others](#Others) - Articles and tutorials that do not fall inside the previous categories
 
 # Tutorials on machine learning
 
