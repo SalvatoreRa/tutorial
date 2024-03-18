@@ -230,6 +230,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [The AI worm and the LLM leaf](https://levelup.gitconnected.com/the-ai-worm-and-the-llm-leaf-6132d60c11be) | -- |New research warns how a LLM can be poisoned and spread around|
+|[DeepMind’s SIMA: Rule the Simulated World Before Take Over the Real One](https://levelup.gitconnected.com/deepminds-sima-rule-the-simulated-world-before-take-over-the-real-one-ab335f474deb)| -- |A new agent by DeepMind shows impressive new generalization skills in videogames|
 |[Cosine Similarity and Embeddings Are Still in Love?](https://medium.com/gitconnected/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)| -- |Cosine similarity is the most used method, but it is really the best?|
 | [PlanGPT: LLM domain specific to revolutionizing industries](https://levelup.gitconnected.com/plangpt-llm-domain-specific-to-revolutionizing-industries-f6c0ad87aec7)| -- | Knowledge and planning give the power to reshape industries|
 |[Bring Your AI Agents from Virtual to Reality](https://levelup.gitconnected.com/bring-your-ai-agents-from-virtual-to-reality-f16e40894ddd)| -- |AI agents are the new frontier, but how they are doing in the real world? |
