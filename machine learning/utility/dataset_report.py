@@ -68,19 +68,26 @@ def regression_EDA(X_df = None,target= None):
     Provide a description of the dataset for regression
     missing value in X and target variable    
     '''
+    # check the missing values
+    # both in the dataset and in the target variable
     missing_table= missing_values_table(X_df)
     print('Dataset')
     print(missing_table)
     print('Target variable')
-    print('the target has '+ str(target.isnull().sum()) + 'missing value, representing the '+ 
+    print('the target has '+ str(target.isnull().sum()) + ' missing value, representing the '+ 
           str( np.round((target.isnull().sum()/ np.array(target).shape[0]) * 100,2)) +'%')
     
-    
+    # check the presence of duplicate rows
     duplicate_rows_df = X_df[X_df.duplicated()]
     print("number of duplicate rows: ", duplicate_rows_df.shape)
-    target = pd.DataFrame(target, columns= ['target'])
     
+    # check if there are strong correlated features with the target  
     X_df['target'] = target
-    df_num_corr = X_df.corr(method='pearson')['target'][:-1]
+    df_num_corr = X_df.corr(method='pearson',  min_periods=5)['target'][:-1]
     corr_list = df_num_corr[abs(df_num_corr) > 0.5].sort_values(ascending=False)
     print("There is {} strongly correlated values with the Target:\n{}".format(len(corr_list), corr_list))
+    
+    # Check potential outliers
+    X_df = X_df.drop('target', axis=1)
+    z_scores = np.array(np.abs(stats.zscore(X_df, nan_policy='omit')))
+    print('Number of potential outlier (according z-score): ' + str(np.sum(z_scores > 3)))
