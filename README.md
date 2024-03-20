@@ -145,6 +145,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Tabula rasa: Could We Have a Transformer for Tabular Data](https://medium.com/gitconnected/tabula-rasa-could-we-have-a-transformer-for-tabular-data-9e4b238cde2c) | -- | We are using large language models for everything, so why not for tabular data? |
 | [Tabula Rasa: not enough data? Generate them!](https://levelup.gitconnected.com/tabula-rasa-not-enough-data-generate-them-e1c160acb9c9) | -- | How you can apply generative AI to tabular data |
 |[Tabula Rasa: Fill in What Is Missing](https://levelup.gitconnected.com/tabula-rasa-fill-in-what-is-missing-ba10c8402c03)| [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/tabula_rasa_missing_data.ipynb) - Scripts: [1](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MAR.py), [2](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MCAR.py), [3](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MNAR.py) | Missing values are a known problem, why and how we can solve it|
+| [Tabula Rasa: Large Language Models for Tabular Data](https://levelup.gitconnected.com/tabula-rasa-large-language-models-for-tabular-data-e1fd781946fa) | -- | Tabular data are everywhere, why and how you can use LLMs for them|
 
 [Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
 
