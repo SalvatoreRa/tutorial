@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Tutorial and articles on machine learning and artificial
+  intelligence
+message: 'A collection of tutorial, scripts, notebooks and dataset'
+type: software
+authors:
+  - given-names: Salvatore
+    family-names: Raieli
+    orcid: 'https://orcid.org/0000-0001-7196-7815'
+    affiliation: Oncodesign Precision Medicine
+repository-code: 'https://github.com/SalvatoreRa/tutorial'
+url: >-
+  https://github.com/SalvatoreRa/tutorial/blob/main/README.md
+abstract: >-
+  A repository that contains articles and tutorials focused
+  on different aspects of machine learning and artificial
+  intelligence (especially tabular deep learning, graph
+  machine learning, computer vision, and natural language
+  processing). Both code, notebooks, functions, and datasets
+  are collected here to simplify work or better understand
+  different aspects of machine learning and artificial
+  intelligence
+keywords:
+  - artificial intelligence
+  - machine learning
+  - tabular deep learning
+  - graph machine learning
+  - large language models
+  - computer vision
+  - datasets
+license: Apache-2.0
+commit: '1.0'
+version: '1.0'
+date-released: '2024-03-22'
