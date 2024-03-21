@@ -29,6 +29,7 @@ This is the general index of this repository:
 
 * [About me](#About-me)
 * [How to use this repository](#How-to-use-this-repository)
+* [Cite this repository] 
 * [Index of tutorials](#-Index-of-tutorials)
     * [Tutorials on machine learning](#Tutorials-on-machine-learning)
     * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
@@ -63,6 +64,23 @@ Stay Updated with the most important news and research on machine learning and a
 
 This repository is intended for those who want to learn artificial intelligence and machine learning in general. I have collected different scripts, tutorials and articles I have written that can be freely used on different topics. Moreover, you can find more than 30 datasets you can use for your projects
 
+[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+
+# Cite this repository
+
+If this repository has been useful for your work, consider citing this repository:
+
+'''
+@software{Raieli_Tutorial_and_articles_2024,
+author = {Raieli, Salvatore},
+license = {Apache-2.0},
+month = mar,
+title = {{Tutorial and articles on machine learning and artificial intelligence}},
+url = {https://github.com/SalvatoreRa/tutorial},
+version = {1.0},
+year = {2024}
+}
+'''
 [Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
 
 # Index of tutorials
