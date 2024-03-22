@@ -64,13 +64,15 @@ Stay Updated with the most important news and research on machine learning and a
 
 This repository is intended for those who want to learn artificial intelligence and machine learning in general. I have collected different scripts, tutorials and articles I have written that can be freely used on different topics. Moreover, you can find more than 30 datasets you can use for your projects
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 # Cite this repository
 
 If this repository has been useful for your work, consider citing this repository:
 
-'''
+
+
+```
 @software{Raieli_Tutorial_and_articles_2024,
 author = {Raieli, Salvatore},
 license = {Apache-2.0},
@@ -80,8 +82,9 @@ url = {https://github.com/SalvatoreRa/tutorial},
 version = {1.0},
 year = {2024}
 }
-'''
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+```
+
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 # Index of tutorials
 
@@ -119,7 +122,7 @@ This series of tutorials is focused on classical machine learning (regression, c
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 # Tutorials on artificial intelligence
 
@@ -137,7 +140,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 * [Articles and tutorials of Bioinformatics/AI/ML applied to Biology](#Articles-and-tutorials-of-Bioinformatics/AI/ML-applied-to-Biology) - Practical tutorials about applying AI and ML to biological questions.
 * [Others](#Others) - Articles and tutorials that do not fall inside the previous categories
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Artificial intelligence's bases
 
@@ -149,7 +152,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
 | [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Tabular learning
 
@@ -165,7 +168,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Tabula Rasa: Fill in What Is Missing](https://levelup.gitconnected.com/tabula-rasa-fill-in-what-is-missing-ba10c8402c03)| [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/tabula_rasa_missing_data.ipynb) - Scripts: [1](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MAR.py), [2](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MCAR.py), [3](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/scripts/MNAR.py) | Missing values are a known problem, why and how we can solve it|
 | [Tabula Rasa: Large Language Models for Tabular Data](https://levelup.gitconnected.com/tabula-rasa-large-language-models-for-tabular-data-e1fd781946fa) | -- | Tabular data are everywhere, why and how you can use LLMs for them|
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## AI and science
 
@@ -204,7 +207,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## AI and art 
 
@@ -229,7 +232,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## AI and Climate change
 
@@ -243,7 +246,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Natural Language Processing and LLMs
 
@@ -293,7 +296,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Computer vision
 
@@ -312,7 +315,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Artificial intelligence and music
 
@@ -326,7 +329,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Multi-modal
 
@@ -341,7 +344,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## AI and ethics
 
@@ -357,7 +360,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Others
 
@@ -398,7 +401,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 ## Articles and tutorials of Bioinformatics/AI/ML applied to Biology
 
@@ -420,7 +423,7 @@ This series of tutorials on using machine learning and transcriptomic data with 
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 
 # Contributing
