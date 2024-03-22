@@ -30,7 +30,7 @@ This is the general index of this repository:
 * [About me](#About-me)
 * [How to use this repository](#How-to-use-this-repository)
 * [Cite this repository](#Cite-this-repository) 
-* [Index of tutorials](#-Index-of-tutorials)
+* [Index of tutorials](#Index-of-tutorials)
     * [Tutorials on machine learning](#Tutorials-on-machine-learning)
     * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
 * [Datasets](https://github.com/SalvatoreRa/tutorial/tree/main/datasets) - More than 30 available datasets and a list of resources to where find the datasets you need for your project
@@ -58,7 +58,7 @@ Stay Updated with the most important news and research on machine learning and a
 
 &nbsp;
 
-[Back to General index](#Index) -- [Index of tutorials](#-Index-of-tutorials)
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 # How to use this repository
 
