@@ -103,6 +103,15 @@ import pandas as pd
 !unzip IMDB.zip?raw=true
 imdb_data=pd.read_csv("IMDB Dataset.csv")
 ```
+if the file is JSON reading it is as simple as:
+
+```Python
+#example for a dataset
+#you can read from the directory or directly from the URL
+data_dir ='https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/mammoth_3d.json'
+df =pd.read_json(url)
+```
+
 &nbsp;
 
 ## Usage in R
