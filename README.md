@@ -29,7 +29,7 @@ This is the general index of this repository:
 
 * [About me](#About-me)
 * [How to use this repository](#How-to-use-this-repository)
-* [Cite this repository] 
+* [Cite this repository](#Cite-this-repository) 
 * [Index of tutorials](#-Index-of-tutorials)
     * [Tutorials on machine learning](#Tutorials-on-machine-learning)
     * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
