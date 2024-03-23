@@ -58,11 +58,11 @@ You can open a Github Issue for any request, comment or any issue you encounter.
 
 # Utility
 
-I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use. You find them in the **utility folder**.
+I am providing some useful functions and classes that can be ready to use. I am providing them as executable Python files that you can import and use. You find them in the **utility folder**.
 
-Check in the utiliy folder the example of usages and the explanation about them. Each function is document and you can access the provided documentation.
+Check in the utiliy folder the example of usages and the explanation about them. Each function is a document and you can access the provided documentation.
 
-For example, if you want to use my regression_report function in Colab you can import in this way:
+For example, if you want to use my regression_report function in Colab you can import it in this way:
 
 ```Python
 import sys
@@ -111,7 +111,9 @@ X_miss_quant = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="quantile", p_obs=0.
 &nbsp;
 &nbsp;
 
-# Scripts 
+# Scripts
+
+Here you can find a list of scripts that have been used to generate images for the tutorials or that can be used to analyze data and models. You can easily adapt to your needs.
 
 For example, if you want to use my MAR script in your pc you can simply execute it in this way:
 
