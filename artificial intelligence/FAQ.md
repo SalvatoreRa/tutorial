@@ -46,6 +46,22 @@ output from a LLM:
   Blue
   ```
 
+Formally, a prompt contains or more of these elements: 
+* **Instruction**. Information about the task you want the LLM execute
+* **Context**. Additional or external information the model has to take into account.
+* **Input data**. Input data that can be processed
+* **Output indicator**. We can provide additional requirements (type or format of the output)
+
+  prompt:
+
+  ```
+    Classify the sentiment of this review as in the examples:
+
+  The food is amazing - positive
+  the chicken was too raw - negative
+  the waitress was rude - negative
+  the salad was too small -
+  ```
 
 </details>
 &nbsp;
