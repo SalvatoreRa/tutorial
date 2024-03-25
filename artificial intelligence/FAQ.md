@@ -7,4 +7,14 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 &nbsp;
 
+# Index
+* [FAQ on machine learning](#FAQ-on-machine-learning)
+* [FAQ on artificial intelligence](#FAQ-on-artificial-intelligence)
 
+
+# FAQ on machine learning
+
+
+# FAQ on artificial intelligence
+
+## What is a prompt? What is prompt engineering?
