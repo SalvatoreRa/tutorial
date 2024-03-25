@@ -11,10 +11,21 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 * [FAQ on machine learning](#FAQ-on-machine-learning)
 * [FAQ on artificial intelligence](#FAQ-on-artificial-intelligence)
 
+&nbsp;
 
 # FAQ on machine learning
 
+&nbsp;
 
 # FAQ on artificial intelligence
+
+
+## Prompt engineering
+
+<details open>
+  <summary><b>What is a prompt? What is prompt engineering?</b></summary>
+  World!
+</details>
+&nbsp;
 
 ## What is a prompt? What is prompt engineering?
