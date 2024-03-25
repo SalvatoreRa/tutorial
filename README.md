@@ -335,6 +335,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Is Apple ready to launch its own AI?](https://levelup.gitconnected.com/is-apple-ready-to-launch-its-own-ai-7dcb1609f25d)| -- |MM1 appears to be a sign that Apple is intent on accelerating on AI|
 | [Meta-Transformer: one model to rule all](https://levelup.gitconnected.com/meta-transformer-one-model-to-rule-all-a3eeb9bd96b9)| -- |From text to video, from graph to images, what if we could use just one model? |
 | [MiniGPT-4: small chatbot, large vision-language understanding](https://levelup.gitconnected.com/minigpt-4-small-chatbot-large-vision-language-understanding-2bbbb2480cf5) | -- |Meet the most efficient and open-source rival of GPT-4 |
 |[BLIP-2: when ChatGPT meets images](https://medium.com/gitconnected/blip-2-when-chatgpt-meets-images-463582b541e0) |-- | BLIP-2, a new visual language model capable to dialogue about images |
