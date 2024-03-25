@@ -63,6 +63,12 @@ Formally, a prompt contains or more of these elements:
   the salad was too small -
   ```
 
+  Articles describing in detail:
+  * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
+ 
+  Suggested lecture:
+  * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
+
 </details>
 &nbsp;
 
