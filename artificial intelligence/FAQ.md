@@ -132,8 +132,7 @@ A couple of notes:
 
 Chain-of-thought (CoT) Prompting is a technique that pushes the model to reason by intermediate steps. In other words, we are providing the model with intermediate steps to solve a problem so that the model understands how to approach a problem:
 
-*"We explore the ability of language models to perform few-shot prompting for reasoning
-tasks, given a prompt that consists of triples: input, a chain of thought, and output. A chain of thought is a series of intermediate natural language reasoning steps that lead to the final output, and we refer to this approach as chain-of-thought prompting."--[source](https://arxiv.org/abs/2201.11903)*
+*"We explore the ability of language models to perform few-shot prompting for reasoning tasks, given a prompt that consists of triples: input, a chain of thought, and output. A chain of thought is a series of intermediate natural language reasoning steps that lead to the final output, and we refer to this approach as chain-of-thought prompting."--[source](https://arxiv.org/abs/2201.11903)*
 
   ![Cot Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/cot.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2201.11903)*
@@ -156,6 +155,31 @@ Instead of having to provide context, the authors of this study found that simpl
   * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
   * [original article CoT](https://arxiv.org/abs/2201.11903)
   * [original article zero-shot CoT](https://arxiv.org/abs/2205.11916)
+  
+</details>
+
+<details>
+  <summary><b>What is Self-Consistency?</b></summary>
+
+Self-consistency is in simple terms getting more CoT and selecting the most consistent response:
+
+*"We first prompt the language model with chain-of-thought prompting, then instead of greedily decoding the optimal reasoning path, we propose a “sample-and-marginalize” decoding procedure: we first sample from the language model’s
+decoder to generate a diverse set of reasoning paths; each reasoning path might lead to a different final answer, so we determine the optimal answer by marginalizing out the sampled reasoning paths to find the most consistent answer in the final answer set."--[source](https://arxiv.org/abs/2203.11171)*
+
+![Self-Consistency Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/C:\Users\sraieli\Downloads\SELF-CONSISTENCY.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2205.11916)*
+
+For the authors, this approach is analogous to how humans reason. In other words, humans test multiple ways of thinking and evaluate whether these lead to the same response. If there is consensus among the various responses, we humans feel more confident.
+
+
+  Articles describing in detail:
+  * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
+  * [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa)
+ 
+  Suggested lecture:
+  * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
+  * [original article](https://arxiv.org/abs/2203.11171)
+ 
   
 </details>
 
