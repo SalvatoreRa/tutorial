@@ -124,5 +124,26 @@ A couple of notes:
   * [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9)
 </details>
 
+<details>
+  <summary><b>What is Chain-of-Thought (CoT)?</b></summary>
+
+Chain-of-thought (CoT) Prompting is a technique that pushes the model to reason by intermediate steps. In other words, we are providing the model with intermediate steps to solve a problem so that the model understands how to approach a problem:
+
+*'we explore the ability of language models to perform few-shot prompting for reasoning
+tasks, given a prompt that consists of triples: hinput, chain of thought, outputi. A chain of thought is a series of intermediate natural language reasoning steps that lead to the final output, and we refer to this approach as chain-of-thought prompting.'--[source](https://arxiv.org/abs/2201.11903)*
+
+  ![Cot Prompting]()
+*from the [original article](https://arxiv.org/abs/2201.11903)*
+
+
+    Articles describing in detail:
+  * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
+  * [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa)
+ 
+  Suggested lecture:
+  * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
+  
+</details>
+
 
 
