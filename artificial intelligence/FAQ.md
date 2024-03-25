@@ -127,6 +127,7 @@ A couple of notes:
 <details>
   <summary><b>What is Chain-of-Thought (CoT)?</b></summary>
 
+
 **Chain-of-thought (CoT)**
 
 Chain-of-thought (CoT) Prompting is a technique that pushes the model to reason by intermediate steps. In other words, we are providing the model with intermediate steps to solve a problem so that the model understands how to approach a problem:
@@ -140,14 +141,21 @@ tasks, given a prompt that consists of triples: input, a chain of thought, and o
 
 **zero-shot Chain-of-thought (CoT)**
 
+Instead of having to provide context, the authors of this study found that simply providing "Let's think step by step" was enough to suggest that the model reasons by intermediate steps:
 
-    Articles describing in detail:
+*" Despite the simplicity, our Zero-shot-CoT successfully generates a plausible reasoning path in a zero-shot manner and reaches the correct answer in a problem where the standard zero-shot approach fails. Importantly, our Zero-shot-CoT is versatile and task-agnostic, unlike most prior task-specific prompt engineering in the forms of examples (few-shot) or templates (zero-shot)"--[source](https://arxiv.org/abs/2205.11916)*
+
+![zero-shot Cot Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/C:\Users\sraieli\Downloads\zeroshot-cot.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2205.11916)*
+
+  Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
   * [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa)
  
   Suggested lecture:
   * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
   * [original article CoT](https://arxiv.org/abs/2201.11903)
+  * [original article zero-shot CoT](https://arxiv.org/abs/2205.11916)
   
 </details>
 
