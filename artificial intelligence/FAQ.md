@@ -144,7 +144,7 @@ Instead of having to provide context, the authors of this study found that simpl
 
 *" Despite the simplicity, our Zero-shot-CoT successfully generates a plausible reasoning path in a zero-shot manner and reaches the correct answer in a problem where the standard zero-shot approach fails. Importantly, our Zero-shot-CoT is versatile and task-agnostic, unlike most prior task-specific prompt engineering in the forms of examples (few-shot) or templates (zero-shot)"--[source](https://arxiv.org/abs/2205.11916)*
 
-![zero-shot Cot Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/C:\Users\sraieli\Downloads\zeroshot-cot.png?raw=true)
+![zero-shot Cot Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/zeroshot-cot.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2205.11916)*
 
   Articles describing in detail:
@@ -166,7 +166,7 @@ Self-consistency is in simple terms getting more CoT and selecting the most cons
 *"We first prompt the language model with chain-of-thought prompting, then instead of greedily decoding the optimal reasoning path, we propose a “sample-and-marginalize” decoding procedure: we first sample from the language model’s
 decoder to generate a diverse set of reasoning paths; each reasoning path might lead to a different final answer, so we determine the optimal answer by marginalizing out the sampled reasoning paths to find the most consistent answer in the final answer set."--[source](https://arxiv.org/abs/2203.11171)*
 
-![Self-Consistency Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/C:\Users\sraieli\Downloads\SELF-CONSISTENCY.png?raw=true)
+![Self-Consistency Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/SELF-CONSISTENCY.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2205.11916)*
 
 For the authors, this approach is analogous to how humans reason. In other words, humans test multiple ways of thinking and evaluate whether these lead to the same response. If there is consensus among the various responses, we humans feel more confident.
