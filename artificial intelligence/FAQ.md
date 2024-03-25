@@ -96,7 +96,7 @@ This is not always enough, so sometimes it is better to provide help to the mode
 This was discussed during the GPT-3 presentation:
 
 ![few shot learning](https://github.com/SalvatoreRa/tutorial/blob/main/images/few_shot%20learning.png?raw=true)
-*from the [original article](https://arxiv.org/abs/2005.14165)*
+*from the [original article](https://arxiv.org/abs/2203.11171)*
 
 Then a few-shot prompt is:
 
