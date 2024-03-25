@@ -95,7 +95,7 @@ This is not always enough, so sometimes it is better to provide help to the mode
 
 This was discussed during the GPT-3 presentation:
 
-![few shot learning]()
+![few shot learning](https://github.com/SalvatoreRa/tutorial/blob/main/images/few_shot%20learning.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2005.14165)*
 
 Then a few-shot prompt is:
@@ -108,6 +108,13 @@ Then a few-shot prompt is:
   the waitress was rude - negative
   the salad was too small -
   ```
+
+A couple of notes:
+* Few-shot learning is one of the so-called emerging properties (because it would emerge with the scale).
+* It is sensible to the format and used labels. However, new models are more robust to variations
+* It is not optimal for complex tasks like mathematical reasoning or that require more reasoning steps
+
+
 
     Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
