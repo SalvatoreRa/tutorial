@@ -78,6 +78,37 @@ Formally, a prompt contains or more of these elements:
 <details>
   <summary><b>What is zero-shot prompting? What is few-shot prompting?</b></summary>
 
+  LLMs are trained with a large amount of text. This allows them to learn how to perform different tasks. These skills are honed during instruction tuning. As shown [in this article](https://arxiv.org/abs/2109.01652), instruction tuning improves the model's performance in following instructions. During reinforcement learning from human feedback (RLHF) the model is aligned to follow instructions.
+
+
+Zero-shot means that we provide nothing but instruction. Therefore, the model must understand the instructions and to execute it:
+
+ zero-shot prompt:
+
+  ```
+    Classify the sentiment of this review :
+    review: the salad was too small
+    sentiment:
+  ```
+
+This is not always enough, so sometimes it is better to provide help to the model to understand the task. In this case, we provide some examples, that help the model improve its performance
+
+This was discussed during the GPT-3 presentation:
+
+![few shot learning]()
+*from the [original article](https://arxiv.org/abs/2005.14165)*
+
+Then a few-shot prompt is:
+
+  ```
+    Classify the sentiment of this review as in the examples:
+
+  The food is amazing - positive
+  the chicken was too raw - negative
+  the waitress was rude - negative
+  the salad was too small -
+  ```
+
     Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
  
