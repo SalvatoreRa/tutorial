@@ -127,13 +127,18 @@ A couple of notes:
 <details>
   <summary><b>What is Chain-of-Thought (CoT)?</b></summary>
 
+**Chain-of-thought (CoT)**
+
 Chain-of-thought (CoT) Prompting is a technique that pushes the model to reason by intermediate steps. In other words, we are providing the model with intermediate steps to solve a problem so that the model understands how to approach a problem:
 
-*' We explore the ability of language models to perform few-shot prompting for reasoning
-tasks, given a prompt that consists of triples: input, a chain of thought, and output. A chain of thought is a series of intermediate natural language reasoning steps that lead to the final output, and we refer to this approach as chain-of-thought prompting.'--[source](https://arxiv.org/abs/2201.11903)*
+*"We explore the ability of language models to perform few-shot prompting for reasoning
+tasks, given a prompt that consists of triples: input, a chain of thought, and output. A chain of thought is a series of intermediate natural language reasoning steps that lead to the final output, and we refer to this approach as chain-of-thought prompting."--[source](https://arxiv.org/abs/2201.11903)*
 
   ![Cot Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/cot.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2201.11903)*
+
+
+**zero-shot Chain-of-thought (CoT)**
 
 
     Articles describing in detail:
