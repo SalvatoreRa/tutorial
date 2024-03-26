@@ -1,4 +1,4 @@
-# Frequently Asked Questions on machine learning and artificial intelligence
+# Frequently Asked Questions (FAQs) on machine learning and artificial intelligence
 ## Python tutorial 
 
 ![artificial intelligence](https://github.com/SalvatoreRa/tutorial/blob/main/images/nn_brain.jpeg?raw=true)
@@ -26,7 +26,59 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 ## Large Language Models
 
+<details>
+  <summary><b>What is a Large Language Model (LLM)?</b></summary>
+  
+  *"language modeling (LM) aims to model the generative likelihood of word sequences, so as to predict the probabilities of future (or missing) tokens"* -from [here](https://arxiv.org/abs/2303.18223)
 
+  In short, starting from a sequence x of tokens (sub-words) I want to predict the probability of what the next token x+1 will be.  An LLM is a model that has been trained with this goal in mind. Large because it is a model that has more than 10 billion parameters (by convention).
+
+These LLMs are obtained by scaling from the transformer and have general capabilities. Scaling means increasing parameters, training budget, and training dataset.
+
+*"Typically, large language models (LLMs) refer to Transformer language models that contain hundreds of billions (or more) of parameters, which are trained on massive text data"* -from [here](https://arxiv.org/abs/2303.18223)
+
+![LLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2303.18223)*
+
+LLMs have been able to be flexible for so many different tasks, have shown reasoning skills, and all this just by having text as input. That's why so many have been developed in recent years: 
+* **closed source** such as ChatGPT, Gemini, or Claude.
+* **Open source** such as LLaMA, Mistral, and so on.
+
+![LLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM2.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2303.18223)*
+
+Articles describing in detail:
+  * [A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)
+  * [The Infinite Babel Library of LLMs](https://towardsdatascience.com/the-infinite-babel-library-of-llms-90e203b2f6b0)
+ 
+  Suggested lecture:
+  * [Tabula Rasa: Large Language Models for Tabular Data](https://levelup.gitconnected.com/tabula-rasa-large-language-models-for-tabular-data-e1fd781946fa)
+  * [Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)
+  * [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
+  * [a good survey on the topic](https://arxiv.org/abs/2303.18223)
+
+</details>
+
+<details>
+  <summary><b>What does it mean emergent properties? what it is the scaling law?</b></summary>
+  !
+</details>
+
+
+<details>
+  <summary><b>What does it mean LLM's hallucination?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>Do LLMs have biases?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What are adversarial prompts?</b></summary>
+  !
+</details>
 
 ## Prompt engineering
 
