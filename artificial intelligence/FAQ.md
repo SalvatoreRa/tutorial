@@ -246,4 +246,35 @@ The question is...
 </details>
 
 
+<details>
+  <summary><b>What is Emotion prompt?</b></summary>
+  A new approach incorporating emotional cues improves LLM performance. The approach was inspired by psychology and cognitive science
+
+  *"Emotional intelligence denotes the capacity to adeptly interpret and manage emotion-infused information, subsequently harnessing it to steer cognitive tasks, ranging from problem-solving to behaviors regulations. Other studies show that emotion regulation can influence human’s problem-solving performance as indicated by self-monitoring , Social Cognitive theory, and the role of positive emotions. "--[source](https://arxiv.org/abs/2307.11760)*
+
+![EmotionPrompt](https://github.com/SalvatoreRa/tutorial/blob/main/images/EmotionPrompt.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2307.11760)*
+
+The idea is to add phrases that can uplift the LLM ("you can do this," "I know you'll do great!") at the end of the prompt.
+
+The advantages of this approach are: 
+* improved performance.
+* actively contribute to the gradients in LLMs by gaining larger weights, thus increasing the value of the prompt representation.
+* Combining emotional prompts brings additional performance boosts.
+* The method is very simple.
+
+![EmotionPrompt](https://github.com/SalvatoreRa/tutorial/blob/main/images/EmotionPrompt2.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2307.11760)*
+
+
+      Articles describing in detail:
+  * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
+
+ 
+  Suggested lecture:
+  * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
+  * [original article](https://arxiv.org/abs/2307.11760)
+   
+</details>
+
 
