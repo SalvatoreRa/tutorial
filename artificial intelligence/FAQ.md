@@ -199,13 +199,35 @@ We have an answer that is the majority. This a simplified version
 
   Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
-  * [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa)
+
  
   Suggested lecture:
   * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
   * [original article](https://arxiv.org/abs/2203.11171)
  
   
+</details>
+
+<details>
+  <summary><b>What is Tree of Thoughts (ToT)?</b></summary>
+
+Tree of Thoughts (ToT) can be seen as a generalization of CoT, especially for more complex tasks. The idea is that the model maintains some degree of exploration to arrive at the solution. 
+
+In this framework, the model produces several steps of thought as it moves toward solving the problem (similar to CoT or Self-consistency). In this case, though, the model not only generates these thoughts but evaluates them. In addition, there is a search algorithm (breadth-first search and depth-first search) that allows exploration but also backtracking
+
+![TOT](https://github.com/SalvatoreRa/tutorial/blob/main/images/TOT.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2305.10601)*
+
+
+
+    Articles describing in detail:
+  * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
+
+ 
+  Suggested lecture:
+  * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
+  * [original article 1](https://arxiv.org/abs/2305.10601)
+  * [original article 2](https://arxiv.org/abs/2305.08291)
 </details>
 
 
