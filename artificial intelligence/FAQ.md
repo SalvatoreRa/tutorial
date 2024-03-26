@@ -277,4 +277,22 @@ Articles describing in detail:
    
 </details>
 
+<details>
+  <summary><b>What is Retrieval Augmented Generation (RAG)?</b></summary>
+
+LLMs can accomplish many tasks but for tasks that require knowledge, they can hallucinate. Especially when the tasks are complex and knowledge-intensive, the model may produce a factually incorrect response. If for tasks that require reasoning we can use the techniques seen above, for tasks that require additional knowledge we can use Retrieval Augmented Generation (RAG).
+
+In short, when we have a query a model looks for the documents that are most relevant in a database. We have an embedder that we use to get a database of vectors, then through similarity search, we search for the vectors that are most similar to the embedding of the query. The documents found are used to augment the generation of our model
+
+![RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/RAG.png?raw=true)
+*from [this article](https://arxiv.org/abs/2307.11760)*
+
+
+
+Articles describing in detail:
+  * [Cosine Similarity and Embeddings Are Still in Love?](https://levelup.gitconnected.com/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)
+  * [Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)
+
+  
+</details>
 
