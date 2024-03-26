@@ -116,7 +116,7 @@ A couple of notes:
 
 
 
-    Articles describing in detail:
+  Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
  
   Suggested lecture:
@@ -235,7 +235,7 @@ The question is...
 ```
 
 
-    Articles describing in detail:
+Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
 
  
@@ -267,7 +267,7 @@ The advantages of this approach are:
 *from the [original article](https://arxiv.org/abs/2307.11760)*
 
 
-      Articles describing in detail:
+Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
 
  
