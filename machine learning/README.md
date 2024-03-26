@@ -106,6 +106,7 @@ X_miss_quant = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="quantile", p_obs=0.
 | [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
 | [Random NA generation](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/random_NA_generation.py) |Introduces random missing values into a dataset.|
 | [Utils NA](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py) | a set of utils to generate and insert NA in your dataset|
+| [DR_utils](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/DR_utils.py) | a set of utils for dimensional reduction techniques|
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local index](#Index)
 &nbsp;
