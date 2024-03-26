@@ -186,7 +186,7 @@ Firs answer is wrong:
 second time:
 
   ```
-   Henry travelled a total of 60 miles. His first stop was 20 miles in, and his second stop was 15 miles before the end. So between his first and second stops he travelled 60 - 20 -15 = 25 miles. The answer is 25. 
+   Henry traveled a total of 60 miles. His first stop was 20 miles in, and his second stop was 15 miles before the end. So between his first and second stops he travelled 60 - 20 -15 = 25 miles. The answer is 25. 
   ```
 
 Third time:
@@ -218,6 +218,21 @@ In this framework, the model produces several steps of thought as it moves towar
 ![TOT](https://github.com/SalvatoreRa/tutorial/blob/main/images/TOT.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2305.10601)*
 
+An interesting development is to add an agent to conduct the search. In this article, they add a controller that precisely controls the search in the ToT
+
+![TOT2](https://github.com/SalvatoreRa/tutorial/blob/main/images/TOT3.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2305.08291)*
+
+Clarification these two methods are both complex and laborious. In one you have to generate the various steps, evaluate them, and conduct the research. In the second we have an external module trained with reinforcement learning that conducts the control and search. So instead of conducting multiple calls, [Hubert](https://github.com/dave1010/tree-of-thought-prompting) proposed a simple prompt to conduct ToT. This approach is simplified but seems to give superior results to simple CoT
+
+```
+Imagine three different experts are answering this question.
+All experts will write down 1 step of their thinking,
+then share it with the group.
+Then all experts will go on to the next step, etc.
+If any expert realises they're wrong at any point then they leave.
+The question is...
+```
 
 
     Articles describing in detail:
