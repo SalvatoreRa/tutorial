@@ -29,6 +29,7 @@ You may write me for any request, suggestions and comments.
 | [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
 | [Random NA generation](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/random_NA_generation.py) |Introduces random missing values into a dataset.|
 | [Utils NA](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py) | a set of utils to generate and insert NA in your dataset|
+| [DR_utils](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/DR_utils.py) | a set of utils for dimensional reduction techniques|
 
 # How to import
 
@@ -123,19 +124,32 @@ A series of utilities for generating NA. It allows to generate MNAR, MCAR and MA
 
 
 ```Python
-wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machine learning/utility/utils_NA.py')
 !pip install wget 
-from utils import *
+wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machine learning/utility/utils_NA.py')
+
+from utils_NA import *
 import torch
 import seaborn as sns
 
-#generate different type of NA
+#generate different types of NA
 X_miss_mcar = produce_NA(df, p_miss=0.4, mecha="MCAR")
 X_miss_mar = produce_NA(df, p_miss=0.4, mecha="MAR", p_obs=0.5)
 X_miss_mnar = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="logistic", p_obs=0.5)
 X_miss_quant = produce_NA(df, p_miss=0.4, mecha="MNAR", opt="quantile", p_obs=0.5, q=0.3)
 
 ```
+
+## DR_utils
+
+I have collected here a series of functions that are not available in other packages:
+
+**Evaluation metrics**
+* Neighborhood Hit metric
+* Continuity metric
+* normalized stress
+
+**Dimensional reduction plots**
+* Shepard diagram 
 
 &nbsp;
 
