@@ -56,6 +56,7 @@ Articles describing in detail:
   * [Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)
   * [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
   * [a good survey on the topic](https://arxiv.org/abs/2303.18223)
+  * [another good survey on the topic](https://arxiv.org/abs/2402.06196)
 
 </details>
 
