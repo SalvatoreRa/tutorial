@@ -68,6 +68,31 @@ OpenAI proposed in 2020 a power law for the performance of LLMs: according to th
 ![scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/scaling_law.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2001.08361)*
 
+Emergent properties are properties that appear only with scale (as the number of parameters increases)
+
+*"In the literature, emergent abilities of LLMs are formally defined as “the abilities that
+are not present in small models but arise in large models”, which is one of the most prominent features that distinguish LLMs from previous PLMs."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
+
+![emergent_properties](https://github.com/SalvatoreRa/tutorial/blob/main/images/emergent_properties.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2206.07682.pdf)*
+
+![emergent_properties](https://github.com/SalvatoreRa/tutorial/blob/main/images/emergent_properties2.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2206.07682.pdf)*
+
+On the other hand, not everyone agrees on the real existence of these emerging properties
+
+*" There are also extensive debates on the rationality of emergent abilities. A popular speculation is that emergent abilities might be partially attributed to the evaluation setting for special tasks (e.g., the discontinuous evaluation metrics)."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
+
+Articles describing in detail:
+  * [A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)
+  * [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9)
+
+ 
+  Suggested lecture:
+  * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
+  * [About emergent properties](https://arxiv.org/pdf/2206.07682.pdf)
+  * [a good survey on LLMs, scaling law, and so on](https://arxiv.org/abs/2303.18223)
+
   
 </details>
 
