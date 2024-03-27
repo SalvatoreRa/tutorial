@@ -97,13 +97,30 @@ Articles describing in detail:
 </details>
 
 <details>
-  <summary><b>What does it mean context lenght?</b></summary>
+  <summary><b>What does it mean context length?</b></summary>
   
   Context length is the maximum amount of information an LLM can take as input. It is generally measured in tokens or subwords. So an LLM with a context length of 1000 tokens can take about 750 words (as a rule of thumb, a token is considered to be 3/4 of a word). Context length has an effect on accuracy, consistency, and how much information it can parse: 
   
 * The more context length the slower the model generally is. 
 * Models with small context lengths use resources more efficiently. 
 * Larger context lengths have more conversation memory and more contextual understanding.
+
+There are methods to extend the context length of the models:
+
+![context_length](https://github.com/SalvatoreRa/tutorial/blob/main/images/context_length.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2402.02244.pdf)*
+
+Articles describing in detail:
+  * [A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)
+  * [Speak to me: How many words a model is reading](https://towardsdatascience.com/speak-to-me-how-many-words-a-model-is-reading-331e3af86d27)
+
+ 
+  Suggested lecture:
+  * [All You Need to Know about In-Context Learning](https://towardsdatascience.com/all-you-need-to-know-about-in-context-learning-55bde1180610)
+  * [About extending context length](https://arxiv.org/abs/2402.02244)
+  * [About extending context length](https://arxiv.org/abs/2401.07872)
+  
+    
 </details>
 
 
