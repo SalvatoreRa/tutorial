@@ -149,7 +149,22 @@ Articles describing in detail:
 
 <details>
   <summary><b>Do LLMs have biases?</b></summary>
-  !
+  
+  Yes. 
+
+  Garbage in, garbage out. Most of the biases come from the training dataset and LLMs inherit them. Biases are a particularly tricky problem especially if the model is to be used for sensitive applications
+
+  *" Laying behind these successes, however, is the potential to perpetuate harm. Typically trained on an enormous scale of uncurated Internet-based data, LLMs inherit stereotypes, misrepresentations, derogatory and exclusionary language, and other denigrating behaviors that disproportionately affect already-vulnerable and marginalized communities"*-[source](https://arxiv.org/pdf/2309.00770.pdf)
+
+  ![bias](https://github.com/SalvatoreRa/tutorial/blob/main/images/bias.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2309.00770.pdf)*
+
+  Articles describing in detail:
+  * [PrAIde and Prejudice: Tracking and Minimize Political Bias in LLMs](https://levelup.gitconnected.com/praide-and-prejudice-tracking-and-minimize-political-bias-in-llms-47f82d354514)
+
+ Suggested lecture:
+  * [Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/abs/2309.00770)
+
 </details>
 
 <details>
