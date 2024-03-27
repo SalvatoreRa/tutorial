@@ -65,10 +65,33 @@ Articles describing in detail:
   !
 </details>
 
+<details>
+  <summary><b>What does it mean context lenght?</b></summary>
+  !
+</details>
+
 
 <details>
   <summary><b>What does it mean LLM's hallucination?</b></summary>
-  !
+Anyone who has interacted with ChatGPT will notice that the model generates responses that seem consistent and convincing but occasionally are completely wrong. 
+
+![hallucination](https://github.com/SalvatoreRa/tutorial/blob/main/images/hallucination.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2311.05232)*
+
+Several solutions have obviously been proposed: 
+* Provide some context in the prompt (an article, Wikipedia, and so on). Or see RAG below.
+* If you have control over model parameters, you can play with temperature or other parameters.
+* Provide instructions to the model to answer "I do not know" when it does not know the answer.
+* Provide examples so it can better understand the task (for reasoning tasks).
+
+Articles describing in detail:
+  * [A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)
+ 
+  Suggested lecture:
+  * [Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)
+  * [a good survey on the topic](https://arxiv.org/abs/2311.05232)
+
+  
 </details>
 
 <details>
