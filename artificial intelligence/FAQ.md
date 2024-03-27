@@ -62,7 +62,13 @@ Articles describing in detail:
 
 <details>
   <summary><b>What does it mean emergent properties? what it is the scaling law?</b></summary>
-  !
+
+OpenAI proposed in 2020 a power law for the performance of LLMs: according to this scaling law, there is a relationship with three main factors: y model size (N), dataset size (D), and the amount of training compute (C). Given these factors we can derive the performance of the models:
+
+![scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/scaling_law.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2001.08361)*
+
+  
 </details>
 
 <details>
