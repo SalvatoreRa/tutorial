@@ -67,7 +67,12 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 </details>
 
 <details>
-  <summary><b>What is machine learning?</b></summary>
+  <summary><b>What is a transformer?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>Why there are so many transformers?</b></summary>
   !
 </details>
 
