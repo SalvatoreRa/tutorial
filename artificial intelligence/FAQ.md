@@ -24,6 +24,54 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
   !
 </details>
 
+## Neural networks
+
+<details>
+  <summary><b>What are neural networks?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What is a Convolutional Neural Network (CNN)?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What is Recurrent Neural Network (RNN)?</b></summary>
+  !
+</details>
+
+
+## Embeddings
+
+<details>
+  <summary><b>What is an embedding?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What are embedding vectors and latent space? What is a latent representation?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>Can we visualize embedding? It is interesting to do it?</b></summary>
+  !
+</details>
+
+## Transformer
+
+<details>
+  <summary><b>What is self-attention?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What is machine learning?</b></summary>
+  !
+</details>
+
+
 ## Large Language Models
 
 <details>
