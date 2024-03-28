@@ -21,16 +21,42 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 <details>
   <summary><b>What is machine learning?</b></summary>
-  A neural network is a collection of artificial neurons. The artificial neuron is clearly inspired by its human counterpart. The first part of the biological neuron receives information from other neurons. If this signal is relevant get excited and the potential (electrical) rises, if it exceeds a certain threshold the neuron activates and passes the signal to other neurons. This transfer is passed through the axon and its terminals that are connected to other neurons.
-$$\[y = f\left(\sum_{i=1}^{n} w_i x_i + b\right)\]$$
+  
 
 </details>
 
 ## Neural networks
 
 <details>
+  <summary><b>What is an artificial neuron?</b></summary>
+
+  A neural network is a collection of artificial neurons. The artificial neuron is clearly inspired by its human counterpart. The first part of the biological neuron receives information from other neurons. If this signal is relevant gets excited and the potential (electrical) rises, if it exceeds a certain threshold the neuron activates and passes the signal to other neurons. This transfer is passed through the axon and its terminals that are connected to other neurons.
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/neuron.png?raw=true)
+*from Wikipedia*
+
+  This is the corresponding equation for the artificial neuron:
+  
+$$\[y = f\left(\sum_{i=1}^{n} w_i x_i + b\right)\]$$
+
+As we can see, this equation mimics the behavior of the human neuron. X inputs are the signals coming from other neurons, the neuron weighs their importance by multiplying them with a set of weights. Once this information is weighed, this sum is called the transfer function. If the information is relevant it must pass a threshold, in this case given by the activation function. If it is above the threshold, the neuron is activated and passes the information (in the biological one this is called firing). This becomes the input for the next neuron.
+
+</details>
+
+<details>
   <summary><b>What are neural networks?</b></summary>
-  !
+  
+  In a nutshell, Neural networks  are a series of layers composed of different artificial neurons. We have an input layer, several hidden layers, and an output layer. The first layer takes inputs and is therefore specific to inputs. The hidden layers learn a representation of the data, while the last layer is specific to the task (classification, regression, auto-encoder, and so on).
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/ann.webp?raw=true)
+*from [here](https://www.cloudflare.com/learning/ai/what-is-neural-network/)*
+
+We generally distinguish: 
+* shallow neural networks, where you have one or few hidden layers
+* Deep neural networks, where you have many hidden layers (more about below)
+
+Neural networks despite having many parameters have the advantage of extracting sophisticated and complicated representations from data. They also learn high-level features from the data that can then be reused for other tasks. An additional advantage is that neural networks generally do not require complex pre-processing like traditional machine learning algorithms. Neural networks were invented with the purpose, that models would learn features on their own even when the data is noisy (a kind of automatic "feature engineering")
+
 </details>
 
 <details>
