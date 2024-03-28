@@ -108,13 +108,24 @@ where:
 - $\(f\)$ is the activation function for the hidden state, often tanh or ReLU,
 - $\(g\)$ is the activation function for the output, which depends on the specific task (e.g., softmax for classification).
 
+which can be also represented as:
 
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/description-block-rnn-ltr.png?raw=true)
+
+RNNs can theoretically process inputs of indefinite length without the model increasing in size (the same neurons are reused). The model also takes into account historical information, and weights are shared for various interactions over time. In reality, they are computationally slow, inefficient to train, and after a few time steps forget past inputs.
   
 </details>
 
 <details>
   <summary><b>What is a deep network?</b></summary>
-  !
+
+  Deep neural networks are basically neural networks in which there are many more layers. Today almost all of the most widely used models belong to this class. 
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/Artificial-Neural-Network-Vs-Deep-Neural-Network-14.png?raw=true)
+
+Obviously, models with more hidden layers can build a more complex and sophisticated representation of the data. However, this comes at a cost in terms of data required (more layers, more data, especially to avoid overfitting), time, and computation resources (more parameters often take more time and more hardware). In addition, training requires special tunings to avoid problems such as overfitting, underfitting, or vanishing gradients.
+
+  
 </details>
 
 <details>
