@@ -78,7 +78,7 @@ A convolutional layer basically accomplishes the dot product between a filter an
 
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn.gif?raw=true)
 
-A convolutional network is the repetition of these elements, in which convolution and pooling layers are interspersed, and then at the end we have a series of fully convolutional layers
+A convolutional network is the repetition of these elements, in which convolution and pooling layers are interspersed, and then at the end, we have a series of fully convolutional layers
 
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn3.png?raw=true)
   
@@ -86,7 +86,30 @@ A convolutional network is the repetition of these elements, in which convolutio
 
 <details>
   <summary><b>What is Recurrent Neural Network (RNN)?</b></summary>
-  !
+  
+  An RNN is a subtype of neural network that specializes in sequential data (a sequence of data X with x ranging from 1 to time t). They are recursive because they perform the same task for each element in the sequence, and the output for an element is dependent on previous computations. In simpler terms, at each input of the sequence they perform a simple computation and do an update of the hidden state (or memory), this memory is then used for subsequent computations. So this computation can be seen with a kind of roll because for each input the output of the previous input is important:
+
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/rnn.webp?raw=true)
+
+More formally, the hidden state $\(h_t\)$ of an RNN at time step $\(t\)$ is updated by:
+
+$$\[h_t = f(W_h h_{t-1} + W_x x_t + b)\]$$
+
+And the output at time step $\(t\)$ is given by:
+
+$$\[y_t = g(W_y h_t + b_y)\]$$
+
+where:
+- $\(h_t\)$ is the hidden state at time step $\(t\)$,
+- $\(h_{t-1}\)$ is the hidden state at the previous time step $\(t-1\)$,
+- $\(x_t\)$ is the input at time step $\(t\)$,
+- $\(W_h\)$, $\(W_x\)$, and $\(W_y\)$ are the weight matrices for the hidden state, input, and output, respectively,
+- $\(b\)$ and $\(b_y\)$ are the bias terms,
+- $\(f\)$ is the activation function for the hidden state, often tanh or ReLU,
+- $\(g\)$ is the activation function for the output, which depends on the specific task (e.g., softmax for classification).
+
+
+  
 </details>
 
 <details>
