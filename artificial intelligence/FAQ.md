@@ -21,7 +21,9 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 <details>
   <summary><b>What is machine learning?</b></summary>
-  !
+  A neural network is a collection of artificial neurons. The artificial neuron is clearly inspired by its human counterpart. The first part of the biological neuron receives information from other neurons. If this signal is relevant get excited and the potential (electrical) rises, if it exceeds a certain threshold the neuron activates and passes the signal to other neurons. This transfer is passed through the axon and its terminals that are connected to other neurons.
+$$\[y = f\left(\sum_{i=1}^{n} w_i x_i + b\right)\]$$
+
 </details>
 
 ## Neural networks
@@ -38,6 +40,16 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 <details>
   <summary><b>What is Recurrent Neural Network (RNN)?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What is a deep network?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What is the lottery ticket hypothesis?</b></summary>
   !
 </details>
 
