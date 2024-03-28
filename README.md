@@ -253,6 +253,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Think, Then Speak: How Researchers Gave AI an Inner Monologue](https://levelup.gitconnected.com/think-then-speak-how-researchers-gave-ai-an-inner-monologue-f9bc5eb60139) | -- |QuietStar is a new promising approach for LLM reasoning|
 | [Does it Really Matter Grok?](https://levelup.gitconnected.com/does-it-really-matter-grok-fbf70c5117e2) | -- | Musk claims he has open-source Grok, but it does matter or is it just another move in larger play? |
 | [The AI worm and the LLM leaf](https://levelup.gitconnected.com/the-ai-worm-and-the-llm-leaf-6132d60c11be) | -- |New research warns how a LLM can be poisoned and spread around|
 |[DeepMind’s SIMA: Rule the Simulated World Before Take Over the Real One](https://levelup.gitconnected.com/deepminds-sima-rule-the-simulated-world-before-take-over-the-real-one-ab335f474deb)| -- |A new agent by DeepMind shows impressive new generalization skills in videogames|
