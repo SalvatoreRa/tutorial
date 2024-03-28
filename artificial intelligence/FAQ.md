@@ -61,7 +61,27 @@ Neural networks despite having many parameters have the advantage of extracting 
 
 <details>
   <summary><b>What is a Convolutional Neural Network (CNN)?</b></summary>
-  !
+
+Convolutional neural networks are a subset of neural networks that specialize in image analysis. These neural networks are inspired by the human cortex, especially the visual cortex. The two main concepts are the creation of a hierarchical representation (increasingly complex features from the top to the bottom of the network) and the fact that successive layers have an increasingly larger receptive field size (layers further forward in the network see a larger part of the image).
+
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn1.png?raw=true)
+
+This causes convolutional neural networks to create an increasingly complex representation, where layers further down the network recognize simpler features (edges, textures) and layers further up the network recognize more complex features (objects or faces)
+
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn2.png?raw=true)
+
+How does it actually work?
+
+Pixels that are close together represent the same object and pattern, so they should be processed together by the neural network. These neural networks consist of three main layers: a convolutional layer to extract features. Pooling layer, to reduce the spatial dimension of the representation. Fully connected layer, usually the last layers to map the representation between input and output (for example, if we want to classify various objects).
+
+A convolutional layer basically accomplishes the dot product between a filter and a matrix (the input). In other words, we have a filter flowing over an image to learn and map features. This makes the convolutional network particularly efficient because it leads to sparse interaction and fewer parameters to save.
+
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn.gif?raw=true)
+
+A convolutional network is the repetition of these elements, in which convolution and pooling layers are interspersed, and then at the end we have a series of fully convolutional layers
+
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn3.png?raw=true)
+  
 </details>
 
 <details>
