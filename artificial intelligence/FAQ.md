@@ -191,7 +191,19 @@ For example, we can take images, pass them through a transformer, and use the ve
 
 <details>
   <summary><b>Can we visualize embedding? It is interesting to do it?</b></summary>
-  !
+  
+  As mentioned, distances are meaningful in the embedding space. In addition, operations such as searching for similar terms can be performed. These embeddings have been used to search for similar documents or conduct clustering. 
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/vect.png?raw=true)
+*from [here](https://developers.google.com/machine-learning/crash-course/embeddings/translating-to-a-lower-dimensional-space)*
+
+After getting an embedding it is good practice to conduct a visual analysis, it allows us to get some visual information and understand if the process went well. Because embeddings have many dimensions (usually up to 1024, although they can be more), we need to use techniques to reduce the dimensions such as PCA and t-SNE to obtain a two-dimensional projection
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/tsne_vect.png?raw=true)
+*from [here](https://ai.google.dev/examples/clustering_with_embeddings)*
+
+
+  
 </details>
 
 ## Transformer
