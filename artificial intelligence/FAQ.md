@@ -158,7 +158,24 @@ According to some authors, the lottery ticket hypothesis is one of the reasons w
 
 <details>
   <summary><b>What is an embedding?</b></summary>
-  !
+  An embedding is a low-dimensional space representation of high-dimensional space vectors. For example, one could represent the words of a sentence with a sparse vector (1-hot encoding or other techniques), and embedding allows us to obtain a compact representation. Although embedding originated for text, it can be applied to all kinds of data: for example, we can have a vector representing an image
+
+  sparse word representation:
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/word_repr.png?raw=true)
+*from [here](https://arxiv.org/pdf/2010.15036.pdf)*
+
+
+In general, the term embedding became a fundamental concept of machine learning after 2013, thanks to Word2Vec. Word2Vec made it possible to learn a vector representation for each word in a vocabulary.  This vector captures features of a word such as the semantic relationship of the word, definitions, context, and so on. In addition, this vector is numeric and can be used for operations (or for downstream tasks such as classification)
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/word2vec.png?raw=true)
+*from [here](https://arxiv.org/pdf/2010.15036.pdf)*
+
+Word2Vec then succeeds in grouping similar word vectors (distances in the embedding space are meaningful). Word2Vec estimates the meaning of a word based on its occurrences in the text. The system is simple, we try to predict a word by its neighbors or its context. In this way, the model learns the context of a word
+
+ Suggested lecture:
+ * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+
 </details>
 
 <details>
