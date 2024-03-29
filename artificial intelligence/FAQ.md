@@ -197,6 +197,7 @@ Word2Vec then succeeds in grouping similar word vectors (distances in the embedd
 
 </details>
 
+
 <details>
   <summary><b>What are embedding vectors and latent space? What is a latent representation?</b></summary>
 
