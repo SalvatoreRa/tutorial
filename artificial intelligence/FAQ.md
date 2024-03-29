@@ -15,15 +15,31 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 # FAQ on machine learning
 
+<details>
+  <summary><b>What is machine learning? </b></summary>
+  !
+</details>
+
+
+<details>
+  <summary><b>What is overfitting? How to prevent it? </b></summary>
+  overfitting is one of the most important concepts in machine learning, usually occurring when the model is too complex for a dataset. The model then tends to learn patterns that are only present in the training set and thus not be able to generalize effectively. So it will not have adequate performance for unseen data.
+
+Underfitting is the opposite concept, where the model is too simple and fails to generalize because it has not identified the right patterns. With both overfitting and underfitting, the model is underperforming
+
+Solutions are usually: 
+* to collect more data when possible.
+* Eliminate features that are not needed.
+* Start with a simple model such as logistic regression as a baseline and compare it with progressively more complex models.
+* Add regularization techniques. Use ensembles. 
+
+</details>
+
+
 &nbsp;
 
 # FAQ on artificial intelligence
 
-<details>
-  <summary><b>What is machine learning?</b></summary>
-  
-
-</details>
 
 ## Neural networks
 
@@ -32,7 +48,7 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
   A neural network is a collection of artificial neurons. The artificial neuron is clearly inspired by its human counterpart. The first part of the biological neuron receives information from other neurons. If this signal is relevant gets excited and the potential (electrical) rises, if it exceeds a certain threshold the neuron activates and passes the signal to other neurons. This transfer is passed through the axon and its terminals that are connected to other neurons.
 
-  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/neuron.png?raw=true)
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/under_overfitting.svg?raw=true)
 *from Wikipedia*
 
   This is the corresponding equation for the artificial neuron:
