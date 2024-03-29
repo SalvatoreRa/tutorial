@@ -180,7 +180,13 @@ Word2Vec then succeeds in grouping similar word vectors (distances in the embedd
 
 <details>
   <summary><b>What are embedding vectors and latent space? What is a latent representation?</b></summary>
-  !
+
+As mentioned above an embedding vector is the representation of high dimensional data in vectors that have a reduced size. In general, they are continuous vectors of real numbers, although the starting vectors may be sparse (0-1) or of integers (pixel value). The value of these embedding vectors is that they maintain a concept of similarity or distance. Therefore, two elements that are close in the initial space must also be close in the embedding space.
+
+The representation means a transformation of the data. For example, a neural network at each layer learns a representation of the data. intermediate, i.e., layer representations within the neural network are also called latent representation (or latent space). The representation can also be the output of a neural network, and the resulting vectors can also be used as embeddings. 
+
+For example, we can take images, pass them through a transformer, and use the vectors obtained after the last layer. These vectors have a small size and are both a representation and embedding. So often the terms have the same meaning. Since a text like hot-encoding is a representation, in some cases the terms differ
+  
 </details>
 
 <details>
