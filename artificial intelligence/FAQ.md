@@ -222,7 +222,24 @@ After getting an embedding it is good practice to conduct a visual analysis, it 
  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/tsne_vect.png?raw=true)
 *from [here](https://ai.google.dev/examples/clustering_with_embeddings)*
 
+<details>
+  <summary><b>>How to deal with overfitting in neural networks?</b></summary>
+  
+  *"The central challenge in machine learning is that we must perform well on new, previously unseen inputs — not just those on which our model was trained. The ability to perform well on previously unobserved inputs is called generalization."-[source](https://www.deeplearningbook.org/)* 
 
+
+  Neural networks are sophisticated and complex models that can be composed of a great many parameters. This makes it possible for neural networks to store patterns and correlations spurious that are only present in the training set.  There are several techniques that can be used to reduce the risk of overfitting
+
+**collecting more data and data augmentation**
+
+Obviously, the best way is to collect more data, especially quality data. In fact, the model is exposed to more patterns and needs to identify relevant ones
+
+Data augmentation simulates having more data and makes it harder for the model to learn spurious correlations or store patterns or even whole examples (deep networks are very capable in terms of parameters).
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/img_data_augmentation.jpg?raw=true)
+*from [here](https://ai.google.dev/examples/clustering_with_embeddings)*
+
+</details>
   
 </details>
 
