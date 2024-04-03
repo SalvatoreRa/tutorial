@@ -45,7 +45,9 @@ Solutions are usually:
 
 <details>
   <summary><b>What are the differences between machine learning and artificial intelligence? </b></summary>
-  !
+
+In essence, artificial intelligence is a set of algorithms and techniques that exploits neural networks to solve various tasks. These are neural networks composed of several layers that can extract complex features from a dataset. This makes it possible to avoid feature engineering and at the same time learn a complex representation of the data. Neural networks also can learn relationships that are nonlinear and thus complex patterns that other machine learning algorithms can hardly learn. This clearly means having patterns with many more parameters and thus the need for appropriate learning algorithms (such as backpropagation).
+ 
 </details>
 
 <details>
@@ -152,9 +154,14 @@ RNNs can theoretically process inputs of indefinite length without the model inc
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/Artificial-Neural-Network-Vs-Deep-Neural-Network-14.png?raw=true)
 
 Obviously, models with more hidden layers can build a more complex and sophisticated representation of the data. However, this comes at a cost in terms of data required (more layers, more data, especially to avoid overfitting), time, and computation resources (more parameters often take more time and more hardware). In addition, training requires special tunings to avoid problems such as overfitting, underfitting, or vanishing gradients.
-
   
 </details>
+
+<details>
+  <summary><b>What is the vanishing gradient? </b></summary>
+  !
+</details>
+
 
 <details>
   <summary><b>What is the lottery ticket hypothesis?</b></summary>
