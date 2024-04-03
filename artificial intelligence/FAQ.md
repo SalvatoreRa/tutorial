@@ -43,6 +43,15 @@ Solutions are usually:
 
 # FAQ on artificial intelligence
 
+<details>
+  <summary><b>What are the differences between machine learning and artificial intelligence? </b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What is supervised learning? self-supervised learning? few-shot or zero-shot learning? </b></summary>
+  !
+</details>
 
 ## Neural networks
 
