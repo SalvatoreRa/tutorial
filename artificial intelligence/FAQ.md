@@ -23,9 +23,10 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 <details>
   <summary><b>What is overfitting? How to prevent it? </b></summary>
-  overfitting is one of the most important concepts in machine learning, usually occurring when the model is too complex for a dataset. The model then tends to learn patterns that are only present in the training set and thus not be able to generalize effectively. So it will not have adequate performance for unseen data.
+  
+  **overfitting** is one of the most important concepts in machine learning, usually occurring when the model is too complex for a dataset. The model then tends to learn patterns that are only present in the training set and thus not be able to generalize effectively. So it will not have adequate performance for unseen data.
 
-Underfitting is the opposite concept, where the model is too simple and fails to generalize because it has not identified the right patterns. With both overfitting and underfitting, the model is underperforming
+**Underfitting** is the opposite concept, where the model is too simple and fails to generalize because it has not identified the right patterns. With both overfitting and underfitting, the model is underperforming
 
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/under_overfitting.svg?raw=true)
 *from Wikipedia*
@@ -38,6 +39,24 @@ Solutions are usually:
 
 </details>
 
+<details>
+  <summary><b>When to use K-fold cross-validation or group K-fold? </b></summary>
+
+**K-fold cross-validation** is one of the most widely used evaluation methods for a machine learning model. It is usually used to understand how a model behaves when there is unseen data. K-fold cross-validation is simple, we have a dataset X and a target variable y. The dataset is divided into K folds (then a subset of X and y) and for each interaction we train the model on k-1 fold and calculate the error on the remaining fold. If we have 100 examples and k =5, it means that at each iteration we select 20 random examples, train the model on the other 80 examples, and calculate the performance on the 20 examples.
+  
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/1024px-K-fold_cross_validation_EN.svg.png?raw=true)
+*from Wikipedia*
+
+The main problem with k-fold cross-validation is that we assume that all the different folds have the same distribution. This is not true in a number of cases where the dataset is stratified by an additional temporal, group, or spatial dimension. This causes a so-called information leak and is easily understood when we look at data that are temporally stratified. If we use random shuffling, the model will see into the future and we have what can be called data leakage
+
+cross-validation leads to predictions that are overly optimistic (overly confident), favors models that are prone to overfitting. So for real-world cases, we need an alternative that avoids leakage between folds. This can be achieved with **group folds**:
+
+*"GroupKFold is a variation of k-fold which ensures that the same group is not represented in both testing and training sets. For example if the data is obtained from different subjects with several samples per-subject and if the model is flexible enough to learn from highly person specific features it could fail to generalize to new subjects. GroupKFold makes it possible to detect this kind of overfitting situations." -[source](https://scikit-learn.org/stable/modules/cross_validation.html)*
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/sphx_glr_plot_cv_indices_007.png?raw=true)
+*from scikit-learn*
+
+</details>
 
 &nbsp;
 
@@ -46,7 +65,7 @@ Solutions are usually:
 <details>
   <summary><b>What are the differences between machine learning and artificial intelligence? </b></summary>
 
-In essence, artificial intelligence is a set of algorithms and techniques that exploits neural networks to solve various tasks. These are neural networks composed of several layers that can extract complex features from a dataset. This makes it possible to avoid feature engineering and at the same time learn a complex representation of the data. Neural networks also can learn relationships that are nonlinear and thus complex patterns that other machine learning algorithms can hardly learn. This clearly means having patterns with many more parameters and thus the need for appropriate learning algorithms (such as backpropagation).
+In essence, **artificial intelligence** is a set of algorithms and techniques that exploits neural networks to solve various tasks. These are neural networks composed of several layers that can extract complex features from a dataset. This makes it possible to avoid feature engineering and at the same time learn a complex representation of the data. Neural networks also can learn relationships that are nonlinear and thus complex patterns that other machine learning algorithms can hardly learn. This clearly means having patterns with many more parameters and thus the need for appropriate learning algorithms (such as backpropagation).
  
 </details>
 
