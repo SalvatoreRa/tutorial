@@ -53,6 +53,7 @@ In essence, artificial intelligence is a set of algorithms and techniques that e
 <details>
   <summary><b>What is supervised learning? self-supervised learning? few-shot or zero-shot learning? </b></summary>
   
+  
 **Supervised learning** uses labeled training data and **self-supervised learning** does not. In other words, when we have labeled we can use supervised learning, only sometimes we don't have it and for that we need other algorithms.
 
 In supervised learning we usually have a dataset that has labels (for example, pictures of dogs and cats), we divide our dataset into training and testing and train the model to solve the task. Because we have the labels we can check the model's responses and its performance. In this case the model is learning a function that binds input and output data, tries to find the relationships between the various features of the dataset and the target variable. Supervised learning is used for classification, regression, sentiment analysis, spam detection and so on.
@@ -68,6 +69,18 @@ In unsupervised learning (or self-supervised), on the other hand, the purpose of
 *from [here](https://medium.com/@gayatri_sharma/a-gentle-introduction-to-semi-supervised-learning-7afa5539beea)*
 
 </details>
+
+<details>
+  <summary><b>What is transfer learning? </b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>What is knowledge distillation? </b></summary>
+  !
+</details>
+
+
 
 ## Neural networks
 
