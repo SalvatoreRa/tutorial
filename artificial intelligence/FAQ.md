@@ -272,6 +272,12 @@ Data augmentation simulates having more data and makes it harder for the model t
 </details>
 
 <details>
+  <summary><b>What is a Vision Transformer (ViT)?</b></summary>
+  !
+</details>
+
+
+<details>
   <summary><b>Why there are so many transformers?</b></summary>
   !
 </details>
