@@ -51,12 +51,12 @@ In essence, artificial intelligence is a set of algorithms and techniques that e
 </details>
 
 <details>
-  <summary><b>What is supervised learning? self-supervised learning? few-shot or zero-shot learning? </b></summary>
+  <summary><b>What is supervised learning? self-supervised learning?  </b></summary>
   
   
-**Supervised learning** uses labeled training data and **self-supervised learning** does not. In other words, when we have labeled we can use supervised learning, only sometimes we don't have it and for that we need other algorithms.
+**Supervised learning** uses labeled training data and **self-supervised learning** does not. In other words, when we have labeled we can use supervised learning, only sometimes we don't have it and for that, we need other algorithms.
 
-In supervised learning we usually have a dataset that has labels (for example, pictures of dogs and cats), we divide our dataset into training and testing and train the model to solve the task. Because we have the labels we can check the model's responses and its performance. In this case the model is learning a function that binds input and output data, tries to find the relationships between the various features of the dataset and the target variable. Supervised learning is used for classification, regression, sentiment analysis, spam detection and so on.
+In supervised learning we usually have a dataset that has labels (for example, pictures of dogs and cats), we divide our dataset into training and testing and train the model to solve the task. Because we have the labels we can check the model's responses and its performance. In this case, the model is learning a function that binds input and output data and tries to find the relationships between the various features of the dataset and the target variable. Supervised learning is used for classification, regression, sentiment analysis, spam detection, and so on.
 
 In unsupervised learning (or self-supervised), on the other hand, the purpose of the model is to learn the structure of the data without specific guidance. For example, we want to divide our consumers into clusters, the model has to find patterns underlying the data without knowing what the actual labels are (we don't have them after all). These patterns are used for anomaly detection, big data visualization, customer segmentation and so on.
 
@@ -68,11 +68,31 @@ In unsupervised learning (or self-supervised), on the other hand, the purpose of
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/semisup.webp?raw=true)
 *from [here](https://medium.com/@gayatri_sharma/a-gentle-introduction-to-semi-supervised-learning-7afa5539beea)*
 
+**self-supervised learning** is now stricly related to **transfer learning** (check below). In fact, many models are trained unsupervised on a huge amount of data. For example, Transformers are trained on a lot of textual data using a huge amount of data during the pretraining phase. During this phase, language modeling or another pretext task is used to make the model learn a knowledge of the language. Labeling this data would be too expensive, so the purpose of the model is to learn the structure of the language during pretraining. Only at a later stage is the model adapted for a specific task. So in this case our purpose is to take advantage of the amount of data and a task that allows us to train the model, without having to annotate or specify the task. 
+
 </details>
 
 <details>
   <summary><b>What is transfer learning? </b></summary>
-  !
+
+**transfer learning** is a process in which we exploit a model's abilities for a different task than what was originally trained.
+
+*"Transfer learning and domain adaptation refer to the situation where what has been learned in one setting … is exploited to improve generalization in another setting" -[source](https://www.deeplearningbook.org/)* 
+
+*"Transfer learning is the improvement of learning in a new task through the transfer of knowledge from a related task that has already been learned." -[source](https://dl.acm.org/doi/10.5555/1803899)* 
+
+
+Transfer learning requires the model to learn features that are general. So they are usually models that are trained on a huge amount of data and can learn very different patterns from each other. 
+
+For example, a large convolutional network such as ResNet is trained on a large number of images such as Imagenet, then the model is retrained to classify images of dogs or cats. In this case, the model head that is specific to the original task (imagenet) is removed and replaced with a final layer for the specific task.
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/Transfer_learning.svg.png?raw=true)
+*from [here](https://en.wikipedia.org/wiki/Transfer_learning)*
+
+Another widely used case is the transformer. The transformer is a very large model that can learn a large number of patterns. In this case, the pattern is not trained for a specific task but in self-supervised learning. This first phase is called the pre-training phase. During this initial phase, the model learns language features by predicting the next word in a word sequence (or as a masked language model, where some words are masked and the model has to predict them). Once this is done, the model can be repurposed for other tasks such as sentiment analysis (a classification task).
+
+This approach can be used with so many types of data, for example for images, you can mask part of the images and the model has to predict what is in the masked patch.
+  
 </details>
 
 <details>
