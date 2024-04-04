@@ -258,12 +258,12 @@ The rectifier or **ReLU (rectified linear unit)** activation function has a numb
 
 The **Dying ReLU problem** refers to the scenario in which many ReLU neurons only output values of 0. In fact, if before the activation function the output of the neuron is less than zero, after ReLU is zero:
 
-$$
+```math
 \text{ReLU}(x) = \begin{cases} 
 x & \text{if } x > 0 \\
 0 & \text{otherwise}
 \end{cases}
-$$
+```
 
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/1024px-ReLU_and_GELU.svg.png?raw=true) *Plot of the ReLU rectifier (blue) and GELU (green) functions near x = 0, from Wikipedia*
 
@@ -290,15 +290,11 @@ The **Vanishing Gradient Problem** refers to the decreasing gradient and its app
 
 This is clearly understandable if the sigmoid function is used as the activation function. The sigmoid function squishes a large input between 0 and 1, so a large change in input does not correspond to a large change in output. In addition, its derivative is small for a large input X
 
-$$
-\sigma(x) = \frac{1}{1 + e^{-x}}
-$$
+$$\sigma(x) = \frac{1}{1 + e^{-x}}$$
 
 **derivative**:
 
-$$
-\sigma'(x) = \sigma(x) \cdot (1 - \sigma(x))
-$$
+$$\sigma'(x) = \sigma(x) \cdot (1 - \sigma(x))$$
 
  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/sigmoid_derivative.webp?raw=true) * from [here](https://isaacchanghau.github.io/img/deeplearning/activationfunction/sigmoid.png)*
 
