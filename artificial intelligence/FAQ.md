@@ -269,22 +269,51 @@ $$
 
 The problem occurs when most of the inputs are negative. The worst case is if the entire network dies, at which point the gradient fails to flow during backpropagation and there will no longer be an update of the weights. The entire or a significant part of the network then becomes inactive and stops learning. Once this happens there is no way to reactivate it.
 
-The Dying ReLU problem is related to two different factors: **High learning rate.** The high learning rate could cause the weight to become negative since a large amount will be subtracted, thus leading to negative input for ReLU. **Large negative bias**. Since bias contributes to the equation this is another cause.
+The Dying ReLU problem is related to two different factors:
+* **High learning rate.** The high learning rate could cause the weight to become negative since a large amount will be subtracted, thus leading to negative input for ReLU.
+* **Large negative bias**. Since bias contributes to the equation this is another cause.
 
 So the solution is either to use a small learning rate or to test one of several alternatives to ReLU
+
+ Suggested lecture:
+  * [Dying ReLU and Initialization: Theory and Numerical Examples](https://arxiv.org/abs/1903.06733)
 
 </details>
 
 <details>
   <summary><b>What is the vanishing gradient? </b></summary>
-  !
+
+
+**sigmoid activation function**:
+
+The **Vanishing Gradient Problem** refers to the decreasing gradient and its approach to zero as different layers are added to a neural network. The deeper the network gets, the less gradient reaches the first few layers and the more difficult it becomes to train.
+
+This is clearly understandable if the sigmoid function is used as the activation function. The sigmoid function squishes a large input between 0 and 1, so a large change in input does not correspond to a large change in output. In addition, its derivative is small for a large input X
+
+$$
+\sigma(x) = \frac{1}{1 + e^{-x}}
+$$
+
+**derivative**:
+
+$$
+\sigma'(x) = \sigma(x) \cdot (1 - \sigma(x))
+$$
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/sigmoid_derivative.webp?raw=true) * from [here](https://isaacchanghau.github.io/img/deeplearning/activationfunction/sigmoid.png)*
+
+ When there are few layers this is not a problem, but the more layers added the more it reduces the gradient and impacts training. Since backpropagation starts from the final layer to the initial layers, if there are n layers with sigmoid it means that n small derivatives are multiplied (backpropagation in fact uses the chain rule of derivatives). With little gradient, we will have little update of the first layers, so these layers will not be trained efficiently
+
+The **ReLU** has been used as a solution, and in fact little by little it has become the most widely used function in neural networks. For particularly deep networks, **residual connections** have also been used, which precisely skips the activation function and thus avoids derivative reduction. Also, to reduce input space, **batch normalization** is another solution, thus preventing the input from adding the outer edges of the sigmoid
+
+  
 </details>
 
 
 <details>
   <summary><b>What is the lottery ticket hypothesis?</b></summary>
 
-The lottery ticket hypothesis was proposed in 2019 to explain why neural networks are pruned after training. In other words, once we have trained a neural network with lots of parameters we want to remove the weights that do not serve the task and to vere a lighter network (pruning). This allows for smaller, faster neural networks that consume fewer resources. Many researchers have wondered, but can't we eliminate the weights before training? If these weights are not useful afterwards, they may not be useful during training either. 
+The lottery ticket hypothesis was proposed in 2019 to explain why neural networks are pruned after training. In other words, once we have trained a neural network with lots of parameters we want to remove the weights that do not serve the task and create a lighter network (pruning). This allows for smaller, faster neural networks that consume fewer resources. Many researchers have wondered, but can't we eliminate the weights before training? If these weights are not useful afterward, they may not be useful during training either. 
 
 *"The Lottery Ticket Hypothesis. A randomly-initialized, dense neural network contains a subnetwork that is initialized such that—when trained in isolation—it can match the test accuracy of the original network after training for at most the same number of iterations.
 "-[source](https://arxiv.org/abs/1803.03635)*
