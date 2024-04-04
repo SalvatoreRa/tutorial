@@ -20,6 +20,14 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
   !
 </details>
 
+<details>
+  <summary><b>What is the central limit theorem? </b></summary>
+
+*"In probability theory, the central limit theorem (CLT) states that, under appropriate conditions, the distribution of a normalized version of the sample mean converges to a standard normal distribution. This holds even if the original variables themselves are not normally distributed. " - [source](https://en.wikipedia.org/wiki/Central_limit_theorem)* 
+
+**central limit theorem (CLT)** in a nutshell says that the distribution of sample means approximates a normal distribution as you increase the sample size. It is one of the most fundamental statistical theorems and is an important assumption for many algorithms. In other words. A key aspect is that the average of the sample means will be equal to the true population mean and standard deviation. In other words, with a sufficiently large sample size, we can predict the characteristics of a population
+  
+</details>
 
 <details>
   <summary><b>What is overfitting? How to prevent it? </b></summary>
