@@ -249,6 +249,33 @@ Obviously, models with more hidden layers can build a more complex and sophistic
 </details>
 
 <details>
+  <summary><b>What’s the Dying ReLU problem? </b></summary>
+
+The rectifier or **ReLU (rectified linear unit)** activation function has a number of advantages but also a number of disadvantages: 
+* It is not zero differentiable (this is because it is not "smooth" at zero).
+* Not zero-centered.
+* Dying ReLU problem
+
+The **Dying ReLU problem** refers to the scenario in which many ReLU neurons only output values of 0. In fact, if before the activation function the output of the neuron is less than zero, after ReLU is zero:
+
+$$
+\text{ReLU}(x) = \begin{cases} 
+x & \text{if } x > 0 \\
+0 & \text{otherwise}
+\end{cases}
+$$
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/1024px-ReLU_and_GELU.svg.png?raw=true) *Plot of the ReLU rectifier (blue) and GELU (green) functions near x = 0, from Wikipedia*
+
+The problem occurs when most of the inputs are negative. The worst case is if the entire network dies, at which point the gradient fails to flow during backpropagation and there will no longer be an update of the weights. The entire or a significant part of the network then becomes inactive and stops learning. Once this happens there is no way to reactivate it.
+
+The Dying ReLU problem is related to two different factors: **High learning rate.** The high learning rate could cause the weight to become negative since a large amount will be subtracted, thus leading to negative input for ReLU. **Large negative bias**. Since bias contributes to the equation this is another cause.
+
+So the solution is either to use a small learning rate or to test one of several alternatives to ReLU
+
+</details>
+
+<details>
   <summary><b>What is the vanishing gradient? </b></summary>
   !
 </details>
