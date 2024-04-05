@@ -309,7 +309,34 @@ The **ReLU** has been used as a solution, and in fact little by little it has be
 
 <details>
   <summary><b>What is the dropout? how I should use it efficiently?</b></summary>
-!
+  
+Dropout is a regularization technique that aims to reduce network complexity to avoid overfitting. The problem is that models can learn statistical noise, the best way to avoid this is to change parameters, get different models, and aggregate. Obviously, this would be very computationally expensive. Dropout instead allows for the implicit ensemble.
+
+*"Dropout is a technique that addresses both these issues. It prevents overfitting and
+provides a way of approximately combining exponentially many different neural network
+architectures efficiently. The term “dropout” refers to dropping out units (hidden and
+visible) in a neural network. By dropping a unit out, we mean temporarily removing it from
+the network, along with all its incoming and outgoing connections, as shown in Figure 1.
+The choice of which units to drop is random. " -[source: original papers](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)*
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/dropout.png?raw=true) * from [the original papers](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)*
+
+During training a certain amount of neurons (decided with a probability p) is deactivated. If the probability p is 50 % for a layer, it means that randomly 50% of the neurons will be set to zero. This means that the model cannot rely on a particular neuron for training nor on the combination of neurons, but will learn different representations.  This acts on overfitting because during overfitting one neuron might compensate for the error of another neuron. This process is called **co-adaptations** in which several neurons are in "collusion" and reduces the generalization abilities of the neurons. If we use dropout instead, we prevent neuron co-adaptation because some neurons are set to zero in random manner.
+
+*" According to this theory, the role of sexual reproduction is not just to allow useful new genes to spread throughout the population, but also to facilitate this process by reducing complex co-adaptations that would reduce the chance of a new gene improving the fitness of an individual. Similarly, each hidden unit in a neural network trained with dropout must learn to work with a randomly chosen sample of other units. This should make each hidden unit more robust and drive it towards creating useful features on its own without relying on other hidden units to correct its mistakes. However, the hidden units within a layer will still learn to do different things from each other. " -[source: original papers](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)*
+
+This also allows us to learn features that are better generalizable:
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/dropout2.png?raw=true) * from [the original papers](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)*
+
+During training, if you set the probability to 50 % the remaining neurons are rescaled by an equivalent factor (e.g. 2x). In inference, on the other hand, the probability p is zero and all neurons are active.
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/dropout1.png?raw=true) * from [the original papers](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)*
+
+ Tips for using Dropout: 
+ * When using ReLU according to some it would be better, to put it before the activation function (fully connected, dropout, ReLu).
+ * The general rule of thumb would be to use low dropout rates first (p= 0.1/0.2) and then increase until no decrease in performance. In the original article, they suggest 0.5 as a general value for a variety of tasks and for hidden units. In some articles, they suggest 0.8 for the input layer (this is how 20% of neurons are considered) and 50% for hidden layers. Or at any rate a higher p in the first few layers.
+ * Dropout is especially recommended for large networks and small datasets
 
 </details>
 
