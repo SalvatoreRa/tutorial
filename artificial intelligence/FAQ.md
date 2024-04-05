@@ -65,6 +65,11 @@ cross-validation leads to predictions that are overly optimistic (overly confide
 
 </details>
 
+<details>
+  <summary><b>What is gradient descent? What are the alternatives?</b></summary>
+  !
+</details>
+
 &nbsp;
 
 # FAQ on artificial intelligence
@@ -299,15 +304,25 @@ $$\sigma'(x) = \sigma(x) \cdot (1 - \sigma(x))$$
  When there are few layers this is not a problem, but the more layers added the more it reduces the gradient and impacts training. Since backpropagation starts from the final layer to the initial layers, if there are n layers with sigmoid it means that n small derivatives are multiplied (backpropagation in fact uses the chain rule of derivatives). With little gradient, we will have little update of the first layers, so these layers will not be trained efficiently
 
 The **ReLU** has been used as a solution, and in fact little by little it has become the most widely used function in neural networks. For particularly deep networks, **residual connections** have also been used, which precisely skips the activation function and thus avoids derivative reduction. Also, to reduce input space, **batch normalization** is another solution, thus preventing the input from adding the outer edges of the sigmoid
-
   
 </details>
 
+<details>
+  <summary><b>What is the dropout? how I should use it efficiently?</b></summary>
+!
 
+</details>
+
+<details>
+  <summary><b>What is the batch normalization? how I should use it efficiently?</b></summary>
+!
+
+</details>
+  
 <details>
   <summary><b>What is the lottery ticket hypothesis?</b></summary>
 
-The lottery ticket hypothesis was proposed in 2019 to explain why neural networks are pruned after training. In other words, once we have trained a neural network with lots of parameters we want to remove the weights that do not serve the task and create a lighter network (pruning). This allows for smaller, faster neural networks that consume fewer resources. Many researchers have wondered, but can't we eliminate the weights before training? If these weights are not useful afterward, they may not be useful during training either. 
+The **lottery ticket hypothesis** was proposed in 2019 to explain why neural networks are pruned after training. In other words, once we have trained a neural network with lots of parameters we want to remove the weights that do not serve the task and create a lighter network (pruning). This allows for smaller, faster neural networks that consume fewer resources. Many researchers have wondered, but can't we eliminate the weights before training? If these weights are not useful afterward, they may not be useful during training either. 
 
 *"The Lottery Ticket Hypothesis. A randomly-initialized, dense neural network contains a subnetwork that is initialized such that—when trained in isolation—it can match the test accuracy of the original network after training for at most the same number of iterations.
 "-[source](https://arxiv.org/abs/1803.03635)*
