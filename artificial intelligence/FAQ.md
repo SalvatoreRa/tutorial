@@ -282,12 +282,11 @@ So the solution is either to use a small learning rate or to test one of several
 <details>
   <summary><b>What is the vanishing gradient? </b></summary>
 
-
-**sigmoid activation function**:
-
 The **Vanishing Gradient Problem** refers to the decreasing gradient and its approach to zero as different layers are added to a neural network. The deeper the network gets, the less gradient reaches the first few layers and the more difficult it becomes to train.
 
 This is clearly understandable if the sigmoid function is used as the activation function. The sigmoid function squishes a large input between 0 and 1, so a large change in input does not correspond to a large change in output. In addition, its derivative is small for a large input X
+
+**sigmoid activation function**:
 
 $$\sigma(x) = \frac{1}{1 + e^{-x}}$$
 
