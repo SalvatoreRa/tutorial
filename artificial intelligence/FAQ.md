@@ -74,6 +74,21 @@ cross-validation leads to predictions that are overly optimistic (overly confide
 ## Tree-based models
 
 <details>
+  <summary><b>What is bagging or boosting?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>Why there are different impurity metrics?</b></summary>
+  !
+</details>
+
+<details>
+  <summary><b>Should I use XGBoost? Or Catboost, LightGBM, random forest?</b></summary>
+  !
+</details>
+
+<details>
   <summary><b>Are tree-based models better than neural networks for tabular data?</b></summary>
   !
 </details>
@@ -163,7 +178,7 @@ Suggested lecture:
 <details>
   <summary><b>What is an artificial neuron?</b></summary>
 
-  A neural network is a collection of artificial neurons. The artificial neuron is clearly inspired by its human counterpart. The first part of the biological neuron receives information from other neurons. If this signal is relevant gets excited and the potential (electrical) rises, if it exceeds a certain threshold the neuron activates and passes the signal to other neurons. This transfer is passed through the axon and its terminals that are connected to other neurons.
+  A **neural network** is a collection of artificial neurons. The **artificial neuron** is clearly inspired by its human counterpart. The first part of the biological neuron receives information from other neurons. If this signal is relevant gets excited and the potential (electrical) rises, if it exceeds a certain threshold the neuron activates and passes the signal to other neurons. This transfer is passed through the axon and its terminals that are connected to other neurons.
 
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/neuron.png?raw=true)
 *from Wikipedia*
@@ -179,14 +194,14 @@ As we can see, this equation mimics the behavior of the human neuron. X inputs a
 <details>
   <summary><b>What are neural networks?</b></summary>
   
-  In a nutshell, Neural networks  are a series of layers composed of different artificial neurons. We have an input layer, several hidden layers, and an output layer. The first layer takes inputs and is therefore specific to inputs. The hidden layers learn a representation of the data, while the last layer is specific to the task (classification, regression, auto-encoder, and so on).
+  In a nutshell, **Neural networks**  are a series of layers composed of different artificial neurons. We have an input layer, several hidden layers, and an output layer. The first layer takes inputs and is therefore specific to inputs. The hidden layers learn a representation of the data, while the last layer is specific to the task (classification, regression, auto-encoder, and so on).
 
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/ann.webp?raw=true)
 *from [here](https://www.cloudflare.com/learning/ai/what-is-neural-network/)*
 
 We generally distinguish: 
-* shallow neural networks, where you have one or few hidden layers
-* Deep neural networks, where you have many hidden layers (more about below)
+* **shallow neural networks**, where you have one or few hidden layers
+* **Deep neural networks**, where you have many hidden layers (more about below)
 
 Neural networks despite having many parameters have the advantage of extracting sophisticated and complicated representations from data. They also learn high-level features from the data that can then be reused for other tasks. An additional advantage is that neural networks generally do not require complex pre-processing like traditional machine learning algorithms. Neural networks were invented with the purpose, that models would learn features on their own even when the data is noisy (a kind of automatic "feature engineering")
 
@@ -195,7 +210,7 @@ Neural networks despite having many parameters have the advantage of extracting 
 <details>
   <summary><b>What is a Convolutional Neural Network (CNN)?</b></summary>
 
-Convolutional neural networks are a subset of neural networks that specialize in image analysis. These neural networks are inspired by the human cortex, especially the visual cortex. The two main concepts are the creation of a hierarchical representation (increasingly complex features from the top to the bottom of the network) and the fact that successive layers have an increasingly larger receptive field size (layers further forward in the network see a larger part of the image).
+**Convolutional neural networks **are a subset of neural networks that specialize in image analysis. These neural networks are inspired by the human cortex, especially the visual cortex. The two main concepts are the creation of a hierarchical representation (increasingly complex features from the top to the bottom of the network) and the fact that successive layers have an increasingly larger receptive field size (layers further forward in the network see a larger part of the image).
 
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn1.png?raw=true)
 
@@ -220,7 +235,7 @@ A convolutional network is the repetition of these elements, in which convolutio
 <details>
   <summary><b>What is Recurrent Neural Network (RNN)?</b></summary>
   
-  An RNN is a subtype of neural network that specializes in sequential data (a sequence of data X with x ranging from 1 to time t). They are recursive because they perform the same task for each element in the sequence, and the output for an element is dependent on previous computations. In simpler terms, at each input of the sequence they perform a simple computation and do an update of the hidden state (or memory), this memory is then used for subsequent computations. So this computation can be seen with a kind of roll because for each input the output of the previous input is important:
+  An **RNN** is a subtype of neural network that specializes in sequential data (a sequence of data X with x ranging from 1 to time t). They are recursive because they perform the same task for each element in the sequence, and the output for an element is dependent on previous computations. In simpler terms, at each input of the sequence they perform a simple computation and do an update of the **hidden state** (or memory), this memory is then used for subsequent computations. So this computation can be seen with a kind of roll because for each input the output of the previous input is important:
 
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/rnn.webp?raw=true)
 
@@ -252,7 +267,7 @@ RNNs can theoretically process inputs of indefinite length without the model inc
 <details>
   <summary><b>What is a deep network?</b></summary>
 
-  Deep neural networks are basically neural networks in which there are many more layers. Today almost all of the most widely used models belong to this class. 
+  **Deep neural networks** are basically neural networks in which there are many more layers. Today almost all of the most widely used models belong to this class. 
 
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/Artificial-Neural-Network-Vs-Deep-Neural-Network-14.png?raw=true)
 
@@ -318,7 +333,7 @@ The **ReLU** has been used as a solution, and in fact little by little it has be
 <details>
   <summary><b>What is the dropout? how I should use it efficiently?</b></summary>
   
-Dropout is a regularization technique that aims to reduce network complexity to avoid overfitting. The problem is that models can learn statistical noise, the best way to avoid this is to change parameters, get different models, and aggregate. Obviously, this would be very computationally expensive. Dropout instead allows for the implicit ensemble.
+**Dropout** is a regularization technique that aims to reduce network complexity to avoid overfitting. The problem is that models can learn statistical noise, the best way to avoid this is to change parameters, get different models, and aggregate. Obviously, this would be very computationally expensive. Dropout instead allows for the implicit ensemble.
 
 *"Dropout is a technique that addresses both these issues. It prevents overfitting and
 provides a way of approximately combining exponentially many different neural network
@@ -366,7 +381,7 @@ The **lottery ticket hypothesis** was proposed in 2019 to explain why neural net
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/lotteryticket.webp?raw=true)
 *from [here](https://towardsdatascience.com/saga-of-the-lottery-ticket-hypothesis-af30091f5cb)*
 
- What the authors do is a process called Iterative Magnitude Pruning, basically, they start by training the network, eliminate all the smaller weights, and then extract a subnetwork. This subnetwork is initialized with small, random weights and they re-train until convergence. This subnetwork is called a "winning ticket" because randomly it received the right weights so that it could be the one with the best performance.
+ What the authors do is a process called **Iterative Magnitude Pruning**, basically, they start by training the network, eliminate all the smaller weights, and then extract a subnetwork. This subnetwork is initialized with small, random weights and they re-train until convergence. This subnetwork is called a "winning ticket" because randomly it received the right weights so that it could be the one with the best performance.
 
 Now, this leads to two important considerations: There is a random subnetwork that is more computationally efficient and can be further trained to improve performance. Also, this subnetwork has better generalization capabilities. If it could be identified in a pre-training manner it would reduce the need to use large dense networks. 
 
@@ -384,7 +399,7 @@ According to some authors, the lottery ticket hypothesis is one of the reasons w
 
 <details>
   <summary><b>What is an embedding?</b></summary>
-  An embedding is a low-dimensional space representation of high-dimensional space vectors. For example, one could represent the words of a sentence with a sparse vector (1-hot encoding or other techniques), and embedding allows us to obtain a compact representation. Although embedding originated for text, it can be applied to all kinds of data: for example, we can have a vector representing an image
+  An **embedding** is a low-dimensional space representation of high-dimensional space vectors. For example, one could represent the words of a sentence with a sparse vector (1-hot encoding or other techniques), and embedding allows us to obtain a compact representation. Although embedding originated for text, it can be applied to all kinds of data: for example, we can have a vector representing an image
 
   sparse word representation:
 
@@ -392,7 +407,7 @@ According to some authors, the lottery ticket hypothesis is one of the reasons w
 *from [here](https://arxiv.org/pdf/2010.15036.pdf)*
 
 
-In general, the term embedding became a fundamental concept of machine learning after 2013, thanks to Word2Vec. Word2Vec made it possible to learn a vector representation for each word in a vocabulary.  This vector captures features of a word such as the semantic relationship of the word, definitions, context, and so on. In addition, this vector is numeric and can be used for operations (or for downstream tasks such as classification)
+In general, the term embedding became a fundamental concept of machine learning after 2013, thanks to **Word2Vec**. Word2Vec made it possible to learn a vector representation for each word in a vocabulary.  This vector captures features of a word such as the semantic relationship of the word, definitions, context, and so on. In addition, this vector is numeric and can be used for operations (or for downstream tasks such as classification)
 
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/word2vec.png?raw=true)
 *from [here](https://arxiv.org/pdf/2010.15036.pdf)*
@@ -408,9 +423,9 @@ Word2Vec then succeeds in grouping similar word vectors (distances in the embedd
 <details>
   <summary><b>What are embedding vectors and latent space? What is a latent representation?</b></summary>
 
-As mentioned above an embedding vector is the representation of high dimensional data in vectors that have a reduced size. In general, they are continuous vectors of real numbers, although the starting vectors may be sparse (0-1) or of integers (pixel value). The value of these embedding vectors is that they maintain a concept of similarity or distance. Therefore, two elements that are close in the initial space must also be close in the embedding space.
+As mentioned above an **embedding vector** is the representation of high dimensional data in vectors that have a reduced size. In general, they are continuous vectors of real numbers, although the starting vectors may be sparse (0-1) or of integers (pixel value). The value of these embedding vectors is that they maintain a concept of similarity or distance. Therefore, two elements that are close in the initial space must also be close in the embedding space.
 
-The representation means a transformation of the data. For example, a neural network at each layer learns a representation of the data. intermediate, i.e., layer representations within the neural network are also called latent representation (or latent space). The representation can also be the output of a neural network, and the resulting vectors can also be used as embeddings. 
+The **representation** means a transformation of the data. For example, a neural network at each layer learns a representation of the data. intermediate, i.e., layer representations within the neural network are also called latent representation (or latent space). The representation can also be the output of a neural network, and the resulting vectors can also be used as embeddings. 
 
 For example, we can take images, pass them through a transformer, and use the vectors obtained after the last layer. These vectors have a small size and are both a representation and embedding. So often the terms have the same meaning. Since a text like hot-encoding is a representation, in some cases the terms differ
   
@@ -419,12 +434,12 @@ For example, we can take images, pass them through a transformer, and use the ve
 <details>
   <summary><b>Can we visualize embedding? It is interesting to do it?</b></summary>
   
-  As mentioned, distances are meaningful in the embedding space. In addition, operations such as searching for similar terms can be performed. These embeddings have been used to search for similar documents or conduct clustering. 
+  As mentioned, _distances are meaningful in the embedding space_. In addition, operations such as searching for similar terms can be performed. These embeddings have been used to search for similar documents or conduct clustering. 
 
  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/vect.png?raw=true)
 *from [here](https://developers.google.com/machine-learning/crash-course/embeddings/translating-to-a-lower-dimensional-space)*
 
-After getting an embedding it is good practice to conduct a visual analysis, it allows us to get some visual information and understand if the process went well. Because embeddings have many dimensions (usually up to 1024, although they can be more), we need to use techniques to reduce the dimensions such as PCA and t-SNE to obtain a two-dimensional projection
+After getting an embedding it is good practice to conduct **a visual analysis**, it allows us to get some visual information and understand if the process went well. Because embeddings have many dimensions (usually up to 1024, although they can be more), we need to use techniques to reduce the dimensions such as PCA and t-SNE to obtain a two-dimensional projection
 
  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/tsne_vect.png?raw=true)
 *from [here](https://ai.google.dev/examples/clustering_with_embeddings)*
@@ -513,7 +528,7 @@ Articles describing in detail:
 <details>
   <summary><b>What does it mean emergent properties? what it is the scaling law?</b></summary>
 
-OpenAI proposed in 2020 a power law for the performance of LLMs: according to this scaling law, there is a relationship with three main factors: y model size (N), dataset size (D), and the amount of training compute (C). Given these factors we can derive the performance of the models:
+OpenAI proposed in 2020 a _power law for the performance of LLMs_: according to this scaling law, there is a relationship with three main factors: y model size (N), dataset size (D), and the amount of training compute (C). Given these factors we can derive the performance of the models:
 
 ![scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/scaling_law.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2001.08361)*
@@ -549,7 +564,7 @@ Articles describing in detail:
 <details>
   <summary><b>What does it mean context length?</b></summary>
   
-  Context length is the maximum amount of information an LLM can take as input. It is generally measured in tokens or subwords. So an LLM with a context length of 1000 tokens can take about 750 words (as a rule of thumb, a token is considered to be 3/4 of a word). Context length has an effect on accuracy, consistency, and how much information it can parse: 
+  **Context length** is the maximum amount of information an LLM can take as input. It is generally measured in tokens or subwords. So an LLM with a context length of 1000 tokens can take about 750 words (as a rule of thumb, a token is considered to be 3/4 of a word). Context length has an effect on accuracy, consistency, and how much information it can parse: 
   
 * The more context length the slower the model generally is. 
 * Models with small context lengths use resources more efficiently. 
@@ -620,7 +635,7 @@ Articles describing in detail:
 <details>
   <summary><b>What are adversarial prompts?</b></summary>
 
-  Adversarial prompting is an interesting field of both research and applications because it serves to understand the limits and safety of a model. These techniques have been shown to work on ChatGPT and other 
+  **Adversarial prompting** is an interesting field of both research and applications because it serves to understand the limits and safety of a model. These techniques have been shown to work on ChatGPT and other 
 
 For example, prompt injection is a technique in which you insert several prompts one safe and one that is used to obtain unexpected behavior instead.
 
