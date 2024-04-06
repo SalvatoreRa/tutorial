@@ -70,7 +70,6 @@ cross-validation leads to predictions that are overly optimistic (overly confide
   !
 </details>
 
-&nbsp;
 
 ## Tree-based models
 
