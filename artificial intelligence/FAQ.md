@@ -72,6 +72,15 @@ cross-validation leads to predictions that are overly optimistic (overly confide
 
 &nbsp;
 
+## Tree-based models
+
+<details>
+  <summary><b>Are tree-based models better than neural networks for tabular data?</b></summary>
+  !
+</details>
+
+&nbsp;
+
 # FAQ on artificial intelligence
 
 <details>
