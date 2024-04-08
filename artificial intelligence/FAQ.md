@@ -75,7 +75,7 @@ cross-validation leads to predictions that are overly optimistic (overly confide
 
 <details>
   <summary><b>What is bagging or boosting?</b></summary>
-  !
+  
 </details>
 
 <details>
@@ -112,7 +112,7 @@ In essence, **artificial intelligence** is a set of algorithms and techniques th
 
 In supervised learning we usually have a dataset that has labels (for example, pictures of dogs and cats), we divide our dataset into training and testing and train the model to solve the task. Because we have the labels we can check the model's responses and its performance. In this case, the model is learning a function that binds input and output data and tries to find the relationships between the various features of the dataset and the target variable. Supervised learning is used for classification, regression, sentiment analysis, spam detection, and so on.
 
-In unsupervised learning (or self-supervised), on the other hand, the purpose of the model is to learn the structure of the data without specific guidance. For example, we want to divide our consumers into clusters, the model has to find patterns underlying the data without knowing what the actual labels are (we don't have them after all). These patterns are used for anomaly detection, big data visualization, customer segmentation and so on.
+In _unsupervised learning (or self-supervised)_, on the other hand, the purpose of the model is to learn the structure of the data without specific guidance. For example, if we want to divide our consumers into clusters, the model has to find patterns underlying the data without knowing what the actual labels are (we don't have them after all). These patterns are used for anomaly detection, big data visualization, customer segmentation and so on.
 
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/Supervised-and-unsupervised-machine-learning-a-Schematic-representation-of-an.png?raw=true)
 *from [here](https://www.researchgate.net/figure/Supervised-and-unsupervised-machine-learning-a-Schematic-representation-of-an_fig3_351953193)*
@@ -210,7 +210,7 @@ Neural networks despite having many parameters have the advantage of extracting 
 <details>
   <summary><b>What is a Convolutional Neural Network (CNN)?</b></summary>
 
-**Convolutional neural networks **are a subset of neural networks that specialize in image analysis. These neural networks are inspired by the human cortex, especially the visual cortex. The two main concepts are the creation of a hierarchical representation (increasingly complex features from the top to the bottom of the network) and the fact that successive layers have an increasingly larger receptive field size (layers further forward in the network see a larger part of the image).
+**Convolutional neural networks** are a subset of neural networks that specialize in image analysis. These neural networks are inspired by the human cortex, especially the visual cortex. The two main concepts are the creation of a hierarchical representation (increasingly complex features from the top to the bottom of the network) and the fact that successive layers have an increasingly larger receptive field size (layers further forward in the network see a larger part of the image).
 
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/cnn1.png?raw=true)
 
@@ -399,6 +399,7 @@ According to some authors, the lottery ticket hypothesis is one of the reasons w
 
 <details>
   <summary><b>What is an embedding?</b></summary>
+  
   An **embedding** is a low-dimensional space representation of high-dimensional space vectors. For example, one could represent the words of a sentence with a sparse vector (1-hot encoding or other techniques), and embedding allows us to obtain a compact representation. Although embedding originated for text, it can be applied to all kinds of data: for example, we can have a vector representing an image
 
   sparse word representation:
