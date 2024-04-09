@@ -960,3 +960,8 @@ For this, several strategies have been developed for an efficient chunking syste
 The choice of chunking depends on several factors. The first is clearly which embedding model you use. If for performance reasons the embedder can only take 512 tokens, the chunking strategy must consider this maximum of tokens. According to the origin of the document, a strategy that respects the document should be chosen. The paragraph division of a document is an important element, so it makes sense to choose a strategy that respects it. Just as it is important to divide the code into chunks that are meaningful. In any case, the best strategy is to test different chunk sizes and strategies and evaluate the results.
 
 </details>
+
+<details>
+  <summary><b>How to evaluate a RAG system?</b></summary>
+
+</details>
