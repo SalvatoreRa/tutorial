@@ -18,7 +18,16 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 <details>
   <summary><b>What is better Pandas or Polars? </b></summary>
-  !
+
+Python is a great ecosystem for data science, on the other hand some basic analysis becomes complex as the datasets grow (parallel processing, query optimization, and lazy evaluation) especially if you use pandas. **[Pandas](https://pandas.pydata.org/)** in fact it is single-threaded (so it means it runs on only one CPU), requires the entire dataset to be in memory, also it does not allow the order of operation optimization (it means the operations are sequential in the order of declaration which is not always the best choice). 
+
+**[Polars](https://pola.rs/)** on the other hand offers: 
+* **Parallel computing**, so use all available cores.
+* **Improve storage** since it leverages Apache Arrow.
+* **File scanning** which allows you to work with very large files without necessarily keeping the whole file in memory
+
+Polars also is similar to Pandas in syntax so switching between libraries is fairly easy. Since there is a larger ecosystem compatible with Pandas, it is recommended to use it for small/medium datasets and use Polars for very large datasets
+  
 </details>
 
 ## Machine learning in general
