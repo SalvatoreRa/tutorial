@@ -943,4 +943,19 @@ The chunking strategy also has an impact on model performance:
 * **Generation.** The quality of the answer comes from the information found, so it is important to find the right chunks.
 * **Scalability.** Document corpora can be very large, so choosing the right strategy is critical
 
+For this, several strategies have been developed for an efficient chunking system: 
+* **Naive Chunking**. The simplest strategy is in which an arbitrary number of tokens are chosen.
+* **Semantic Chunking**. In this case, instead of an arbitrary number of tokens, the split is conducted in accordance with semantic rules. Basically, we split chunks when a sentence ends. This can also be achieved with standard libraries such as NLTK and Spacy. A variation on the theme is to search for sentences that are semantically similar (using cosine similarity, for example) and then put them together consecutively.
+* **Compound Semantic Chunking**. is an approach derived from the previous one and developed to avoid chunks that are too short. The main difference is that the sentences are concatenated until a certain threshold is reached.
+* **Recursive Chunking**. A strategy exploited for structured documents, such as HTML documents, in which the presence of HTML tags is exploited to split. it is recursive because various tags are exploited to conduct various rounds of separation.
+* **Specialized chunking**. Similar to the previous one but focused on a particular type of data, such as Markdown, Latex, or code.
+* **Context-Enriched**. In this case, the goal is to have chunks where we have useful information and meaningful summaries. There are variants where we generate summaries of different chunks and calculate the similarity between queries and this summary.
+
+![RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/ChunkViz1.png?raw=true)
+
+![RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/ChunkViz2.png?raw=true)
+*example of chunking of a document, from [here](https://chunkviz.up.railway.app/)*
+*from [here](https://huggingface.co/spaces/mteb/leaderboard)*
+
+
 </details>
