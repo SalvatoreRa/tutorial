@@ -19,7 +19,7 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 <details>
   <summary><b>What is better Pandas or Polars? </b></summary>
 
-Python is a great ecosystem for data science, on the other hand some basic analysis becomes complex as the datasets grow (parallel processing, query optimization, and lazy evaluation) especially if you use pandas. **[Pandas](https://pandas.pydata.org/)** in fact it is single-threaded (so it means it runs on only one CPU), requires the entire dataset to be in memory, also it does not allow the order of operation optimization (it means the operations are sequential in the order of declaration which is not always the best choice). 
+Python is a great ecosystem for data science, on the other hand, some basic analysis becomes complex as the datasets grow (parallel processing, query optimization, and lazy evaluation) especially if you use pandas. **[Pandas](https://pandas.pydata.org/)** in fact it is single-threaded (so it means it runs on only one CPU), requires the entire dataset to be in memory, also it does not allow the order of operation optimization (it means the operations are sequential in the order of declaration which is not always the best choice). 
 
 **[Polars](https://pola.rs/)** on the other hand offers: 
 * **Parallel computing**, so use all available cores.
@@ -395,6 +395,24 @@ During training, if you set the probability to 50 % the remaining neurons are re
 <details>
   <summary><b>What is the batch normalization? how I should use it efficiently?</b></summary>
 !
+</details>
+
+<details>
+  <summary><b>>How to deal with overfitting in neural networks?</b></summary>
+  
+  *"The central challenge in machine learning is that we must perform well on new, previously unseen inputs — not just those on which our model was trained. The ability to perform well on previously unobserved inputs is called generalization."-[source](https://www.deeplearningbook.org/)* 
+
+
+  Neural networks are sophisticated and complex models that can be composed of a great many parameters. This makes it possible for neural networks to store patterns and correlations spurious that are only present in the training set.  There are several techniques that can be used to reduce the risk of **overfitting**
+
+**collecting more data and data augmentation**
+
+Obviously, the best way is to collect more data, especially quality data. In fact, the model is exposed to more patterns and needs to identify relevant ones
+
+Data augmentation simulates having more data and makes it harder for the model to learn spurious correlations or store patterns or even whole examples (deep networks are very capable in terms of parameters).
+
+ ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/img_data_augmentation.jpg?raw=true)
+*from [here](https://ai.google.dev/examples/clustering_with_embeddings)*
 
 </details>
   
@@ -473,25 +491,6 @@ After getting an embedding it is good practice to conduct **a visual analysis**,
 
  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/tsne_vect.png?raw=true)
 *from [here](https://ai.google.dev/examples/clustering_with_embeddings)*
-
-<details>
-  <summary><b>>How to deal with overfitting in neural networks?</b></summary>
-  
-  *"The central challenge in machine learning is that we must perform well on new, previously unseen inputs — not just those on which our model was trained. The ability to perform well on previously unobserved inputs is called generalization."-[source](https://www.deeplearningbook.org/)* 
-
-
-  Neural networks are sophisticated and complex models that can be composed of a great many parameters. This makes it possible for neural networks to store patterns and correlations spurious that are only present in the training set.  There are several techniques that can be used to reduce the risk of overfitting
-
-**collecting more data and data augmentation**
-
-Obviously, the best way is to collect more data, especially quality data. In fact, the model is exposed to more patterns and needs to identify relevant ones
-
-Data augmentation simulates having more data and makes it harder for the model to learn spurious correlations or store patterns or even whole examples (deep networks are very capable in terms of parameters).
-
- ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/img_data_augmentation.jpg?raw=true)
-*from [here](https://ai.google.dev/examples/clustering_with_embeddings)*
-
-</details>
   
 </details>
 
