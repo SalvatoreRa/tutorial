@@ -909,6 +909,8 @@ Articles describing in detail:
    
 </details>
 
+## Retrieval Augmented Generation (RAG)
+
 <details>
   <summary><b>What is Retrieval Augmented Generation (RAG)?</b></summary>
 
