@@ -920,7 +920,6 @@ In short, when we have a query a model looks for the documents that are most rel
 *from [this article](https://arxiv.org/abs/2307.11760)*
 
 
-
 Articles describing in detail:
   * [Cosine Similarity and Embeddings Are Still in Love?](https://levelup.gitconnected.com/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)
   * [Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)
@@ -928,3 +927,20 @@ Articles describing in detail:
   
 </details>
 
+<details>
+  <summary><b>How to select the right chunk strategy for the RAG?</b></summary>
+
+  LLMs have a context length, this is also true for embedded components in the RAG. This means that documents must be divided into chunks. **Chunking** refers to the step where a body of documents is divided into different, more manageable chunks. 
+
+As you can see from HuggingFace's [MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard), different models have different context lengths, thus a maximum number of tokens they can take as input. This means that a chunk can have a maximum number of tokens.
+
+![RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/RAG.png?raw=true)
+*from [here](https://huggingface.co/spaces/mteb/leaderboard)*
+
+The chunking strategy also has an impact on model performance: 
+* **Relevance and Precision.** Chunks that are too large may contain irrelevant information and information that is too diluted, conversely, if too small relevant information may not be retrieved.
+* **Efficiency and Performance.** Larger chunks require more process time and more computational resources. This has an impact on inference. Similarly, select too many small chunks.
+* **Generation.** The quality of the answer comes from the information found, so it is important to find the right chunks.
+* **Scalability.** Document corpora can be very large, so choosing the right strategy is critical
+
+</details>
