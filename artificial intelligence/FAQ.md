@@ -14,6 +14,15 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 # FAQ on machine learning
 
+## Statistics and data science
+
+<details>
+  <summary><b>What is better Pandas or Polars? </b></summary>
+  !
+</details>
+
+## Machine learning in general
+
 <details>
   <summary><b>What is machine learning? </b></summary>
   !
