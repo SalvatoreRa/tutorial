@@ -40,6 +40,11 @@ Polars also is similar to Pandas in syntax so switching between libraries is fai
 *"Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions" - from [Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)*
 
 As an example, we want to create a model to classify sentimental analysis of movie reviews. A traditional approach would be to create rules (something like if/then, for example, if "amazing" is present as a word the review is positive). A machine learning approach instead takes a dataset with labeled elements (a set of reviews that have already been annotated to be positive or negative) and derives the rules on its own.
+
+In some cases, these rules can be displayed. In this case, the model has learned boundaries to separate the various classes in the iris dataset:
+
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/sphx_glr_plot_voting_decision_regions_001.png?raw=true)
+*from [here](https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_decision_regions.html)*
   
 </details>
 
