@@ -34,7 +34,13 @@ Polars also is similar to Pandas in syntax so switching between libraries is fai
 
 <details>
   <summary><b>What is machine learning? </b></summary>
-  !
+
+**Machine Learning** is the field of study that deals with learning or predicting something from data. In the traditional paradigm, you had to write hard-coded rules. A machine learning algorithm should infer these rules on its own. 
+
+*"Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions" - from [Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)*
+
+As an example, we want to create a model to classify sentimental analysis of movie reviews. A traditional approach would be to create rules (something like if/then, for example, if "amazing" is present as a word the review is positive). A machine learning approach instead takes a dataset with labeled elements (a set of reviews that have already been annotated to be positive or negative) and derives the rules on its own.
+  
 </details>
 
 <details>
