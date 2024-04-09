@@ -965,7 +965,7 @@ Articles describing in detail:
 
 As you can see from HuggingFace's [MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard), different models have different context lengths, thus a maximum number of tokens they can take as input. This means that a chunk can have a maximum number of tokens.
 
-![RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/RAG.png?raw=true)
+![RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/MTEB Leaderboard.png?raw=true)
 *from [here](https://huggingface.co/spaces/mteb/leaderboard)*
 
 The chunking strategy also has an impact on model performance: 
