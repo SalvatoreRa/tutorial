@@ -70,6 +70,35 @@ and if there are ties:
 ![correlation relationship](https://github.com/SalvatoreRa/tutorial/blob/main/images/correlation_ties.webp?raw=true)
 *from [here](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922)*
 
+As can be seen, the new correlation method is not affected by the direction of the relationship (the range is between 0 and 1, with one being the maximum of the relationship). Where Pearson concludes that there is no relationship (for example, in the parabolic or sinusoidal case) this new method succeeds instead in showing a relationship.
+
+![correlation relationship](https://github.com/SalvatoreRa/tutorial/blob/main/images/A%20New%20Coefficient%20of%20Correlation.png?raw=true)
+*Values of ξn(X,Y)for various kinds of scatterplots, withn=100. Noise increases from left to right. from [here](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922)*
+
+
+
+If you want to try in Python the code:
+
+```Python
+from numpy import array, random, arange
+
+def xicor(X, Y, ties=True):
+    random.seed(42)
+    n = len(X)
+    order = array([i[0] for i in sorted(enumerate(X), key=lambda x: x[1])])
+    if ties:
+        l = array([sum(y >= Y[order]) for y in Y[order]])
+        r = l.copy()
+        for j in range(n):
+            if sum([r[j] == r[i] for i in range(n)]) > 1:
+                tie_index = array([r[j] == r[i] for i in range(n)])
+                r[tie_index] = random.choice(r[tie_index] - arange(0, sum([r[j] == r[i] for i in range(n)])), sum(tie_index), replace=False)
+        return 1 - n*sum( abs(r[1:] - r[:n-1]) ) / (2*sum(l*(n - l)))
+    else:
+        r = array([sum(y >= Y[order]) for y in Y[order]])
+        return 1 - 3 * sum( abs(r[1:] - r[:n-1]) ) / (n**2 - 1)
+
+```
 
 
 Suggested lecture:
