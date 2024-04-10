@@ -35,18 +35,46 @@ Python is a great ecosystem for data science, on the other hand, some basic anal
 
   There are different types of correlation, The most famous of which is the **Pearson correlation**. The correlation coefficient represents the linear relationship between two variables. Pearson correlation has this formula:
 
-```math
-
-r_{XY} = \frac{\sum (X_i - \overline{X})(Y_i - \overline{Y})}{\sqrt{\sum (X_i - \overline{X})^2 \sum (Y_i - \overline{Y})^2}}
-
-```
+$$r_{XY} = \frac{\sum (X_i - \overline{X})(Y_i - \overline{Y})}{\sqrt{\sum (X_i - \overline{X})^2 \sum (Y_i - \overline{Y})^2}}$$
 
 
 Where X and Y are the two variables, and $\overline{X}$ and $\overline{Y}$ represent the means. 
 
 **Spearman correlation** is another popular alternative:
 
+$$\rho = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}$$
 
+where $d_i$ represents the distance represents the difference between the ranks of corresponding values $X_i$ and $Y_i$.
+
+
+The main differences between the two correlations soo: 
+* Pearson measures linear relationships, Spearman correlation between variables that have a monotonic relationship. Pearson assumes that variables are normally distributed.
+* As seen Pearson is based on covariance and the other is based on ranked data. However, both have ranges between -1 and 1.
+* Pearson is more sensitive to outlier data. Person is more recommended for interval and ratio data, while Spearman is for ordinal and non-normally distributed data. 
+
+
+As seen Pearson is recommended for linear relationships, while Spearman is recommended for monotonic associations. There is also **Kendall correlation**, but basically it is very similar to Spearman for assumptions. Linear relations are a special case of monotonic functions. A monotonic relation is where there is no change in direction or always increasing or always decreasing (not necessarily linearly)
+
+![correlation relationship](https://github.com/SalvatoreRa/tutorial/blob/main/images/correlation_relation.webp?raw=true)
+*from [here](https://www.quora.com/How-do-I-know-if-the-scatter-plot-displays-a-linear-a-monotonic-or-a-non-monotonic-relationship)*
+
+This means, however, that there are cases where there is an association between two variables (neither linear nor monotonic) that none of these three types of correlation can detect
+
+In a 2020 study, they propose a new relationship, which measures how much Y is a function of X (rather than whether there is a monotonic or linear relationship between the two). This new correlation is also based on ranking é has two possible formulas, one based on ties between the two variables and whether there are no ties (or probable no ties) between the variables. The first:
+
+![correlation relationship](https://github.com/SalvatoreRa/tutorial/blob/main/images/correlation_no_ties.webp?raw=true)
+*from [here](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922)*
+
+and if there are ties:
+
+![correlation relationship](https://github.com/SalvatoreRa/tutorial/blob/main/images/correlation_ties.webp?raw=true)
+*from [here](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922)*
+
+
+
+Suggested lecture:
+* [Myths About Linear and Monotonic Associations: Pearson’s r, Spearman’s ρ, and Kendall’s τ](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922)
+* [A New Coefficient of Correlation](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1758115)
 
 </details>
 
