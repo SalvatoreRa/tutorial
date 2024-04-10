@@ -36,8 +36,11 @@ Python is a great ecosystem for data science, on the other hand, some basic anal
   There are different types of correlation, The most famous of which is the **Pearson correlation**. The correlation coefficient represents the linear relationship between two variables. Pearson correlation has this formula:
 
 ```math
- r_{XY} = \frac{\sum (X_i - \overline{X})(Y_i - \overline{Y})}{\sqrt{\sum (X_i - \overline{X})^2 \sum (Y_i - \overline{Y})^2}}
+
+r_{XY} = \frac{\sum (X_i - \overline{X})(Y_i - \overline{Y})}{\sqrt{\sum (X_i - \overline{X})^2 \sum (Y_i - \overline{Y})^2}}
+
 ```
+
 
 Where X and Y are the two variables, and $\overline{X}$ and $\overline{Y}$ represent the means. 
 
