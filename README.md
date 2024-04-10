@@ -120,6 +120,7 @@ This series of tutorials is focused on classical machine learning (regression, c
 | [A practical guide to morphological image processing](https://medium.com/ai-in-plain-english/a-practical-guide-to-morphological-image-processing-8df5cb6ec39f) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Morphology.ipynb) |simple but powerful operations to analyze images |
 |[Dividi et Impera: A Practical Guide to BLOB Analysis and Extraction with Python](https://ai.plainenglish.io/dividi-et-impera-a-practical-guide-to-blob-analysis-and-extraction-with-python-3ea520407e88)| [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/BLOB_extraction.ipynb) |Simple yet powerful techniques to extract objects.|
 | [Harnessing the power of colors in Python](https://python.plainenglish.io/harnessing-the-power-of-colors-in-python-92bf6fe175c9) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Colors.ipynb) | Color images have more hidden information than you think|
+| [Image Segmentation with Simple and Elegant Methods](https://medium.com/python-in-plain-english/image-segmentation-with-simple-and-elegant-methods-2c5920024b61) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Pixel_classification.ipynb) | Why the need for a deep learning model with hundreds of layers? Sometimes, there are simpler and faster models.|
 
 &nbsp;
 
