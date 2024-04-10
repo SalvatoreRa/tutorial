@@ -26,9 +26,27 @@ Python is a great ecosystem for data science, on the other hand, some basic anal
 * **Improve storage** since it leverages Apache Arrow.
 * **File scanning** which allows you to work with very large files without necessarily keeping the whole file in memory
 
-Polars also is similar to Pandas in syntax so switching between libraries is fairly easy. Since there is a larger ecosystem compatible with Pandas, it is recommended to use it for small/medium datasets and use Polars for very large datasets
+**Polars** also is similar to Pandas in syntax so switching between libraries is fairly easy. Since there is a larger ecosystem compatible with Pandas, it is recommended to use it for small/medium datasets and use Polars for very large datasets
   
 </details>
+
+<details>
+  <summary><b>Which correlation should use? </b></summary>
+
+  There are different types of correlation, The most famous of which is the **Pearson correlation**. The correlation coefficient represents the linear relationship between two variables. Pearson correlation has this formula:
+
+```math
+ r_{XY} = \frac{\sum (X_i - \overline{X})(Y_i - \overline{Y})}{\sqrt{\sum (X_i - \overline{X})^2 \sum (Y_i - \overline{Y})^2}}
+```
+
+Where X and Y are the two variables, and $\overline{X}$ and $\overline{Y}$ represent the means. 
+
+**Spearman correlation** is another popular alternative:
+
+
+
+</details>
+
 
 ## Machine learning in general
 
