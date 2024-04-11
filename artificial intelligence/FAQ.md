@@ -1072,23 +1072,23 @@ The choice of chunking depends on several factors. The first is clearly which em
 <details>
   <summary><b>How to evaluate a RAG system?</b></summary>
 
-The **evaluation of a RAG application** should take several factors into account. In fact, the main factors affecting the performance of a RAG are: 
-* **LLM.** obviously LLM chosen will influence both how the context is used and the generation.
+The **evaluation of a RAG application** should take several factors into account. In fact, the main factors affecting the performance of an RAG are: 
+* **LLM.** Obviously LLM chosen will influence both how the context is used and the generation.
 * **The prompt.** The prompt is more critical than you think and influences how the model deals with the task.
 * **The RAG components.** The model chosen as the embedder, whether there are added components, chunking strategy are all elements that influence the outcome.
-* **Data quality.** Obviously if the database contains low quality data this will have a negative impact.
+* **Data quality.** Obviously if the database contains low-quality data this will have a negative impact.
 
-Because we have several factors, we can do qualitative analysis of the responses, but it would be better to have more quantitative methods and libraries that make the process more automatic and faster. In any case, the perfect RAG should follow two principles: 
-* In retrival it should find all the relevant data but only the relevant data (inclusive but no frills).
-* In generation, LLM should be able to synthesize the documents found and resolve if there is conflict between his knowledge and what he found in the documents
+Because we have several factors, we can do a qualitative analysis of the responses, but it would be better to have more quantitative methods and libraries that make the process more automatic and faster. In any case, the perfect RAG should follow two principles: 
+* In retrieval it should find all the relevant data but only the relevant data (inclusive but no frills).
+* In generation, LLM should be able to synthesize the documents found and resolve if there is a conflict between his knowledge and what he found in the documents
 
 
-Evaluating RAG application may seem like a difficult task pero there are already Python libraries with this function, for example RAGAS:
+Evaluating RAG application may seem like a difficult task pero there are already Python libraries with this function, for example, RAGAS:
 
   *"Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines. RAG denotes a class of LLM applications that use external data to augment the LLM’s context. There are existing tools and frameworks that help you build these pipelines but evaluating it and quantifying your pipeline performance can be hard. This is where Ragas (RAG Assessment) comes in." --[source](https://github.com/explodinggradients/ragas)*
 
-  The interesting point about RAGAS is that it is reference-free, i.e., one does not need a reference dataset but exploits under the hood an LLM.  RAGAS provides several metrics to assess the quality of a RAG pipeline: 
-  * **Context recall.** Evaluates signal to noise ratio, basically whether relevant elements are higher in context (the most important chunks should be higher ideally).
+  The interesting point about RAGAS is that it is reference-free, i.e., one does not need a reference dataset but exploits under the hood an LLM.  RAGAS provides several metrics to assess the quality of an RAG pipeline: 
+  * **Context recall.** Evaluates signal-to-noise ratio, basically whether relevant elements are higher in context (the most important chunks should be higher ideally).
   * **Context precision.** Whether all relevant information has been found.
   * **Faithfulness.** measures the factual consistency of the generated answer, and claims in the answer must be able to be supported by the context.
   * **Answer Relevance.** Focuses on understanding how relevant an answer is to the question in the prompt.
@@ -1097,14 +1097,14 @@ There are also other libraries, such as [TruLens](https://www.trulens.org/), whi
 
 A limitation of these approaches is that they rely on the assumption that an LLM knows how to evaluate retrieval and knows enough about the question. This assumption is difficult to justify if our RAG deals with technical, complex documents or private data. 
 
-Moreover, LLMs can have a positional bias, which complicate the evaluation when there are different documents:
+Moreover, LLMs can have a positional bias, which complicates the evaluation when there are different documents:
 
 *"In this paper, we take a sober look at the LLMsas-evaluator paradigm and uncover a significant
 positional bias. Specifically, we demonstrate that GPT-4 exhibits a preference for the first displayed candidate response by consistently assigning it higher scores, even when the order of candidates is subtly altered." from [here](https://arxiv.org/pdf/2305.17926.pdf) *
 
-![RAG evaluation](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM_evaluation_positional_bias.png?raw=true) * from [here](https://arxiv.org/pdf/2305.17926.pdf)*
+![RAG evaluation](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM_evaluation_positional_bias.png?raw=true) *from [here](https://arxiv.org/pdf/2305.17926.pdf)*
 
-In these cases our human assessment should be complemented by human analysis.
+In these cases, our human assessment should be complemented by human analysis.
 
 Suggested lectures:
 
