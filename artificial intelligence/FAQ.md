@@ -1095,8 +1095,22 @@ Evaluating RAG application may seem like a difficult task pero there are already
 
 There are also other libraries, such as [TruLens](https://www.trulens.org/), which focuses specifically on retrieval relevance. This library calculates the percentage of sentences in the retrieved documents that is relevant to the question.
 
-A limitation of these approaches is that they rely on the assumption that an LLM knows how to evaluate retrieval and knows enough about the question. This assumption is difficult to justify if our RAG deals with technical, complex documents or private data. In these cases our assessment should be complemented by human analysis.
+A limitation of these approaches is that they rely on the assumption that an LLM knows how to evaluate retrieval and knows enough about the question. This assumption is difficult to justify if our RAG deals with technical, complex documents or private data. 
 
+Moreover, LLMs can have a positional bias, which complicate the evaluation when there are different documents:
+
+*"In this paper, we take a sober look at the LLMsas-evaluator paradigm and uncover a significant
+positional bias. Specifically, we demonstrate that GPT-4 exhibits a preference for the first displayed candidate response by consistently assigning it higher scores, even when the order of candidates is subtly altered." from [here](https://arxiv.org/pdf/2305.17926.pdf) *
+
+![RAG evaluation](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM_evaluation_positional_bias.png?raw=true) * from [here](https://arxiv.org/pdf/2305.17926.pdf)*
+
+In these cases our human assessment should be complemented by human analysis.
+
+Suggested lectures:
+
+* [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)
+* [Large Language Models are not Fair Evaluators](https://arxiv.org/abs/2305.17926)
+* [G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)
 
 
 </details>
