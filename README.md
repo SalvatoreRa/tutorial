@@ -10,13 +10,13 @@ Photo by [National Cancer Institute
 
 &nbsp;
 
-I decided to collect a set of tutorials and articles (with complementary codes) about artificial intelligence, machine learning, and data science. I have divided this repository into different sections (each one covers a different macro area of data science). You will find tutorials, code, and a list of resources related to the different topics (links to articles, free books, free courses, libraries, and so on).
+I collected here a set of **tutorials and articles** (with complementary codes) about **artificial intelligence, machine learning, and data science**. I have divided this repository into different sections (each one covers a different macro area of data science). You will find **tutorials, code, scripts, datasets, and a list of resources** related to the different topics (links to articles, free books, free courses, libraries, and so on).
 
-Here, you will find the Jupiter Notebook for the tutorial I published in Medium. I suggest reading the tutorial and the companion tutorial code in the order provided in the table below. For practical reasons, I have divided some of the tutorials into more than one part (allowing me to concentrate on one of the tutorials on the theoretical part and the others about the programming). Tutorials dedicated only to the theory have not a linked Jupiter notebook. 
+Here, you will find also the **Jupiter Notebook** for the tutorial I published on Medium. I suggest reading the tutorial and the companion tutorial code in the order provided in the table below. For practical reasons, I have divided some of the tutorials into more than one part (allowing me to concentrate on one of the tutorials on the theoretical part and the others about the programming). Tutorials dedicated only to the theory have not a linked Jupiter notebook. 
 
-Most of the code is written in Python, but you can find also some Excel files that I have created to make it easier to understand some of the concepts. I have also planned to add some script in R (since it is widely used by statisticians, biologists, and so on).
+Most of the code is written in Python, but you can find also some **Excel files** that I have created to make it easier to understand some of the concepts. I have also added **R scripts** (since it is widely used by statisticians, biologists, and so on).
 
-Moreover, you may find here some Colab notebooks without a theoretical tutorial (yet). I decided to upload the code before I finished writing the theoretical part (this would be indicated). I am convinced that the code alone is already beneficial. I would successively publish on Medium the written article (with details and comments to the code).
+Moreover, you may find here some Colab notebooks without a theoretical tutorial (yet). I decided to upload the code before I finished writing the theoretical part (this would be indicated). I am convinced that the code alone is already beneficial. I would successively publish on Medium the written article (with details and comments on the code).
 
 You may write me with any requests, suggestions, and comments. If you find it useful please follow and/or share (a star is always really appreciated).
 
@@ -62,7 +62,7 @@ Stay Updated with the most important news and research on machine learning and a
 
 # How to use this repository
 
-This repository is intended for those who want to learn artificial intelligence and machine learning in general. I have collected different scripts, tutorials and articles I have written that can be freely used on different topics. Moreover, you can find more than 30 datasets you can use for your projects
+This repository is intended for those who want to learn artificial intelligence and machine learning in general. I have collected different scripts, additional functions, tutorials, and articles I have written that can be freely used on different topics. Moreover, you can find more than 30 datasets you can use for your projects
 
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
