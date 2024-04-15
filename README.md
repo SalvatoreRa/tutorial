@@ -121,6 +121,7 @@ This series of tutorials is focused on classical machine learning (regression, c
 |[Dividi et Impera: A Practical Guide to BLOB Analysis and Extraction with Python](https://ai.plainenglish.io/dividi-et-impera-a-practical-guide-to-blob-analysis-and-extraction-with-python-3ea520407e88)| [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/BLOB_extraction.ipynb) |Simple yet powerful techniques to extract objects.|
 | [Harnessing the power of colors in Python](https://python.plainenglish.io/harnessing-the-power-of-colors-in-python-92bf6fe175c9) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Colors.ipynb) | Color images have more hidden information than you think|
 | [Image Segmentation with Simple and Elegant Methods](https://medium.com/python-in-plain-english/image-segmentation-with-simple-and-elegant-methods-2c5920024b61) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Pixel_classification.ipynb) | Why the need for a deep learning model with hundreds of layers? Sometimes, there are simpler and faster models.|
+| [A Guide to Geometric Transformation with Python](https://python.plainenglish.io/a-guide-to-geometric-transformation-with-python-2685304fb478) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Geometric_transformation.ipynb) | Why the need for Photoshop when you can have fun with Python|
 
 &nbsp;
 
