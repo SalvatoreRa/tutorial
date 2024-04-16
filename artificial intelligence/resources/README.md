@@ -39,12 +39,8 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
     * [Natural Language processing](#Natural-Language-processing) 
 * [Free Courses](#Free-Courses)
 * [Miscellaneous](#Miscellaneous)
-    * [](#)
-    * [](#) 
-    * [](#)
-    * [](#)
-    * [](#) 
-    * [](#)
+    * [Twitter](#Twitter)
+
     
 * 
 
