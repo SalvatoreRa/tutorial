@@ -177,6 +177,19 @@ cross-validation leads to predictions that are overly optimistic (overly confide
   !
 </details>
 
+## Clustering
+
+<details>
+  <summary><b>Should I use the elbow method?</b></summary>
+
+  The **elbow method** has long been the most widely used method to evaluate the clustering number for **k-means**.  
+
+Starting with a dataset, we create a loop in which we test an increasing number of clusters. The idea is simple, at each iteration of the k-means we calculate the inertia (sum of squared distances between each point and the center of the cluster it is assigned). the inertia goes down with the number of clusters because the clusters get smaller and smaller, and thus the points get closer and closer to the center of the cluster. Plotting the inertia on the y-axis and the number of clusters, there is a sweet spot that represents the point of maximum curvature (beyond this point increasing the number of clusters is no longer convenient).
+
+There are many other methods for being able to analyze the number of clusters for an algorithm.
+  
+</details>
+
 
 ## Tree-based models
 
