@@ -15,11 +15,25 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 # Table of Contents
 
-* Scientific articles
-* Books
-* Tools
-* Dataset database
-* Free courses
+* [**Scientific articles**](#Scientific-articles)
+    * [Tools for scientific article](#Tools-for-scientific-article) 
+    * [General introduction](#General-introduction)
+    * [General Interest](#General-Interest) 
+    * [Computer vision](#Computer-vision)
+    * [Natural language processing](#Natural-language-processing) 
+    * [Generative Learning](#Generative-Learning)
+    * [Tabular data](#Tabular-data) 
+    * [Reinforcement learning](#Reinforcement-learning)
+    * [Geometric deep learning](#Geometric-deep-learning) 
+    * [Neural network and art](#Neural-network-and-art)
+    * [Knowledge representation and reasoning](#Knowledge-representation-and-reasoning) 
+    * [](#)
+    * [](#) 
+    * [](#)
+    * [](#) 
+    * [](#)
+    
+* 
 
 
 &nbsp;
@@ -118,7 +132,7 @@ Keep the pace with the number of articles published every year is impossible (it
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 
-## Natural language processing (NLP)
+## Natural language processing 
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
@@ -281,7 +295,7 @@ Keep the pace with the number of articles published every year is impossible (it
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
-## knowledge representation and reasoning
+## Knowledge representation and reasoning
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
