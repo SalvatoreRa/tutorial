@@ -13,7 +13,7 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 
 &nbsp;
 
-# **Table of Contents**
+# Table of Contents
 
 * Scientific articles
 * Books
@@ -51,6 +51,7 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Zotero](https://www.zotero.org/)| General  | Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research. You can organize your personal library|
 | [Mendeley ](https://www.mendeley.com/?interaction_required=true)| General  | Commercial alternative solution to Zotero|
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 ## General introduction
 
@@ -62,6 +63,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [History of Deep learning](https://arxiv.org/abs/1701.05549)| General introduction | 2017 | Deep Neural Networks - A Brief History |
 | [Deep learning](https://arxiv.org/abs/1701.05549)| General introduction | 2015 | Yann LeCun , Yoshua Bengio , Geoffrey Hinton: three giants of the field present deep learning on nature |
 | [Intelligence and artificial intelligence](https://arxiv.org/abs/1911.01547)| General introduction | 2019 | On the Measure of Intelligence, very nice article by Chollect |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 ## General Interest
 
@@ -87,6 +90,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [AI explicability review](https://www.mdpi.com/2504-4990/3/3/32)| AI explicability | 2021 | Classification of Explainable Artificial Intelligence Methods through Their Output Formats |
 | [AI explicability review](https://www.sciencedirect.com/science/article/pii/S1566253521001093)| AI explicability | 2021 | CNotions of explainability and evaluation approaches for explainable artificial intelligence |
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 ## Computer vision
 
 | Link | Topic | Year | Description |
@@ -109,6 +114,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [ConvNet versus Transformers](https://arxiv.org/pdf/2201.03545.pdf)| computer vision | 2021 |A ConvNet for the 2020s: interesting paper on the future of convnet|
 | [U-net](https://arxiv.org/abs/1505.04597)| segmentation| 2015 |U-Net: Convolutional Networks for Biomedical Image Segmentation|
 | [VLP review](https://arxiv.org/abs/2202.09061)| VLP| 2022 |VLP: A Survey on Vision-Language Pre-training|
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 
 ## Natural language processing (NLP)
@@ -165,6 +172,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [survey ](https://arxiv.org/pdf/2106.04554.pdf)| Transformers  | 2021 | A Survey of Transformers |
 | [survey ](https://arxiv.org/pdf/1704.08531.pdf)| text extraction | 2017 |A Survey of Neural Network Techniques for Feature Extraction from Text. This paper aims to catalyze research discussions about text feature extraction techniques using neural network architectures.  |
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 ## Generative Learning
 
 | Link | Topic | Year | Description |
@@ -176,6 +185,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GAN ](https://arxiv.org/abs/1812.04948)| Generative Learning | 2018 |original article presenting Style-GAN |
 | [GFPGAN ](https://arxiv.org/pdf/2101.04061.pdf)| Generative Learning | 2022 |Towards Real-World Blind Face Restoration with Generative Facial Prior - [official code](https://github.com/TencentARC/GFPGAN)|
 | [VAE ](https://arxiv.org/abs/1906.02691)| VAE review | 2019 |An Introduction to Variational Autoencoders |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 ## Tabular data
 
@@ -196,6 +207,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Tabular data](https://arxiv.org/pdf/2106.11189.pdf)| Tabular data | 2021 | how regularization impact Neural Network for tabular data|
 | [Tabular data](https://arxiv.org/abs/2106.11959)| Tabular data | 2021 | Revisiting Deep Learning Models for Tabular Data|
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 ## Reinforcement learning
 
 | Link | Topic | Year | Description |
@@ -206,6 +219,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [AlphaGO zero](https://www.nature.com/articles/nature24270)| Reinforcement Learning | 2017 | Mastering the game of Go without human knowledge |
 | [Alpha zero](https://arxiv.org/abs/1712.01815)| Reinforcement Learning | 2017 | Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm |
 | [RL](https://arxiv.org/abs/2201.03916)| Reinforcement Learning | 2022 | Automated Reinforcement Learning (AutoRL): A Survey and Open Problems |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 ## Geometric deep learning
 
@@ -248,6 +263,8 @@ Keep the pace with the number of articles published every year is impossible (it
 | [GNN explainaibility](https://arxiv.org/abs/2001.06216)| Geometric learning | 2020 | GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks |
 | [GNN explainaibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285761/)| Geometric learning | 2021 | Deep Graph Mapper: Seeing Graphs Through the Neural Lens |
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 
 ## Neural network and art
 
@@ -262,12 +279,16 @@ Keep the pace with the number of articles published every year is impossible (it
 | [Coloring black and white images](https://arxiv.org/pdf/1603.08511.pdf)| art | 2016 | Colorful Image Colorization|
 | [Cross-View Panorama Image Synthesis](https://arxiv.org/pdf/2203.11832.pdf)| art | 2022 | synthesizing a ground-view panorama image conditioned on a top-view aerial image|
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 ## knowledge representation and reasoning
 
 | Link | Topic | Year | Description |
 | --------- | ------ | ------ |------ |
 | [knowledge representation and reasoning](https://www.annualreviews.org/doi/abs/10.1146/annurev.cs.01.060186.001351)| KRR review | 1986 | a seminal review on knowledge representation and reasoning|
 | [knowledge representation and reasoning](https://arxiv.org/abs/1912.06612)| KRR review | 2019 | From Shallow to Deep Interactions Between Knowledge Representation, Reasoning and Machine Learning|
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 &nbsp;
 
@@ -293,7 +314,9 @@ A list of some useful tools that can be needed in different contexts.
 |  [Graphs drawer](https://graphonline.ru/en/) | tool to draw graph online | 
 |  [Diagrams in Python](https://diagrams.mingrammer.com/) | library to draw diagrams in python | 
 |  [seeing theory](https://seeing-theory.brown.edu/) | A visual introduction to probability and statistics | 
-|  [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/) |a map of mathematics as it stands today | 
+|  [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/) |a map of mathematics as it stands today |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 ## Browser extensions
 
@@ -304,19 +327,23 @@ A list of some useful tools that can be needed in different contexts.
 |  [Octotree](https://www.octotree.io/) | Octotree is a browser extension designed specifically to simplify code exploration on GitHub.  | 
 |  [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo/related) | Open in Colab is a simple browser extension to open notebook files hosted in the GitHub directly at the Google Colaboratory Notebook. | 
 |  [BibItNow](https://chrome.google.com/webstore/detail/bibitnow/bmnfikjlonhkoojjfddnlbinkkapmldg/related) | BibItNow is a browser extension to cite a research paper in various formats easily. The extension was intended for data scientists who need to cite many papers daily. | 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 &nbsp;
 
 # Benchmark 
 
 | Repository | type |  Description |
 | ------- | ----------- | ------ |
-| [SNLI](https://nlp.stanford.edu/projects/snli/| text classification | The Stanford Natural Language Inference (SNLI) corpus (version 1.0) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral.  a benchmark for evaluating representational systems for text|
+| [SNLI](https://nlp.stanford.edu/projects/snli/)| text classification | The Stanford Natural Language Inference (SNLI) corpus (version 1.0) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral.  a benchmark for evaluating representational systems for text|
 | [Squad](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles |
 | [Squad2](https://rajpurkar.github.io/SQuAD-explorer/)| question answering | SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. |
 | [GLUE](https://gluebenchmark.com/)| Multi-task | The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems. |
 | [SuperGLUE](https://super.gluebenchmark.com/)| Multi-task | a new benchmark styled after GLUE with a new set of more difficult language understanding tasks, improved resources, and a new public leaderboard. |
 | [Imagenet](https://www.image-net.org/)| Computer vision| ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images.  |
 | [Wilds](https://wilds.stanford.edu/)| WILDS datasets span a diverse array of modalities and applications, and reflect a wide range of distribution shifts arising from different demographics, users, hospitals, camera locations, countries, time periods, and molecular scaffolds.  |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 # Dataset database
 
@@ -343,6 +370,8 @@ Here a list of many dataset database/repository for many different fields of art
 | Data world | [link](https://www.pewresearch.org/internet/datasets/) |  one of the largest collection of open datasets, there are datasets in a large range of categories  |
 | Papers with code| [link](https://paperswithcode.com/datasets) | around 5000 datasets about NLP, computer visions and so on|
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 &nbsp;
 
 ## Finance and economics
@@ -355,6 +384,8 @@ Here a list of many dataset database/repository for many different fields of art
 | American Economic Association  | [link](https://data.worldbank.org/) | US macroeconomic data concerning employment, economic output, and other  variables |
 | Google Trends| [link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0) | Internet search activity details and  trends |
 | Datahub.io| [link](https://datahub.io/collections) | Mostly free, no registration required. It covers a variety of topics from climate change to entertainment, it mainly focuses on areas like stock market data, property prices, inflation, and logistics. Data are updated frequently (monthly)|
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 &nbsp;
 
@@ -376,6 +407,8 @@ Here a list of many dataset database/repository for many different fields of art
 | Image Data Resource | [link](http://idr.openmicroscopy.org/about/) | The Image Data Resource (IDR) is a public repository of reference image datasets from published scientific studies. IDR enables access, search and analysis of these highly annotated datasets. |
 | SICAS Medical Image | [link](https://www.smir.ch/) | The SICAS Medical Image Repository host datasets of medical images that you can browse (or where you can store your dataset) |
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 &nbsp;
 
 ## Relational and network analysis
@@ -387,6 +420,8 @@ Here a list of many dataset database/repository for many different fields of art
 | networkrepository | [link](https://networkrepository.com/index.php) | interactive data and network data repository with real-time visual analytics, comprehensive collection of network graph data in 30+ domains (network science, bioinformatics, machine learning, data mining, physics, and social science) |
 | Network data | [link](http://www-personal.umich.edu/~mejn/netdata/) | a list of network data that can be downloaded |
 | Group Lens| [link](https://grouplens.org/datasets/movielens/) | Different rating data sets from the MovieLens web site collected over various periods of time and with different size |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 &nbsp;
 
@@ -401,7 +436,7 @@ Here a list of many dataset database/repository for many different fields of art
 | COVE| [link](https://cove.thecvf.com/) | COVE is an online repository for computer vision datasets sponsored by the Computer Vision Foundation. It is intended to aid the computer vision research community and serve as a centralized reference for all datasets in the field |
 | Roboflow| [link](https://public.roboflow.com/) | Roboflow hosts free public computer vision datasets in many popular formats (including CreateML JSON, COCO JSON, Pascal VOC XML, YOLO v3, and Tensorflow TFRecords). |
 
-
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 &nbsp;
 
@@ -417,6 +452,8 @@ Here a list of many dataset database/repository for many different fields of art
 | airXiv | [link](https://arxiv.org/help/bulk_data_s3) |  arXiv bulk data available for download (270 GB of text), updated almost each month |
 
 
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
+
 &nbsp;
 
 # Free Courses
@@ -427,6 +464,8 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | ------- | ----------- | ------ |
 | OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | a source for statistics |
 | UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep learning with PyTorch |
+
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 &nbsp;
 
@@ -440,13 +479,13 @@ Other interesting resources
 |  mlcontests| [link](https://mlcontests.com/) | Machine Learning Contests - Discover ongoing machine learning and data science competitions |
 |  AI & ML Events| [link](https://aiml.events/) | Curated list of the best AI & ML events, conferences, summits, exhibitions, workshops, and trainings |
 
-
+[Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
 ## Twitter
 
 I have listed different accounts that are tweeting resources about data science, machine learning and artificial intelligence. These accounts are divulgative accounts, companies, university departments focused on AI or AI researchers.
 
-General and divulgative accounts
+**General and divulgative accounts**
 
 | Name |   Description |
 | ------- |  ------ |
@@ -464,8 +503,7 @@ General and divulgative accounts
 | [MONTREAL.AI](https://twitter.com/Montreal_AI) | a glimpse into all of the possibilities offered by artificial intelligence.|
 | [KDnuggets](https://twitter.com/kdnuggets) |  a media source dedicated to data science, but it contains plenty of machine learning and deep learning resources |
 
-
-Company accounts
+**Company accounts**
 
 | Name |   Description |
 | ------- |  ------ |
@@ -476,7 +514,7 @@ Company accounts
 | [IBM Data and AI](https://twitter.com/IBMData) | IBM AI official account|
 | [Covariant](https://twitter.com/CovariantAI) |Covariant works on creating a universal AI that will allow robots to see, reason, and act. Their feed is a compilation of their technology updates and links to other resources |
 
-Researcher accounts
+**Researcher accounts**
 
 | Name |   Description |
 | ------- |  ------ |
@@ -497,14 +535,14 @@ Researcher accounts
 | [Oriol Vinyals](https://twitter.com/OriolVinyalsML) | As a research scientist at Google DeepMind|
 | [Yisong Yue](https://twitter.com/yisongyue) |  machine learning professor at Caltech who will often share cutting-edge research papers in machine learning as well as more general topics|
 
-Institution and department accounts
+**Institution and department accounts**
 
 | Name |   Description |
 | ------- |  ------ |
 | [Stanford HAI](https://twitter.com/StanfordHAI) | academic and scientific information on AI |
 | [MIT CISAIL](https://twitter.com/MIT_CSAIL) | Computer Science and Artificial Intelligence Lab of the Massachusetts Institute of Technology|
 
-AI influencer, opinion leaders account
+**AI influencer, opinion leaders account**
 
 | Name |   Description |
 | ------- |  ------ |
