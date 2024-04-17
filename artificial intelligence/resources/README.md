@@ -563,7 +563,10 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | 6.047/6.878 Machine Learning for Genomics Fall 2020 - MIT | [link](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ) |  |
 | 6.047/6.878 Public Lectures on Computational Biology: Genomes, Networks, Evolution - MIT | [link](http://compbio.mit.edu/lectures.html) |  |
 | BioMedical Informatics 231 Computational Molecular Biology, Stanford University | [link](https://cmgm.stanford.edu/biochem218/) |  |
- 
+| 03-712: Biological Modeling and Simulation - Carnegie Mellon University | [link](https://www.youtube.com/playlist?list=PLUKmtlUTHfBOgpZFmTvsTwkUh2K1RAse-) |  |
+| Neural Networks and Biological Modeling - Lecturer: Prof. Wulfram Gerstner - EPFL | [link](http://www.klewel.com/conferences/epfl-neural-networks/) |  |
+| Frontiers of Biomedical Engineering with W. Mark Saltzman - Yale | [link](https://www.youtube.com/playlist?list=PL27E877E8206F196B) |  |
+| 15-859BB: Quantum Computation and Quantum Information 2018 - CMU | [link](https://www.cs.cmu.edu/~odonnell/quantum18/) |  | 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
