@@ -487,7 +487,17 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | 18.01 Single Variable Calculus, Fall 2006 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) |  | 
 | 18.02 Multivariable Calculus, Fall 2007 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) |  | |
 | 18.03 Differential Equations, Spring 2010 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) |  | 
-| Highlights of Calculus - Gilbert Strang, MIT OCW | [link](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/) |  | 
+| Highlights of Calculus - Gilbert Strang, MIT OCW | [link](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/) |  |
+| 6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) |  |
+| CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook | [link](http://www3.cs.stonybrook.edu/~algorith/math-video/) |  |
+| Statistics - CrashCourse | [link](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) |  |
+| Statistics 110 - Probability - Harvard University | [link](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |  |
+| MOOC - Statistics: Making Sense of Data, Coursera | [link](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2) |  |
+| Sets, Counting and Probability - Harvard | [link](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/1999/01/82347) |  |
+| 18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |  |
+| 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/) |  |
+
+
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
