@@ -533,6 +533,10 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | 10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU | [link](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) |  |
 | Microsoft Research - Machine Learning Course | [link](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf) |  |
 | CPSC 340: Machine Learning and Data Mining (2018) - UBC | [link](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) |  | 
+| CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah | [link](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut) |  |
+| Probabilistic Graphical Models, Daphne Koller, Stanford University | [link](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels) |  |
+| Kaggle courses| [link](https://www.kaggle.com/learn) | deep learning |
+| DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
