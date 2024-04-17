@@ -522,6 +522,13 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | CS 5955/6955 - Data Mining, University of Utah | [link](http://www.cs.utah.edu/~jeffp/teaching/cs5955.html) |  |
 | CS246 - Mining Massive Data Sets, Winter 2016, Stanford University | [link](https://web.stanford.edu/class/cs246/) |  |
 | CSE519 - Data Science Fall 2016 - Skiena, SBU | [link](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo) |  |
+| CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW | [link](https://cs50.harvard.edu/ai/2020/) |  |
+| CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015 | [link](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html) |  |
+| 6.034 Artificial Intelligence, MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) |  |
+| CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) |  |
+| CS 4804: Introduction to Artificial Intelligence, Fall 2016 | [link](https://www.youtube.com/playlist?list=PLUenpfvlyoa1iiSbGy9BBewgiXjzxVgBd) |  |
+| Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning|
+|   Machine Learning by CalTech| [link](https://home.work.caltech.edu/telecourse.html) | Machine learning| 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
