@@ -511,6 +511,14 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | CS 253 Web Security - Stanford University | [link](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) |  |
 | CS184 - Computer Graphics, Fall 2012 - UC Berkeley | [link](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) |  |
 | CS50: Introduction to Computer Science | [link](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | introductory course  |
+| CS 106B - Programming Abstractions, Stanford University | [link](https://see.stanford.edu/Course/CS106B) |  |
+| CS 107 - Programming Paradigms, Stanford University | [link]((https://see.stanford.edu/Course/CS107) |  |
+| Programming and Data Structures with Python, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI | [link](https://www.cmi.ac.in/~madhavan/courses/python2021sep/) |  |
+| COS 226 Algorithms, Youtube, Princeton - by Robert Sedgewick and Kevin Wayne | [link](https://www.youtube.com/watch?v=1QZDe28peZk&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=1) |  |
+| CS225 - Data Structures - University of Illinois at Urbana-Champaign | [link](https://cs.illinois.edu/courses/profile/CS225) |  |
+| 6.046J - Introduction to Algorithms - Fall 2005, MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) |  |
+| CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures | [link](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) |  |
+
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
