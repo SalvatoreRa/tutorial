@@ -566,7 +566,11 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | 03-712: Biological Modeling and Simulation - Carnegie Mellon University | [link](https://www.youtube.com/playlist?list=PLUKmtlUTHfBOgpZFmTvsTwkUh2K1RAse-) |  |
 | Neural Networks and Biological Modeling - Lecturer: Prof. Wulfram Gerstner - EPFL | [link](http://www.klewel.com/conferences/epfl-neural-networks/) |  |
 | Frontiers of Biomedical Engineering with W. Mark Saltzman - Yale | [link](https://www.youtube.com/playlist?list=PL27E877E8206F196B) |  |
-| 15-859BB: Quantum Computation and Quantum Information 2018 - CMU | [link](https://www.cs.cmu.edu/~odonnell/quantum18/) |  | 
+| 15-859BB: Quantum Computation and Quantum Information 2018 - CMU | [link](https://www.cs.cmu.edu/~odonnell/quantum18/) |  |
+| Quantum Mechanics for Scientists and Engineers | [link](https://www.youtube.com/playlist?list=PL_onPhFCkVQi2O405SkNf3hv-7HXnZnMm) |  | 
+| Quantum Information and Computing by Prof. D.K. Ghosh | [link](https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5) |  |
+| COMP510 - Computational Finance - Steven Skiena - 2007 HKUST | [link](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1) |  |
+| CS147 - Introduction to Human-Computer Interaction Design - Stanford | [link](https://hci.stanford.edu/courses/cs147/2015/au/calendar.php) |  |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
