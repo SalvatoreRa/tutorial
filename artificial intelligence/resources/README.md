@@ -554,6 +554,12 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | CS234: Reinforcement Learning - Winter 2019 - Stanford University | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) |  | 
 | UCL Course 2015 on Reinforcement Learning by David Silver from DeepMind | [link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) |  |
 | CS 6955 - Clustering, Spring 2015, University of Utah | [link](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI) |  |
+| 14-740 - Fundamentals of Computer Networks - CMU | [link](http://www.ini740.com/) |  |
+| CS 223A - Introduction to Robotics, Stanford University | [link](https://see.stanford.edu/Course/CS223A) |  |
+| 6.832 Underactuated Robotics - MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/) |  |
+| CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) |  |
+| ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis | [link](http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html) |  |
+| 7.32 Systems Biology, Fall 2014 - MIT OCW | [link](https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/) |  | 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
