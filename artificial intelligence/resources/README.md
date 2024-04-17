@@ -571,6 +571,7 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | Quantum Information and Computing by Prof. D.K. Ghosh | [link](https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5) |  |
 | COMP510 - Computational Finance - Steven Skiena - 2007 HKUST | [link](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1) |  |
 | CS147 - Introduction to Human-Computer Interaction Design - Stanford | [link](https://hci.stanford.edu/courses/cs147/2015/au/calendar.php) |  |
+| CS50's Introduction to Game Development | [link](https://www.edx.org/course/cs50s-introduction-to-game-development) |  |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
