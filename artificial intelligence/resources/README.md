@@ -528,7 +528,11 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) |  |
 | CS 4804: Introduction to Artificial Intelligence, Fall 2016 | [link](https://www.youtube.com/playlist?list=PLUenpfvlyoa1iiSbGy9BBewgiXjzxVgBd) |  |
 | Machine learning By Stanford| [link](https://cs229.stanford.edu/syllabus-autumn2018.html) | Machine learning|
-|   Machine Learning by CalTech| [link](https://home.work.caltech.edu/telecourse.html) | Machine learning| 
+|   Machine Learning by CalTech| [link](https://home.work.caltech.edu/telecourse.html) | Machine learning|
+| 10-601 - Introduction to Machine Learning (MS) - Tom Mitchell - 2015, CMU | [link](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) |
+| 10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU | [link](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) |  |
+| Microsoft Research - Machine Learning Course | [link](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf) |  |
+| CPSC 340: Machine Learning and Data Mining (2018) - UBC | [link](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) |  | 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
