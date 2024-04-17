@@ -41,9 +41,6 @@ I am listing seminal articles (the list is clearly not exhaustive), free availab
 * [Miscellaneous](#Miscellaneous)
     * [Twitter](#Twitter)
 
-    
-* 
-
 
 &nbsp;
 
@@ -487,6 +484,10 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | ------- | ----------- | ------ |
 | OpenIntro Statistics | [link](https://www.openintro.org/book/os/) | a source for statistics |
 | UVA deep learning | [link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) | Deep learning with PyTorch |
+| 18.01 Single Variable Calculus, Fall 2006 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) |  | 
+| 18.02 Multivariable Calculus, Fall 2007 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) |  | |
+| 18.03 Differential Equations, Spring 2010 - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) |  | 
+| Highlights of Calculus - Gilbert Strang, MIT OCW | [link](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/) |  | 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
