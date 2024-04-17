@@ -518,7 +518,10 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | CS225 - Data Structures - University of Illinois at Urbana-Champaign | [link](https://cs.illinois.edu/courses/profile/CS225) |  |
 | 6.046J - Introduction to Algorithms - Fall 2005, MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) |  |
 | CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures | [link](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) |  |
-
+| CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington | [link](https://courses.cs.washington.edu/courses/csep546/16sp/) |  |
+| CS 5955/6955 - Data Mining, University of Utah | [link](http://www.cs.utah.edu/~jeffp/teaching/cs5955.html) |  |
+| CS246 - Mining Massive Data Sets, Winter 2016, Stanford University | [link](https://web.stanford.edu/class/cs246/) |  |
+| CSE519 - Data Science Fall 2016 - Skiena, SBU | [link](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo) |  |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
