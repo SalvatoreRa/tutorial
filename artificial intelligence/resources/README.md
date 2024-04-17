@@ -496,7 +496,7 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | Sets, Counting and Probability - Harvard | [link](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/1999/01/82347) |  |
 | 18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |  |
 | 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MIT OCW | [link](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/) |  |
-
+| MIT Matrix Methods| [link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | linear algebra |
 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
