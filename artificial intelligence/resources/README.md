@@ -507,6 +507,10 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | CS176 - Multiprocessor Synchronization - Brown University | [link](http://cs.brown.edu/courses/cs176/course_information.shtml) |  |
 | Parallel Programming Concepts (WT 2013/14) - HPI University of Potsdam | [link](https://www.tele-task.de/series/977/) |  |
 | 18-447 - Introduction to Computer Architecture, CMU | [link](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) |  |
+| Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017 | [link](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y) |  |
+| CS 253 Web Security - Stanford University | [link](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) |  |
+| CS184 - Computer Graphics, Fall 2012 - UC Berkeley | [link](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) |  |
+| CS50: Introduction to Computer Science | [link](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | introductory course  |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
