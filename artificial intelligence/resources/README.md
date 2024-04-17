@@ -546,7 +546,14 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | Machine Learning for Computer Vision - Winter 2017-2018 - UniHeidelberg | [link](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY) |  |
 | Neo4j Graph Academy | [link](https://graphacademy.neo4j.com/) | Graph database |
 | Fastai - NLP  | [link](https://www.fast.ai/2019/07/08/fastai-nlp/) | Deep Learning |
-| CS224n: Natural Language Processing with Deep Learning | [link](https://web.stanford.edu/class/cs224n/) | NLP | 
+| CS224n: Natural Language Processing with Deep Learning | [link](https://web.stanford.edu/class/cs224n/) | NLP |
+| Berkeley: Applied Natural Language Processing | [link](https://people.ischool.berkeley.edu/~dbamman/info256.html) | NLP | 
+| Carnegie Mellon NLP | [link](http://demo.clab.cs.cmu.edu/NLP/) | NLP |
+| CS 224N - Natural Language Processing, Stanford University | [link](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) |  |
+| Reinforcement Learning by Georgia Tech| [link](https://omscs.gatech.edu/cs-7642-reinforcement-learning) | Reinforcement learning |
+| CS234: Reinforcement Learning - Winter 2019 - Stanford University | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) |  | 
+| UCL Course 2015 on Reinforcement Learning by David Silver from DeepMind | [link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) |  |
+| CS 6955 - Clustering, Spring 2015, University of Utah | [link](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI) |  |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
