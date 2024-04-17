@@ -537,6 +537,16 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | Probabilistic Graphical Models, Daphne Koller, Stanford University | [link](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels) |  |
 | Kaggle courses| [link](https://www.kaggle.com/learn) | deep learning |
 | DEEP LEARNING - Yann LeCun  | [link](https://atcold.github.io/pytorch-Deep-Learning/) | Deep Learning |
+| Fastai  | [link](https://www.fast.ai/) | Deep Learning |
+| CS294-129 Designing, Visualizing and Understanding Deep Neural Networks | [link](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) |  |
+| STAT-157 Deep Learning 2019 - UC Berkeley | [link](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) |  |
+| CS231n: CNN for Visual Recognition by Stanford | [link](http://cs231n.stanford.edu/) | Computer vision |
+| Computational Cognitive Science 2015/16- University of Edinburgh | [link](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ccs.htm) |  |
+| CS 543 - Computer Vision – Spring 2017 | [link](https://courses.engr.illinois.edu/cs543/sp2017/) |  | 
+| Machine Learning for Computer Vision - Winter 2017-2018 - UniHeidelberg | [link](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY) |  |
+| Neo4j Graph Academy | [link](https://graphacademy.neo4j.com/) | Graph database |
+| Fastai - NLP  | [link](https://www.fast.ai/2019/07/08/fastai-nlp/) | Deep Learning |
+| CS224n: Natural Language Processing with Deep Learning | [link](https://web.stanford.edu/class/cs224n/) | NLP | 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
