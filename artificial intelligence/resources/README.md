@@ -559,7 +559,11 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | 6.832 Underactuated Robotics - MIT OCW | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/) |  |
 | CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) |  |
 | ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis | [link](http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html) |  |
-| 7.32 Systems Biology, Fall 2014 - MIT OCW | [link](https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/) |  | 
+| 7.32 Systems Biology, Fall 2014 - MIT OCW | [link](https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/) |  |
+| 6.047/6.878 Machine Learning for Genomics Fall 2020 - MIT | [link](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ) |  |
+| 6.047/6.878 Public Lectures on Computational Biology: Genomes, Networks, Evolution - MIT | [link](http://compbio.mit.edu/lectures.html) |  |
+| BioMedical Informatics 231 Computational Molecular Biology, Stanford University | [link](https://cmgm.stanford.edu/biochem218/) |  |
+ 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
