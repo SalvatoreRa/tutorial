@@ -502,6 +502,11 @@ A list of free available courses, the list is not exhaustive. I am not listing C
 | CS 173 Programming Languages, Brown University | [link](http://cs.brown.edu/courses/cs173/2012/Videos/) |  |
 | CSC 253 - CPython internals: A ten-hour codewalk through the Python interpreter source code, University of Rochester | [link](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S) |  |
 | CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC | [link](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html) |  |
+| Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley | [link](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF) |  |
+| CS 5150 -  Software Engineering, Fall 2014 - Cornell University | [link](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html) |  |
+| CS176 - Multiprocessor Synchronization - Brown University | [link](http://cs.brown.edu/courses/cs176/course_information.shtml) |  |
+| Parallel Programming Concepts (WT 2013/14) - HPI University of Potsdam | [link](https://www.tele-task.de/series/977/) |  |
+| 18-447 - Introduction to Computer Architecture, CMU | [link](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) |  |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local Index](#Table-of-Contents)
 
