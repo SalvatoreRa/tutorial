@@ -255,6 +255,11 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199) | --|Is it really true that long-context LLMs are killing the RAG? |
+| [LLaMa 3 is Here. Will It Be The Winning Animal in The Generative AI Zoo.](https://levelup.gitconnected.com/llama-3-is-here-will-it-be-the-winning-animal-in-the-generative-ai-zoo-9e94af73588f) | -- |LLaMA 3 is in early release, but the new META’s animal has fierce competition now |
+| [War and Peace: A Conflictual Love Between the LLM and RAG](https://ai.plainenglish.io/war-and-peace-a-conflictual-love-between-the-llm-and-rag-78428a5776fb) | -- |There is a complex relationship between the LLM prior knowledge and the RAG. |
+| [Crossing Boundaries or Building Walls? The Declining Interdisciplinarity of NLP](https://pub.towardsai.net/crossing-boundaries-or-building-walls-the-declining-interdisciplinarity-of-nlp-8a051f9ae53c) | -- | In a deluge of information, research is becoming more and more isolated, and this is a problem |
+| [You Know Nothing, ChatGPT. How Much Does Your LLM Know?](https://levelup.gitconnected.com/you-know-nothing-chatgpt-how-much-does-your-llm-know-03ce79d4b925) | -- | Knowledge is power, but how much an LLM can know, and is it enough?|
 | [Do Really Long-Context LLMs Exist](https://levelup.gitconnected.com/do-really-long-context-llms-exist-e928a179a5d5) | -- | Long-context LLMs are the topic of the moment, but beyond companies' claims, it is true?|
 | [Think, Then Speak: How Researchers Gave AI an Inner Monologue](https://levelup.gitconnected.com/think-then-speak-how-researchers-gave-ai-an-inner-monologue-f9bc5eb60139) | -- |QuietStar is a new promising approach for LLM reasoning|
 | [Does it Really Matter Grok?](https://levelup.gitconnected.com/does-it-really-matter-grok-fbf70c5117e2) | -- | Musk claims he has open-source Grok, but it does matter or is it just another move in larger play? |
