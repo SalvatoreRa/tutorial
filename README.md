@@ -177,6 +177,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [AI’s Emerging Role in Disease Detection from Human Speech](https://medium.com/towards-data-science/ais-emerging-role-in-disease-detection-from-human-speech-f24e6d49d25c) | -- |Disease prediction from speech can be the next revolution in healthcare|
 |[Unlocking the Dance of Proteins: AlphaFold meets Diffusion](https://levelup.gitconnected.com/unlocking-the-dance-of-proteins-alphafold-meets-diffusion-571141004bc4)| -- |AlphaFlow Makes Protein Structure PredictionFrom Static to Dynamic |
 |[Beyond Words: Unraveling Speech from Brain Waves with AI](https://levelup.gitconnected.com/beyond-words-unraveling-speech-from-brain-waves-with-ai-7ff81862dfff)| -- |AI is capable of decoding speech from non-invasive brain recordings|
 | [Google Med-PaLM M: Towards the Medical AI Generalist](https://levelup.gitconnected.com/google-med-palm-m-towards-the-medical-ai-generalist-cf2e173672e4)| -- | Google unveils a multi-modal model capable of incredible skills|
