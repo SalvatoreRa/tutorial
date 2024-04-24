@@ -25,20 +25,21 @@ You may write me for any request, suggestions and comments.
 
 | file |  Description |
 |----------- | ------ |
-| [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metric (similar to classification report of scikit-learn) |
+| [Regression report](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/regression_report.py) | Print different regression metrics (similar to the classification report of scikit-learn) |
 | [Upset plot](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/upset_missing_value.py) | Plot an upset plot to visualize missing data and their distribution in the columns |
 | [Random NA generation](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/random_NA_generation.py) |Introduces random missing values into a dataset.|
 | [Utils NA](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py) | a set of utils to generate and insert NA in your dataset|
 | [DR_utils](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/DR_utils.py) | a set of utils for dimensional reduction techniques|
+| [Correlation_utils](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/correlation_utils.py) | a set of utils for correlation dimension|
 
 # How to import
 
 
-I am providing some useful fuctions and classes that can be ready to use. I am providing them as executable python file that you can import and use. You find them in this folder.
+I am providing some useful functions and classes that can be ready to use. I am providing them as executable Python files that you can import and use. You can find them in this folder.
 
 ## Google Colab
 
-For example, if you want to use my regression_report function in Colab you can import in this way:
+For example, if you want to use my regression_report function in Colab you can import it in this way:
 
 ```Python
 import sys
@@ -149,7 +150,18 @@ I have collected here a series of functions that are not available in other pack
 * normalized stress
 
 **Dimensional reduction plots**
-* Shepard diagram 
+* Shepard diagram
+
+## correlation_utils
+
+I have collected here a series of functions that are not available in other packages or I was annoyed to have to import multiple packages. I wanted something simple:
+
+* xicor, correlation described in this [article](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1758115)
+* Kendall Tau correlation
+* Spearman rank correlation
+* point-biserial correlation coefficient
+* Goodman and Kruskal's gamma correlation
+* Cramér's V statistic for a given contingency table
 
 &nbsp;
 
