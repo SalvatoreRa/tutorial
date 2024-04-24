@@ -32,7 +32,7 @@ def xicor(X, Y, ties=True):
     
 def kendall_tau_correlation(x, y):
     """
-    Calculate the Kendall Tau correlation coefficient f.
+    Calculate the Kendall Tau correlation coefficient
     
     Parameters:
     x (np.array): First input array.
