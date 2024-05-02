@@ -162,6 +162,7 @@ I have collected here a series of functions that are not available in other pack
 * point-biserial correlation coefficient
 * Goodman and Kruskal's gamma correlation
 * Cramér's V statistic for a given contingency table
+* mutual information-based coefficient R 
 
 &nbsp;
 
