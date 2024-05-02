@@ -100,6 +100,14 @@ def xicor(X, Y, ties=True):
 
 ```
 
+Others have noticed that also this correlation is not exempt from issues, for that reasons they suggest **mutual information-based coefficient R**:
+* **non-linearity.** The xicorr does not capture all the types of non-linearities (like donuts).
+* **symmetry.** The correlation should be symmetric (ρ(x,y)=ρ(y,x)), this is true for Pearson and R but not xicorr
+* **Consistency.** In all the cases xicorr is consistent.
+* **Scalability.** R is more scalable with the increase of data points
+* **Precision.** R is more precise (precision is defined as stdev(A)/mean(A), meaning the variance should be small)
+
+In any case, you can test these different correlations. While they are not present in a standard package in Pythons, I have collected them in a Python script you can easily import ([check here](https://github.com/SalvatoreRa/tutorial/tree/main/machine%20learning/utility))
 
 Suggested lecture:
 * [Myths About Linear and Monotonic Associations: Pearson’s r, Spearman’s ρ, and Kendall’s τ](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922)
