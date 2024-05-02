@@ -202,3 +202,46 @@ def cramers_v(table):
     k_corr = k - ((k-1)**2)/(n-1)
     corr = np.sqrt(phi2_corr / min((k_corr-1), (r_corr-1)))
     return corr
+
+def mutual_information(x, y, num_bins=10):
+    """
+    Calculate the mutual information between two variables using histograms.
+    
+    Parameters:
+    x, y (array-like): Input variables.
+    num_bins (int): Number of bins for histogram calculation.
+    
+    Returns:
+    float: Mutual information of the two variables.
+
+    Example usage:
+    x = np.random.randint(0, 10, size=100)
+    y = np.random.randint(0, 10, size=100)
+    mi = mutual_information(x, y)
+    print("Mutual Information:", mi)
+    """
+    # Calculate the joint histogram and the marginal histograms
+    joint_hist, x_edges, y_edges = np.histogram2d(x, y, bins=num_bins)
+    x_hist = np.histogram(x, bins=x_edges)[0]
+    y_hist = np.histogram(y, bins=y_edges)[0]
+    
+    # Convert histograms to probability distributions
+    joint_prob = joint_hist / np.sum(joint_hist)
+    x_prob = x_hist / np.sum(x_hist)
+    y_prob = y_hist / np.sum(y_hist)
+    
+    # Remove zeros for valid log computation
+    joint_prob_nonzero = joint_prob[joint_prob > 0]
+    x_prob_nonzero = x_prob[x_prob > 0]
+    y_prob_nonzero = y_prob[y_prob > 0]
+    
+    # Calculate entropies
+    h_x = -np.sum(x_prob_nonzero * np.log(x_prob_nonzero))
+    h_y = -np.sum(y_prob_nonzero * np.log(y_prob_nonzero))
+    h_xy = -np.sum(joint_prob_nonzero * np.log(joint_prob_nonzero))
+    
+    # Calculate mutual information
+    corr = h_x + h_y - h_xy
+    
+    return corr
+
