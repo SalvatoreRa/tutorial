@@ -181,6 +181,46 @@ cross-validation leads to predictions that are overly optimistic (overly confide
 </details>
 
 <details>
+  <summary><b>Should I use Class imbalance corrections?</b></summary>
+  
+  In general, there are plenty of methods for correcting class imbalance data, though it is not always a good idea to do so. **Imbalance data** is when in a classification dataset there is an overabundance of one of the class labels. In this case, the most abundant class is called majority class and the other minority class (this is in the case of binary classification, but class imbalance can also occur in the case of multiclass classification).
+
+  ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/imbalance_data.png?raw=true)
+*from [here](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data)*
+
+Generally, the most commonly used strategies are: 
+* **Downsample the majority class.** in this case the goal is to reduce the number of examples in the majority class to have a balanced dataset (but we risk losing information).
+* **Upsampling of the minority class.** conversely we increase the number of examples in the minority class by exploiting machine learning or artificial intelligence approaches (this can introduce bias though)
+
+For example, when we are interested in a well-calibrated model, oversampling may do more harm than not. A calibrated model is when we can interpret he output of such a model in terms of a probability. We might actually think that all models are calibrated, but in general models are overconfident (for example in the case of binary classification, an overconfident model predicts values close to 0 and 1 in many cases where they should not do). 
+
+*"Model calibration captures the accuracy of risk estimates, relating to the agreement between the estimated (predicted) and observed number of events. In clinical applications where a patient’s predicted risk is the entity used to inform clinical decisions, it is essential to assess model calibration. If a model is poorly calibrated, it may produce risk estimates that do not approximate a patient’s true risk well [3]. A poorly calibrated model may produce predicted risks that consistently over- or under-estimate true risk or that are too extreme (too close to 0 or 1) or too modest (too close to event prevalence)"* -- from [here](https://arxiv.org/pdf/2404.19494)
+
+A simpler example, if we have a model that predicts the probability of a fire in a building, a model calibrated when it gives a probability of 0.8 or 0.2, means that in the first case a fire is four times more likely. In the case of an uncalibrated model these probabilities do not have the same meaning.
+
+*"Overall, as imbalance between the classes was magnified, model calibration deteriorated for all prediction models. All imbalance corrections affected model calibration in a very similar fashion. Correcting for imbalance using pre-processing methods (RUS, ROS, SMOTE, SENN) and/or by using an imbalance correcting algorithm (RB, EE) resulted in prediction models which consistently over-estimated risk. On average, no model trained with imbalance corrected data outperformed the control models in which no imbalance correction was made, with respect to model calibration."* -- from [here](https://arxiv.org/pdf/2404.19494)
+
+In other words, when we are interested in a calibrated model, dataset balancing techniques do more harm than good.
+
+Which is then in line with early reports that showed that SMOTE works only with weak learners and is destructive of model calibration.
+
+In fact, you rarely see it used on Kaggle (or at least it does not seem to be a winning strategy). According to this stems from the fact that models like SMOOTH implicitly assume that the class distribution is sufficiently homogenous around the minority class instances. Which is then not necessarily the case (especially since not all variables are so homogenous).
+
+**So we should never use it?**
+
+According to this [article](https://arxiv.org/pdf/2201.08528) as a general rule: 
+* Balancing could improve prediction performance for weak classifiers but not for the SOTA classifiers. The strong classifiers (without balancing) yield better prediction quality than the weak classifiers with balancing.
+* For label metric (example F1) optimizing the decision threshold is recommended do to simplicity and lower compute cost (nowhere is it written that a threshold of 0.5 must be used necessarily).
+
+Suggested lecture:
+* [The harms of class imbalance corrections for machine learning based prediction models: a simulation study](https://arxiv.org/abs/2404.19494)
+* [To SMOTE, or not to SMOTE?](https://arxiv.org/abs/2201.08528)
+* [Are unbalanced datasets problematic, and (how) does oversampling (purport to) help?](https://stats.stackexchange.com/questions/357466/are-unbalanced-datasets-problematic-and-how-does-oversampling-purport-to-he)
+* [Why SMOTE is not used in prize-winning Kaggle solutions?](https://datascience.stackexchange.com/questions/106461/why-smote-is-not-used-in-prize-winning-kaggle-solutions)
+  
+</details>
+
+<details>
   <summary><b>What is gradient descent? What are the alternatives?</b></summary>
   !
 </details>
