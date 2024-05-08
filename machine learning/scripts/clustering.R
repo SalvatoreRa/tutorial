@@ -354,3 +354,60 @@ fit <- function(object, X) {
   object
 }
 
+#################################################
+##### Spectral clustering
+#####
+#################################################
+
+
+spectral_clustering <- function(k, sigma = 1) {
+  # This class is designed to perform spectral clustering, 
+  # reducing the dimensionality based on the eigenvalues of the Laplacian matrix of the data similarity matrix.
+  # Parameters:
+  # k (integer): Number of clusters to find.
+  # sigma (numeric, default = 1): The scaling parameter for the Gaussian similarity function
+  # Create a kmeans object
+  # sc <- spectral_clustering(k = 3, sigma = 1)
+  # Generate some data
+  # set.seed(123)
+  # X <- matrix(rnorm(100), nrow = 10)
+  # Fit the model
+  # result <- fit(sc, X)
+  # print(result$cluster_labels) 
+  if (k <= 0) stop("Number of clusters 'k' must be positive.")
+  
+  structure(list(k = k, sigma = sigma, cluster_labels = NULL), class = "spectral_clustering")
+}
+
+
+fit <- function(object, X) {
+  if (!inherits(object, "spectral_clustering")) {
+    stop("Object must be of class 'spectral_clustering'.")
+  }
+  
+  n <- nrow(X)
+  # Step 1: Construct the similarity matrix
+  similarity_matrix <- outer(1:n, 1:n, Vectorize(function(i, j) exp(-sum((X[i, ] - X[j, ])^2) / (2 * object$sigma^2))))
+  
+  # Step 2: Construct the Laplacian matrix
+  D <- diag(colSums(similarity_matrix))
+  L <- D - similarity_matrix
+  
+  # Step 3: Eigenvalue decomposition
+  eigens <- eigen(L, symmetric = TRUE)
+  U <- eigens$vectors[, 1:object$k, drop = FALSE]
+  
+  # Step 4: k-means on reduced data
+  if (!require(stats)) {
+    stop("Package 'stats' is required for k-means clustering.")
+  }
+  kmeans_result <- kmeans(U, centers = object$k)
+  
+
+  object$cluster_labels <- kmeans_result$cluster
+  
+
+  object
+}
+
+
