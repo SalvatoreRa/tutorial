@@ -221,15 +221,89 @@ fit <- function(object, X) {
   object
 }
 
-# Create an agglo_clustering object
-ac <- agglo_clustering(n_clusters = 3, distance = "euclidean", linkage = "ward")
+#################################################
+##### DBSCAN clustering
+#####
+#################################################
 
-# Generate some data
-set.seed(123)
-X <- matrix(rnorm(100), nrow = 10)
 
-# Fit the model
-result <- fit(ac, X)
+dbscan_clustering <- function(eps, minPts) {
+  # This class is designed to perform DBSCAN clustering from scratch, 
+  # identifying clusters based on density of data points and marking sparse regions as noise.
+  # parameters:
+  # eps (numeric): The maximum distance between two samples for them to be considered as neighbors.
+  # minPts (integer): The minimum number of points required to form a dense region (a core point).
+  #example usage.
+  # 
+  # Create a kmeans object
+  # dc <- dbscan_clustering(eps = 0.5, minPts = 5)
+  # Generate some data
+  # set.seed(123)
+  # X <- matrix(rnorm(100), nrow = 10)
+  # Fit the model
+  # result <- fit(dc, X)
+  # print(result$cluster_labels) 
+  if (eps <= 0) stop("Eps must be positive.")
+  if (minPts <= 0) stop("minPts must be positive.")
+  
+  structure(list(eps = eps, minPts = minPts, cluster_labels = NULL), class = "dbscan_clustering")
+}
 
-# Print results
-print(result$cluster_labels)  # Cluster assignment for each example
+# Define the fit method
+fit <- function(object, X) {
+  if (!inherits(object, "dbscan_clustering")) {
+    stop("Object must be of class 'dbscan_clustering'.")
+  }
+  
+  n <- nrow(X)
+  labels <- rep(0, n)  # 0 indicates noise
+  clusterId <- 0
+  
+  # Helper function to find neighbors
+  getNeighbors <- function(pointIndex) {
+    # Replicate the row 'pointIndex' to match the number of rows in X
+    pointMatrix <- matrix(rep(X[pointIndex,], nrow(X)), nrow = nrow(X), byrow = TRUE)
+    
+    # Compute Euclidean distances
+    distances <- sqrt(rowSums((X - pointMatrix)^2))
+    neighbors <- which(distances < object$eps)
+    return(neighbors)
+  }
+  
+  # Iterate over each point
+  for (i in 1:n) {
+    if (labels[i] != 0) next  # Already processed
+    neighbors <- getNeighbors(i)
+    if (length(neighbors) < object$minPts) {
+      labels[i] <- -1  # Mark as noise
+    } else {
+      clusterId <- clusterId + 1
+      expandCluster(i, neighbors, labels, clusterId, object$eps, object$minPts, X, getNeighbors)
+    }
+  }
+  
+  # Store results in the object
+  object$cluster_labels <- labels
+  
+  # Return the updated object
+  object
+}
+
+expandCluster <- function(i, neighbors, labels, clusterId, eps, minPts, X, getNeighbors) {
+  labels[i] <- clusterId
+  k <- 1
+  while (k <= length(neighbors)) {
+    point <- neighbors[k]
+    if (labels[point] == -1) labels[point] <- clusterId  # Change noise to border point
+    if (labels[point] == 0) {  # Not yet visited
+      labels[point] <- clusterId
+      pointNeighbors <- getNeighbors(point)
+      if (length(pointNeighbors) >= minPts) {
+        neighbors <- unique(c(neighbors, pointNeighbors))
+      }
+    }
+    k <- k + 1
+  }
+}
+
+
