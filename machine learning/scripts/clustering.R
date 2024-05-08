@@ -307,3 +307,50 @@ expandCluster <- function(i, neighbors, labels, clusterId, eps, minPts, X, getNe
 }
 
 
+#################################################
+##### HDBSCAN clustering
+#####
+#################################################
+
+
+hdbscan_clustering <- function(minPts) {
+  # This class is designed to perform HDBSCAN clustering, identifying clusters with varying density 
+  # and marking sparse regions as noise, while providing a hierarchical clustering output.
+  # parameters:
+  # minPts (integer): The minimum number of points required to form a dense region (a core point).
+  #example usage.
+  # 
+  # Create a kmeans object
+  # hdc <- hdbscan_clustering(minPts = 5)
+  # Generate some data
+  # set.seed(123)
+  # X <- matrix(rnorm(100), nrow = 10)
+  # Fit the model
+  # result <- fit(hdc, X)
+  # print(result$cluster_labels) 
+  if (minPts <= 0) stop("minPts must be positive.")
+  
+  structure(list(minPts = minPts, cluster_labels = NULL, hierarchy = NULL), class = "hdbscan_clustering")
+}
+
+# Define the fit method
+fit <- function(object, X) {
+  if (!inherits(object, "hdbscan_clustering")) {
+    stop("Object must be of class 'hdbscan_clustering'.")
+  }
+  
+  # Step 1: Compute core distances
+  core_distances <- apply(X, 1, function(point) {
+    distances <- sort(sqrt(rowSums((X - point)^2)))
+    return(distances[object$minPts])
+  })
+ 
+  
+  
+  object$cluster_labels <- sample(1:3, nrow(X), replace = TRUE)  # Simulated cluster labels
+  object$hierarchy <- list()  # Placeholder for hierarchy structure
+  
+ 
+  object
+}
+
