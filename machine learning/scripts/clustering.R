@@ -368,6 +368,7 @@ spectral_clustering <- function(k, sigma = 1) {
   # sigma (numeric, default = 1): The scaling parameter for the Gaussian similarity function
   # Create a kmeans object
   # sc <- spectral_clustering(k = 3, sigma = 1)
+  # example of usage:
   # Generate some data
   # set.seed(123)
   # X <- matrix(rnorm(100), nrow = 10)
@@ -410,4 +411,135 @@ fit <- function(object, X) {
   object
 }
 
+#################################################
+##### Mean Shift
+#####
+#################################################
+
+# Define the class
+meanshift_clustering <- function(bandwidth) {
+  if (bandwidth <= 0) stop("Bandwidth must be positive.")
+  
+  structure(list(bandwidth = bandwidth, cluster_centers = NULL, cluster_labels = NULL), class = "meanshift_clustering")
+}
+
+# Define the fit method
+fit <- function(object, X) {
+  # This class is designed to perform Mean Shift clustering, 
+  # which locates and shifts centroids based on the density of surrounding data points.
+  # Parameters:
+  # bandwidth (numeric): The radius of the neighborhood to consider for centroid shifting.
+  #
+  # example of usage:
+  # Generate some data
+  # set.seed(123)
+  # X <- matrix(rnorm(100), nrow = 10)
+  # Fit the model
+  # result <- fit(sc, X)
+  # print(result$cluster_labels) 
+  if (!inherits(object, "meanshift_clustering")) {
+    stop("Object must be of class 'meanshift_clustering'.")
+  }
+  
+  n <- nrow(X)
+  centroids <- X  # Start with each point as a centroid
+  continue <- TRUE
+  while (continue) {
+    new_centroids <- matrix(nrow = n, ncol = ncol(X))
+    for (i in 1:n) {
+      # Calculate the mean of points within the bandwidth
+      weights <- exp(-colSums((t(X) - centroids[i, ])^2) / (2 * object$bandwidth^2))
+      weighted_points <- sweep(X, 2, weights, "*")
+      new_centroids[i, ] <- colSums(weighted_points) / sum(weights)
+    }
+    # Check for convergence
+    if (max(sqrt(rowSums((centroids - new_centroids)^2))) < 1e-3) {
+      continue <- FALSE
+    }
+    centroids <- new_centroids
+  }
+  # Assign points to the nearest centroid
+  distances <- as.matrix(dist(rbind(centroids, X)))
+  distances <- distances[(n+1):(2*n), 1:n]
+  object$cluster_labels <- max.col(-distances)
+  object$cluster_centers <- centroids
+  
+  object
+}
+
+#################################################
+##### Mini Batch K-means
+#####
+#################################################
+
+mini_batch_kmeans <- function(k, batch_size, max_iter = 100) {
+  # This class is designed to perform Mini Batch K-Means clustering, 
+  # using batches of data to update centroids iteratively.
+  # Parameters
+  # k (integer): Number of clusters.
+  # batch_size (integer): Size of the batch to use for each iteration.
+  # max_iter (integer, default = 100): Maximum number of iterations to run the algorithm.
+  # 
+  # example of usage:
+  # Generate some data
+  # set.seed(123)
+  # X <- matrix(rnorm(300), nrow = 100)
+  # Fit the model
+  # result <- fit(mbk, X)
+  
+  # Print results
+  # print(result$cluster_labels)  
+  # print(result$centroids)   
+  
+  if (k <= 0) stop("Number of clusters 'k' must be positive.")
+  if (batch_size <= 0) stop("Batch size must be positive.")
+  if (max_iter <= 0) stop("Maximum iterations 'max_iter' must be positive.")
+  
+  structure(list(k = k, batch_size = batch_size, max_iter = max_iter, centroids = NULL, cluster_labels = NULL), class = "mini_batch_kmeans")
+}
+
+
+fit <- function(object, X) {
+  if (!inherits(object, "mini_batch_kmeans")) {
+    stop("Object must be of class 'mini_batch_kmeans'.")
+  }
+  
+  n <- nrow(X)
+  # Randomly initialize centroids
+  initial_indexes <- sample(n, object$k)
+  centroids <- X[initial_indexes, , drop = FALSE]
+  
+  for (i in 1:object$max_iter) {
+    # Select a random batch
+    indices <- sample(n, object$batch_size)
+    batch <- X[indices, , drop = FALSE]
+    
+    # Assign each batch point to the nearest centroid
+    cluster_assignment <- apply(batch, 1, function(point) {
+      which.min(colSums((t(centroids) - point)^2))
+    })
+    
+    # Update centroids
+    for (j in 1:object$k) {
+      cluster_points <- batch[cluster_assignment == j, , drop = FALSE]
+      if (nrow(cluster_points) > 0) {
+        centroids[j, ] <- colMeans(cluster_points)
+      }
+    }
+  }
+  
+  
+  final_assignment <- apply(X, 1, function(point) {
+    which.min(colSums((t(centroids) - point)^2))
+  })
+  
+ 
+  object$centroids <- centroids
+  object$cluster_labels <- final_assignment
+  
+  
+  object
+}
+
+  
 
