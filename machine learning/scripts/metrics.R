@@ -237,4 +237,57 @@ davies_bouldin_score <- function(X, labels) {
 }
 
 
+#################################################
+#####  Compute completeness metric of a cluster labeling given a ground truth.
+##### 
+##### A clustering result satisfies completeness if all the data points 
+##### that are members of a given class are elements of the same cluster.
+#####
+#################################################
+
+
+conditional_entropy <- function(classes, clusters) {
+  unique_classes <- unique(classes)
+  unique_clusters <- unique(clusters)
+  n <- length(classes)
+  
+  # Calculate the joint probability distribution and the marginal probability of clusters
+  joint_prob <- table(classes, clusters) / n
+  cluster_prob <- table(clusters) / n
+  
+  # Calculate conditional entropy
+  cond_entropy <- 0
+  for (cluster in unique_clusters) {
+    cluster_cond_prob <- joint_prob[, cluster] / cluster_prob[cluster]
+    cluster_cond_prob <- cluster_cond_prob[cluster_cond_prob > 0]  # Avoid NaN for log(0)
+    cond_entropy <- cond_entropy + cluster_prob[cluster] * sum(-cluster_cond_prob * log(cluster_cond_prob))
+  }
+  
+  cond_entropy
+}
+
+
+completeness_score <- function(true_labels, cluster_labels) {
+  # Function to Compute completeness metric of a cluster labeling given a ground truth.
+  # Score between 0.0 and 1.0. 1.0 stands for perfectly complete labeling.
+  
+  # parameters:
+  # true labels
+  # cluster list labels
+  
+  # Example usage
+  # set.seed(123)
+  # true_labels <- c(1, 1, 1, 2, 2, 2, 3, 3, 3)
+  #cluster_labels <- c(1, 1, 1, 2, 2, 2, 1, 1, 1)
+  # completeness <- completeness_score(true_labels, cluster_labels)
+  # print(completeness)
+  h_g <- entropy(true_labels)
+  h_g_given_c <- conditional_entropy(true_labels, cluster_labels)
+  
+  # Calculate completeness
+  if (h_g == 0) return(1)  # Perfect completeness when there is no entropy in the labels
+  1 - h_g_given_c / h_g
+}
+
+
 
