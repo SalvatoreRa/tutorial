@@ -290,4 +290,37 @@ completeness_score <- function(true_labels, cluster_labels) {
 }
 
 
+#################################################
+##### a contingency matrix describing the relationship between labels.
+#####
+#################################################
+
+
+build_contingency_matrix <- function(labels1, labels2) {
+  # build a contingency matrix describing the relationship between labels.
+  # 
+  # parameters:
+  # true labels or another cluster label list
+  # cluster list labels
+  
+  # Example usage
+  # labels1 <- sample(1:3, 20, replace = TRUE)  # Sample clustering results
+  # labels2 <- sample(1:4, 20, replace = TRUE)  # Sample clustering or true labels
+  # contingency_matrix <- build_contingency_matrix(labels1, labels2)
+  # print(contingency_matrix)
+  if (length(labels1) != length(labels2)) {
+    stop("Both label lists must be of the same length.")
+  }
+  
+  # Create a table (contingency matrix) of the labels
+  contingency_table <- table(labels1, labels2)
+  
+  # Optionally, you can add names to the dimensions for clarity
+  dimnames(contingency_table) <- list(Cluster_Group_1 = rownames(contingency_table),
+                                      Cluster_Group_2 = colnames(contingency_table))
+  
+  return(contingency_table)
+}
+
+
 
