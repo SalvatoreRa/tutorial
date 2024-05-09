@@ -323,50 +323,129 @@ build_contingency_matrix <- function(labels1, labels2) {
 }
 
 
+
+
 #################################################
-#####  Pair confusion matrix arising from two clusterings.
-#####
+#####  calculate the Fowlkes-Mallows
+##### Measure the similarity of two clusterings of a set of points.
 #################################################
 
-# Function to compute a Pair Confusion Matrix
-pair_confusion_matrix <- function(labels1, labels2) {
-  # Pair confusion matrix arising from two clusterings.
+calculate_pairs <- function(labels_true, labels_pred) {
+  # calculate the Fowlkes-Mallows
   # 
   # parameters:
   # true labels or another cluster label list
   # cluster list labels
   #
-  
-  if (length(labels1) != length(labels2)) {
+  # # Example usage
+  # labels_true <- c(1, 1, 2, 2, 3, 3)
+  # labels_pred <- c(1, 1, 1, 2, 3, 3)
+  #  fms <- fowlkes_mallows_score(labels_true, labels_pred)
+  # print(fms)
+  if (length(labels_true) != length(labels_pred)) {
     stop("Both label lists must be of the same length.")
   }
   
   # Initialize counts
-  TP <- TN <- FP <- FN <- 0
+  TP <- FP <- TN <- FN <- 0
+  n <- length(labels_true)
   
   # Compare each pair of elements
-  for (i in 1:(length(labels1) - 1)) {
-    for (j in (i + 1):length(labels1)) {
-      same1 <- labels1[i] == labels1[j]  # Same cluster in first set?
-      same2 <- labels2[i] == labels2[j]  # Same cluster in second set?
+  for (i in 1:(n - 1)) {
+    for (j in (i + 1):n) {
+      true_same <- labels_true[i] == labels_true[j]
+      pred_same <- labels_pred[i] == labels_pred[j]
       
-      if (same1 && same2) {
+      if (true_same && pred_same) {
         TP <- TP + 1  # True Positive
-      } else if (!same1 && !same2) {
-        TN <- TN + 1  # True Negative
-      } else if (same1 && !same2) {
-        FN <- FN + 1  # False Negative
-      } else if (!same1 && same2) {
+      } else if (!true_same && pred_same) {
         FP <- FP + 1  # False Positive
+      } else if (true_same && !pred_same) {
+        FN <- FN + 1  # False Negative
       }
     }
   }
   
-  # Create the matrix
-  matrix(c(TP, FN, FP, TN), nrow = 2, byrow = TRUE,
-         dimnames = list(c("Same Cluster", "Different Cluster"),
-                         c("Same in Both", "Different in One")))
+  list(TP = TP, FP = FP, FN = FN)
 }
+
+# Function to calculate Fowlkes-Mallows score
+fowlkes_mallows_score <- function(labels_true, labels_pred) {
+  pairs <- calculate_pairs(labels_true, labels_pred)
+  TP <- pairs$TP
+  FP <- pairs$FP
+  FN <- pairs$FN
+  
+  # Compute the Fowlkes-Mallows score
+  precision <- TP / (TP + FP)
+  recall <- TP / (TP + FN)
+  FMS <- sqrt(precision * recall)
+  
+  return(FMS)
+}
+
+
+#################################################
+#####  Homogeneity score
+##### 
+#################################################
+
+# Function to calculate entropy
+entropy <- function(labels) {
+  if (length(labels) == 0) return(0)
+  probs <- table(labels) / length(labels)
+  -sum(probs * log(probs))
+}
+
+# Function to calculate conditional entropy H(C|K)
+conditional_entropy_sum <- function(classes, clusters) {
+  unique_clusters <- unique(clusters)
+  total_samples <- length(classes)
+  sum_conditional_entropy <- 0
+  
+  for (cluster in unique_clusters) {
+    cluster_indices <- which(clusters == cluster)
+    cluster_classes <- classes[cluster_indices]
+    cluster_size <- length(cluster_indices)
+    
+    # Entropy of the classes within the cluster
+    entropy_cluster <- entropy(cluster_classes)
+    sum_conditional_entropy <- sum_conditional_entropy + (cluster_size / total_samples) * entropy_cluster
+  }
+  
+  sum_conditional_entropy
+}
+
+
+homogeneity_score <- function(true_labels, cluster_labels) {
+  # Homogeneity metric of a cluster labeling given a ground truth.
+  # A clustering result satisfies homogeneity if all of its clusters contain 
+  # only data points which are members of a single class.
+  # parameters:
+  # true labels or another cluster label list
+  # cluster list labesls
+  #
+  # # Example usage
+  # true_labels <- c(1, 1, 1, 2, 2, 2, 3, 3, 3)
+  # cluster_labels <- c(1, 1, 1, 1, 2, 2, 3, 3, 3)
+  #homogeneity <- homogeneity_score(true_labels, cluster_labels)
+  # print(homogeneity)
+  total_entropy <- entropy(true_labels)
+  if (total_entropy == 0) return(1)  # Perfect homogeneity if there's no entropy in true labels
+  
+  conditional_entropy_value <- conditional_entropy_sum(true_labels, cluster_labels)
+  homogeneity <- 1 - (conditional_entropy_value / total_entropy)
+  return(homogeneity)
+}
+
+# Example usage
+true_labels <- c(0, 0, 1, 1)
+cluster_labels <- c(0, 0, 1, 2)
+
+homogeneity <- homogeneity_score(true_labels, cluster_labels)
+print(homogeneity)
+
+
 
 
 
