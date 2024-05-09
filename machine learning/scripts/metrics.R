@@ -323,4 +323,50 @@ build_contingency_matrix <- function(labels1, labels2) {
 }
 
 
+#################################################
+#####  Pair confusion matrix arising from two clusterings.
+#####
+#################################################
+
+# Function to compute a Pair Confusion Matrix
+pair_confusion_matrix <- function(labels1, labels2) {
+  # Pair confusion matrix arising from two clusterings.
+  # 
+  # parameters:
+  # true labels or another cluster label list
+  # cluster list labels
+  #
+  
+  if (length(labels1) != length(labels2)) {
+    stop("Both label lists must be of the same length.")
+  }
+  
+  # Initialize counts
+  TP <- TN <- FP <- FN <- 0
+  
+  # Compare each pair of elements
+  for (i in 1:(length(labels1) - 1)) {
+    for (j in (i + 1):length(labels1)) {
+      same1 <- labels1[i] == labels1[j]  # Same cluster in first set?
+      same2 <- labels2[i] == labels2[j]  # Same cluster in second set?
+      
+      if (same1 && same2) {
+        TP <- TP + 1  # True Positive
+      } else if (!same1 && !same2) {
+        TN <- TN + 1  # True Negative
+      } else if (same1 && !same2) {
+        FN <- FN + 1  # False Negative
+      } else if (!same1 && same2) {
+        FP <- FP + 1  # False Positive
+      }
+    }
+  }
+  
+  # Create the matrix
+  matrix(c(TP, FN, FP, TN), nrow = 2, byrow = TRUE,
+         dimnames = list(c("Same Cluster", "Different Cluster"),
+                         c("Same in Both", "Different in One")))
+}
+
+
 
