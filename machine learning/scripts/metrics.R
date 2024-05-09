@@ -173,4 +173,68 @@ calinski_harabasz_score <- function(X, labels) {
 }
 
 
+#################################################
+#####  the Calinski and Harabasz score.
+#####
+#################################################
+
+# Function to calculate the Davies-Bouldin index
+davies_bouldin_score <- function(X, labels) {
+  # Function to compute the Davies-Bouldin score.
+  # The minimum score is zero, with lower values indicating better clustering.
+  
+  # parameters:
+  # the X matrix
+  # cluster list labels
+  
+  # Example usage
+  # set.seed(123)
+  # X <- matrix(rnorm(200), nrow = 50, ncol = 2)
+  # labels <- sample(1:3, 50, replace = TRUE)
+  # db_score <- davies_bouldin_score(X, labels)
+  # print(db_score)
+  
+  if (!is.matrix(X)) {
+    stop("Input data X must be a matrix.")
+  }
+  
+  # Unique clusters
+  clusters <- unique(labels)
+  k <- length(clusters)
+  if (k < 2) {
+    stop("There must be at least two clusters to calculate the Davies-Bouldin score.")
+  }
+  
+  # Calculate centroids and dispersions
+  centroids <- tapply(seq(nrow(X)), labels, function(indices) colMeans(X[indices, ]))
+  dispersions <- numeric(k)
+  
+  for (i in seq_along(clusters)) {
+    cluster_points <- X[labels == clusters[i], , drop = FALSE]
+    dispersions[i] <- mean(sqrt(rowSums((cluster_points - centroids[[i]])^2)))
+  }
+  
+  # Calculate Davies-Bouldin index
+  db_index <- numeric(k)
+  
+  for (i in seq_along(clusters)) {
+    max_ratio <- 0
+    for (j in seq_along(clusters)) {
+      if (i != j) {
+        numerator <- dispersions[i] + dispersions[j]
+        denominator <- sqrt(sum((centroids[[i]] - centroids[[j]])^2))
+        ratio <- numerator / denominator
+        if (ratio > max_ratio) {
+          max_ratio <- ratio
+        }
+      }
+    }
+    db_index[i] <- max_ratio
+  }
+  
+  # Return the average of the maximum ratios
+  mean(db_index)
+}
+
+
 
