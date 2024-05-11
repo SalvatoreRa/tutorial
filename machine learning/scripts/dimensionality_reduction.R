@@ -246,4 +246,92 @@ LDA <- setRefClass(
 #### Latent Dirichlet Allocation (LDA)
 ###########################################
 
+NMF <- setRefClass(
+  # Latent Dirichlet Allocation (LDA)
+  # Assume V is the matrix used in fit
+  # V <- matrix(rnorm(100), nrow = 10, ncol = 10)
+  # V_new is the new data matrix you want to transform
+  # V_new <- matrix(rnorm(30), nrow = 10, ncol = 3)
+  # Create and fit the NMF model
+  # nmf_model <- NMF$new()
+  # nmf_model$fit(V, n_components = 2, max_iter = 200)
+  # new_coefficients <- nmf_model$transform(V_new)
+  # print("New Coefficients (H_new):")
+  # print(new_coefficients)
+  "NMF",
+  fields = list(
+    W = "matrix",  # Basis matrix
+    H = "matrix",  # Coefficient matrix from the training
+    n_components = "numeric"  # Number of components (features)
+  ),
+  
+  methods = list(
+    fit = function(V, n_components, max_iter = 100, tol = 1e-4) {
+      # Validate inputs
+      if (!is.matrix(V)) {
+        stop("Input V must be a matrix.")
+      }
+      
+      # Initialize dimensions and parameters
+      n <- nrow(V)
+      m <- ncol(V)
+      .self$n_components <- n_components
+      
+      # Randomly initialize W and H
+      .self$W <- matrix(runif(n * n_components), nrow = n, ncol = n_components)
+      .self$H <- matrix(runif(n_components * m), nrow = n_components, ncol = m)
+      
+      # Begin iterations
+      for (i in 1:max_iter) {
+        # Update H
+        H_new <- .self$H * ((t(.self$W) %*% V) / (t(.self$W) %*% .self$W %*% .self$H + tol))
+        # Update W
+        W_new <- .self$W * ((V %*% t(.self$H)) / (.self$W %*% .self$H %*% t(.self$H) + tol))
+        
+        # Check for convergence
+        if (sqrt(sum((W_new - .self$W)^2)) < tol && sqrt(sum((H_new - .self$H)^2)) < tol) {
+          message("Convergence achieved after ", i, " iterations.")
+          break
+        }
+        
+        # Update matrices
+        .self$W <- W_new
+        .self$H <- H_new
+      }
+      
+      return(invisible(.self))
+    },
+    
+    transform = function(V_new, max_iter = 100, tol = 1e-4) {
+      if (!is.matrix(V_new)) {
+        stop("Input V_new must be a matrix.")
+      }
+      
+      # Initialize H_new with random values
+      H_new <- matrix(runif(.self$n_components * ncol(V_new)), nrow = .self$n_components, ncol = ncol(V_new))
+      
+      # Update H_new to minimize |V_new - W*H_new|
+      for (i in 1:max_iter) {
+        H_update <- H_new * ((t(.self$W) %*% V_new) / (t(.self$W) %*% .self$W %*% H_new + tol))
+        if (sqrt(sum((H_update - H_new)^2)) < tol) {
+          message("Convergence achieved after ", i, " iterations.")
+          break
+        }
+        H_new <- H_update
+      }
+      
+      return(H_new)
+    },
+    
+    get_features = function() {
+      return(.self$W)
+    },
+    
+    get_coefficients = function() {
+      return(.self$H)
+    }
+  )
+)
+
+
 
