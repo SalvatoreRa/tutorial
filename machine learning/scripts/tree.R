@@ -119,20 +119,127 @@ DecisionTreeClassifier <- setRefClass(
   )
 )
 
+############################################
+#### Decision tree regressor
+###########################################
+
+DecisionTreeRegressor <- setRefClass(
+  "DecisionTreeRegressor",
+  # Generate some example data
+  # set.seed(123)
+  # X <- matrix(rnorm(200), nrow = 100, ncol = 2)
+  # y <- X[, 1] * 2.5 + X[, 2] * -1.5 + rnorm(100)  
+  # Create and fit the decision tree regressor
+  # tree_regressor <- DecisionTreeRegressor$new(max_depth = 3)
+  # tree_regressor$fit(X, y)
+  # Predict using the fitted model
+  # predictions <- tree_regressor$predict(X)
+  # print("Predictions:")
+  # print(predictions)
+  
+  fields = list(
+    max_depth = "numeric",  # Maximum depth of the tree
+    tree = "list"           # The structure of the tree
+  ),
+  
+  methods = list(
+    initialize = function(max_depth = 5) {
+      .self$max_depth <- max_depth
+      .self$tree <- list()  # Ensure this is initialized as an empty list, not NULL
+    },
+    
+    fit = function(X, y) {
+      # Validate inputs
+      if (!is.matrix(X)) {
+        stop("Input X must be a matrix.")
+      }
+      if (!is.numeric(y)) {
+        stop("Input y must be a numeric vector.")
+      }
       
+      # Start building the tree
+      .self$tree <- recursive_split(X, y, depth = 0)
+    },
+    
+    recursive_split = function(X, y, depth) {
+      # Check for stopping conditions
+      if (depth >= .self$max_depth || nrow(X) < 2) {
+        return(list(is_leaf = TRUE, value = mean(y)))
+      }
+      
+      # Initialize variables for the best split
+      best_feature <- NULL
+      best_threshold <- NULL
+      best_score <- Inf
+      
+      # Iterate through each feature
+      for (feature in seq(ncol(X))) {
+        unique_values <- sort(unique(X[, feature]))
+        thresholds <- head(unique_values, -1) + diff(unique_values) / 2
+        
+        for (threshold in thresholds) {
+          left_idx <- X[, feature] <= threshold
+          right_idx <- !left_idx
+          left_y <- y[left_idx]
+          right_y <- y[right_idx]
+          score <- mse_split(left_y, right_y)
+          
+          if (score < best_score) {
+            best_score <- score
+            best_feature <- feature
+            best_threshold <- threshold
+          }
+        }
+      }
+      
+      # Check if a valid split was found
+      if (!is.null(best_feature)) {
+        left_idx <- X[, best_feature] <= best_threshold
+        right_idx <- !left_idx
+        left_tree <- recursive_split(X[left_idx, , drop = FALSE], y[left_idx], depth + 1)
+        right_tree <- recursive_split(X[right_idx, , drop = FALSE], y[right_idx], depth + 1)
+        
+        return(list(is_leaf = FALSE, feature = best_feature, threshold = best_threshold, left = left_tree, right = right_tree))
+      } else {
+        return(list(is_leaf = TRUE, value = mean(y)))
+      }
+    },
+    
+    predict = function(X) {
+      if (is.null(.self$tree)) {
+        stop("The model has not been fitted yet.")
+      }
+      apply(X, 1, function(x) predict_instance(x, .self$tree))
+    },
+    
+    predict_instance = function(x, node) {
+      if (node$is_leaf) {
+        return(node$value)
+      } else {
+        if (x[node$feature] <= node$threshold) {
+          return(predict_instance(x, node$left))
+        } else {
+          return(predict_instance(x, node$right))
+        }
+      }
+    },
+    
+    mse_split = function(left_y, right_y) {
+      n_left <- length(left_y)
+      n_right <- length(right_y)
+      if (n_left == 0 || n_right == 0) return(Inf)
+      
+      mean_left <- mean(left_y)
+      mean_right <- mean(right_y)
+      
+      mse_left <- sum((left_y - mean_left)^2)
+      mse_right <- sum((right_y - mean_right)^2)
+      
+      return((mse_left + mse_right) / (n_left + n_right))
+    }
+  )
+)
 
-# Generate some example data
-set.seed(123)
-X <- matrix(rnorm(200), nrow = 100, ncol = 2)
-y <- ifelse(X[, 1] + X[, 2] > 0, 1, 0)  # Simple linear classification boundary
 
-# Create and fit the decision tree model
-tree_model <- DecisionTreeClassifier$new(max_depth = 3)
-tree_model$fit(X, y)
 
-# Predict using the fitted model
-predictions <- tree_model$predict(X)
-
-print("Predictions:")
-print(predictions)
 
