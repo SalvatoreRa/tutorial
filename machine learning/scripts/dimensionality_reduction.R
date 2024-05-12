@@ -333,5 +333,77 @@ NMF <- setRefClass(
   )
 )
 
+############################################
+#### Truncated SVD
+###########################################
+
+TruncatedSVD <- setRefClass(
+  "TruncatedSVD",
+  # Truncated SVD
+  # Example usage
+  # X <- matrix(rnorm(100), nrow = 10, ncol = 10)
+  # Create the Truncated SVD model and fit it
+  #svd_model <- TruncatedSVD$new()
+  #svd_model$fit(X, n_components = 3)
+  # Transform the data using the fitted model
+  # transformed_X <- svd_model$transform(X)
+  # Retrieve components and singular values
+  # components <- svd_model$get_components()
+  # singular_values <- svd_model$get_singular_values()
+  # print("Transformed Data:")
+  # print(transformed_X)
+  # print("Components (V):")
+  # print(components)
+  # print("Singular Values:")
+  # print(singular_values)
+  fields = list(
+    U = "matrix",         # Left singular vectors
+    S = "matrix",         # Diagonal matrix of singular values
+    V = "matrix",         # Right singular vectors
+    n_components = "numeric"  # Number of components to retain
+  ),
+  
+  methods = list(
+    fit = function(X, n_components) {
+      # Validate inputs
+      if (!is.matrix(X)) {
+        stop("Input X must be a matrix.")
+      }
+      if (n_components > min(nrow(X), ncol(X))) {
+        stop("Number of components cannot exceed the smaller dimension of X.")
+      }
+      
+      # Compute the SVD
+      svd_result <- svd(X)
+      .self$U <- svd_result$u[, 1:n_components, drop = FALSE]
+      .self$S <- diag(svd_result$d[1:n_components])
+      .self$V <- svd_result$v[, 1:n_components, drop = FALSE]
+      .self$n_components <- n_components
+      
+      return(invisible(.self))  # Return self invisibly for method chaining
+    },
+    
+    transform = function(X) {
+      # Check if SVD has been fitted
+      if (is.null(.self$U)) {
+        stop("Truncated SVD has not been fitted yet. Call fit() first.")
+      }
+      # Project X onto the first n_components singular vectors
+      return(X %*% .self$V)
+    },
+    
+    get_components = function() {
+      return(.self$V)
+    },
+    
+    get_singular_values = function() {
+      return(diag(.self$S))
+    }
+  )
+)
+
+
+
+
 
 
