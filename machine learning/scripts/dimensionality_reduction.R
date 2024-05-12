@@ -403,6 +403,90 @@ TruncatedSVD <- setRefClass(
 )
 
 
+############################################
+#### Incremental PCA
+###########################################
+
+IncrementalPCA <- setRefClass(
+  "IncrementalPCA",
+  # Simulate some data
+  # X <- matrix(rnorm(1000), nrow = 100, ncol = 10)
+  # Create the IPCA model
+  # ipca_model <- IncrementalPCA$new()
+  # ipca_model$partial_fit(X[1:50, ], n_components = 3)
+  # ipca_model$partial_fit(X[51:100, ], n_components = 3)
+  # Transform data using the fitted model
+  # transformed_X <- ipca_model$transform(X)
+  # print("Transformed Data:")
+  # print(transformed_X)
+  fields = list(
+    components = "matrix",  # Principal components
+    mean = "numeric",       # Mean of the observed features
+    count = "numeric",      # Number of samples observed
+    explained_variance = "numeric"  # Variance explained by each component
+  ),
+  
+  methods = list(
+    initialize = function() {
+      .self$count <- 0
+    },
+    
+    partial_fit = function(X, n_components) {
+      # Validate input
+      if (!is.matrix(X)) {
+        stop("Input X must be a matrix.")
+      }
+      
+      if (.self$count == 0) {
+        .self$mean <- colMeans(X)
+        .self$components <- matrix(0, ncol(X), n_components)
+      } else {
+        # Update mean and apply to X
+        old_mean <- .self$mean
+        batch_size <- nrow(X)
+        new_mean <- old_mean + colSums(X - old_mean) / (.self$count + batch_size)
+        X <- sweep(X, 2, new_mean)
+        .self$mean <- new_mean
+      }
+      
+      # Update covariance matrix using outer product
+      cov_matrix <- t(X) %*% X / nrow(X)
+      
+      # Update eigen decomposition
+      if (.self$count == 0) {
+        eigen_decomp <- eigen(cov_matrix)
+        .self$components[, 1:n_components] <- eigen_decomp$vectors[, 1:n_components]
+        .self$explained_variance <- eigen_decomp$values[1:n_components]
+      } else {
+        # Incremental update to eigen decomposition could use more sophisticated methods
+        # Here we simply recompute for the example
+        updated_cov_matrix <- cov_matrix * .self$count / (.self$count + nrow(X))
+        eigen_decomp <- eigen(updated_cov_matrix)
+        .self$components[, 1:n_components] <- eigen_decomp$vectors[, 1:n_components]
+        .self$explained_variance <- eigen_decomp$values[1:n_components]
+      }
+      
+      .self$count <- .self$count + nrow(X)
+      
+      return(invisible(.self))
+    },
+    
+    transform = function(X) {
+      # Check if components have been learned
+      if (is.null(.self$components)) {
+        stop("Incremental PCA model has not been fitted yet. Call partial_fit() first.")
+      }
+      
+      # Center the data
+      X_centered <- sweep(X, 2, .self$mean, "-")
+      
+      # Project the data onto the principal components
+      return(X_centered %*% .self$components)
+    }
+  )
+)
+
+
 
 
 
