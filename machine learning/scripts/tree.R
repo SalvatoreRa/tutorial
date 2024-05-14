@@ -329,10 +329,95 @@ predict_tree <- function(tree, newdata) {
 
 
 
-
 ############################################
 #### Random forest regressor
 ###########################################
+
+RandomForestRegressor <- setRefClass(
+  "RandomForestRegressor",
+  # Simulate some data
+  # set.seed(42)  # For reproducibility
+  # X <- matrix(runif(100 * 4), ncol = 4)  
+  # beta <- c(0.5, -1.2, 0.7, 2)        #
+  # y <- X %*% beta + rnorm(100)          
+  # Initialize the random forest regressor with a specified number of trees
+  # regressor <- RandomForestRegressor$new(num_trees = 10)
+  # Fit the model using the training data
+  # regressor$fit(X, y)
+  # Predict using the fitted model on the same data (typically you'd use new, unseen data)
+  # predicted_values <- regressor$predict(X)
+  # Print the predicted values
+  # print(predicted_values)
+  # Get feature importances
+  # importances <- regressor$getFeatureImportances()
+  # print(importances)
+  fields = list(
+    trees = "list",
+    num_trees = "numeric",
+    feature_importances_ = "matrix"
+  ),
+  methods = list(
+    initialize = function(num_trees = 10) {
+      num_trees <<- num_trees
+      trees <<- list()
+      cat("Random Forest Regressor with", num_trees, "trees created.\n")
+    },
+    
+    fit = function(X, y) {
+      n <- nrow(X)
+      m <- ncol(X)
+      
+      # Initialize feature importance matrix
+      feature_importances_ <<- matrix(0, ncol = m, nrow = num_trees)
+      
+      for (i in 1:num_trees) {
+        
+        idx <- sample(1:n, replace = TRUE)
+        Xb <- X[idx, ]
+        yb <- y[idx]
+        
+
+        tree <- simple_regression_tree(Xb, yb, m)
+        trees[[i]] <<- tree
+        
+        # Collect feature importance (simple counting of features used in splits)
+        for (f in tree$features_used) {
+          feature_importances_[i, f] <<- feature_importances_[i, f] + 1
+        }
+      }
+    },
+    
+    predict = function(newdata) {
+      predictions <- sapply(trees, function(tree) predict_tree(tree, newdata))
+      rowMeans(predictions)  # Average predictions from each tree
+    },
+    
+    getFeatureImportances = function() {
+      rowMeans(feature_importances_)
+    }
+  )
+)
+
+# Helper function to build a simple regression tree
+simple_regression_tree <- function(X, y, m) {
+  # Assume the tree is a stump, selecting one random feature and a random split
+  feature_index <- sample(1:ncol(X), 1)
+  split_value <- median(X[, feature_index])
+  left <- y[X[, feature_index] <= split_value]
+  right <- y[X[, feature_index] > split_value]
+  return(list(
+    split_feature = feature_index,
+    split_value = split_value,
+    left_value = mean(left),
+    right_value = mean(right),
+    features_used = feature_index
+  ))
+}
+
+# Helper function to predict with a regression tree
+predict_tree <- function(tree, newdata) {
+  ifelse(newdata[, tree$split_feature] <= tree$split_value, tree$left_value, tree$right_value)
+}
 
 
 
