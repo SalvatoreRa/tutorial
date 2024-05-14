@@ -240,6 +240,102 @@ DecisionTreeRegressor <- setRefClass(
   )
 )
 
+############################################
+#### Random Forest Classifier
+###########################################
+
+RandomForestClassifier <- setRefClass(
+  # classifier <- RandomForestClassifier$new()
+  # Data simulation
+  # set.seed(123)
+  # X <- matrix(rnorm(100 * 4), ncol = 4)
+  # y <- sample(0:1, 100, replace = TRUE)
+  # Fit the model
+  # classifier$fit(X, y)
+  # Predict
+  # predictions <- classifier$predict(X)
+  # Get feature importances
+  # importances <- classifier$getFeatureImportances()
+  # print(predictions)
+  # print(importances)
+  "RandomForestClassifier",
+  fields = list(
+    trees = "list",
+    num_trees = "numeric",
+    feature_importances_ = "matrix"
+  ),
+  methods = list(
+    initialize = function(num_trees = 10) {
+      num_trees <<- num_trees
+      trees <<- list()
+      cat("Random Forest Classifier with", num_trees, "trees created.\n")
+    },
+    
+    fit = function(X, y) {
+      n <- nrow(X)
+      m <- ncol(X)
+      
+      # Initialize feature importance matrix
+      feature_importances_ <<- matrix(0, ncol = m, nrow = num_trees)
+      
+      for (i in 1:num_trees) {
+        # Bootstrap sample
+        idx <- sample(1:n, replace = TRUE)
+        Xb <- X[idx, ]
+        yb <- y[idx]
+        
+        # Build a tree (simple decision tree for demonstration)
+        tree <- simple_decision_tree(Xb, yb, m)
+        trees[[i]] <<- tree
+        
+        # Collect feature importance (simple counting of features used in splits)
+        for (f in tree$features_used) {
+          feature_importances_[i, f] <<- feature_importances_[i, f] + 1
+        }
+      }
+    },
+    
+    predict = function(newdata) {
+      predictions <- sapply(trees, function(tree) predict_tree(tree, newdata))
+      apply(predictions, 2, function(p) names(which.max(table(p))))
+    },
+    
+    getFeatureImportances = function() {
+      rowMeans(feature_importances_)
+    }
+  )
+)
+
+# Helper function to build a simple decision tree (very basic)
+simple_decision_tree <- function(X, y, m) {
+  # Assume the tree is a stump, selecting one random feature and a random split
+  feature_index <- sample(1:ncol(X), 1)
+  split_value <- median(X[, feature_index])
+  left <- y[X[, feature_index] <= split_value]
+  right <- y[X[, feature_index] > split_value]
+  return(list(
+    split_feature = feature_index,
+    split_value = split_value,
+    left_class = ifelse(sum(left) > length(left)/2, 1, 0),
+    right_class = ifelse(sum(right) > length(right)/2, 1, 0),
+    features_used = feature_index
+  ))
+}
+
+# Helper function to predict with a tree
+predict_tree <- function(tree, newdata) {
+  ifelse(newdata[, tree$split_feature] <= tree$split_value, tree$left_class, tree$right_class)
+}
+
+
+
+
+############################################
+#### Random forest regressor
+###########################################
+
+
+
 
 
 
