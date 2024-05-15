@@ -420,6 +420,119 @@ predict_tree <- function(tree, newdata) {
 }
 
 
+############################################
+#### Adaboost classifier
+###########################################
+
+AdaBoostClassifier <- setRefClass(
+  "AdaBoostClassifier",
+  # Example usage of AdaBoostClassifier
+  # Simulate some binary classification data
+  #set.seed(123)
+  # n <- 100
+  # p <- 2
+  # X <- matrix(runif(n * p), ncol = p)
+  # y <- ifelse(X[, 1] + X[, 2] > 1, 1, -1)  # Simple linearly separable data
+  # Create an instance of AdaBoostClassifier
+  # classifier <- AdaBoostClassifier$new(num_rounds = 10)
+  # Fit the model
+  # classifier$fit(X, y)
+  # Predict on the same dataset (usually should be on new data)
+  # predictions <- classifier$predict(X)
+  # Evaluate the predictions
+  # table(Predicted = predictions, Actual = y)
+  fields = list(
+    classifiers = "list",
+    alphas = "numeric",
+    num_rounds = "numeric"
+  ),
+  methods = list(
+    initialize = function(num_rounds = 10) {
+      num_rounds <<- num_rounds
+      classifiers <<- list()
+      alphas <<- numeric(num_rounds)
+      cat("AdaBoost Classifier with", num_rounds, "rounds created.\n")
+    },
+    
+    fit = function(X, y) {
+      if(any(is.na(X)) || any(is.na(y))) {
+        stop("Data contains NA values. Please clean the data before fitting the model.")
+      }
+      n <- nrow(X)
+      weights <- rep(1 / n, n)  # Initialize weights equally
+      for (i in 1:num_rounds) {
+        # Train a decision stump
+        stump <- train_decision_stump(X, y, weights)
+        # Predictions and error calculation
+        predictions <- sapply(1:n, function(j) predict_stump(stump, X[j, ]))
+        error <- sum(weights * (predictions != y))
+        if (error > 0.5) break  # If error is greater than 50%, break the loop
+        
+        # Alpha calculation
+        alpha <- 0.5 * log((1 - error) / error)
+        alphas[i] <<- alpha
+        classifiers[[i]] <<- stump
+        
+        # Update weights
+        weights <- weights * exp(-alpha * y * predictions)
+        weights <- weights / sum(weights)  # Normalize weights
+      }
+    },
+    
+    predict = function(newdata) {
+      if (!is.matrix(newdata)) {
+        newdata <- as.matrix(newdata)
+      }
+      if(any(is.na(newdata))) {
+        stop("Prediction data contains NA values.")
+      }
+      
+      final_predictions <- apply(newdata, 1, function(x) {
+        sum(sapply(1:length(classifiers), function(i) {
+          alphas[i] * predict_stump(classifiers[[i]], x)
+        }))
+      })
+      sign(final_predictions)
+    }
+  )
+)
+
+
+train_decision_stump <- function(X, y, weights) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  best_inversion <- NULL
+  min_error <- Inf
+  
+
+  for (f in 1:ncol(X)) {
+    feature_values <- X[, f]
+    thresholds <- sort(unique(feature_values))
+    for (t in thresholds) {
+      for (inversion in c(1, -1)) {
+        predictions <- ifelse(feature_values * inversion < t * inversion, 1, -1)
+        error <- sum(weights * (predictions != y))
+        if (error < min_error) {
+          best_feature <- f
+          best_threshold <- t
+          best_inversion <- inversion
+          min_error <- error
+        }
+      }
+    }
+  }
+  return(list(feature = best_feature, threshold = best_threshold, inversion = best_inversion))
+}
+
+
+predict_stump <- function(stump, x) {
+  if (is.na(x[stump$feature])) {
+    stop("Missing value detected in feature data during prediction.")
+  }
+  ifelse(x[stump$feature] * stump$inversion < stump$threshold * stump$inversion, 1, -1)
+}
+
+
 
 
 
