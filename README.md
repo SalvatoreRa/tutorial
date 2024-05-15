@@ -91,7 +91,8 @@ year = {2024}
 Here is an index of the different sections and subsections:
 
 * [Tutorials on machine learning](#Tutorials-on-machine-learning)
-    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis) - An introduction to how to use machine learning for image medical analysis
+    * [Introduction to medical image analysis](#Introduction-to-medical-image-analysis) - An introduction to how to use machine learning for image medical analysis. Articles and tutorials in Python.
+    * [Graph machine learning](#Graph-machine-learning) - A series dedicated to graphs: what they are, how you can work with them, and which algorithms and tasks you can do. Articles and tutorials in Python.
 * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
     * [Artificial intelligence's bases](#Artificial-intelligence's-bases) - detailed reviews of topics related to the bases of artificial intelligence
     * [Tabular learning](#Tabular-learning) - A series dedicated to tabular learning and the related open questions with a particular focus on tabular deep learning
@@ -124,6 +125,15 @@ This series of tutorials is focused on classical machine learning (regression, c
 | [A Guide to Geometric Transformation with Python](https://python.plainenglish.io/a-guide-to-geometric-transformation-with-python-2685304fb478) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Geometric_transformation.ipynb) | Why the need for Photoshop when you can have fun with Python|
 
 &nbsp;
+
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
+
+## Graph machine learning
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [Graph ML: A Gentle Introduction to Graphs](https://python.plainenglish.io/graph-ml-a-gentle-introduction-to-graphs-25b332d20e98) | -- |A deep introduction to these mysterious creatures. |
+| [Graph ML: fantastic graphs and where to find them](https://python.plainenglish.io/graph-ml-fantastic-graphs-and-where-to-find-them-337426ad17bf) | -- |Why to use a graph? which application? |
 
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
