@@ -187,6 +187,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [How LLMs Can Fuel Gene Editing Revolution](https://towardsdatascience.com/how-llms-can-fuel-gene-editing-revolution-1b15663f697c) | -- | Gene editing could cure most diseases, and LLMs can make it a reality sooner|
 | [AI’s Emerging Role in Disease Detection from Human Speech](https://medium.com/towards-data-science/ais-emerging-role-in-disease-detection-from-human-speech-f24e6d49d25c) | -- |Disease prediction from speech can be the next revolution in healthcare|
 |[Unlocking the Dance of Proteins: AlphaFold meets Diffusion](https://levelup.gitconnected.com/unlocking-the-dance-of-proteins-alphafold-meets-diffusion-571141004bc4)| -- |AlphaFlow Makes Protein Structure PredictionFrom Static to Dynamic |
 |[Beyond Words: Unraveling Speech from Brain Waves with AI](https://levelup.gitconnected.com/beyond-words-unraveling-speech-from-brain-waves-with-ai-7ff81862dfff)| -- |AI is capable of decoding speech from non-invasive brain recordings|
