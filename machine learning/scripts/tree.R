@@ -532,6 +532,83 @@ predict_stump <- function(stump, x) {
   ifelse(x[stump$feature] * stump$inversion < stump$threshold * stump$inversion, 1, -1)
 }
 
+############################################
+#### Adaboost Regressor
+###########################################
+
+train_regression_stump <- function(X, y, weights) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  best_split <- list(left_value = NULL, right_value = NULL)
+  min_error <- Inf
+  
+  for (f in 1:ncol(X)) {
+    feature_values <- X[, f]
+    thresholds <- quantile(feature_values, probs = seq(0, 1, length.out = 10), na.rm = TRUE) # Handling potential NAs
+    for (t in thresholds) {
+      left_indices <- which(feature_values <= t)
+      right_indices <- which(feature_values > t)
+      if (length(left_indices) == 0 || length(right_indices) == 0) next # Skip this split if any side is empty
+      left_value <- weighted_mean(y[left_indices], weights[left_indices])
+      right_value <- weighted_mean(y[right_indices], weights[right_indices])
+      predictions <- ifelse(feature_values <= t, left_value, right_value)
+      error <- sum(weights * (predictions - y)^2)
+      if (error < min_error && !is.na(error)) { # Check for NA in error
+        min_error <- error
+        best_feature <- f
+        best_threshold <- t
+        best_split$left_value <- left_value
+        best_split$right_value <- right_value
+      }
+    }
+  }
+  list(feature = best_feature, threshold = best_threshold, split = best_split)
+}
+
+AdaBoostRegressor$methods(
+  # Generate some data
+  # set.seed(123)
+  # X <- matrix(runif(100 * 2), ncol = 2)
+  # y <- X[,1] * 2 + X[,2] * 3 + rnorm(100)
+  # Create an AdaBoostRegressor instance
+  # regressor <- AdaBoostRegressor$new(num_rounds = 10)
+  # Fit the model
+  # regressor$fit(X, y)
+  # Predict on new data
+  # new_X <- matrix(runif(10 * 2), ncol = 2)
+  # predictions <- regressor$predict(new_X)
+  # Show predictions
+  # print(predictions)
+  
+  fit = function(X, y) {
+    if(any(is.na(X)) || any(is.na(y))) {
+      stop("Data contains NA values. Please clean the data before fitting the model.")
+    }
+    n <- nrow(X)
+    weights <- rep(1 / n, n)  # Initialize weights equally
+    for (i in 1:num_rounds) {
+      # Train a simple regression stump
+      stump <- train_regression_stump(X, y, weights)
+      predictions <- predict_regression_stump(stump, X)
+      errors <- abs(predictions - y)
+      weighted_error <- sum(weights * errors) / sum(weights)  # Normalizing error
+      
+      # Avoid exact 0 or 1 errors
+      weighted_error <- min(max(weighted_error, 1e-10), 1 - 1e-10)
+      
+      # Calculate alpha
+      alpha <- 0.5 * log((1 - weighted_error) / weighted_error)
+      alphas[i] <<- alpha
+      regressors[[i]] <<- stump
+      
+      # Update weights, using alpha
+      weights <- weights * exp(-alpha * (predictions - y)^2)
+      weights <- weights / sum(weights)  # Normalize weights
+    }
+  }
+)
+
+
 
 
 
