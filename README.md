@@ -266,6 +266,10 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [GPT-4O, One Model is All You Need](https://ai.plainenglish.io/gpt-4o-one-model-is-all-you-need-933805b5cc00) | -- | The best part is it should be free for everyone|
+| [The AI Student Dilemma: Trust Yourself Or The Book?](https://levelup.gitconnected.com/the-ai-student-dilemma-trust-yourself-or-the-book-4aee1250718a) | -- | LLMs have to decide if trust their knowledge or additional context. What will they choose?|
+| [When More is More? When For an LLM is Enough?](https://pub.towardsai.net/when-more-is-more-when-for-an-llm-is-enough-9488f54371ee) | -- |In-context length is the LLM’s secret weapon, but with long-context is all changing |
+| [OpenELM Can Be The End of Siri](https://ai.plainenglish.io/openelm-can-be-the-end-of-siri-15b7b4aa83ca) | -- | Apple thinks the future of generative AI is on devices, but how?|
 | [Infini-attention: Can we Really have an Infinite Context Length?](https://levelup.gitconnected.com/infini-attention-can-we-really-have-an-infinite-context-length-ff7cb25ea6a3) | -- | Google believes that can we have an LLM with an infinite context length|
 | [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199) | --|Is it really true that long-context LLMs are killing the RAG? |
 | [LLaMa 3 is Here. Will It Be The Winning Animal in The Generative AI Zoo.](https://levelup.gitconnected.com/llama-3-is-here-will-it-be-the-winning-animal-in-the-generative-ai-zoo-9e94af73588f) | -- |LLaMA 3 is in early release, but the new META’s animal has fierce competition now |
