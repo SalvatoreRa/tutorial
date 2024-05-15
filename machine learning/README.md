@@ -54,6 +54,8 @@ You can open a Github Issue for any request, comment or any issue you encounter.
 | [Harnessing the power of colors in Python](https://python.plainenglish.io/harnessing-the-power-of-colors-in-python-92bf6fe175c9) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Colors.ipynb) | Color images have more hidden information than you think|
 | [Image Segmentation with Simple and Elegant Methods](https://medium.com/python-in-plain-english/image-segmentation-with-simple-and-elegant-methods-2c5920024b61) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Pixel_classification.ipynb) | Why the need for a deep learning model with hundreds of layers? Sometimes, there are simpler and faster models.|
 | [A Guide to Geometric Transformation with Python](https://python.plainenglish.io/a-guide-to-geometric-transformation-with-python-2685304fb478) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Geometric_transformation.ipynb) | Why the need for Photoshop when you can have fun with Python|
+| [Graph ML: A Gentle Introduction to Graphs](https://python.plainenglish.io/graph-ml-a-gentle-introduction-to-graphs-25b332d20e98) | -- |A deep introduction to these mysterious creatures. |
+| [Graph ML: fantastic graphs and where to find them](https://python.plainenglish.io/graph-ml-fantastic-graphs-and-where-to-find-them-337426ad17bf) | -- |Why to use a graph? which application? |
 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local index](#Index)
