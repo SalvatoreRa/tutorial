@@ -709,5 +709,112 @@ predict_stump <- function(X, stump) {
   return(ifelse(feature_values > stump$threshold, 1, -1))
 }
 
+############################################
+#### Gradient Boosting Regressor
+###########################################
+
+GradientBoostingRegressor <- setRefClass(
+  "GradientBoostingRegressor",
+  # Simulated Data for Regression
+  # set.seed(102)
+  # X <- matrix(rnorm(200 * 2), ncol = 2)
+  # y <- X[, 1] * 2.5 + X[, 2] * -1.5 + rnorm(200)
+  # Create the regressor
+  # gb_regressor <- GradientBoostingRegressor$new(num_trees = 50, learning_rate = 0.1)
+  # Fit the regressor
+  # gb_regressor$fit(X, y)
+  # Make predictions
+  # predictions <- gb_regressor$predict(X)
+  # Evaluate predictions (for example, by calculating the RMSE)
+  # rmse <- sqrt(mean((predictions - y)^2))
+  # print(rmse)
+  
+  fields = list(
+    base_prediction = "numeric",
+    stumps = "list",
+    learning_rate = "numeric",
+    num_trees = "numeric"
+  ),
+  methods = list(
+    initialize = function(num_trees = 100, learning_rate = 0.1) {
+      num_trees <<- num_trees
+      learning_rate <<- learning_rate
+      stumps <<- list()
+      cat("Gradient Boosting Regressor initialized with", num_trees, "trees.\n")
+    },
+    
+    fit = function(X, y) {
+      n <- nrow(X)
+      # Start with the mean of the target as the initial prediction
+      base_prediction <<- mean(y)
+      current_predictions <- rep(base_prediction, n)
+      
+      for (i in 1:num_trees) {
+        # Calculate the residuals as new target
+        residuals <- y - current_predictions
+        
+        # Train a stump on the residuals
+        stump <- find_best_stump(X, residuals)
+        stump_predictions <- predict_stump(X, stump)
+        
+        # Update the model with this stump's predictions
+        current_predictions <- current_predictions + learning_rate * stump_predictions
+        
+        # Store the stump
+        stumps[[i]] <<- list(stump = stump, learning_rate = learning_rate)
+      }
+    },
+    
+    predict = function(newdata) {
+      # Start with the base prediction
+      ensemble_predictions <- rep(base_prediction, nrow(newdata))
+      
+      # Add the contribution of each stump
+      for (stump_info in stumps) {
+        stump_predictions <- predict_stump(newdata, stump_info$stump)
+        ensemble_predictions <- ensemble_predictions + stump_info$learning_rate * stump_predictions
+      }
+      
+      return(ensemble_predictions)
+    }
+  )
+)
+
+# Helper function to find the best stump
+find_best_stump <- function(X, residuals) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  min_error <- Inf
+  
+  # Iterate over each feature to find the best split
+  for (feature in 1:ncol(X)) {
+    feature_values <- X[, feature]
+    for (threshold in unique(feature_values)) {
+      predictions_left <- mean(residuals[feature_values <= threshold])
+      predictions_right <- mean(residuals[feature_values > threshold])
+      predictions <- ifelse(feature_values <= threshold, predictions_left, predictions_right)
+      error <- sum((predictions - residuals)^2)
+      
+      if (error < min_error) {
+        min_error <- error
+        best_feature <- feature
+        best_threshold <- threshold
+      }
+    }
+  }
+  
+  list(feature = best_feature, threshold = best_threshold)
+}
+
+# Helper function to predict using a stump
+predict_stump <- function(X, stump) {
+  feature_values <- X[, stump$feature]
+  ifelse(feature_values <= stump$threshold,
+         mean(X[feature_values <= stump$threshold, stump$feature]),
+         mean(X[feature_values > stump$threshold, stump$feature]))
+}
+
+
+
 
 
