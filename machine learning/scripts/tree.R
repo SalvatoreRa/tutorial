@@ -608,9 +608,106 @@ AdaBoostRegressor$methods(
   }
 )
 
+############################################
+#### Gradient Boosting classifier
+###########################################
 
+GradientBoostingClassifier <- setRefClass(
+  "GradientBoostingClassifier",
+  # Simulated Data
+  # set.seed(101)
+  # X <- matrix(rnorm(100 * 3), ncol = 3)
+  # y <- ifelse(X[, 1] + X[, 2] + X[, 3]> 0, 1, 0)
+  # Create Classifier
+  # gb_classifier <- GradientBoostingClassifier$new(num_trees = 10, learning_rate = 0.1)
+  # Fit Classifier
+  # gb_classifier$fit(X, y)
+  # Predict
+  # predictions <- gb_classifier$predict(X)
+  # Evaluate performance
+  # table(Predicted = predictions, Actual = y)
+  fields = list(
+    base_prediction = "numeric",
+    stumps = "list",
+    learning_rate = "numeric",
+    num_trees = "numeric"
+  ),
+  methods = list(
+    initialize = function(num_trees = 10, learning_rate = 0.1) {
+      num_trees <<- num_trees
+      learning_rate <<- learning_rate
+      stumps <<- list()
+      cat("Gradient Boosting Classifier initialized with", num_trees, "trees.\n")
+    },
+    
+    fit = function(X, y) {
+      n <- nrow(X)
+      # Initialize predictions to the mean of y
+      y_bin <- ifelse(y == 1, 1, -1)  # Binary encoding as 1 and -1
+      base_prediction <<- mean(y_bin)
+      current_predictions <- rep(base_prediction, n)
+      
+      for (i in 1:num_trees) {
+        # Calculate residuals
+        residuals <- y_bin - current_predictions
+        
+        # Fit a stump to the residuals
+        stump <- find_best_stump(X, residuals)
+        stump_predictions <- predict_stump(X, stump)
+        
+        # Update predictions
+        current_predictions <- current_predictions + learning_rate * stump_predictions
+        
+        # Store the stump and its associated learning rate
+        stumps[[i]] <<- list(stump = stump, learning_rate = learning_rate)
+      }
+    },
+    
+    predict = function(newdata) {
+      # Start with the base prediction
+      ensemble_predictions <- rep(base_prediction, nrow(newdata))
+      
+      # Add contributions from each stump
+      for (stump_info in stumps) {
+        stump_predictions <- predict_stump(newdata, stump_info$stump)
+        ensemble_predictions <- ensemble_predictions + stump_info$learning_rate * stump_predictions
+      }
+      
+      # Return the sign of the ensemble predictions as class labels
+      return(ifelse(ensemble_predictions >= 0, 1, 0))
+    }
+  )
+)
 
+# Helper function to find the best stump
+find_best_stump <- function(X, residuals) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  best_error <- Inf
+  
+  # Iterate over each feature to find the best split
+  for (feature in 1:ncol(X)) {
+    feature_values <- X[, feature]
+    for (threshold in unique(feature_values)) {
+      predictions <- ifelse(feature_values > threshold, 1, -1)
+      error <- sum((predictions - residuals)^2)
+      
+      if (error < best_error) {
+        best_error <- error
+        best_feature <- feature
+        best_threshold <- threshold
+      }
+    }
+  }
+  
+  list(feature = best_feature, threshold = best_threshold)
+}
 
+# Helper function to predict using a stump
+predict_stump <- function(X, stump) {
+  feature_values <- X[, stump$feature]
+  return(ifelse(feature_values > stump$threshold, 1, -1))
+}
 
 
 
