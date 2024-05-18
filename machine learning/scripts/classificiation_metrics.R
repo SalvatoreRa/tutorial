@@ -86,5 +86,40 @@ compute_auc <- function(true_values, predicted_probs) {
 }
 
 
+############################################
+#### Balanced accuracy
+###########################################
+
+balanced_accuracy <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(0, 1, 0, 0, 1, 0)
+  # predicted_values <- c(0, 1, 0, 0, 0, 1)
+  # Calculate Balanced Accuracy
+  # balanced_acc_value <- balanced_accuracy(true_values, predicted_values)
+  # print(paste("Balanced Accuracy:", balanced_acc_value))
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  # Convert true values and predicted values to factors to ensure that all levels are accounted for
+  true_values <- factor(true_values, levels = c(0, 1))
+  predicted_values <- factor(predicted_values, levels = c(0, 1))
+  
+  # Calculate confusion matrix
+  cm <- table(True = true_values, Predicted = predicted_values)
+  
+  # Calculate recall for each class
+  recall_pos <- cm[2, 2] / sum(cm[2, ])  # True Positives / (True Positives + False Negatives)
+  recall_neg <- cm[1, 1] / sum(cm[1, ])  # True Negatives / (True Negatives + False Positives)
+  
+  # Calculate balanced accuracy
+  balanced_acc <- (recall_pos + recall_neg) / 2
+  
+  return(balanced_acc)
+}
+
+
+
+
 
 
