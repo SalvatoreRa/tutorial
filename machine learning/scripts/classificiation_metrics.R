@@ -354,6 +354,82 @@ compute_fbeta_score <- function(true_values, predicted_values, beta) {
 }
 
 
+############################################
+#### Jaccard score
+###########################################
+
+compute_jaccard_score <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(0, 1, 1, 1)
+  # predicted_values <- c(0, 1, 1, 1)
+  # Calculate the Jaccard Score
+  # jaccard_score <- compute_jaccard_score(true_values, predicted_values)
+  # print(paste("Jaccard Score:", jaccard_score))
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  # Convert to factors to ensure all possible outcomes (0 and 1) are included
+  true_values <- factor(true_values, levels = c(0, 1))
+  predicted_values <- factor(predicted_values, levels = c(0, 1))
+  
+  # Create a confusion matrix
+  cm <- table(Predicted = predicted_values, Actual = true_values)
+  
+  # Ensure all elements exist in the matrix to prevent errors in the calculations
+  if (!all(c("0", "1") %in% rownames(cm))) {
+    cm <- addmargins(cm)
+  }
+  if (!all(c("0", "1") %in% colnames(cm))) {
+    cm <- addmargins(cm)
+  }
+  
+  # Calculate intersection (true positives) and union (true positives + false positives + false negatives)
+  true_positives <- cm[2, 2]
+  false_positives <- cm[2, 1]
+  false_negatives <- cm[1, 2]
+  
+  intersection_size <- true_positives
+  union_size <- true_positives + false_positives + false_negatives
+  
+  # Calculate Jaccard score
+  if (union_size == 0) {
+    return(0)  # Handle the case where there are no positive predictions or actuals
+  }
+  
+  jaccard_score <- intersection_size / union_size
+  
+  return(jaccard_score)
+}
+
+
+############################################
+#### Log loss or cross entropy loss
+###########################################
+
+compute_cross_entropy_loss <- function(true_values, predicted_probs) {
+  # Example true binary outcomes and predicted probabilities
+  # true_values <- c(0, 0, 1, 1)
+  # predicted_probs <- c(0.05, 0.1, 0.8, 0.95)
+  # Calculate the Cross-Entropy Loss
+  # cross_entropy_loss <- compute_cross_entropy_loss(true_values, predicted_probs)
+  # print(paste("Cross-Entropy Loss:", cross_entropy_loss))
+  if (length(true_values) != length(predicted_probs)) {
+    stop("True values and predicted probabilities must have the same length")
+  }
+  
+  # Ensure all probabilities are valid
+  if (any(predicted_probs < 0 | predicted_probs > 1)) {
+    stop("Predicted probabilities must be between 0 and 1")
+  }
+  
+  # Compute the cross-entropy loss
+  epsilon <- 1e-15  # A small number to prevent log(0)
+  predicted_probs <- pmax(pmin(predicted_probs, 1 - epsilon), epsilon)  # Clipping for stability in log calculations
+  loss <- -mean(true_values * log(predicted_probs) + (1 - true_values) * log(1 - predicted_probs))
+  
+  return(loss)
+}
 
 
 
