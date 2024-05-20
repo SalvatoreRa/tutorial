@@ -432,6 +432,48 @@ compute_cross_entropy_loss <- function(true_values, predicted_probs) {
 }
 
 
+############################################
+#### Matthews correlation coefficient (MCC)
+###########################################
+
+compute_mcc <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(+1, +1, +1, -1)
+  # predicted_values <- c(+1, -1, +1, +1)
+  # mcc_value <- compute_mcc(true_values, predicted_values)
+  # print(paste("Matthews Correlation Coefficient (MCC):", mcc_value))
+  
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  # Convert true_values and predicted_values to factor ensuring both have two levels: 1 and -1
+  true_values <- factor(true_values, levels = c(-1, 1))
+  predicted_values <- factor(predicted_values, levels = c(-1, 1))
+  
+  # Create a confusion matrix
+  cm <- table(Predicted = predicted_values, Actual = true_values)
+  
+  # Extract confusion matrix components
+  tp <- ifelse(!is.na(cm["1", "1"]), cm["1", "1"], 0)
+  tn <- ifelse(!is.na(cm["-1", "-1"]), cm["-1", "-1"], 0)
+  fp <- ifelse(!is.na(cm["1", "-1"]), cm["1", "-1"], 0)
+  fn <- ifelse(!is.na(cm["-1", "1"]), cm["-1", "1"], 0)
+  
+  # Compute Matthews correlation coefficient
+  numerator <- (tp * tn) - (fp * fn)
+  denominator <- sqrt((tp + fp) * (tp + fn) * (tn + fp) * (tn + fn))
+  
+  # Handle cases where denominator is 0 to avoid division by zero
+  if (denominator == 0) {
+    return(0)
+  }
+  
+  mcc <- numerator / denominator
+  
+  return(mcc)
+}
+
 
 
 
