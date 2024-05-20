@@ -475,6 +475,57 @@ compute_mcc <- function(true_values, predicted_values) {
 }
 
 
+############################################
+#### precision-recall curve
+###########################################
+
+compute_precision_recall_curve <- function(true_values, predicted_probs) {
+  
+  # Example true binary outcomes and predicted probabilities
+  # true_values <- c(0, 0, 1, 1, 1)
+  # predicted_probs <- c(0.1, 0.2, 0.8, 0.4, 0.95)
+  # Compute the Precision-Recall Curve
+  # pr_curve <- compute_precision_recall_curve(true_values, predicted_probs)
+  # Plot the Precision-Recall Curve using base R plotting
+  # plot(pr_curve$recalls, pr_curve$precisions, type = 'b', col = 'blue',
+  #     xlab = 'Recall', ylab = 'Precision', main = 'Precision-Recall Curve')
+  # points(pr_curve$recalls, pr_curve$precisions, pch = 19, col = 'red')
+  
+  
+  if (length(true_values) != length(predicted_probs)) {
+    stop("True values and predicted probabilities must have the same length")
+  }
+  
+  # Combine true values and predicted probabilities in a data frame, sort by predicted_probs descending
+  data <- data.frame(true_values, predicted_probs)
+  data <- data[order(-data$predicted_probs),]
+  
+  # Initialize vectors to store precision and recall values
+  precisions <- numeric()
+  recalls <- numeric()
+  thresholds <- unique(data$predicted_probs)
+  
+  # Calculate precision and recall for each threshold
+  for (threshold in thresholds) {
+    # Classify predictions based on current threshold
+    predicted_values <- ifelse(data$predicted_probs >= threshold, 1, 0)
+    
+    # Calculate confusion matrix components
+    tp <- sum(predicted_values == 1 & data$true_values == 1)
+    fp <- sum(predicted_values == 1 & data$true_values == 0)
+    fn <- sum(predicted_values == 0 & data$true_values == 1)
+    
+    # Calculate precision and recall
+    precision <- if (tp + fp == 0) 1 else tp / (tp + fp)
+    recall <- if (tp + fn == 0) 0 else tp / (tp + fn)
+    
+    # Store results
+    precisions <- c(precisions, precision)
+    recalls <- c(recalls, recall)
+  }
+  
+  return(list(precisions = precisions, recalls = recalls, thresholds = thresholds))
+}
 
 
 
