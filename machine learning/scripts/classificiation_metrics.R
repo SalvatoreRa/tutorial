@@ -118,6 +118,107 @@ balanced_accuracy <- function(true_values, predicted_values) {
   return(balanced_acc)
 }
 
+############################################
+#### Brier score
+###########################################
+
+brier_score_loss <- function(true_values, predicted_probs) {
+  # Example true binary outcomes and predicted probabilities
+  # true_values <- c(0, 1, 1, 0)
+  # predicted_probs <- c(0.1, 0.9, 0.8, 0.3)
+  # Calculate Brier score loss
+  # brier_score_value <- brier_score_loss(true_values, predicted_probs)
+  # print(paste("Brier Score Loss:", brier_score_value))
+  if (length(true_values) != length(predicted_probs)) {
+    stop("True values and predicted probabilities must have the same length")
+  }
+  
+  # Ensure true values are either 0 or 1
+  if (!all(true_values %in% c(0, 1))) {
+    stop("True values should only contain 0s and 1s")
+  }
+  
+  # Compute the Brier score loss
+  n <- length(true_values)
+  brier_score <- sum((predicted_probs - true_values)^2) / n
+  
+  return(brier_score)
+}
+
+############################################
+#### Cohen Kappa
+###########################################
+
+cohen_kappa <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(2, 0, 2, 2, 0, 2)
+  # predicted_values <- c(0, 0, 2, 2, 0, 2)
+  # Calculate Cohen's Kappa
+  # kappa_value <- cohen_kappa(true_values, predicted_values)
+  # print(paste("Cohen's Kappa:", kappa_value))
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  table <- table(true_values, predicted_values)
+  
+  # Total number of observations
+  n <- sum(table)
+  
+  # Sum of products of marginals
+  sum_prod_marginals <- sum(rowSums(table) * colSums(table))
+  
+  # Sum of squared table
+  sum_squared_table <- sum(table^2)
+  
+  # Calculate observed agreement
+  observed_agreement <- (n * sum_squared_table - sum_prod_marginals) / n
+  
+  # Calculate expected agreement
+  expected_agreement <- (sum_prod_marginals - n^2) / n
+  
+  # Calculate Cohen's Kappa
+  kappa <- (observed_agreement - expected_agreement) / (n^2 - expected_agreement)
+  
+  return(kappa)
+}
+
+############################################
+#### Confusion matrix
+###########################################
+
+compute_confusion_matrix <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(0, 0, 1, 1, 1, 0)
+  # predicted_values <- c(0, 1, 1, 0, 1, 0)
+  # Calculate the confusion matrix
+  # conf_matrix <- compute_confusion_matrix(true_values, predicted_values)
+  # print(conf_matrix)
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  # Convert to factors to ensure all possible outcomes (0 and 1) are included
+  true_values <- factor(true_values, levels = c(0, 1))
+  predicted_values <- factor(predicted_values, levels = c(0, 1))
+  
+  # Create the confusion matrix
+  matrix <- table(Predicted = predicted_values, Actual = true_values)
+  
+  # Reorder the matrix to conventional format if necessary
+  if (!identical(dimnames(matrix)$Predicted, c("0", "1"))) {
+    matrix <- matrix[c("0", "1"), c("0", "1"), drop = FALSE]
+  }
+  
+  return(matrix)
+}
+
+
+
+
+
+
+
 
 
 
