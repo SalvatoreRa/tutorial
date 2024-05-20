@@ -262,6 +262,97 @@ compute_error_rates <- function(true_values, predicted_probs, thresholds) {
   return(list(thresholds = thresholds, false_acceptance_rates = false_acceptance_rates, false_rejection_rates = false_rejection_rates))
 }
 
+############################################
+#### F1 score
+###########################################
+
+compute_f1_score <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(0, 1, 1, 1)
+  # predicted_values <- c(0, 1, 1, 1)
+  # Calculate the F1 Score
+  # f1_score <- compute_f1_score(true_values, predicted_values)
+  # print(paste("F1 Score:", f1_score))
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  # Convert to factors to ensure all possible outcomes (0 and 1) are included
+  true_values <- factor(true_values, levels = c(0, 1))
+  predicted_values <- factor(predicted_values, levels = c(0, 1))
+  
+  # Create a confusion matrix
+  cm <- table(Predicted = predicted_values, Actual = true_values)
+  
+  # Ensure all elements exist in the matrix to prevent errors in the calculations
+  if (!all(c("0", "1") %in% rownames(cm))) {
+    cm <- addmargins(cm)
+  }
+  if (!all(c("0", "1") %in% colnames(cm))) {
+    cm <- addmargins(cm)
+  }
+
+  precision <- cm[2, 2] / sum(cm[2, ])
+  recall <- cm[2, 2] / sum(cm[, 2])
+  if (precision + recall == 0) {
+    return(0)
+  }
+  
+  # Calculate F1 Score
+  f1_score <- 2 * ((precision * recall) / (precision + recall))
+  
+  return(f1_score)
+}
+
+############################################
+#### F-beta score
+###########################################
+
+compute_fbeta_score <- function(true_values, predicted_values, beta) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(0, 1, 1, 1)
+  # predicted_values <- c(0, 1, 1, 1)
+  # beta_value <- 2  # Emphasizing recall
+  # Calculate the F-beta Score
+  # fbeta_score <- compute_fbeta_score(true_values, predicted_values, beta_value)
+  # print(paste("F-beta Score:", fbeta_score))
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  if (beta < 0) {
+    stop("Beta should be non-negative")
+  }
+  
+  # Convert to factors to ensure all possible outcomes (0 and 1) are included
+  true_values <- factor(true_values, levels = c(0, 1))
+  predicted_values <- factor(predicted_values, levels = c(0, 1))
+  
+  # Create a confusion matrix
+  cm <- table(Predicted = predicted_values, Actual = true_values)
+  
+  # Ensure all elements exist in the matrix to prevent errors in the calculations
+  if (!all(c("0", "1") %in% rownames(cm))) {
+    cm <- addmargins(cm)
+  }
+  if (!all(c("0", "1") %in% colnames(cm))) {
+    cm <- addmargins(cm)
+  }
+  
+  # Calculate Precision and Recall
+  precision <- cm[2, 2] / sum(cm[2, ])
+  recall <- cm[2, 2] / sum(cm[, 2])
+  
+  # Handle case where precision and recall are both zero
+  if (precision + recall == 0) {
+    return(0)
+  }
+  
+  # Calculate F-beta Score
+  fbeta_score <- (1 + beta^2) * ((precision * recall) / ((beta^2 * precision) + recall))
+  
+  return(fbeta_score)
+}
+
 
 
 
