@@ -214,6 +214,53 @@ compute_confusion_matrix <- function(true_values, predicted_values) {
 }
 
 
+############################################
+#### DET curve
+#### Compute error rates for different probability thresholds.
+###########################################
+
+compute_error_rates <- function(true_values, predicted_probs, thresholds) {
+  # Example true binary outcomes and predicted probabilities
+  # true_values <- c(0, 0, 1, 1)
+  # predicted_probs <- c(0.1, 0.4, 0.35, 0.8)
+  # Define a range of thresholds
+  # thresholds <- seq(0, 1, by = 0.1)
+  # Calculate error rates
+  # error_rates <- compute_error_rates(true_values, predicted_probs, thresholds)
+  # Plotting the DET curve using base R plotting
+  # plot(error_rates$false_acceptance_rates, error_rates$false_rejection_rates, type = "b",
+  #     xlab = "False Acceptance Rate", ylab = "False Rejection Rate",
+  #     main = "DET Curve")
+  # points(error_rates$false_acceptance_rates, error_rates$false_rejection_rates, pch = 19, col = "red")
+  
+  if (length(true_values) != length(predicted_probs)) {
+    stop("True values and predicted probabilities must have the same length")
+  }
+  
+  # Initialize vectors to store error rates
+  false_acceptance_rates <- numeric(length(thresholds))
+  false_rejection_rates <- numeric(length(thresholds))
+  
+  # Compute error rates for each threshold
+  for (i in seq_along(thresholds)) {
+    threshold <- thresholds[i]
+    
+
+    predicted_labels <- ifelse(predicted_probs >= threshold, 1, 0)
+
+    false_acceptances <- sum((predicted_labels == 1) & (true_values == 0))
+    false_rejections <- sum((predicted_labels == 0) & (true_values == 1))
+
+    total_negatives <- sum(true_values == 0)
+    total_positives <- sum(true_values == 1)
+    
+   
+    false_acceptance_rates[i] <- false_acceptances / total_negatives
+    false_rejection_rates[i] <- false_rejections / total_positives
+  }
+  
+  return(list(thresholds = thresholds, false_acceptance_rates = false_acceptance_rates, false_rejection_rates = false_rejection_rates))
+}
 
 
 
