@@ -575,4 +575,140 @@ compute_precision <- function(true_values, predicted_values) {
 #### recall score
 ###########################################
 
+compute_recall <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(0, 0, 1, 1)
+  # predicted_values <- c(0, 1, 0, 1)
+  # Calculate Recall
+  # recall_value <- compute_recall(true_values, predicted_values)
+  # print(paste("Recall Score:", recall_value))
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  # Convert to factors to ensure all possible outcomes (0 and 1) are included
+  true_values <- factor(true_values, levels = c(0, 1))
+  predicted_values <- factor(predicted_values, levels = c(0, 1))
+  
+  # Create a confusion matrix
+  cm <- table(Predicted = predicted_values, Actual = true_values)
+  
+  # Ensure all elements exist in the confusion matrix
+  if (!all(c("0", "1") %in% rownames(cm))) {
+    cm <- addmargins(cm)
+  }
+  if (!all(c("0", "1") %in% colnames(cm))) {
+    cm <- addmargins(cm)
+  }
+  
+  # Extract confusion matrix components
+  tp <- ifelse(!is.na(cm["1", "1"]), cm["1", "1"], 0)
+  fn <- ifelse(!is.na(cm["0", "1"]), cm["0", "1"], 0)
+  
+  # Calculate Recall
+  recall <- if (tp + fn == 0) 0 else tp / (tp + fn)
+  
+  return(recall)
+}
+
+############################################
+#### AUROC score
+###########################################
+
+compute_roc_auc <- function(true_values, predicted_probs) {
+  # Example true binary outcomes and predicted probabilities
+  # true_values <- c(0, 0, 1, 1)
+  # predicted_probs <- c(0., 0., 0.8, 0.9)
+  # Calculate the ROC AUC
+  # roc_auc_value <- compute_roc_auc(true_values, predicted_probs)
+  # print(paste("ROC AUC:", roc_auc_value))
+  if (length(true_values) != length(predicted_probs)) {
+    stop("True values and predicted probabilities must have the same length")
+  }
+  
+  # Create a data frame of true values and predicted probabilities
+  data <- data.frame(true_values = true_values, predicted_probs = predicted_probs)
+  
+  # Order by predicted probabilities in descending order
+  data <- data[order(-data$predicted_probs),]
+  
+  # Append true positive and false positive rates
+  data$tp = cumsum(data$true_values == 1)
+  data$fp = cumsum(data$true_values == 0)
+  
+  # Calculate total positives and negatives
+  n_pos <- max(data$tp)
+  n_neg <- max(data$fp)
+  
+  # Normalize tp and fp by total positives and negatives
+  data$tpr = data$tp / n_pos
+  data$fpr = data$fp / n_neg
+  
+  # Calculate ROC AUC using the trapezoidal rule
+  roc_auc <- sum(
+    with(data, diff(c(0, fpr)) * (tpr[-length(tpr)] + tpr[-1]) / 2)
+  )
+  
+  return(roc_auc)
+}
+
+
+
+
+############################################
+#### AUC curve
+###########################################
+
+
+plot_roc_curve <- function(true_values, predicted_probs) {
+  # Example true binary outcomes and predicted probabilities
+  # true_values <- c(0, 0, 1, 1)
+  # predicted_probs <- c(0.1, 0.2, 0.8, 0.9)
+  # Plot the ROC Curve and display the AUC
+  # auc_value <- plot_roc_curve(true_values, predicted_probs)
+  # print(paste("Area Under Curve (AUC):", format(auc_value, digits = 4)))
+  
+  if (length(true_values) != length(predicted_probs)) {
+    stop("True values and predicted probabilities must have the same length")
+  }
+  
+  # Create a data frame of true values and predicted probabilities
+  data <- data.frame(true_values = true_values, predicted_probs = predicted_probs)
+  
+  # Order by predicted probabilities in descending order
+  data <- data[order(-data$predicted_probs),]
+  
+  # Append true positive and false positive rates
+  data$tp = cumsum(data$true_values == 1)
+  data$fp = cumsum(data$true_values == 0)
+  
+  # Calculate total positives and negatives
+  n_pos <- max(data$tp)
+  n_neg <- max(data$fp)
+  
+  # Normalize tp and fp by total positives and negatives
+  tpr = data$tp / n_pos
+  fpr = data$fp / n_neg
+  
+  # Add (0,0) and (1,1) to the curve
+  tpr = c(0, tpr, 1)
+  fpr = c(0, fpr, 1)
+  
+  # Calculate AUC using the trapezoidal rule
+  auc <- sum(diff(fpr) * (tpr[-length(tpr)] + tpr[-1]) / 2)
+  
+  # Plot the ROC Curve
+  plot(fpr, tpr, type = "l", col = "red", lwd = 2,
+       xlab = "False Positive Rate (1 - Specificity)",
+       ylab = "True Positive Rate (Sensitivity)",
+       main = paste("ROC Curve (AUC = ", format(round(auc, 2), nsmall = 2), ")", sep = ""))
+  grid()
+  abline(a = 0, b = 1, lty = 2, col = "blue")  # Add reference line
+  
+  return(auc)
+}
+
+
+
+
 
