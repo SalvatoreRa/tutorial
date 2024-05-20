@@ -528,6 +528,51 @@ compute_precision_recall_curve <- function(true_values, predicted_probs) {
 }
 
 
+############################################
+#### precision score
+###########################################
 
+compute_precision <- function(true_values, predicted_values) {
+  # Example true binary outcomes and predicted class labels
+  # true_values <- c(0, 0, 1, 1)
+  # predicted_values <- c(0, 1, 1, 1)
+  # Calculate Precision
+  # precision_value <- compute_precision(true_values, predicted_values)
+  # print(paste("Precision Score:", precision_value))
+  if (length(true_values) != length(predicted_values)) {
+    stop("True values and predicted values must have the same length")
+  }
+  
+  # Convert to factors to ensure all possible outcomes (0 and 1) are included
+  true_values <- factor(true_values, levels = c(0, 1))
+  predicted_values <- factor(predicted_values, levels = c(0, 1))
+  
+  # Create a confusion matrix
+  cm <- table(Predicted = predicted_values, Actual = true_values)
+  
+  # Ensure all elements exist in the confusion matrix
+  if (!all(c("0", "1") %in% rownames(cm))) {
+    cm <- addmargins(cm)
+  }
+  if (!all(c("0", "1") %in% colnames(cm))) {
+    cm <- addmargins(cm)
+  }
+  
+  # Extract confusion matrix components
+  tp <- ifelse(!is.na(cm["1", "1"]), cm["1", "1"], 0)
+  fp <- ifelse(!is.na(cm["1", "0"]), cm["1", "0"], 0)
+  
+  # Calculate Precision
+  precision <- if (tp + fp == 0) 0 else tp / (tp + fp)
+  
+  return(precision)
+}
+
+
+
+
+############################################
+#### recall score
+###########################################
 
 
