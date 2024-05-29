@@ -420,6 +420,400 @@ predict_tree <- function(tree, newdata) {
 }
 
 
+############################################
+#### Adaboost classifier
+###########################################
+
+AdaBoostClassifier <- setRefClass(
+  "AdaBoostClassifier",
+  # Example usage of AdaBoostClassifier
+  # Simulate some binary classification data
+  #set.seed(123)
+  # n <- 100
+  # p <- 2
+  # X <- matrix(runif(n * p), ncol = p)
+  # y <- ifelse(X[, 1] + X[, 2] > 1, 1, -1)  # Simple linearly separable data
+  # Create an instance of AdaBoostClassifier
+  # classifier <- AdaBoostClassifier$new(num_rounds = 10)
+  # Fit the model
+  # classifier$fit(X, y)
+  # Predict on the same dataset (usually should be on new data)
+  # predictions <- classifier$predict(X)
+  # Evaluate the predictions
+  # table(Predicted = predictions, Actual = y)
+  fields = list(
+    classifiers = "list",
+    alphas = "numeric",
+    num_rounds = "numeric"
+  ),
+  methods = list(
+    initialize = function(num_rounds = 10) {
+      num_rounds <<- num_rounds
+      classifiers <<- list()
+      alphas <<- numeric(num_rounds)
+      cat("AdaBoost Classifier with", num_rounds, "rounds created.\n")
+    },
+    
+    fit = function(X, y) {
+      if(any(is.na(X)) || any(is.na(y))) {
+        stop("Data contains NA values. Please clean the data before fitting the model.")
+      }
+      n <- nrow(X)
+      weights <- rep(1 / n, n)  # Initialize weights equally
+      for (i in 1:num_rounds) {
+        # Train a decision stump
+        stump <- train_decision_stump(X, y, weights)
+        # Predictions and error calculation
+        predictions <- sapply(1:n, function(j) predict_stump(stump, X[j, ]))
+        error <- sum(weights * (predictions != y))
+        if (error > 0.5) break  # If error is greater than 50%, break the loop
+        
+        # Alpha calculation
+        alpha <- 0.5 * log((1 - error) / error)
+        alphas[i] <<- alpha
+        classifiers[[i]] <<- stump
+        
+        # Update weights
+        weights <- weights * exp(-alpha * y * predictions)
+        weights <- weights / sum(weights)  # Normalize weights
+      }
+    },
+    
+    predict = function(newdata) {
+      if (!is.matrix(newdata)) {
+        newdata <- as.matrix(newdata)
+      }
+      if(any(is.na(newdata))) {
+        stop("Prediction data contains NA values.")
+      }
+      
+      final_predictions <- apply(newdata, 1, function(x) {
+        sum(sapply(1:length(classifiers), function(i) {
+          alphas[i] * predict_stump(classifiers[[i]], x)
+        }))
+      })
+      sign(final_predictions)
+    }
+  )
+)
+
+
+train_decision_stump <- function(X, y, weights) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  best_inversion <- NULL
+  min_error <- Inf
+  
+
+  for (f in 1:ncol(X)) {
+    feature_values <- X[, f]
+    thresholds <- sort(unique(feature_values))
+    for (t in thresholds) {
+      for (inversion in c(1, -1)) {
+        predictions <- ifelse(feature_values * inversion < t * inversion, 1, -1)
+        error <- sum(weights * (predictions != y))
+        if (error < min_error) {
+          best_feature <- f
+          best_threshold <- t
+          best_inversion <- inversion
+          min_error <- error
+        }
+      }
+    }
+  }
+  return(list(feature = best_feature, threshold = best_threshold, inversion = best_inversion))
+}
+
+
+predict_stump <- function(stump, x) {
+  if (is.na(x[stump$feature])) {
+    stop("Missing value detected in feature data during prediction.")
+  }
+  ifelse(x[stump$feature] * stump$inversion < stump$threshold * stump$inversion, 1, -1)
+}
+
+############################################
+#### Adaboost Regressor
+###########################################
+
+train_regression_stump <- function(X, y, weights) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  best_split <- list(left_value = NULL, right_value = NULL)
+  min_error <- Inf
+  
+  for (f in 1:ncol(X)) {
+    feature_values <- X[, f]
+    thresholds <- quantile(feature_values, probs = seq(0, 1, length.out = 10), na.rm = TRUE) # Handling potential NAs
+    for (t in thresholds) {
+      left_indices <- which(feature_values <= t)
+      right_indices <- which(feature_values > t)
+      if (length(left_indices) == 0 || length(right_indices) == 0) next # Skip this split if any side is empty
+      left_value <- weighted_mean(y[left_indices], weights[left_indices])
+      right_value <- weighted_mean(y[right_indices], weights[right_indices])
+      predictions <- ifelse(feature_values <= t, left_value, right_value)
+      error <- sum(weights * (predictions - y)^2)
+      if (error < min_error && !is.na(error)) { # Check for NA in error
+        min_error <- error
+        best_feature <- f
+        best_threshold <- t
+        best_split$left_value <- left_value
+        best_split$right_value <- right_value
+      }
+    }
+  }
+  list(feature = best_feature, threshold = best_threshold, split = best_split)
+}
+
+AdaBoostRegressor$methods(
+  # Generate some data
+  # set.seed(123)
+  # X <- matrix(runif(100 * 2), ncol = 2)
+  # y <- X[,1] * 2 + X[,2] * 3 + rnorm(100)
+  # Create an AdaBoostRegressor instance
+  # regressor <- AdaBoostRegressor$new(num_rounds = 10)
+  # Fit the model
+  # regressor$fit(X, y)
+  # Predict on new data
+  # new_X <- matrix(runif(10 * 2), ncol = 2)
+  # predictions <- regressor$predict(new_X)
+  # Show predictions
+  # print(predictions)
+  
+  fit = function(X, y) {
+    if(any(is.na(X)) || any(is.na(y))) {
+      stop("Data contains NA values. Please clean the data before fitting the model.")
+    }
+    n <- nrow(X)
+    weights <- rep(1 / n, n)  # Initialize weights equally
+    for (i in 1:num_rounds) {
+      # Train a simple regression stump
+      stump <- train_regression_stump(X, y, weights)
+      predictions <- predict_regression_stump(stump, X)
+      errors <- abs(predictions - y)
+      weighted_error <- sum(weights * errors) / sum(weights)  # Normalizing error
+      
+      # Avoid exact 0 or 1 errors
+      weighted_error <- min(max(weighted_error, 1e-10), 1 - 1e-10)
+      
+      # Calculate alpha
+      alpha <- 0.5 * log((1 - weighted_error) / weighted_error)
+      alphas[i] <<- alpha
+      regressors[[i]] <<- stump
+      
+      # Update weights, using alpha
+      weights <- weights * exp(-alpha * (predictions - y)^2)
+      weights <- weights / sum(weights)  # Normalize weights
+    }
+  }
+)
+
+############################################
+#### Gradient Boosting classifier
+###########################################
+
+GradientBoostingClassifier <- setRefClass(
+  "GradientBoostingClassifier",
+  # Simulated Data
+  # set.seed(101)
+  # X <- matrix(rnorm(100 * 3), ncol = 3)
+  # y <- ifelse(X[, 1] + X[, 2] + X[, 3]> 0, 1, 0)
+  # Create Classifier
+  # gb_classifier <- GradientBoostingClassifier$new(num_trees = 10, learning_rate = 0.1)
+  # Fit Classifier
+  # gb_classifier$fit(X, y)
+  # Predict
+  # predictions <- gb_classifier$predict(X)
+  # Evaluate performance
+  # table(Predicted = predictions, Actual = y)
+  fields = list(
+    base_prediction = "numeric",
+    stumps = "list",
+    learning_rate = "numeric",
+    num_trees = "numeric"
+  ),
+  methods = list(
+    initialize = function(num_trees = 10, learning_rate = 0.1) {
+      num_trees <<- num_trees
+      learning_rate <<- learning_rate
+      stumps <<- list()
+      cat("Gradient Boosting Classifier initialized with", num_trees, "trees.\n")
+    },
+    
+    fit = function(X, y) {
+      n <- nrow(X)
+      # Initialize predictions to the mean of y
+      y_bin <- ifelse(y == 1, 1, -1)  # Binary encoding as 1 and -1
+      base_prediction <<- mean(y_bin)
+      current_predictions <- rep(base_prediction, n)
+      
+      for (i in 1:num_trees) {
+        # Calculate residuals
+        residuals <- y_bin - current_predictions
+        
+        # Fit a stump to the residuals
+        stump <- find_best_stump(X, residuals)
+        stump_predictions <- predict_stump(X, stump)
+        
+        # Update predictions
+        current_predictions <- current_predictions + learning_rate * stump_predictions
+        
+        # Store the stump and its associated learning rate
+        stumps[[i]] <<- list(stump = stump, learning_rate = learning_rate)
+      }
+    },
+    
+    predict = function(newdata) {
+      # Start with the base prediction
+      ensemble_predictions <- rep(base_prediction, nrow(newdata))
+      
+      # Add contributions from each stump
+      for (stump_info in stumps) {
+        stump_predictions <- predict_stump(newdata, stump_info$stump)
+        ensemble_predictions <- ensemble_predictions + stump_info$learning_rate * stump_predictions
+      }
+      
+      # Return the sign of the ensemble predictions as class labels
+      return(ifelse(ensemble_predictions >= 0, 1, 0))
+    }
+  )
+)
+
+# Helper function to find the best stump
+find_best_stump <- function(X, residuals) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  best_error <- Inf
+  
+  # Iterate over each feature to find the best split
+  for (feature in 1:ncol(X)) {
+    feature_values <- X[, feature]
+    for (threshold in unique(feature_values)) {
+      predictions <- ifelse(feature_values > threshold, 1, -1)
+      error <- sum((predictions - residuals)^2)
+      
+      if (error < best_error) {
+        best_error <- error
+        best_feature <- feature
+        best_threshold <- threshold
+      }
+    }
+  }
+  
+  list(feature = best_feature, threshold = best_threshold)
+}
+
+# Helper function to predict using a stump
+predict_stump <- function(X, stump) {
+  feature_values <- X[, stump$feature]
+  return(ifelse(feature_values > stump$threshold, 1, -1))
+}
+
+############################################
+#### Gradient Boosting Regressor
+###########################################
+
+GradientBoostingRegressor <- setRefClass(
+  "GradientBoostingRegressor",
+  # Simulated Data for Regression
+  # set.seed(102)
+  # X <- matrix(rnorm(200 * 2), ncol = 2)
+  # y <- X[, 1] * 2.5 + X[, 2] * -1.5 + rnorm(200)
+  # Create the regressor
+  # gb_regressor <- GradientBoostingRegressor$new(num_trees = 50, learning_rate = 0.1)
+  # Fit the regressor
+  # gb_regressor$fit(X, y)
+  # Make predictions
+  # predictions <- gb_regressor$predict(X)
+  # Evaluate predictions (for example, by calculating the RMSE)
+  # rmse <- sqrt(mean((predictions - y)^2))
+  # print(rmse)
+  
+  fields = list(
+    base_prediction = "numeric",
+    stumps = "list",
+    learning_rate = "numeric",
+    num_trees = "numeric"
+  ),
+  methods = list(
+    initialize = function(num_trees = 100, learning_rate = 0.1) {
+      num_trees <<- num_trees
+      learning_rate <<- learning_rate
+      stumps <<- list()
+      cat("Gradient Boosting Regressor initialized with", num_trees, "trees.\n")
+    },
+    
+    fit = function(X, y) {
+      n <- nrow(X)
+      # Start with the mean of the target as the initial prediction
+      base_prediction <<- mean(y)
+      current_predictions <- rep(base_prediction, n)
+      
+      for (i in 1:num_trees) {
+        # Calculate the residuals as new target
+        residuals <- y - current_predictions
+        
+        # Train a stump on the residuals
+        stump <- find_best_stump(X, residuals)
+        stump_predictions <- predict_stump(X, stump)
+        
+        # Update the model with this stump's predictions
+        current_predictions <- current_predictions + learning_rate * stump_predictions
+        
+        # Store the stump
+        stumps[[i]] <<- list(stump = stump, learning_rate = learning_rate)
+      }
+    },
+    
+    predict = function(newdata) {
+      # Start with the base prediction
+      ensemble_predictions <- rep(base_prediction, nrow(newdata))
+      
+      # Add the contribution of each stump
+      for (stump_info in stumps) {
+        stump_predictions <- predict_stump(newdata, stump_info$stump)
+        ensemble_predictions <- ensemble_predictions + stump_info$learning_rate * stump_predictions
+      }
+      
+      return(ensemble_predictions)
+    }
+  )
+)
+
+# Helper function to find the best stump
+find_best_stump <- function(X, residuals) {
+  best_feature <- NULL
+  best_threshold <- NULL
+  min_error <- Inf
+  
+  # Iterate over each feature to find the best split
+  for (feature in 1:ncol(X)) {
+    feature_values <- X[, feature]
+    for (threshold in unique(feature_values)) {
+      predictions_left <- mean(residuals[feature_values <= threshold])
+      predictions_right <- mean(residuals[feature_values > threshold])
+      predictions <- ifelse(feature_values <= threshold, predictions_left, predictions_right)
+      error <- sum((predictions - residuals)^2)
+      
+      if (error < min_error) {
+        min_error <- error
+        best_feature <- feature
+        best_threshold <- threshold
+      }
+    }
+  }
+  
+  list(feature = best_feature, threshold = best_threshold)
+}
+
+# Helper function to predict using a stump
+predict_stump <- function(X, stump) {
+  feature_values <- X[, stump$feature]
+  ifelse(feature_values <= stump$threshold,
+         mean(X[feature_values <= stump$threshold, stump$feature]),
+         mean(X[feature_values > stump$threshold, stump$feature]))
+}
+
 
 
 
