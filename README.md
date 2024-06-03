@@ -134,6 +134,7 @@ This series of tutorials is focused on classical machine learning (regression, c
 | ------- | ----------- | ------ |
 | [Graph ML: A Gentle Introduction to Graphs](https://python.plainenglish.io/graph-ml-a-gentle-introduction-to-graphs-25b332d20e98) | -- |A deep introduction to these mysterious creatures. |
 | [Graph ML: fantastic graphs and where to find them](https://python.plainenglish.io/graph-ml-fantastic-graphs-and-where-to-find-them-337426ad17bf) | -- |Why to use a graph? which application? |
+| [Graph ML: introduction to NetworkX](https://ai.gopubby.com/graph-ml-introduction-to-networkx-73e29a9bf40a) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/NetworkX.ipynb)||
 
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
