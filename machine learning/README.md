@@ -56,6 +56,7 @@ You can open a Github Issue for any request, comment or any issue you encounter.
 | [A Guide to Geometric Transformation with Python](https://python.plainenglish.io/a-guide-to-geometric-transformation-with-python-2685304fb478) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Geometric_transformation.ipynb) | Why the need for Photoshop when you can have fun with Python|
 | [Graph ML: A Gentle Introduction to Graphs](https://python.plainenglish.io/graph-ml-a-gentle-introduction-to-graphs-25b332d20e98) | -- |A deep introduction to these mysterious creatures. |
 | [Graph ML: fantastic graphs and where to find them](https://python.plainenglish.io/graph-ml-fantastic-graphs-and-where-to-find-them-337426ad17bf) | -- |Why to use a graph? which application? |
+| [Graph ML: introduction to NetworkX](https://ai.gopubby.com/graph-ml-introduction-to-networkx-73e29a9bf40a) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/NetworkX.ipynb)|How to start with handle graph in Python using the most popular library|
 
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local index](#Index)
