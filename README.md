@@ -268,6 +268,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Can a LLM Really Learn New Things](https://levelup.gitconnected.com/can-a-llm-really-learn-new-things-d926b4502522)| -- |The Double-Edged Sword of Fine-Tuning Large Language Models|
+|[Are xLSTM a Menace to Transformer Dominion](https://levelup.gitconnected.com/are-xlstm-a-menace-to-transformer-dominion-2cf6290f59b4)| -- |Researchers have massively improved LSTM, but what does it mean for the future?|
 | [GPT-4O, One Model is All You Need](https://ai.plainenglish.io/gpt-4o-one-model-is-all-you-need-933805b5cc00) | -- | The best part is it should be free for everyone|
 | [The AI Student Dilemma: Trust Yourself Or The Book?](https://levelup.gitconnected.com/the-ai-student-dilemma-trust-yourself-or-the-book-4aee1250718a) | -- | LLMs have to decide if trust their knowledge or additional context. What will they choose?|
 | [When More is More? When For an LLM is Enough?](https://pub.towardsai.net/when-more-is-more-when-for-an-llm-is-enough-9488f54371ee) | -- |In-context length is the LLM’s secret weapon, but with long-context is all changing |
