@@ -165,6 +165,13 @@ I have collected here a series of functions that are not available in other pack
 * Cramér's V statistic for a given contingency table
 * mutual information-based coefficient R
 
+## Explainability_utils
+
+A set of utilities for explainability in machine learning. There are different functions to explain models and to plot them. Currently implemented:
+* feature_importance_XGBoost - Calculate and aggregate feature importances using different methods for an XGBoost model.
+* plot_feature_importance_heatmap - Plots a heatmap of the feature importance
+* plot_feature_importance_barplot - Plots barplots of the feature importance DataFrame for each feature, showing mean and standard deviation. 
+* plot_feature_importance_boxplot - Plots boxplots of the feature importance DataFrame for each feature.
 
 
 &nbsp;
