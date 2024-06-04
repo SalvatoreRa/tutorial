@@ -134,12 +134,11 @@ def feature_importance_XGBoost(columns_name=None, _model=None, data=None, target
     return feature_importance_df
 
 
-importance = feature_importance_XGBoost(columns_name=X.columns, _model = model, 
-                           data = X_test, target=y_test )
 
 
 
-def plot_feature_importance_heatmap(feature_importance_df, num_features=None):
+
+def plot_feature_importance_heatmap(feature_importance_df=None, num_features=None):
     """
     Plots a heatmap of the feature importance DataFrame.
 
@@ -165,10 +164,10 @@ def plot_feature_importance_heatmap(feature_importance_df, num_features=None):
     plt.title('Feature Importance Heatmap')
     plt.show()
     
-plot_feature_importance_heatmap(importance, num_features=10)
 
 
-def plot_feature_importance_barplot(feature_importance_df, num_features=None):
+
+def plot_feature_importance_barplot(feature_importance_df=None, num_features=None):
     """
     Plots barplots of the feature importance DataFrame for each feature, showing mean and standard deviation.
 
@@ -208,7 +207,7 @@ def plot_feature_importance_barplot(feature_importance_df, num_features=None):
     plt.xticks(rotation=90)
     plt.show()
 
-def plot_feature_importance_boxplot(feature_importance_df, num_features=None):
+def plot_feature_importance_boxplot(feature_importance_df=None, num_features=None):
     """
     Plots boxplots of the feature importance DataFrame for each feature.
 
@@ -240,7 +239,7 @@ def plot_feature_importance_boxplot(feature_importance_df, num_features=None):
     plt.show()
     
     
-def plot_feature_correlation_graph(X, feature_importance_df, num_features=10, min_corr =0.3):
+def plot_feature_correlation_graph(_data=None, feature_importance_df=None, num_features=10, min_corr =0.3):
     """
     Plots a graph of feature correlations and importance.
 
@@ -258,7 +257,7 @@ def plot_feature_correlation_graph(X, feature_importance_df, num_features=10, mi
     top_features = sorted_df['Feature'].tolist()
     
     # Calculate the correlation matrix for the selected features
-    corr_matrix = X[top_features].corr()
+    corr_matrix = _data[top_features].corr()
     
     # Create a graph
     G = nx.Graph()
