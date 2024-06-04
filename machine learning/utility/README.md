@@ -60,6 +60,16 @@ sys.path.append(os.path.abspath(py_file_location))
 from regression_report import regression_report 
 ```
 
+alternative:
+
+```Python
+!pip install wget
+import wget 
+wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machine learning/utility/utils_NA.py')
+
+from utils_NA import *
+```
+
 ## On your personal computer
 
 If you want to import in a Jupyter Notebook or in another IDE, it is very simple. Download the file in the folder of your choice, then to import:
@@ -126,7 +136,8 @@ A series of utilities for generating NA. It allows to generate MNAR, MCAR and MA
 
 
 ```Python
-!pip install wget 
+!pip install wget
+import wget 
 wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machine learning/utility/utils_NA.py')
 
 from utils_NA import *
