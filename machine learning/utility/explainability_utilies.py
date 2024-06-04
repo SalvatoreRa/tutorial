@@ -6,6 +6,7 @@ import numpy as np
 from sklearn.inspection import permutation_importance
 import lime
 from sklearn.preprocessing import MinMaxScaler
+import networkx as nx
 
 def feature_importance_XGBoost(columns_name=None, _model=None, data=None, target=None):
     """
@@ -236,4 +237,70 @@ def plot_feature_importance_boxplot(feature_importance_df, num_features=None):
     sns.boxplot(x='Feature', y='Importance_Value', data=melted_df)
     plt.title('Feature Importance Boxplot')
     plt.xticks(rotation=90)
+    plt.show()
+    
+    
+def plot_feature_correlation_graph(X, feature_importance_df, num_features=10, min_corr =0.3):
+    """
+    Plots a graph of feature correlations and importance.
+
+    Parameters:
+    - X (pd.DataFrame): The dataset with features.
+    - feature_importance_df (pd.DataFrame): DataFrame containing feature importances.
+    - num_features (int): Number of top features to select for the graph.
+    - min_corr: Minimum correlation between features. If 0 all edges are plotted
+    
+    Returns:
+    - None: Displays the feature correlation graph.
+    """
+    # Sort the feature importance DataFrame and select the top features
+    sorted_df = feature_importance_df.sort_values(by='average_importance', ascending=False).head(num_features)
+    top_features = sorted_df['Feature'].tolist()
+    
+    # Calculate the correlation matrix for the selected features
+    corr_matrix = X[top_features].corr()
+    
+    # Create a graph
+    G = nx.Graph()
+    
+    # Add nodes with size proportional to the average feature importance
+    for feature in top_features:
+        G.add_node(feature, size=sorted_df[sorted_df['Feature'] == feature]['average_importance'].values[0] * 1000)
+    
+    # Add edges with width proportional to the correlation
+    for i in range(len(top_features)):
+        for j in range(i + 1, len(top_features)):
+            feature_i = top_features[i]
+            feature_j = top_features[j]
+            corr_value = corr_matrix.loc[feature_i, feature_j]
+            if corr_value != 0:
+                if abs(corr_value) >= min_corr:
+                    color = 'red' if corr_value > 0 else 'blue'
+                    G.add_edge(feature_i, feature_j, weight=abs(corr_value), color=color)
+
+    # Get node sizes and edge colors
+    sizes = [nx.get_node_attributes(G, 'size')[node] for node in G.nodes()]
+    edges = G.edges(data=True)
+    colors = [edge[2]['color'] for edge in edges]
+    weights = [edge[2]['weight'] * 10 for edge in edges]  # Multiply for better visualization
+    
+    # Plot the graph
+    pos = nx.spring_layout(G)
+    plt.figure(figsize=(12, 8))
+    nx.draw(G, pos, with_labels=True, node_size=sizes, edge_color=colors, width=weights, font_size=10, font_weight='bold')
+    
+    # Create legend for node sizes (upper left)
+    legend_handles = []
+    for size in [min(sizes), np.mean(sizes), max(sizes)]:
+        legend_handles.append(plt.scatter([], [], c='black', alpha=0.5, s=size, label=f'Importance {size/1000:.2f}'))
+    node_legend = plt.legend(handles=legend_handles, scatterpoints=1, frameon=False, labelspacing=1, title='Node size', loc='upper left')
+    plt.gca().add_artist(node_legend)  # Add the node legend to the plot
+    
+    # Create legend for edge widths (lower left)
+    legend_handles = []
+    for weight in [min(weights), np.mean(weights), max(weights)]:
+        legend_handles.append(plt.plot([], [], c='black', alpha=0.5, linewidth=weight, label=f'Correlation {weight/10:.2f}')[0])
+    plt.legend(handles=legend_handles, frameon=False, labelspacing=1, title='Edge width', loc='lower left')
+    
+    plt.title('Feature Correlation Graph')
     plt.show()
