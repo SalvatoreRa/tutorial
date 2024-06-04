@@ -172,6 +172,7 @@ A set of utilities for explainability in machine learning. There are different f
 * plot_feature_importance_heatmap - Plots a heatmap of the feature importance
 * plot_feature_importance_barplot - Plots barplots of the feature importance DataFrame for each feature, showing mean and standard deviation. 
 * plot_feature_importance_boxplot - Plots boxplots of the feature importance DataFrame for each feature.
+* plot_feature_correlation_graph - Plots a graph of feature correlations and importance.
 
 
 ```Python
