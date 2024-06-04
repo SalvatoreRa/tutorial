@@ -207,3 +207,33 @@ def plot_feature_importance_barplot(feature_importance_df, num_features=None):
     plt.xticks(rotation=90)
     plt.show()
 
+def plot_feature_importance_boxplot(feature_importance_df, num_features=None):
+    """
+    Plots boxplots of the feature importance DataFrame for each feature.
+
+    Parameters:
+    - feature_importance_df: DataFrame containing feature importances.
+    - num_features: Number of top features to display in the boxplots. If None, display all features.
+
+    Returns:
+    - None: Displays the boxplots for feature importances.
+    
+    example usage:
+    plot_feature_importance_boxplot(importance, num_features=10)
+    """
+    # Sort the DataFrame by average_importance
+    sorted_df = feature_importance_df.sort_values(by='average_importance', ascending=False)
+    
+    # Select top features if num_features is specified
+    if num_features is not None:
+        sorted_df = sorted_df.head(num_features)
+    
+    # Melt the DataFrame for better plotting
+    melted_df = sorted_df.melt(id_vars='Feature', var_name='Importance_Type', value_name='Importance_Value')
+    
+    # Plot the boxplot
+    plt.figure(figsize=(12, 8))
+    sns.boxplot(x='Feature', y='Importance_Value', data=melted_df)
+    plt.title('Feature Importance Boxplot')
+    plt.xticks(rotation=90)
+    plt.show()
