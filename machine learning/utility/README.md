@@ -174,6 +174,48 @@ A set of utilities for explainability in machine learning. There are different f
 * plot_feature_importance_boxplot - Plots boxplots of the feature importance DataFrame for each feature.
 
 
+```Python
+
+ !pip install wget 
+wget.download('https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/machine learning/utility/explainability_utilies.py')
+
+from explainability_utilies import *
+
+import pandas as pd
+import xgboost as xgb
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+url = 'https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/pol.csv'
+df = pd.read_csv(url, sep= ';')
+
+X = df.drop(columns=['target'])
+y = df['target']
+
+# Splitting the data into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Train the model
+num_round = 100
+model  = xgb.XGBClassifier(objective='binary:logistic', 
+                                    use_label_encoder=False, eval_metric='logloss')
+model = model.fit(X_train, y_train)
+
+# Make predictions
+preds = model.predict(X_test)
+predictions = [round(value) for value in preds]
+
+# Evaluate the model
+accuracy = accuracy_score(y_test, predictions)
+print(f'Accuracy: {accuracy:.2f}')
+
+importance = feature_importance_XGBoost(columns_name=X.columns, _model = model, 
+                           data = X_test, target=y_test )
+plot_feature_importance_heatmap(importance, num_features=10)
+plot_feature_importance_boxplot(importance, num_features=10)
+plot_feature_importance_barplot(importance, num_features=10)
+```
+
+
 &nbsp;
 
 # Contributing
