@@ -304,3 +304,117 @@ def plot_feature_correlation_graph(X, feature_importance_df, num_features=10, mi
     
     plt.title('Feature Correlation Graph')
     plt.show()
+    
+    
+def get_model_feature_importance(_model):
+    """
+    Retrieve model-based feature importance.
+
+    Parameters:
+    - _model: A scikit-learn model.
+
+    Returns:
+    - feature_importance: Array of feature importances.
+    """
+    if hasattr(_model, 'feature_importances_'):
+        return _model.feature_importances_
+    elif hasattr(_model, 'coef_'):
+        return np.abs(_model.coef_).flatten()
+    else:
+        return None
+
+def feature_importance_generalized(columns_name=None, _model=None, data=None, target=None):
+    """
+    Calculate and aggregate feature importances using different methods for a scikit-learn model.
+
+    Parameters:
+    - columns_name (array-like): The names of the features.
+    - _model (scikit-learn model object): The trained scikit-learn model.
+    - data (pd.DataFrame or np.ndarray): The input data used to calculate SHAP and LIME importances.
+    - target (array-like): The target values used to calculate permutation importance.
+
+    Returns:
+    - feature_importance_df (pd.DataFrame): A DataFrame containing feature importances from different methods, scaled between 0 and 1, and sorted by average importance.
+    
+    example of usage:
+    
+    import pandas as pd
+    from sklearn.model_selection import train_test_split
+    from sklearn.metrics import accuracy_score
+    from sklearn.linear_model import LogisticRegression
+
+    # Load dataset
+    url = 'https://raw.githubusercontent.com/SalvatoreRa/tutorial/main/datasets/pol.csv'
+    df = pd.read_csv(url, sep=';')
+    X = df.drop(columns=['target'])
+    y = df['target']
+
+    # Splitting the data into train and test sets
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    # Train the Logistic Regression model
+    model = LogisticRegression(max_iter=1000)
+    model.fit(X_train, y_train)
+
+    # Make predictions
+    preds = model.predict(X_test)
+    accuracy = accuracy_score(y_test, preds)
+    print(f'Accuracy: {accuracy:.2f}')
+
+    # Calculate feature importances
+    importance = feature_importance_generalized(columns_name=X.columns, _model=model, data=X_test, target=y_test)
+    print(importance)
+    
+    """
+    # Get model-based feature importance
+    feature_importance = get_model_feature_importance(_model)
+    if feature_importance is None:
+        # Use permutation importance as a fallback
+        perm_importance = permutation_importance(_model, data, target, n_repeats=10, random_state=42, n_jobs=-1)
+        feature_importance = perm_importance.importances_mean
+
+    # Create DataFrame for model-based importance
+    feature_importance_df = pd.DataFrame({
+        'Feature': columns_name,
+        'model_importance': feature_importance
+    })
+
+    # SHAP feature importance
+    explainer = shap.Explainer(_model, data)
+    shap_values = explainer(data)
+    shap_importance = np.abs(shap_values.values).mean(axis=0)
+    if shap_importance.ndim > 1:
+        shap_importance = shap_importance.mean(axis=1)
+    feature_importance_df['shap_importance'] = shap_importance
+
+    # Permutation importance
+    perm_importance = permutation_importance(_model, data, target, n_repeats=10, random_state=42, n_jobs=-1)
+    feature_importance_df['permutation_importance'] = perm_importance.importances_mean
+
+    # LIME feature importance
+    lime_explainer = LimeTabularExplainer(data.values, feature_names=data.columns.tolist(), verbose=False, mode='classification')
+    num_samples = 100
+    lime_importance = np.zeros([len(columns_name), min(num_samples, data.shape[0])])
+
+    # Use a subset of data for LIME explanation to reduce computation time
+    for i in range(min(num_samples, data.shape[0])):
+        exp = lime_explainer.explain_instance(data.values[i], _model.predict_proba, num_features=data.shape[1])
+        lime_values = np.array([importance for _, importance in exp.local_exp[1]])
+        lime_importance[:, i] = lime_values
+
+    lime_importance = np.mean(lime_importance, axis=1).tolist()
+    feature_importance_df['lime_importance'] = lime_importance
+
+    # Scale each column between 0 and 1
+    numeric_columns = feature_importance_df.select_dtypes(include=[np.number]).columns
+    scaler = MinMaxScaler()
+    feature_importance_df[numeric_columns] = scaler.fit_transform(feature_importance_df[numeric_columns])
+
+    # Calculate the average importance
+    feature_importance_df['average_importance'] = feature_importance_df[numeric_columns].mean(axis=1)
+
+    # Sort by the average importance
+    feature_importance_df = feature_importance_df.sort_values(by='average_importance', ascending=False)
+
+    return feature_importance_df
+
