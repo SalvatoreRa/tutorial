@@ -31,6 +31,7 @@ You may write me for any request, suggestions and comments.
 | [Utils NA](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/utils_NA.py) | a set of utils to generate and insert NA in your dataset|
 | [DR_utils](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/DR_utils.py) | a set of utils for dimensional reduction techniques|
 | [Correlation_utils](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/correlation_utils.py) | a set of utils for correlation dimension|
+| [Explainability_utils](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/utility/explainability_utilies.py) | a set of utils for explainability in machine learning|
 
 # How to import
 
@@ -162,7 +163,9 @@ I have collected here a series of functions that are not available in other pack
 * point-biserial correlation coefficient
 * Goodman and Kruskal's gamma correlation
 * Cramér's V statistic for a given contingency table
-* mutual information-based coefficient R 
+* mutual information-based coefficient R
+
+
 
 &nbsp;
 
