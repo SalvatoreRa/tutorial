@@ -130,6 +130,7 @@ def feature_importance_XGBoost(columns_name=None, _model=None, data=None, target
     
     # Sort by the average importance
     feature_importance_df = feature_importance_df.sort_values(by='average_importance', ascending=False)
+
     
     return feature_importance_df
 
@@ -138,7 +139,7 @@ def feature_importance_XGBoost(columns_name=None, _model=None, data=None, target
 
 
 
-def plot_feature_importance_heatmap(feature_importance_df=None, num_features=None):
+def plot_feature_importance_heatmap(feature_importance_df=None, num_features=None, saving= True):
     """
     Plots a heatmap of the feature importance DataFrame.
 
@@ -162,6 +163,9 @@ def plot_feature_importance_heatmap(feature_importance_df=None, num_features=Non
     plt.figure(figsize=(12, 8))
     sns.heatmap(sorted_df, annot=True, cmap='viridis', cbar=True)
     plt.title('Feature Importance Heatmap')
+    if saving= True:
+        plt.savefig("feature_importance_heatmap.jpg", format='jpeg')
+    
     plt.show()
     
 
