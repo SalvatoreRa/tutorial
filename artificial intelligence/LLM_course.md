@@ -1,6 +1,8 @@
 
-## Preliminary: a refresh
 
+# Preliminary: a refresh
+
+To begin this journey, if we do not feel confident about the pillars of machine learning, I recommend reviewing some of the fundamental concepts that will return often as we tackle Large Language Models.
 
 
 ## Neural net basics
