@@ -402,7 +402,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| []() | -- | |
+| [Can an LLM Outperform Human Analysts in Financial Analysis?](https://medium.datadriveninvestor.com/can-an-llm-outperform-human-analysts-in-financial-analysis-744a20dee0e7) | -- | Chicago University Has Conducted A Comparative Study of AI and Human Expertise in Earnings Forecasting|
 | [Google Gemma: is it Really a Gem?](https://levelup.gitconnected.com/google-gemma-is-it-really-a-gem-5b76d6607d3b) | -- |Google has just released two new open-source LLMs and is pushing for their adoption|
 | [Stable Diffusion 3: Can You Still Believe in Your Eyes?](https://levelup.gitconnected.com/stable-diffusion-3-can-you-still-believe-in-your-eyes-3d9ba8f2a9d8) | -- |Stable Diffusion 3 has been announced: what all we know so far|
 | [MiQu: Can a mysterious model be a GPT-4 rival?](https://medium.com/gitconnected/miqu-can-a-mysterious-model-be-a-gpt-4-rival-a94f57e2f07f) | -- |An open-source model seems to be performing as GPT-4 but we do not know much about it |
