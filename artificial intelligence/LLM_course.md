@@ -16,6 +16,16 @@ To begin this journey, if we do not feel confident about the pillars of machine 
 * [Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-1): An interactive course that covers all the basics of calculus.
 * [Khan Academy - Probability and Statistics](https://www.khanacademy.org/math/statistics-probability): Delivers the material in an easy-to-understand format.
 
+## Python basics
+
+**Resources**
+
+* [Real Python](https://realpython.com/): A comprehensive resource with articles and tutorials for both beginner and advanced Python concepts.
+* [freeCodeCamp - Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw): Long video that provides a full introduction into all of the core concepts in Python.
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): Free digital book that is a great resource for learning pandas, NumPy, Matplotlib, and Seaborn.
+* [freeCodeCamp - Machine Learning for Everybody](https://youtu.be/i_LwzRVP7bg): Practical introduction to different machine learning algorithms for beginners.
+* [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120): Free course that covers PCA and several other machine learning concepts.
+
 ## Neural net basics
 
 ## Natural Language Processing
