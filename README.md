@@ -189,6 +189,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Beyond AlphaFold: The Future Of LLM in Medicine](https://towardsdatascience.com/beyond-alphafold-the-future-of-llm-in-medicine-42c10e302183) | -- | AlphaFold leaves a complex legacy: What will be the future of LLM in biology and medicine?|
 | [How LLMs Can Fuel Gene Editing Revolution](https://towardsdatascience.com/how-llms-can-fuel-gene-editing-revolution-1b15663f697c) | -- | Gene editing could cure most diseases, and LLMs can make it a reality sooner|
 | [AI’s Emerging Role in Disease Detection from Human Speech](https://medium.com/towards-data-science/ais-emerging-role-in-disease-detection-from-human-speech-f24e6d49d25c) | -- |Disease prediction from speech can be the next revolution in healthcare|
 |[Unlocking the Dance of Proteins: AlphaFold meets Diffusion](https://levelup.gitconnected.com/unlocking-the-dance-of-proteins-alphafold-meets-diffusion-571141004bc4)| -- |AlphaFlow Makes Protein Structure PredictionFrom Static to Dynamic |
@@ -269,6 +270,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Can LLMs Truly Learn to Reason Implicitly?](https://ai.plainenglish.io/can-llms-truly-learn-to-reason-implicitly-cbbec79077c8) | -- |Unraveling the Mechanisms Behind Grokking and Systematic Generalization in LLMs|
+|[An LLM Student’s Handbook: Mastering the Art of Learning and Retaining Knowledge](https://levelup.gitconnected.com/an-llm-students-handbook-mastering-the-art-of-learning-and-retaining-knowledge-d5a59108968a) | -- |Learning and Forgetting: How to Improve the Balance|
+|[Maybe GPT Isn’t the Best: BERTs Can Master Generative In-Context Learning](https://levelup.gitconnected.com/maybe-gpt-isnt-the-best-berts-can-master-generative-in-context-learning-2d95bc8c8507) | -- |Challenging AI Paradigms with DeBERTa’s Surprising Capabilities|
 | [David vs. Goliath: Beating Long-Context Tasks with Small Models](https://levelup.gitconnected.com/david-vs-goliath-beating-long-context-tasks-with-small-models-1a4d61d9ea81) | -- |Unveiling LC-Boost: A Framework for Efficient and Effective Long-Context Processing |
 | [Clear Waters: What an LLM Thinks Under the Surface](https://levelup.gitconnected.com/clear-waters-what-an-llm-thinks-under-the-surface-9b21206e31dc) | -- | Anthropic’s Take at Decoding Abstract Features in Large Language Models|
 | [Can Transformer Substitute Graph Neural Networks?](https://pub.towardsai.net/can-transformer-substitute-graph-neural-networks-b7d36047c9ac) | -- |Are transformers able to do graph reasoning and to which extent? |
