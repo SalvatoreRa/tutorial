@@ -390,6 +390,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[The Goldfish LLM: Swimming Through Data Without Memorizing It](https://medium.com/gitconnected/the-goldfish-llm-swimming-through-data-without-memorizing-it-5903e9bd90eb)| -- |Novel Training Approaches to Avoid Data Memorization and Privacy Risks Without Impacting Performance|
 |[How transparent are large language models?](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c)| -- |Stanford proposes an index to measure LLM transparency, and the results are not encouraging|
 |[Scaling Data, Scaling Bias: A Deep Dive into Hateful Content and Racial Bias in Generative AI](https://levelup.gitconnected.com/scaling-data-scaling-bias-a-deep-dive-into-hateful-content-and-racial-bias-in-generative-ai-70d8aa27a631)| -- |scaling seems the solution for every issue in machine learning: but it is true?|
 |[Reshaping the Model’s Memory without the Need for Retraining](https://towardsdatascience.com/reshaping-the-models-memory-without-the-need-for-retraining-9ade69f56296)| -- |Erasing any echo of problematic content a large language model has learned|
