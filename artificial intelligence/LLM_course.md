@@ -41,11 +41,11 @@ To begin this journey, if we do not feel confident about the pillars of machine 
 
 **Resources**
 
-* [RealPython - NLP with spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/): Exhaustive guide about the spaCy library for NLP tasks in Python.
-* [Kaggle - NLP Guide](https://www.kaggle.com/learn-guide/natural-language-processing): A few notebooks and resources for a hands-on explanation of NLP in Python.
-* [Jay Alammar - The Illustration Word2Vec](https://jalammar.github.io/illustrated-word2vec/): A good reference to understand the famous Word2Vec architecture.
-* [Jake Tae - PyTorch RNN from Scratch](https://jaketae.github.io/study/pytorch-rnn/): Practical and simple implementation of RNN, LSTM, and GRU models in PyTorch.
-* [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/): A more theoretical article about the LSTM network.
+* [RealPython - NLP with spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/): The tutorials cover a wide range of topics, including the basics of PyTorch, building neural networks, training models, and implementing various deep learning algorithms. 
+* [Kaggle - NLP Guide](https://www.kaggle.com/learn-guide/natural-language-processing): This comprehensive guide on Kaggle provides a structured learning path for natural language processing (NLP). It includes tutorials, hands-on exercises, and practical examples to cover essential NLP concepts and techniques. Topics include text preprocessing, sentiment analysis, text classification, and more.
+* [Jay Alammar - The Illustration Word2Vec](https://jalammar.github.io/illustrated-word2vec/): This blog post by Jay Alammar offers a visually engaging explanation of the Word2Vec algorithm, a popular method for creating word embeddings in natural language processing. 
+* [Jake Tae - PyTorch RNN from Scratch](https://jaketae.github.io/study/pytorch-rnn/): This tutorial by Jake Tae provides a comprehensive guide to building Recurrent Neural Networks (RNNs) from scratch using PyTorch. It covers the fundamental concepts of RNNs, including how they process sequential data, and provides step-by-step instructions for implementing an RNN model in PyTorch.
+* [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/):  This insightful blog post by Christopher Olah provides a thorough and accessible explanation of Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN) particularly effective for sequence data. The post breaks down the complex inner workings of LSTMs with detailed diagrams and intuitive explanations, covering key components like cell states, gates, and the flow of information.
 
 # LLM basic
 
