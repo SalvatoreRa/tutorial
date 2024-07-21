@@ -28,6 +28,10 @@ To best understand how a Large Language Model (LLM) works, it is important to ha
 
 **In-depth level Resources**
 
+* [Goodefellow I. - Deep learning book cap II](https://www.deeplearningbook.org/contents/linear_algebra.html): provides an essential introduction to linear algebra. It covers key concepts such as vectors, matrices, matrix multiplication, linear transformations, and eigenvalues. 
+* [Goodefellow I. - Deep learning book cap III](https://www.deeplearningbook.org/contents/prob.html) delves into the fundamentals of probability and information theory. It covers topics such as probability distributions, marginal and conditional probabilities, independence, Bayes' theorem, entropy, and mutual information.: 
+* [Goodefellow I. - Deep learning book cap IV](https://www.deeplearningbook.org/contents/numerical.html): focuses on numerical computation techniques that are vital for implementing and optimizing deep learning algorithms. It covers essential topics such as floating-point arithmetic, optimization algorithms, numerical stability, and the use of software tools for efficient computation.
+
 ## Python basics
 
 **Resources**
