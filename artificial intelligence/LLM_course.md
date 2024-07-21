@@ -32,10 +32,10 @@ To begin this journey, if we do not feel confident about the pillars of machine 
 
 **Resources**
 
-* [3Blue1Brown - But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk): This video gives an intuitive explanation of neural networks and their inner workings.
-* [freeCodeCamp - Deep Learning Crash Course](https://www.youtube.com/watch?v=VyWAvY2CF9c): This video efficiently introduces all the most important concepts in deep learning.
-* [Fast.ai - Practical Deep Learning](https://course.fast.ai/): Free course designed for people with coding experience who want to learn about deep learning.
-* [Patrick Loeber - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4): Series of videos for complete beginners to learn about PyTorch.
+* [3Blue1Brown - But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk):  This video by 3Blue1Brown provides a visually intuitive explanation of neural networks. Using engaging animations and clear explanations, it introduces the basic concepts of how neural networks function, including the structure of neurons, layers, and how data is processed through the network.
+* [freeCodeCamp - Deep Learning Crash Course](https://www.youtube.com/watch?v=VyWAvY2CF9c): This YouTube video by freeCodeCamp offers an in-depth introduction to deep learning. Covering fundamental concepts such as neural networks, activation functions, backpropagation, and more, the tutorial provides practical examples and coding exercises to help learners understand and apply deep learning techniques. 
+* [Fast.ai - Practical Deep Learning](https://course.fast.ai/): This online course by Fast.ai provides a hands-on approach to learning deep learning. It covers practical techniques and applications, focusing on real-world projects and examples. The course includes topics such as image classification, natural language processing, and collaborative filtering, and emphasizes understanding the underlying principles and code implementations. 
+* [Patrick Loeber - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4):  This YouTube playlist by Patrick Loeber offers a series of tutorials focused on PyTorch, a popular deep learning framework. The tutorials cover a wide range of topics, including the basics of PyTorch, building neural networks, training models, and implementing various deep learning algorithms.
 
 ## Natural Language Processing
 
