@@ -4,11 +4,19 @@
 
 To begin this journey, if we do not feel confident about the pillars of machine learning, I recommend reviewing some of the fundamental concepts that will return often as we tackle Large Language Models.
 
+To best understand how a Large Language Model (LLM) works, it is important to have a good understanding of the mathematical and machine learning principles behind it. it is recommended to focus on three axes: 
+
+* **Mathematical preliminaries** 
+* **Python basis**
+* **NLP basis**
+
 ## Mathematical basis
 
 
 
-**Resources**
+### Resources 
+
+**High level Resources**
 
 * [3Blue1Brown - The Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): This YouTube channel provides visually intuitive explanations of mathematical concepts, including linear algebra and neural networks.
 * [StatQuest with Josh Starmer - Statistics Fundamentals](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9): This YouTube series offers clear and engaging explanations of fundamental statistical concepts. Hosted by Josh Starmer, the videos use simple visuals and straightforward language to make topics like probability, regression, hypothesis testing, and statistical distributions accessible to learners at all levels. 
@@ -17,6 +25,8 @@ To begin this journey, if we do not feel confident about the pillars of machine 
 * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra): This comprehensive course on Khan Academy covers the fundamental concepts of linear algebra. It includes topics such as vector spaces, matrices, determinants, eigenvalues, and linear transformations. 
 * [Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-1): This extensive course on Khan Academy covers key topics in calculus, including limits, derivatives, integrals, and the fundamental theorem of calculus. Through a series of video lessons, interactive exercises, and step-by-step explanations, learners can develop a strong understanding of calculus concepts.
 * [Khan Academy - Probability and Statistics](https://www.khanacademy.org/math/statistics-probability): This detailed course on Khan Academy covers essential concepts in probability and statistics. Topics include descriptive statistics, probability distributions, random variables, hypothesis testing, and inferential statistics. 
+
+**In-depth level Resources**
 
 ## Python basics
 
