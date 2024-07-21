@@ -22,11 +22,11 @@ To begin this journey, if we do not feel confident about the pillars of machine 
 
 **Resources**
 
-* [Real Python](https://realpython.com/): A comprehensive resource with articles and tutorials for both beginner and advanced Python concepts.
+* [Real Python](https://realpython.com/): Real Python is a comprehensive online resource dedicated to teaching Python programming. It offers a wide range of tutorials, articles, and video courses covering everything from basic Python syntax to advanced topics like web development, data science, and automation. 
 * [freeCodeCamp - Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw): Long video that provides a full introduction into all of the core concepts in Python.
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): Free digital book that is a great resource for learning pandas, NumPy, Matplotlib, and Seaborn.
-* [freeCodeCamp - Machine Learning for Everybody](https://youtu.be/i_LwzRVP7bg): Practical introduction to different machine learning algorithms for beginners.
-* [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120): Free course that covers PCA and several other machine learning concepts.
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): this online resource serves as a thorough guide to using Python for data science. It encompasses key topics such as data manipulation with Pandas, numerical computing with NumPy, data visualization with Matplotlib, and machine learning with Scikit-Learn.  
+* [freeCodeCamp - Machine Learning for Everybody](https://youtu.be/i_LwzRVP7bg): his YouTube video by freeCodeCamp provides an in-depth introduction to machine learning accessible to a broad audience. The tutorial covers fundamental concepts such as supervised and unsupervised learning, algorithms like linear regression, decision trees, and neural networks, and practical applications of machine learning. 
+* [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120): This online course by Udacity offers a foundational introduction to machine learning. It covers essential topics such as supervised and unsupervised learning, decision trees, clustering, regression, and more.
 
 ## Neural net basics
 
