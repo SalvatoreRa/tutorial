@@ -11,6 +11,11 @@ To best understand how a Large Language Model (LLM) works, it is important to ha
 * **NLP basis**
 
 ## Mathematical basis
+There are several aspects of mathematics that can be useful in understanding and planning an LLM. Generally, these prerequisites are common to both machine learning and deep learning. 
+* **Linear algebra** is the basis for understanding most deep learning concepts. Linear algebra is used for data manipulation, transformation and modeling. knowledge of vectors, matrices and linear equations is crucial.
+* **Calculus** is used to describe the behavior of algorithms. Concepts such as gradient descent and backpropagation are critical to understanding how a neural network (and thus an LLM) is trained.
+* **Statistics** is used both to understand the dataset (initial analysis, visualization, obtaining insights) but also to study the behavior of the model. In general, statistics is the basis for understanding the relationship between dependent and independent variables, allowing us to investigate what the model learns
+* **Probability theory** allows us to efficiently represent the degree of uncertainty in knowledge. This will be intriguingly related to how LLMs predict the next token when they generate text.
 
 
 
