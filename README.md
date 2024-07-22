@@ -270,6 +270,13 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Navigating the Seas of Reason: A Geometric Odyssey to Enhance LLM Reasoning Capabilities](https://levelup.gitconnected.com/navigating-the-seas-of-reason-a-geometric-odyssey-to-enhance-llm-reasoning-capabilities-a985d24908ae) | -- |Exploring the Depths of Self-Attention Graphs and Intrinsic Dimensions in Large Language Models |
+| [Chat Quijote and the Windmills: Navigating AI Hallucinations on the Path to Accuracy](https://levelup.gitconnected.com/chat-quijote-and-the-windmills-navigating-ai-hallucinations-on-the-path-to-accuracy-0aaecf46354c) | -- | Strategies and Tools for Enhancing Reliability in Large Language Models|
+| [GraphRAG: Combining Retrieval and Summarization](https://levelup.gitconnected.com/graphrag-combining-retrieval-and-summarization-9262ff312d98) | -- |Enhancing Large Language Models for Complex Question Answering over Extensive Text Corpora |
+| [How Achieving Performance and Efficiency in RAG](https://levelup.gitconnected.com/how-achieving-performance-and-efficiency-in-rag-d5bb693efb91) | -- | Exploring Optimal Strategies for Streamlined Retrieval-Augmented Generation Workflows|
+| [Is LLM Performance Predetermined by Their Genetic Code?](https://towardsdatascience.com/is-llm-performance-predetermined-by-their-genetic-code-74e7bb080dab) | -- | Exploring phylogenetic algorithms to predict the future of large language models|
+| [PlanRAG: Plan Your Way to Better Decisions](https://levelup.gitconnected.com/planrag-plan-your-way-to-better-decisions-9e992f08e5e6) | -- |Navigating complex decisions requires a plan: Can LLMs be used for decision-making? |
+| [Are Long-Context LLMs Truly Revolutionary?](https://ai.plainenglish.io/are-long-context-llms-truly-revolutionary-a21e04ad701b) | -- |Assessing the Impact and Potential of Long-Context Language Models |
 |[Can LLMs Truly Learn to Reason Implicitly?](https://ai.plainenglish.io/can-llms-truly-learn-to-reason-implicitly-cbbec79077c8) | -- |Unraveling the Mechanisms Behind Grokking and Systematic Generalization in LLMs|
 |[An LLM Student’s Handbook: Mastering the Art of Learning and Retaining Knowledge](https://levelup.gitconnected.com/an-llm-students-handbook-mastering-the-art-of-learning-and-retaining-knowledge-d5a59108968a) | -- |Learning and Forgetting: How to Improve the Balance|
 |[Maybe GPT Isn’t the Best: BERTs Can Master Generative In-Context Learning](https://levelup.gitconnected.com/maybe-gpt-isnt-the-best-berts-can-master-generative-in-context-learning-2d95bc8c8507) | -- |Challenging AI Paradigms with DeBERTa’s Surprising Capabilities|
