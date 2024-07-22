@@ -57,7 +57,7 @@ You can open a Github Issue for any request, comment or any issue you encounter.
 | [Graph ML: fantastic graphs and where to find them](https://python.plainenglish.io/graph-ml-fantastic-graphs-and-where-to-find-them-337426ad17bf) | -- |Why to use a graph? which application? |
 | [Graph ML: introduction to NetworkX](https://ai.gopubby.com/graph-ml-introduction-to-networkx-73e29a9bf40a) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/NetworkX.ipynb)|How to start with handle graph in Python using the most popular library|
 | [Graph ML: Graph traversal algorithms in a nutshell](https://ai.gopubby.com/graph-ml-graph-traversal-algorithms-in-a-nutshell-a80288a4d604) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/BFS_and_DFS.ipynb)|A quick glance at bread-first and depth-first search algorithms for graph machine learning|
-
+| [Graph ML: Introduction to Python iGraph](https://ai.gopubby.com/graph-ml-introduction-to-python-igraph-88707258702) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Igraph.ipynb) |Python iGraph is a wide-use library to handle graphs. how do start using it? why? |
 
 [Back to General Index](https://github.com/SalvatoreRa/tutorial/blob/main/README.md#Index) -- [Back to local index](#Index)
 &nbsp;
