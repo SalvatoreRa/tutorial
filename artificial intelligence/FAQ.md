@@ -701,7 +701,12 @@ OpenAI proposed in 2020 a _power law for the performance of LLMs_: according to 
 ![scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/scaling_law.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2001.08361)*
 
-Emergent properties are properties that appear only with scale (as the number of parameters increases)
+A [later work](https://arxiv.org/abs/2407.13623) suggests that vocabulary size also follows a scaling law (model performance is also impacted by vocabulary size). A larger vocabulary allows more concepts and nuances to be represented. According to the authors, vocabulary size in today's models is not optimal but is underestimated.
+
+![Vocabulary scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/vocabulary_scaling_law.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2407.13623)*
+
+**Emergent properties** are properties that appear only with scale (as the number of parameters increases)
 
 *"In the literature, emergent abilities of LLMs are formally defined as “the abilities that
 are not present in small models but arise in large models”, which is one of the most prominent features that distinguish LLMs from previous PLMs."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
