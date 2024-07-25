@@ -585,17 +585,22 @@ According to some authors, the lottery ticket hypothesis is one of the reasons w
   <summary><b>What is grokking?</b></summary>
 Overfitting is considered one of the major problems in neural networks and is defined when a model fails to generalize. An overfitting model shows good results on the training dataset, but poor results on test data (so it fails to generalize what it has learned in the training data). Overfitting can have many causes such as little data, lack of regularization, and model being too complex (see above).
 
-Recently, however, the concept of overfitting has been meesso challenged by the so-called [Grokking](https://arxiv.org/abs/2201.02177). Grokking is defined as a delayed generalization, at the first stage the model seems to memorize the training set data and not learn generalization (this is seen from the loss and accuracy curves) at a certain time continuing training there is a rapid decrease in the validation loss (also known as “grok”). 
+Recently, however, the concept of overfitting has been meesso challenged by the so-called [Grokking](https://arxiv.org/abs/2201.02177). **Grokking** is defined as a delayed generalization, at the first stage the model seems to memorize the training set data and not learn generalization (this is seen from the loss and accuracy curves) at a certain time continuing training there is a rapid decrease in the validation loss (also known as “grok”). 
 
 ![grokking](https://github.com/SalvatoreRa/tutorial/blob/main/images/grokking.png?raw=true)
 *Grokking: A dramatic example of generalization far after overfitting on an algorithmic dataset. from [here](https://arxiv.org/pdf/2201.02177)*
 
 We discussed this in detail [in this article](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4), but basically there are various forces at work: 
-* The model tends to memorize elements because it is more efficient
-* under regularization forces such as weighting decay, slowly generalization circuits emerge.
+* The model tends to memorize elements because it is more efficient. These circuits memorize training examples.
+* under regularization forces such as weighting decay, slowly generalization circuits emerge. These circuits are able to understand the patterns underlying the data.
 * This balance is dependent on various elements such as dataset size.
 
-  
+Grokking seems more like a theoretical case without practical applications, especially since it needs many iterations to emerge. A [paper](https://arxiv.org/pdf/2405.20233) was recently presented that discusses the possibility of creating an algorithm called _Grokfast_, to accelerate model convergence toward generalization.
+
+The system decomposes the gradient of a parameter into two components: a fast-varying component and a slow-varying component. The former is responsible for overfitting, and the latter is responsible for generating (inspired by circuits described in other articles). By exploiting this you can then speed up convergence, and simply strengthen the influence of the slow-varying component. [Here,](https://github.com/ironjr/grokfast) the code.
+
+Articles describing in detail:
+  * [Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)
 
 </details>
 
