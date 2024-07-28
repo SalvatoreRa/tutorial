@@ -69,6 +69,8 @@ There are several aspects of mathematics that can be useful in understanding and
 
 # LLM basic
 
+## The LLM architecture
+
 **High level resources**
 
 Here a list of resources that can give a great grasp of inner mechanism of a transformer. I add also different resources about self-attention.
@@ -88,3 +90,8 @@ A list of resources about a more formal introduction on transformers and attenti
 
 * [Transformers and Large Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf) - Dan Jurafsky and James H. Martin. This chapter of Speech and Language Processing describes in details the self-attention, the training, and the transformer. It is great resources and easy to understand.
 * [Fine-tuning and Masked Language Models](https://web.stanford.edu/~jurafsky/slp3/11.pdf) - Dan Jurafsky and James H. Martin. This chapter is focused on the BERT like transformer and how to fine-tune a model. Both chapters are easy and very insightful
+
+## The LLM datasets
+
+* [Preparing a Dataset for Instruction tuning](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2) -  Weights & Biases provides a detailed guide on preparing datasets for fine-tuning large language models (LLMs). It covers the importance of high-quality datasets, outlines steps for data collection and cleaning, and emphasizes the need for diverse and representative examples.
+* [Generating a Clinical Instruction Dataset](https://medium.com/mlearning-ai/generating-a-clinical-instruction-dataset-in-portuguese-with-langchain-and-gpt-4-6ee9abfa41ae) - Medium article that details a process of creating a dataset for clinical instructions using LangChain and GPT-4. It covers steps including data collection, preprocessing, and leveraging GPT-4 for generating relevant instructions in Portuguese. The guide emphasizes practical implementation and offers insights into handling language-specific challenges in dataset creation.
