@@ -40,6 +40,12 @@ There are several aspects of mathematics that can be useful in understanding and
 
 ## Python basics
 
+Python is the language of machine learning; most of the algorithms and libraries speak in Python. Although there are resources in other languages, Python is particularly dominant when it comes to neural networks and consequently LLM. A fair amount of knowledge of Python is recommended in order to be able to successfully utilitize the algorithms.
+
+* **Python basis**. it is recommended to have an understanding of Python basics, syntax and the fundamental concepts behind using Python (object oriented programming, functions and so on). 
+* **Data science with Python** some libraries are omni present, especially if you want to manipulate data or plot results it is best to have a knowledge of libraries such as Matplotilib, Numpy or Pandas. 
+* **Machine learning concepts** libraries such as scikit-learn are the basis of how to approach machine learning. Many of the algorithms there are then used for more complex concepts later. In general, knowledge of classical machine learning algorithms is important. Those who want to approach the study of LLMs will find it beneficial to know concepts such as: dimensionality reduction, classification, regression.
+
 **Resources**
 
 * [Real Python](https://realpython.com/): Real Python is a comprehensive online resource dedicated to teaching Python programming. It offers a wide range of tutorials, articles, and video courses covering everything from basic Python syntax to advanced topics like web development, data science, and automation. 
@@ -95,3 +101,5 @@ A list of resources about a more formal introduction on transformers and attenti
 
 * [Preparing a Dataset for Instruction tuning](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2) -  Weights & Biases provides a detailed guide on preparing datasets for fine-tuning large language models (LLMs). It covers the importance of high-quality datasets, outlines steps for data collection and cleaning, and emphasizes the need for diverse and representative examples.
 * [Generating a Clinical Instruction Dataset](https://medium.com/mlearning-ai/generating-a-clinical-instruction-dataset-in-portuguese-with-langchain-and-gpt-4-6ee9abfa41ae) - Medium article that details a process of creating a dataset for clinical instructions using LangChain and GPT-4. It covers steps including data collection, preprocessing, and leveraging GPT-4 for generating relevant instructions in Portuguese. The guide emphasizes practical implementation and offers insights into handling language-specific challenges in dataset creation.
+* [GPT 3.5 for news classification](https://medium.com/@kshitiz.sahay26/how-i-created-an-instruction-dataset-using-gpt-3-5-to-fine-tune-llama-2-for-news-classification-ed02fe41c81f) - Kshitiz Sahay discusses the process of using GPT-3.5 to generate a dataset for fine-tuning the Llama 2 model for news classification tasks. It covers dataset creation, preprocessing steps, and the fine-tuning process, providing practical insights and lessons learned during the project.
+* [Dataset creation for fine-tuning LLM](https://colab.research.google.com/drive/1GH8PW9-zAe4cXEZyOIE-T9uHXblIldAg?usp=sharing) -  A Google Colab notebook that contains technique to filter a dataset
