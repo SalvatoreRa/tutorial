@@ -798,6 +798,7 @@ Several solutions have obviously been proposed:
 * If you have control over model parameters, you can play with temperature or other parameters.
 * Provide instructions to the model to answer "I do not know" when it does not know the answer.
 * Provide examples so it can better understand the task (for reasoning tasks).
+* Adding an external memory
 
 Investigating further, [this study](https://arxiv.org/pdf/2304.13734) provides three reasons why hallucinations emerge. Specifically discussing a model that generates a sequence of tokens in an autoregressive manner: 
 * The LLM commits to a token at a time. Even when we choose a low temperature, during decoding we maximize the likelihood of each token given the previous tokens, but the probability of the entire correct sequence may be low. For example, once part of the sequence is generated the model will continue from there and will not correct (For a sequence to be completed "Pluto is the" if the model continues as "Pluto is the smallest," it will likely continue with "Pluto is the smallest dwarf planet in our solar system." and not with the correct completion).  The model completes a sentence that it does not know how to complete. For example, for the description of a city, the model predicts to describe its population, but having no information about its population in its parametric memory generates a hallucination.
@@ -808,7 +809,15 @@ information.
 ![hallucination LLM causes](https://github.com/SalvatoreRa/tutorial/blob/main/images/hallucination_causes.png?raw=true)
 *from the [original article](https://arxiv.org/pdf/2304.13734)*
 
-There are other types of hallucinations and other causes. For example, confabulation is a hallucination that emerges from the LLM unpredictably, owing to internal factors that are unrelated to the prompt. In a sense, this type of hallucination is associated with the LLM's uncertainty in responding to the prompt. In [this paper](https://www.nature.com/articles/s41586-024-07421-0) they show that a high uncertainty in the response is an indication of confabulation (this uncertainty can be estimated with an entropy that is associated with the meaning of the response).
+There is a dissonance between what is the meaning of the term "hallucination" in human psychology ("when you hear, see, smell, taste, or feel things that appear to be real but only exist in your mind") and what is meant by hallucination in machine learning. In a [recent article](https://arxiv.org/abs/2402.01769) they took care to align these two definitions. They divided hallucinations that are seen in the case of LLM into different types. This new classification is interesting because it is difficult to be able to resolve all causes of hallucinations in LLM with one approach. Instead, by having a classification of the various subtypes, one can think about acting on each subtype (which is perhaps the one most relevant to our task):
+
+_By grounding our discussion in specific psychological constructs, we seek to shed light on these phenomena in
+language models, paving the way for the development of targeted solutions for different types of ”hallucinations.” - [source](https://arxiv.org/abs/2402.01769)_
+
+![hallucination LLM causes](https://github.com/SalvatoreRa/tutorial/blob/main/images/llm_hallucination_psicology.png?raw=true)
+*from the [original article](https://arxiv.org/abs/2402.01769)*
+
+For example, **confabulation** is a hallucination that emerges from the LLM unpredictably, owing to internal factors that are unrelated to the prompt. In a sense, this type of hallucination is associated with the LLM's uncertainty in responding to the prompt. In [this paper](https://www.nature.com/articles/s41586-024-07421-0) they show that a high uncertainty in the response is an indication of confabulation (this uncertainty can be estimated with an entropy that is associated with the meaning of the response).
 
 Another type of hallucination is **contextual hallucination**. In this case, although we provide the context (and thus the correct facts) in the prompt the model fails to generate the correct output. According to this [study]() contextual hallucinations are related to the extent to which an LLM attends to the provided contextual information. In other words, it depends on the relationship between the attention (attention weights) associated with the context and the attention devoted to the newly generated tokens. Therefore, one can classify when a model will generate these kinds of hallucinations by extracting the attention weights and constructing a linear classifier.
 
@@ -821,6 +830,7 @@ Articles describing in detail:
   Suggested lecture:
   * [Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)
   * [a good survey on the topic](https://arxiv.org/abs/2311.05232)
+  * [discussing hallucination in psychological terms](https://arxiv.org/abs/2402.01769)
 
 
   
