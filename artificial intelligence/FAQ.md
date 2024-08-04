@@ -809,6 +809,11 @@ information.
 ![hallucination LLM causes](https://github.com/SalvatoreRa/tutorial/blob/main/images/hallucination_causes.png?raw=true)
 *from the [original article](https://arxiv.org/pdf/2304.13734)*
 
+Other studies indicate among the causes as problems with the training dataset. Lack of relevant data to answer a question can lead to the emergence of hallucinations. The presence of duplicated data. In fact, duplicated data impacts the performance of the model.  With smaller models seeming more sensitive to repeated data. Repetitions seem to cause the model to store this data and lead to performance degradation (for more details you can read [here](https://arxiv.org/abs/2205.10487) and [here](https://aclanthology.org/2022.naacl-main.387/)). For some authors, hallucinations are also derived from inherent model limitations. In [this study](https://arxiv.org/abs/2305.14552) show that LLMs still rely on memorization at the sentence level and statistical patterns at the corpora level instead of robust reasoning, this is one of the reasons for the manifestation of hallucinations. This is also observed by the fact that LLMs are sensitive to reverse curse (lack of logical deduction, where an LLM trained on A implies B, hallucinates when questioned on B implies A, [here more details](https://arxiv.org/abs/2305.14552)). Other causes of hallucinations have been defined as the tendency of the model to be overconfident ([here](https://arxiv.org/abs/2307.11019)), favoring co-occurrences words over factual answers and thus generating spurious correlations ([here](https://arxiv.org/abs/2310.08256)) and the tendency to sycophancy to please the user ([here](https://arxiv.org/abs/2308.03958))
+
+![an example of sycophancy](https://github.com/SalvatoreRa/tutorial/blob/main/images/hallucination_causes.png?raw=true)
+*an example of sycophancy, from the [original article](https://arxiv.org/pdf/2308.03958)*
+
 There is a dissonance between what is the meaning of the term "hallucination" in human psychology ("when you hear, see, smell, taste, or feel things that appear to be real but only exist in your mind") and what is meant by hallucination in machine learning. In a [recent article](https://arxiv.org/abs/2402.01769) they took care to align these two definitions. They divided hallucinations that are seen in the case of LLM into different types. This new classification is interesting because it is difficult to be able to resolve all causes of hallucinations in LLM with one approach. Instead, by having a classification of the various subtypes, one can think about acting on each subtype (which is perhaps the one most relevant to our task):
 
 _By grounding our discussion in specific psychological constructs, we seek to shed light on these phenomena in
@@ -826,6 +831,8 @@ Another type of hallucination is **contextual hallucination**. In this case, alt
 
 Articles describing in detail:
   * [A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)
+  * [AI Hallucinations: Can Memory Hold the Answer?](https://towardsdatascience.com/ai-hallucinations-can-memory-hold-the-answer-5d19fd157356)
+  * [Chat Quijote and the Windmills: Navigating AI Hallucinations on the Path to Accuracy](https://levelup.gitconnected.com/chat-quijote-and-the-windmills-navigating-ai-hallucinations-on-the-path-to-accuracy-0aaecf46354c)
  
   Suggested lecture:
   * [Speak Only About What You Have Read: Can LLMs Generalize Beyond Their Pretraining Data?](https://pub.towardsai.net/speak-only-about-what-you-have-read-can-llms-generalize-beyond-their-pretraining-data-041704e96cd5)
