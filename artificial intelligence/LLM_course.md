@@ -84,7 +84,7 @@ Special attention should be paid to the concept of overfitting. Overfitting is i
 **In depth resources**
 
 * [Goodefellow I. - Deep learning book cap VI](https://www.deeplearningbook.org/contents/mlp.html): The chapter discusses deep feedforward networks. It provides are in-depth explanation of the fundamental deep learning models used for approximating functions by mapping inputs to outputs through layers of computations. Key concepts include the structure of networks, training using gradient-based methods, and the importance of hidden layers and activation functions.
-* [Goodefellow I. - Deep learning book cap VI](https://www.deeplearningbook.org/contents/mlp.html): 
+* [Goodefellow I. - Deep learning book cap VII](https://www.deeplearningbook.org/contents/mlp.html): the chapter overs regularization strategies in deep learning, aiming to reduce test error and prevent overfitting. It details various methods, such as parameter norm penalties (L2 and L1 regularization), ensemble methods, and techniques to balance bias and variance. The focus is on how these strategies can be applied to neural networks, discussing the trade-offs between complexity and generalization, and highlighting specific methods like weight decay and sparsity-inducing penalties.
 
 ## Natural Language Processing
 
