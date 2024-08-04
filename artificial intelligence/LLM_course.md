@@ -71,7 +71,7 @@ Once we have built our first neural network, we need to understand how to train 
 Special attention should be paid to the concept of overfitting. Overfitting is indeed one of the most important challenges to neural network training. In fact, a model trained on the training set can then perform poorly on new data (lack of generalization). Therefore, a whole range of regularization techniques have evolved to reduce overfitting (L1/L2 regularization, dropout, data augmentation. One intriguing phenomenon is grokking when an apparently overfitting network begins to generalize (delayed generalization)
 
 ![overfitting](https://github.com/SalvatoreRa/tutorial/blob/main/images/overfitting_nn_curve.png?raw=true)
-*from Wikipedia*
+*from [here](https://arxiv.org/abs/1812.11118)*
 
 **High level resources**
 
@@ -81,7 +81,10 @@ Special attention should be paid to the concept of overfitting. Overfitting is i
 * [Patrick Loeber - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4):  This YouTube playlist by Patrick Loeber offers a series of tutorials focused on PyTorch, a popular deep learning framework. The tutorials cover a wide range of topics, including the basics of PyTorch, building neural networks, training models, and implementing various deep learning algorithms.
 * [Crash Course in Deep Learning](https://gpuopen.com/learn/deep_learning_crash_course/) - The creation and application of multi-layer perceptrons (MLPs), a kind of fully connected neural network used in deep learning, are covered in this article.
 
+**In depth resources**
 
+* [Goodefellow I. - Deep learning book cap VI](https://www.deeplearningbook.org/contents/mlp.html): The chapter discusses deep feedforward networks. It provides are in-depth explanation of the fundamental deep learning models used for approximating functions by mapping inputs to outputs through layers of computations. Key concepts include the structure of networks, training using gradient-based methods, and the importance of hidden layers and activation functions.
+* [Goodefellow I. - Deep learning book cap VI](https://www.deeplearningbook.org/contents/mlp.html): 
 
 ## Natural Language Processing
 
