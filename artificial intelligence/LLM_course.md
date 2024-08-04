@@ -56,6 +56,12 @@ Python is the language of machine learning; most of the algorithms and libraries
 
 ## Neural net basics
 
+Large language models are basically neural networks with many more parameters. To best understand them, it is important to know the basics of deep learning and how neural networks work.
+
+Among the fundamentals for understanding neural networks, the concept of artificial neuron is important. How these can then be combined into a layer and how these can then be added on top of each other. At a mechanistic look, one can see how these are formed by matrices of weights and biases. In addition, it is important to understand the ruole of activation functions (without a nonlinear activation function one could not have deep learning). 
+
+Once we have built our first neural network, we need to understand how to train it. Neural networks are trained by backpropagation, which allows error propagation to conduct the weights update. During training we calculate the error using an error function (different losses are for different tasks, cross-entropy for classification, mean squared error for regression and so on). In addition, optimization of weights is conducted by algorithms such as gradient descent and its variations (SGD, Adam, RMSprop and so on).
+
 **Resources**
 
 * [3Blue1Brown - But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk):  This video by 3Blue1Brown provides a visually intuitive explanation of neural networks. Using engaging animations and clear explanations, it introduces the basic concepts of how neural networks function, including the structure of neurons, layers, and how data is processed through the network.
