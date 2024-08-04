@@ -62,6 +62,8 @@ Among the fundamentals for understanding neural networks, the concept of artific
 
 Once we have built our first neural network, we need to understand how to train it. Neural networks are trained by backpropagation, which allows error propagation to conduct the weights update. During training we calculate the error using an error function (different losses are for different tasks, cross-entropy for classification, mean squared error for regression and so on). In addition, optimization of weights is conducted by algorithms such as gradient descent and its variations (SGD, Adam, RMSprop and so on).
 
+Special attention should be paid to the concept of overfitting. Overfitting is indeed one of the most important challenges to neural network training. In fact, a model trained on the training set can then perform poorly on new data (lack of generalization). Therefore, a whole range of regularization techniques have evolved to reduce overfitting (L1/L2 regularization, dropout, data augmentation. One intriguing phenomenon is grokking when an apparently overfitting network begins to generalize (delayed overfitting)
+
 **Resources**
 
 * [3Blue1Brown - But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk):  This video by 3Blue1Brown provides a visually intuitive explanation of neural networks. Using engaging animations and clear explanations, it introduces the basic concepts of how neural networks function, including the structure of neurons, layers, and how data is processed through the network.
