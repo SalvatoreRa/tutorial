@@ -97,14 +97,20 @@ Natural Language Processing (NLP) is that branch of artificial intelligence that
 
 Text in its natural form is difficult for a machine to digest. Therefore, it is important to understand how to process a text (stemming, lemmatization, cleaning) and reduce it into units (tokenization). Once this is done one must then transform it into a vector representation that can then be used by computers (TF-IDF, bag-of-words, n-grams, embeddings). Special attention should be given to word embeddings because they learn dense vectors that represent the similarity in meaning of various words.
 
+![embedding visualization](https://github.com/SalvatoreRa/tutorial/blob/main/images/embedding_visualization.png?raw=true)
+*visualization of an embedding. From [here](https://ai.google.dev/gemini-api/tutorials/clustering_with_embeddings)*
+
 The recurrent nature of text sequences requires special adaptation of neural networks. For example, Recurrent Neural Networks (RNNs) are neural networks that have an additional vector to hold memory for previous elements of the sequence (and derived variants such as LSTM and GRU). the lack of parallelization of RNNs, vanishing gradient, and modeling long dependencies are some of the challenges that later led to the transformer. 
 
+![RNN structure](https://github.com/SalvatoreRa/tutorial/blob/main/images/Recurrent_neural_network_unfold.png?raw=true)
+*from Wikipedia*
 
 **High level Resources**
 
 * [RealPython - NLP with spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/): The tutorials cover a wide range of topics, including the basics of PyTorch, building neural networks, training models, and implementing various deep learning algorithms. 
 * [Kaggle - NLP Guide](https://www.kaggle.com/learn-guide/natural-language-processing): This comprehensive guide on Kaggle provides a structured learning path for natural language processing (NLP). It includes tutorials, hands-on exercises, and practical examples to cover essential NLP concepts and techniques. Topics include text preprocessing, sentiment analysis, text classification, and more.
 * [Jay Alammar - The Illustration Word2Vec](https://jalammar.github.io/illustrated-word2vec/): This blog post by Jay Alammar offers a visually engaging explanation of the Word2Vec algorithm, a popular method for creating word embeddings in natural language processing. 
+* [Visualize word embeddings](https://projector.tensorflow.org/) - The TensorFlow Embedding Projector is a tool for visualizing high-dimensional data. It allows users to load and explore embeddings using techniques like PCA, t-SNE, and UMAP.
 * [Jake Tae - PyTorch RNN from Scratch](https://jaketae.github.io/study/pytorch-rnn/): This tutorial by Jake Tae provides a comprehensive guide to building Recurrent Neural Networks (RNNs) from scratch using PyTorch. It covers the fundamental concepts of RNNs, including how they process sequential data, and provides step-by-step instructions for implementing an RNN model in PyTorch.
 * [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/):  This insightful blog post by Christopher Olah provides a thorough and accessible explanation of Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN) particularly effective for sequence data. The post breaks down the complex inner workings of LSTMs with detailed diagrams and intuitive explanations, covering key components like cell states, gates, and the flow of information.
 
