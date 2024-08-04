@@ -54,6 +54,10 @@ Python is the language of machine learning; most of the algorithms and libraries
 * [freeCodeCamp - Machine Learning for Everybody](https://youtu.be/i_LwzRVP7bg): his YouTube video by freeCodeCamp provides an in-depth introduction to machine learning accessible to a broad audience. The tutorial covers fundamental concepts such as supervised and unsupervised learning, algorithms like linear regression, decision trees, and neural networks, and practical applications of machine learning. 
 * [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120): This online course by Udacity offers a foundational introduction to machine learning. It covers essential topics such as supervised and unsupervised learning, decision trees, clustering, regression, and more.
 
+**In-depth resources**
+
+* [Goodefellow I. - Deep learning book cap V](https://www.deeplearningbook.org/contents/ml.html): This chapter discusses fundamental concepts such as supervised and unsupervised learning, the importance of training data, and the role of models in predicting outputs from inputs. It explores various algorithms, the balance between bias and variance, and techniques for evaluating and improving model performance. 
+
 ## Neural net basics
 
 Large language models are basically neural networks with many more parameters. To best understand them, it is important to know the basics of deep learning and how neural networks work.
