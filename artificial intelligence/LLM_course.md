@@ -89,7 +89,7 @@ Special attention should be paid to the concept of overfitting. Overfitting is i
 
 * [Goodefellow I. - Deep learning book cap VI](https://www.deeplearningbook.org/contents/mlp.html): The chapter discusses deep feedforward networks. It provides are in-depth explanation of the fundamental deep learning models used for approximating functions by mapping inputs to outputs through layers of computations. Key concepts include the structure of networks, training using gradient-based methods, and the importance of hidden layers and activation functions.
 * [Goodefellow I. - Deep learning book cap VII](https://www.deeplearningbook.org/contents/regularization.html): the chapter overs regularization strategies in deep learning, aiming to reduce test error and prevent overfitting. It details various methods, such as parameter norm penalties (L2 and L1 regularization), ensemble methods, and techniques to balance bias and variance. The focus is on how these strategies can be applied to neural networks, discussing the trade-offs between complexity and generalization, and highlighting specific methods like weight decay and sparsity-inducing penalties.
-* [Goodefellow I. - Deep learning book cap VIII](https://www.deeplearningbook.org/contents/optimization.html)This chapterdiscusses optimization techniques for training deep learning models. It covers the differences between machine learning optimization and pure optimization, highlighting challenges like ill-conditioning and the need for specialized algorithms. It also explains empirical risk minimization, surrogate loss functions, early stopping, and batch versus minibatch algorithms.
+* [Goodefellow I. - Deep learning book cap VIII](https://www.deeplearningbook.org/contents/optimization.html): This chapter discusses optimization techniques for training deep learning models. It covers the differences between machine learning optimization and pure optimization, highlighting challenges like ill-conditioning and the need for specialized algorithms. It also explains empirical risk minimization, surrogate loss functions, early stopping, and batch versus minibatch algorithms.
 
 ## Natural Language Processing
 
@@ -109,6 +109,8 @@ The recurrent nature of text sequences requires special adaptation of neural net
 * [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/):  This insightful blog post by Christopher Olah provides a thorough and accessible explanation of Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN) particularly effective for sequence data. The post breaks down the complex inner workings of LSTMs with detailed diagrams and intuitive explanations, covering key components like cell states, gates, and the flow of information.
 
 **In-depth resources**
+
+* [Goodefellow I. - Deep learning book cap X](https://www.deeplearningbook.org/contents/rnn.html): This chapter explains recurrent neural networks (RNNs) and recursive networks for processing sequential data. It describes the structure and operation of RNNs, emphasizing parameter sharing and unfolding computational graphs. The content includes different RNN architectures, training methods, and applications in tasks like language modeling and sequence prediction. 
 
 # LLM basic
 
