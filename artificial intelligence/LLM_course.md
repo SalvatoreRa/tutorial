@@ -58,19 +58,30 @@ Python is the language of machine learning; most of the algorithms and libraries
 
 Large language models are basically neural networks with many more parameters. To best understand them, it is important to know the basics of deep learning and how neural networks work.
 
-Among the fundamentals for understanding neural networks, the concept of artificial neuron is important. How these can then be combined into a layer and how these can then be added on top of each other. At a mechanistic look, one can see how these are formed by matrices of weights and biases. In addition, it is important to understand the ruole of activation functions (without a nonlinear activation function one could not have deep learning). 
+![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/neuron.png?raw=true)
+*from Wikipedia*
+
+Among the fundamentals for understanding neural networks, the concept of **artificial neuron** is important. How these can then be combined into a layer and how these can then be added on top of each other. At a mechanistic look, one can see how these are formed by matrices of weights and biases. In addition, it is important to understand the ruole of activation functions (without a nonlinear activation function one could not have deep learning). 
 
 Once we have built our first neural network, we need to understand how to train it. Neural networks are trained by backpropagation, which allows error propagation to conduct the weights update. During training we calculate the error using an error function (different losses are for different tasks, cross-entropy for classification, mean squared error for regression and so on). In addition, optimization of weights is conducted by algorithms such as gradient descent and its variations (SGD, Adam, RMSprop and so on).
 
-Special attention should be paid to the concept of overfitting. Overfitting is indeed one of the most important challenges to neural network training. In fact, a model trained on the training set can then perform poorly on new data (lack of generalization). Therefore, a whole range of regularization techniques have evolved to reduce overfitting (L1/L2 regularization, dropout, data augmentation. One intriguing phenomenon is grokking when an apparently overfitting network begins to generalize (delayed overfitting)
+![gradient descent](https://github.com/SalvatoreRa/tutorial/blob/main/images/GradientDescentGradientStep.svg?raw=true)
+*from [here](https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent)*
 
-**Resources**
+Special attention should be paid to the concept of overfitting. Overfitting is indeed one of the most important challenges to neural network training. In fact, a model trained on the training set can then perform poorly on new data (lack of generalization). Therefore, a whole range of regularization techniques have evolved to reduce overfitting (L1/L2 regularization, dropout, data augmentation. One intriguing phenomenon is grokking when an apparently overfitting network begins to generalize (delayed generalization)
+
+![overfitting](https://github.com/SalvatoreRa/tutorial/blob/main/images/overfitting_nn_curve.png?raw=true)
+*from Wikipedia*
+
+**High level resources**
 
 * [3Blue1Brown - But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk):  This video by 3Blue1Brown provides a visually intuitive explanation of neural networks. Using engaging animations and clear explanations, it introduces the basic concepts of how neural networks function, including the structure of neurons, layers, and how data is processed through the network.
 * [freeCodeCamp - Deep Learning Crash Course](https://www.youtube.com/watch?v=VyWAvY2CF9c): This YouTube video by freeCodeCamp offers an in-depth introduction to deep learning. Covering fundamental concepts such as neural networks, activation functions, backpropagation, and more, the tutorial provides practical examples and coding exercises to help learners understand and apply deep learning techniques. 
 * [Fast.ai - Practical Deep Learning](https://course.fast.ai/): This online course by Fast.ai provides a hands-on approach to learning deep learning. It covers practical techniques and applications, focusing on real-world projects and examples. The course includes topics such as image classification, natural language processing, and collaborative filtering, and emphasizes understanding the underlying principles and code implementations. 
 * [Patrick Loeber - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4):  This YouTube playlist by Patrick Loeber offers a series of tutorials focused on PyTorch, a popular deep learning framework. The tutorials cover a wide range of topics, including the basics of PyTorch, building neural networks, training models, and implementing various deep learning algorithms.
 * [Crash Course in Deep Learning](https://gpuopen.com/learn/deep_learning_crash_course/) - The creation and application of multi-layer perceptrons (MLPs), a kind of fully connected neural network used in deep learning, are covered in this article.
+
+
 
 ## Natural Language Processing
 
