@@ -272,6 +272,11 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [AI Hallucinations: Can Memory Hold the Answer?](https://towardsdatascience.com/ai-hallucinations-can-memory-hold-the-answer-5d19fd157356) | -- |Exploring How Memory Mechanisms Can Mitigate Hallucinations in Large Language Models |
+| [Balancing Cost and Performance: A Comparative Study of RAG and Long-Context LLMs](https://ai.plainenglish.io/balancing-cost-and-performance-a-comparative-study-of-rag-and-long-context-llms-f674f2a1bbf4) | -- | What is better between these approaches? Could they coexist?|
+| [Can Generative AI Lead to AI Collapse?](https://towardsdatascience.com/can-generative-ai-lead-to-ai-collapse-481966259d23) | -- |AI eating its own tail: the risk of model collapse in generative systems |
+| [Beyond Human Feedback: How to Teach a Genial AI Student](https://levelup.gitconnected.com/beyond-human-feedback-how-to-teach-a-genial-ai-student-62140cbb58fc) | -- | New Approaches for Guiding AI Evolution Beyond Human Oversight |
+| [Expanding Language, Expanding Thought: Vocabulary Size in LLM Scaling](https://levelup.gitconnected.com/expanding-language-expanding-thought-vocabulary-size-in-llm-scaling-82dc98235b49) | -- |Optimizing the LLM Vocabulary to Unlock Enhanced Performance and Cognitive Potential |
 | [Navigating the Seas of Reason: A Geometric Odyssey to Enhance LLM Reasoning Capabilities](https://levelup.gitconnected.com/navigating-the-seas-of-reason-a-geometric-odyssey-to-enhance-llm-reasoning-capabilities-a985d24908ae) | -- |Exploring the Depths of Self-Attention Graphs and Intrinsic Dimensions in Large Language Models |
 | [Chat Quijote and the Windmills: Navigating AI Hallucinations on the Path to Accuracy](https://levelup.gitconnected.com/chat-quijote-and-the-windmills-navigating-ai-hallucinations-on-the-path-to-accuracy-0aaecf46354c) | -- | Strategies and Tools for Enhancing Reliability in Large Language Models|
 | [GraphRAG: Combining Retrieval and Summarization](https://levelup.gitconnected.com/graphrag-combining-retrieval-and-summarization-9262ff312d98) | -- |Enhancing Large Language Models for Complex Question Answering over Extensive Text Corpora |
