@@ -399,6 +399,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Past Imperfect: Jailbreaking LLMs with Past Tense Requests](https://levelup.gitconnected.com/past-imperfect-jailbreaking-llms-with-past-tense-requests-0e35c1407a12) | -- | How Historical Reformulations Expose Vulnerabilities in AI Safety Measures|
 |[The Goldfish LLM: Swimming Through Data Without Memorizing It](https://medium.com/gitconnected/the-goldfish-llm-swimming-through-data-without-memorizing-it-5903e9bd90eb)| -- |Novel Training Approaches to Avoid Data Memorization and Privacy Risks Without Impacting Performance|
 |[How transparent are large language models?](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c)| -- |Stanford proposes an index to measure LLM transparency, and the results are not encouraging|
 |[Scaling Data, Scaling Bias: A Deep Dive into Hateful Content and Racial Bias in Generative AI](https://levelup.gitconnected.com/scaling-data-scaling-bias-a-deep-dive-into-hateful-content-and-racial-bias-in-generative-ai-70d8aa27a631)| -- |scaling seems the solution for every issue in machine learning: but it is true?|
