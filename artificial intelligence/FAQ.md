@@ -1011,6 +1011,21 @@ Instead of having to provide context, the authors of this study found that simpl
 ![zero-shot Cot Prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/zeroshot-cot.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2205.11916)*
 
+**Constrained-CoT**
+
+is another variation in which you force the model to reduce the number of tokens in the output. According to the authors, today's LLMs are unnecessarily verbose and produce more tokens than necessary. In addition, larger models are generally more verbose and thus produce more tokens. This has a latency cost (as well as obviously computational) that can be problematic per service for users. Also, more verbiage means a lot of irrelevant unnecessary detail and a greater risk of hallucinations. In addition, CoT by requiring reasoning intermediates to be generated increases the number of tokens generated.
+
+![verbosity of CoT prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/verbosity_cot.png?raw=true)
+*CoT is increasing the number of generated tokens from  an LLM. from the [original article](https://arxiv.org/pdf/2407.19825)*
+
+Therefore, the authors of [this study](https://arxiv.org/abs/2407.19825) suggest a new prompt that is a variation of the zero-shot prompt: *let's think step by step "and limit the length of the answer to n words* with n being the desired number of words.
+
+![constrained CoT prompt](https://github.com/SalvatoreRa/tutorial/blob/main/images/constrained_cot.png?raw=true)
+*Example of constrained CoT prompting, where n is 45. from the [original article](https://arxiv.org/pdf/2407.19825)*
+
+For the authors, this prompt not only reduces the number of tokens generated but in several cases also leads to better reasoning (more exact answers on a reasoning database). This better reasoning is seen only with some models (LLaMA-2 70B and not with smaller models)
+
+
   Articles describing in detail:
   * [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3)
   * [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa)
