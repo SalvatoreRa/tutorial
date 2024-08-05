@@ -422,6 +422,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [DeepMind’s AlphaProof: Achieving Podium Glory at the Math Olympiad Model](https://levelup.gitconnected.com/deepminds-alphaproof-achieving-podium-glory-at-the-math-olympiadmodel-61cf9ecc1f9f) | -- |Google DeepMind’s new artificial intelligence systems can solve complex mathematical problems |
 | [Can an LLM Outperform Human Analysts in Financial Analysis?](https://medium.datadriveninvestor.com/can-an-llm-outperform-human-analysts-in-financial-analysis-744a20dee0e7) | -- | Chicago University Has Conducted A Comparative Study of AI and Human Expertise in Earnings Forecasting|
 | [Google Gemma: is it Really a Gem?](https://levelup.gitconnected.com/google-gemma-is-it-really-a-gem-5b76d6607d3b) | -- |Google has just released two new open-source LLMs and is pushing for their adoption|
 | [Stable Diffusion 3: Can You Still Believe in Your Eyes?](https://levelup.gitconnected.com/stable-diffusion-3-can-you-still-believe-in-your-eyes-3d9ba8f2a9d8) | -- |Stable Diffusion 3 has been announced: what all we know so far|
