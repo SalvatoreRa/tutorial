@@ -1156,6 +1156,32 @@ Articles describing in detail:
    
 </details>
 
+<details>
+  <summary><b>What is ReAct Prompting?</b></summary>
+
+**ReAct prompting** was introduced by [this article](https://arxiv.org/abs/2210.03629). It is based on the idea that humans can accomplish tasks and conduct reasoning about these tasks at the same time. Thus, in ReAct prompting, both reasoning and task actions are conducted. 
+
+The process then alternates between retrieving information (which can come from external sources such as a search engine), evaluating the process, and if necessary conducting a plan update. This can then be combined with a chain of thought to follow a plan and track reasoning intermediates. This approach has shown promise especially when the model needs to conduct searches or take action.
+
+*However, this “chain-of-thought” reasoning is a static black box, in that the model uses
+its own internal representations to generate thoughts and is not grounded in the external world,
+which limits its ability to reason reactively or update its knowledge - [source](https://arxiv.org/pdf/2210.03629)*
+
+ReAct tries to solve this by giving the model access to external information. To avoid hallucinations or arriving at wrong conclusions, this approach tries to combine both the information that is received and an internal assessment. The approach combines reasoning traces and actions; it is also dynamic because it creates, maintains, and adjusts the plan as it unfolds
+
+![ReAct prompting](https://github.com/SalvatoreRa/tutorial/blob/main/images/EmotionPrompt2.png?raw=true)
+*An example of ReAct prompting. from the [original article](https://arxiv.org/pdf/2210.03629)*
+
+This approach has advantages and disadvantages:
+* it reduces hallucinations in comparison with CoT
+* is flexible and allows for complex actions
+* it depends heavily on the information found and if it does not find relevant results it fails to formulate thoughts
+* often works well with large models with good reasoning skills. With small models, it risks meaningless and endless reasoning chains that do not get to the answers
+
+
+</details>
+
+
 ## Retrieval Augmented Generation (RAG)
 
 <details>
