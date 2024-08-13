@@ -131,7 +131,8 @@ The recurrent nature of text sequences requires special adaptation of neural net
 Here a list of resources that can give a great grasp of inner mechanism of a transformer. I add also different resources about self-attention.
 
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar. The most famous and illustrated explanation of the transformer.
-* [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/) - Jay Alammar. GPT-2 is the grandfather of current LLMs (autoregressive model), this detailed blog post explain in details the model
+* [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/) - Jay Alammar. GPT-2 is the grandfather of current LLMs (autoregressive model), this detailed blog post explains in details the model
+* [Transformer explainer](https://poloclub.github.io/transformer-explainer/) - another great and interactive visualization of the transformer (based on GPT2). It allows to understand the inner working of a transformer. Check also the associated [paper](https://arxiv.org/abs/2408.04619)
 * [Visual intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&t=187s) - 3Blue1Brown. Another great resource about an introduction on transformer in a video
 * [LLM Visualization](https://bbycroft.net/llm)  Brendan Bycroft. 3D visualization to dig inside the transformer
 * [nanoGPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Andrej Karpathy. Karpathy explain in this video how to implement GPT model from scratch (very useful at the programming side).
