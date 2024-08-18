@@ -1157,15 +1157,38 @@ Articles describing in detail:
 </details>
 
 <details>
+  <summary><b>does it exist multimodal prompt engineering?</b></summary>
+
+*Imagine reading a textbook with no figures or tables. Our ability to knowledge acquisition is greatly strengthened by jointly modeling diverse data modalities, such as vision, language, and audio. -[source](https://arxiv.org/abs/2302.00923)*
+
+With the arrival of LLMs, there has been an increased interest in multimodal models. There are already several models that are multimodal, but most prompt engineering techniques are dedicated to traditional LLMs that do not take into account other modalities besides text.
+
+![multimodal versus unimodal COT](https://github.com/SalvatoreRa/tutorial/blob/main/images/multimodal_vs_unimodal_cot.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2302.00923)*
+
+Chain-of-thoughts (CoT) is a technique to improve reasoning skills but is not adapted to the presence of other modalities. In [this article](https://arxiv.org/pdf/2302.00923) they proposed a variant definite **Multimodal-CoT**. In the same manner, multimodal-CoT decomposes multi-step problems into intermediate reasoning steps (rationale) and then infers the answer. They used in this work a model that is 1B and purpose-built to consider both image and textual modalities. This approach is a two-stage framework, in the first step the rationale (the chain of thoughts) is created based on the multimodal information and then after that, the model generates the answer.
+
+![multimodal COT](https://github.com/SalvatoreRa/tutorial/blob/main/images/multimodal_cot.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2302.00923)*
+
+Here, is the pipeline in detail:
+
+![multimodal COT](https://github.com/SalvatoreRa/tutorial/blob/main/images/multimodal_cot.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2302.00923)*
+
+Articles describing in detail:
+  * [Multimodal Chain of Thoughts: Solving Problems in a Multimodal World](https://towardsdatascience.com/multimodal-chain-of-thoughts-solving-problems-in-a-multimodal-world-961a8ab9d0fa)
+
+</details>
+
+<details>
   <summary><b>What is ReAct Prompting?</b></summary>
 
 **ReAct prompting** was introduced by [this article](https://arxiv.org/abs/2210.03629). It is based on the idea that humans can accomplish tasks and conduct reasoning about these tasks at the same time. Thus, in ReAct prompting, both reasoning and task actions are conducted. 
 
 The process then alternates between retrieving information (which can come from external sources such as a search engine), evaluating the process, and if necessary conducting a plan update. This can then be combined with a chain of thought to follow a plan and track reasoning intermediates. This approach has shown promise especially when the model needs to conduct searches or take action.
 
-*However, this “chain-of-thought” reasoning is a static black box, in that the model uses
-its own internal representations to generate thoughts and is not grounded in the external world,
-which limits its ability to reason reactively or update its knowledge - [source](https://arxiv.org/pdf/2210.03629)*
+*However, this “chain-of-thought” reasoning is a static black box, in that the model uses its own internal representations to generate thoughts and is not grounded in the external world, which limits its ability to reason reactively or update its knowledge - [source](https://arxiv.org/pdf/2210.03629)*
 
 ReAct tries to solve this by giving the model access to external information. To avoid hallucinations or arriving at wrong conclusions, this approach tries to combine both the information that is received and an internal assessment. The approach combines reasoning traces and actions; it is also dynamic because it creates, maintains, and adjusts the plan as it unfolds
 
