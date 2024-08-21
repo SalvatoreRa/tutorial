@@ -6,6 +6,10 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 &nbsp;
 
+This is a collection of FAQs and their answers about ML, AI, neural networks, and LLM. Many of these questions have been asked to me by students or other ML practitioners, I decided to collect and discuss them here.
+
+The list is on construction and I am expanding it.
+
 # Index
 * [FAQ on machine learning](#FAQ-on-machine-learning)
 * [FAQ on artificial intelligence](#FAQ-on-artificial-intelligence)
