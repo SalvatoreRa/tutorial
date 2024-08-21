@@ -200,9 +200,9 @@ A simpler example, if we have a model that predicts the probability of a fire in
 
 *"Overall, as imbalance between the classes was magnified, model calibration deteriorated for all prediction models. All imbalance corrections affected model calibration in a very similar fashion. Correcting for imbalance using pre-processing methods (RUS, ROS, SMOTE, SENN) and/or by using an imbalance correcting algorithm (RB, EE) resulted in prediction models which consistently over-estimated risk. On average, no model trained with imbalance corrected data outperformed the control models in which no imbalance correction was made, with respect to model calibration."* -- from [here](https://arxiv.org/pdf/2404.19494)
 
-In other words, when we are interested in a calibrated model, dataset balancing techniques do more harm than good.
+In other words, when we are interested in a calibrated model, dataset-balancing techniques do more harm than good.
 
-Which is then in line with early reports that showed that SMOTE works only with weak learners and is destructive of model calibration.
+This is then in line with early reports that showed that SMOTE works only with weak learners and is destructive of model calibration.
 
 In fact, you rarely see it used on Kaggle (or at least it does not seem to be a winning strategy). According to this stems from the fact that models like SMOOTH implicitly assume that the class distribution is sufficiently homogenous around the minority class instances. Which is then not necessarily the case (especially since not all variables are so homogenous).
 
@@ -243,6 +243,25 @@ There are many other methods for being able to analyze the number of clusters fo
 
 <details>
   <summary><b>What is bagging or boosting?</b></summary>
+
+Bagging and boosting are two different ensemble techniques that are used to improve the performance of an ensemble of decision trees by reducing system error. The basic idea is that each individual decision tree is trained with a different dataset. The main difference is that bagging trains the different models on different subsets of data while boosting conducts the training sequentially, focusing on the error committed by the previous model. 
+
+An ensemble is a machine learning technique in which we combine different models to improve performance. By combining different weak learners we get a model that has better performance. The disadvantage is that these models if not properly regularized can go into overfitting.
+
+More in detail, **Bagging** combines multiple models that are trained on different datasets with the aim of reducing the variance of the system (by averaging the error of the different models that make up the ensemble). Given a dataset, different datasets are created for each ensemble decision tree (this is usually conducted by bootstrapping). For predictions, each model produces a prediction and the majority prediction is usually chosen. An example of this approach is Random Forest.
+
+We then initially randomly conduct bootstrap sampling of the initial dataset (sampling with replacement) and train a single model on this subset. For each weak learner, this process is repeated. For classification, we combine predictions with majority voting (while for regression we average the predictions).
+
+  ![bagging](https://github.com/SalvatoreRa/tutorial/blob/main/images/bagging.png?raw=true)
+*from [here](https://arxiv.org/abs/2104.02395)*
+
+In boosting, each model depends on the models that have been previously trained. This allows for a system that is better adapted to the dataset. Sampling of the data is conducted and then a weak learner (a tree) is trained on that data. Initially, for each sample in the dataset, we have the same weight. The error for each sample is then calculated, the greater the error the greater the weight that will be assigned to that sample. The data are passed to the next model. Each model also has an associated weight based on the goodness of its predictions. The model weight is used to conduct a weighted average over the final predictions. 
+
+Boosting attempts to sequentially reduce the error of the models in the ensemble by trying to correct misclassifications of the previous model (thus reducing both bias and variance of the system). Examples of boosting algorithms are: AdaBoost, XGBoost, Gradient Boosting Mechanism. 
+
+  ![boosting](https://github.com/SalvatoreRa/tutorial/blob/main/images/boosting.png?raw=true)
+*from [here](https://arxiv.org/abs/2104.02395)*
+  
   
 </details>
 
