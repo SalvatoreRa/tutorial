@@ -261,6 +261,10 @@ Boosting attempts to sequentially reduce the error of the models in the ensemble
 
   ![boosting](https://github.com/SalvatoreRa/tutorial/blob/main/images/boosting.png?raw=true)
 *from [here](https://arxiv.org/abs/2104.02395)*
+
+Suggested lecture:
+  * [Evolutionary bagging for ensemble learning](https://arxiv.org/pdf/2208.02400)
+  * [Ensemble deep learning: A review](https://arxiv.org/abs/2104.02395)
   
   
 </details>
