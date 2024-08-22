@@ -732,7 +732,28 @@ The goal is then to determine h(t) so given x(t) we can then determine the outpu
  ![mamba structure](https://github.com/SalvatoreRa/tutorial/blob/main/images/mamba_structure.png?raw=true)
 *from [here](https://arxiv.org/abs/2312.00752)*
 
-  
+Briefly, we can consider the different matrixes as:
+* A is the transition state matrix, which is guiding the transition from one state to another. Intuitively it represents how we can forget the least relevant part of the state. 
+* B maps the input to the new state, controlling which part of the input we need to remember. 
+* C allows us to map the output from the model state, or how to use the model state to make a prediction.
+* D is considered a kind of skip connection, or how the input affects the prediction
+
+Calculating the state representation h(t) analytically is complex, especially if the signal is continuous. Since text is a discrete input by nature, discretizing the model makes our lives easier. **Zero-Order Hold (ZOH)** is the technique that is used in Mamba to transform the model. After applying the ZOH, the equations are:
+
+h_k = \overline{A} h_{k-1} + \overline{B} x_k,
+
+y_k = C h_k,
+
+where \overline{A} = \exp(\Delta A), and \overline{B} = (\Delta A)^{-1} (\exp(\Delta A) - I) \cdot \Delta B, k is the discrete time step.
+
+ ![mamba structure unrolled](https://github.com/SalvatoreRa/tutorial/blob/main/images/mamba_unrolled.png?raw=true)
+*from [here](https://arxiv.org/pdf/2408.01129)*
+
+In addition, we can also see this process as a convolution, in which we apply kernel sliding on the various tokens. At each time step, we can calculate the output in this way:
+
+ ![mamba convolutional calculation(https://github.com/SalvatoreRa/tutorial/blob/main/images/convolutional_form.png?raw=true)
+*from [here](https://arxiv.org/pdf/2408.01129)*
+
 </details>
 
 
