@@ -707,6 +707,27 @@ After getting an embedding it is good practice to conduct **a visual analysis**,
   !
 </details>
 
+<details>
+  <summary><b>What is a mamba model? Is it an alternative to a transformer?</b></summary>
+
+  In recent times there has been talk of Mamba and **State Space Models (SSMs)** as possible alternatives to transformers. Recently these models seem promising because they have a nearly linear computational cost that is especially attractive when long sequences of text (up to one million tokens) have to be modeled.
+
+ ![mamba scaling](https://github.com/SalvatoreRa/tutorial/blob/main/images/mamba_scaling.png?raw=true)
+*from [here](https://arxiv.org/abs/2312.00752)*
+
+The authors of the models describe it as: *" Mamba enjoys fast inference (5× higher throughput than Transformers) and linear scaling in sequence length, and its performance improves on real data up to million-length sequences. As a general sequence model backbone, Mamba  achieves state-of-the-art performance across several modalities such as language, audio, and genomics"*
+
+SSMs originated as a framework for describing the behavior of a system dynamically over time. In a simple way, considering a maze, the “state space” is the map of all possible locations (or states), and the “state space representation” can be considered the map. This map tells us where we can go, how to go there, and where we are at that moment. Where we are and how far we are from the exit of the maze could be described with a vector (“state vectors”). In the context of a neural network for text, given the state of the system (or hidden state) we can generate a new token (or metaphorically switch state or move in the map). 
+
+The basic assumption is that if one knows the current state of the world and how it will evolve, one can decide how to move.
+
+More technically, SSMs then try for an input sequence x(t) to map it to a latent state representation h(t) and predict an output y(t). For example, given a text sequence, generate a latent representation and use it to predict the next word.
+
+
+
+  
+</details>
+
 
 ## Large Language Models
 
