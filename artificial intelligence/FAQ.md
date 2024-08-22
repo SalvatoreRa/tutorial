@@ -715,15 +715,22 @@ After getting an embedding it is good practice to conduct **a visual analysis**,
  ![mamba scaling](https://github.com/SalvatoreRa/tutorial/blob/main/images/mamba_scaling.png?raw=true)
 *from [here](https://arxiv.org/abs/2312.00752)*
 
-The authors of the models describe it as: *" Mamba enjoys fast inference (5× higher throughput than Transformers) and linear scaling in sequence length, and its performance improves on real data up to million-length sequences. As a general sequence model backbone, Mamba  achieves state-of-the-art performance across several modalities such as language, audio, and genomics"*
+The authors of the models describe it as *" Mamba enjoys fast inference (5× higher throughput than Transformers) and linear scaling in sequence length, and its performance improves on real data up to million-length sequences. As a general sequence model backbone, Mamba  achieves state-of-the-art performance across several modalities such as language, audio, and genomics"*
 
 SSMs originated as a framework for describing the behavior of a system dynamically over time. In a simple way, considering a maze, the “state space” is the map of all possible locations (or states), and the “state space representation” can be considered the map. This map tells us where we can go, how to go there, and where we are at that moment. Where we are and how far we are from the exit of the maze could be described with a vector (“state vectors”). In the context of a neural network for text, given the state of the system (or hidden state) we can generate a new token (or metaphorically switch state or move in the map). 
 
 The basic assumption is that if one knows the current state of the world and how it will evolve, one can decide how to move.
 
-More technically, SSMs then try for an input sequence x(t) to map it to a latent state representation h(t) and predict an output y(t). For example, given a text sequence, generate a latent representation and use it to predict the next word.
+More technically, SSMs then try for an input sequence x(t) to map it to a latent state representation h(t) and predict an output y(t). For example, given a text sequence, generate a latent representation and use it to predict the next word. A dynamical system can be predicted from its state at each time t using these two equations:
 
+equation 1: h'(t) = A h(t) + B x(t),
 
+equation 2: y(t) = C h(t) + D x(t),
+
+The goal is then to determine h(t) so given x(t) we can then determine the output y(t). Equation 1 tells us that the state h changes as a function of the current state (based on a matrix A) and the input x (and a matrix B). Equation 2 tells us that the output is obtained grazio the state h (and a matrix C) and the input x (and an associated matrix D). In simple words, given an input x the state h is changed, and the output is affected by both the input x and the state h (for an input x we have the update of the state h and an output y). More formally, the evolution of the system depends on newly acquired information and its current state. Applied to a language model, arriving at an input x with a model with a state h we can predict the next token y (if you notice it is very close to an autoregressive language model or how transformers work).
+
+ ![mamba structure](https://github.com/SalvatoreRa/tutorial/blob/main/images/mamba_structure.png?raw=true)
+*from [here](https://arxiv.org/abs/2312.00752)*
 
   
 </details>
