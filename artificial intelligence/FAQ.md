@@ -740,11 +740,11 @@ Briefly, we can consider the different matrixes as:
 
 Calculating the state representation h(t) analytically is complex, especially if the signal is continuous. Since text is a discrete input by nature, discretizing the model makes our lives easier. **Zero-Order Hold (ZOH)** is the technique that is used in Mamba to transform the model. After applying the ZOH, the equations are:
 
-h_k = \overline{A} h_{k-1} + \overline{B} x_k,
+$$h_k = \overline{A} h_{k-1} + \overline{B} x_k$$
 
-y_k = C h_k,
+$$y_k = C h_k$$
 
-where \overline{A} = \exp(\Delta A), and \overline{B} = (\Delta A)^{-1} (\exp(\Delta A) - I) \cdot \Delta B, k is the discrete time step.
+where $$\overline{A} = \exp(\Delta A)$$, and $$\overline{B} = (\Delta A)^{-1} (\exp(\Delta A) - I) \cdot \Delta B$$, $$k$$ is the discrete time step.
 
  ![mamba structure unrolled](https://github.com/SalvatoreRa/tutorial/blob/main/images/mamba_unrolled.png?raw=true)
 *from [here](https://arxiv.org/pdf/2408.01129)*
