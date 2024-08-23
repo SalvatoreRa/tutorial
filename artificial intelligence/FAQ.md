@@ -770,6 +770,14 @@ These improvements can then be seen in the Mamba block. Here the SSM conducts di
 *from [here](https://arxiv.org/pdf/2408.01129)*
 
 
+suggested lectures:
+* [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
+* [The State Space Model taking on Transformers](https://thegradient.pub/mamba-explained/)
+* [The Annotated S4](https://srush.github.io/annotated-s4/) - a JAX implementation and in-depth explanation
+* [Mamba No. 5 (A Little Bit Of...)](https://jameschen.io/jekyll/update/2024/02/12/mamba.html)  - a detailed explaination of Mamba
+* a series of posts on state space models: [here](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1), [here](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2), and [here](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-3).
+* [A Survey of Mamba](https://arxiv.org/abs/2408.01129) - a detailed survey of Mamba models
+
 </details>
 
 
