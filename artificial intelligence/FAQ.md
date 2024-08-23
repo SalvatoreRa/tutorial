@@ -751,8 +751,24 @@ where $$\overline{A} = \exp(\Delta A)$$, and $$\overline{B} = (\Delta A)^{-1} (\
 
 In addition, we can also see this process as a convolution, in which we apply kernel sliding on the various tokens. At each time step, we can calculate the output in this way:
 
- ![mamba convolutional calculation(https://github.com/SalvatoreRa/tutorial/blob/main/images/convolutional_form.png?raw=true)
+ ![mamba convolutional calculation](https://github.com/SalvatoreRa/tutorial/blob/main/images/convolutional_form.png?raw=true)
 *from [here](https://arxiv.org/pdf/2408.01129)*
+
+The three representations we have seen (continuous representation and its discritization into recurrent and convolutional) have different advantages and disadvantages. Recurrent representation is efficient in inference but does not allow parallel training. So training is conducted with convolutional representation (it allows parallelization of training). 
+
+Another interesting modification in Mamba is the use of High-order Polynomial Projection Operators (HiPPO) to initialize the matrix A during training. This is used to compress the input signals into vectors of coefficients. The idea is to exploit d this concept in the A-matrix, so that this captures the recent tokens and there is a decay of information for the old tokens. After all, the A-matrix is used to capture the information from previous states to produce the new state. In this way we improve the ability of the model in handling long-range dependencies.
+
+In addition, Mamba uses two particular additions: 
+* **selective scan algorithm** to filter out irrelevant information. This is especially important to allow the model to be context-aware and not treat all tokens equally.
+* **hardware-aware algorithm** that allows it to store intermediate results. Hardware-aware algorithm allows it to better exploit the capabilities of the GPU (similar to what flash attention does).
+
+An SSM model compresses the entire history (i.e., everything seen up to that model) and does so efficiently. Transformers do not compress the story, they are, however, very powerful to look at and attend to the sequence (thus searching for what is important and modeling relationships). In a sense, the internal state of a transformer can be seen almost as the cache of the whole hystory. SSMs are not as powerful, so Mamba tries to have a state that is both efficient and powerful. Therefore, the B and C matrices have a dynamic size that changes in dependence of the input and are different for each input token (thus ensuring context awareness). These two matrices thus help to choose which information to retain and which not to. 
+
+These improvements can then be seen in the Mamba block. Here the SSM conducts discretization, HiPPO initialization, Selective scan algorithm and is accelerated thanks to hardware-aware algorithm
+
+ ![mamba block](https://github.com/SalvatoreRa/tutorial/blob/main/images/mamba_block.png?raw=true)
+*from [here](https://arxiv.org/pdf/2408.01129)*
+
 
 </details>
 
