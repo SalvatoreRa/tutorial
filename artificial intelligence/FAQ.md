@@ -632,14 +632,14 @@ Articles describing in detail:
 </details>
 
 <details>
-  <summary><b>What is continual learning? Why neural networks struggle with continual learning?</b></summary>
+  <summary><b>What is continual learning? Why do neural networks struggle with continual learning?</b></summary>
 
 When we refer to continual learning it refers to the ability of neural networks to adapt as data or tasks change.
 
 *"Continual learning, sometimes referred to as lifelong learning or incremental learning, is a subfield of machine learning that focuses on the challenging problem of incrementally training models on a stream of data with the aim of accumulating knowledge over time. This setting calls for algorithms that can learn new skills with minimal forgetting of what they had learned previously, transfer knowledge across tasks, and smoothly adapt to new circumstances when needed." -- [source](https://arxiv.org/pdf/2311.11908)*
 
 ![continual learning introduction](https://github.com/SalvatoreRa/tutorial/blob/main/images/continual_learning.png?raw=true)
-*A conceptual framework of continual learning. from [here]([https://arxiv.org/pdf/2201.02177](https://arxiv.org/pdf/2302.00487))*
+*A conceptual framework of continual learning. from [here](https://arxiv.org/abs/2302.00487)*
 
 In general, this is an extremely interesting problem for deep learning. In fact, we want our model to be able to adapt to new data, without the need to have to train the model from scratch. For example, an LLM has a large memory capacity and shows several skills, but we want to conduct an update of its knowledge with recent facts that occurred after its training. To be able to do this, we usually use fine-tuning techniques, but these can reduce the model's performance or lead it to produce hallucinations. Fine-tuning is therefore not optimal. So the problem remains open. 
 
@@ -649,12 +649,29 @@ There are two main problems with continual learning (or also called incremental 
 
 In addition, to solving these two issues we would like our model to have strong generalizability, that is, to be able to use new data to learn new capabilities. In addition, we would also like the method for continual learning to be **resource-efficient**. In fact, models today are expensive to train and we would not want to have an expensive method to conduct model training. In addition, we would like continual learning methods not to lead to expansion of a model (e.g., starting from a model of 1B parameters after tot iterations we would end up with a model of 10B).
 
+Moreover, continual learning does not only mean learning new knowledge or new tasks. In fact, continual learning also means the possibility of model editing. In fact, models are often imperfect, learn different decision shortcuts, or have bias, outdated data, facts that have changed, and knowledge that is not in compliance with new regulations (e.g., on privacy). So it would be important to find a way to be able to selectively edit knowledge without losing other relevant knowledge.
+
+As mentioned neural networks during training lose plasticity. Several studies have tried to highlight why this happens. According to [this study](https://arxiv.org/abs/1711.08856) during training, there are two phases of learning. The first phase  is memorization and the second phase of reduction of information (a reorganization or forgetting phase) even during a performance growth phase. According to the authors masking this memorization phase (disrupting it in some way) significantly reduces performance leading to a performance deficit.
+
+![perturbation of the learning phase of an NN](https://github.com/SalvatoreRa/tutorial/blob/main/images/continual_learning.png?raw=true)
+*DNNs exhibit critical periods, and alterations of these critical periods bring a performance deficit. from [here](https://arxiv.org/pdf/1711.08856)*
+
+The authors do not argue, but as we have seen in grokking there are two stages: memorization and generalization. The fact may be related. In a [later study](https://www.nature.com/articles/s41586-024-07711-7) they note that there are several factors that impact the plasticity of a network. They note that regularization (L2-regularization) and noise injection improve network plasticity. They seek to analyze the factors that change during the loss of network plasticity. In particular, they identify three factors: 
+* **continual increase in the fraction of constant units.** One of the known problems of ReLU is the dying ReLU problem. Basically, during training some neurons begin to return negative values that become zero with ReLU. A constant unit does not flow the gradient and no longer undergoes updates, so it loses plasticity. With continual training, the percentage of dead units increases during iterations. The increase in these dead units, also decreases the total capacity of the network and thus its ability to learn new information (loss of plasticity). 
+* **steady growth of the network's average weight magnitude.** The weights become larger and larger. Growth in weights is considered a problem because it slows network learning and slows convergence.
+* **drop in the effective rank of the representation.** The effective rank represents the number of linearly independent dimensions. A high effective rank indicates that most dimensions contribute to the transformation that a matrix gives. Simply put, a high effective rank means that most of the dimensions contain relevant information. A low rank means that there is a lot of redundant information. In the case of neural networks, the rank of a hidden layer measures the number of neurons that contribute to the output. A low effective rank, on the other hand, means that most neurons are not providing useful information. Gradient descent favors tramine implicit regularization of the loss function or implicit minimization of the effective rank. Decreasing the effective rank is detrimental to learning new information because it decreases the representational power of a layer (which does not help in learning a new task).
+
+![causes of loss of neuronal plasticity](https://github.com/SalvatoreRa/tutorial/blob/main/images/continual_learning.png?raw=true)
+* from [here](https://www.nature.com/articles/s41586-024-07711-7/figures/7)*
+
+For the authors, these factors explain why regularization helps but does not solve the problem. L2-regularization incentivizes solutions that have low weight magnitude (i.e., it penalizes weights when they grow too large). While other techniques introduce a little Gaussian noise. This reduces the problem of dying units, because by adding noise we do not have zero-units. Also, according to the authors loss of plasticity could be related to **lottery ticket hypothesis**. Neural networks when initialized are initialized with random weights, this makes some subnetworks have winning tickets. Simply put, there are subnetworks that are suitable for the task and that are random, simply by “luck” during initialization. During training these networks will receive a reward and be preserved, but the network during training eliminates everything that is not needed for the task (so the network loses randomness and diversity in comparison to the original network). This means that if we want our model to learn a new task there will be fewer winning tickets. Therefore, the authors propose **continual backpropagation** in which weights that no longer contribute to the output are re-initialized. These are then neurons that in many approaches are pruned when we need to reduce the size of the network. So the authors propose to reinitialize them in order to use them to learn new tasks.
 
 
 
 Suggested lectures:
 * [Continual Learning: Applications and the Road Forward](https://arxiv.org/abs/2311.11908)
 * [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487)
+* [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7)
   
 
 </details>
