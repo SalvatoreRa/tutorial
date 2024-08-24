@@ -631,6 +631,34 @@ Articles describing in detail:
 
 </details>
 
+<details>
+  <summary><b>What is continual learning? Why neural networks struggle with continual learning?</b></summary>
+
+When we refer to continual learning it refers to the ability of neural networks to adapt as data or tasks change.
+
+*"Continual learning, sometimes referred to as lifelong learning or incremental learning, is a subfield of machine learning that focuses on the challenging problem of incrementally training models on a stream of data with the aim of accumulating knowledge over time. This setting calls for algorithms that can learn new skills with minimal forgetting of what they had learned previously, transfer knowledge across tasks, and smoothly adapt to new circumstances when needed." -- [source](https://arxiv.org/pdf/2311.11908)*
+
+![continual learning introduction](https://github.com/SalvatoreRa/tutorial/blob/main/images/continual_learning.png?raw=true)
+*A conceptual framework of continual learning. from [here]([https://arxiv.org/pdf/2201.02177](https://arxiv.org/pdf/2302.00487))*
+
+In general, this is an extremely interesting problem for deep learning. In fact, we want our model to be able to adapt to new data, without the need to have to train the model from scratch. For example, an LLM has a large memory capacity and shows several skills, but we want to conduct an update of its knowledge with recent facts that occurred after its training. To be able to do this, we usually use fine-tuning techniques, but these can reduce the model's performance or lead it to produce hallucinations. Fine-tuning is therefore not optimal. So the problem remains open. 
+
+There are two main problems with continual learning (or also called incremental learning or lifelong learning) that we will discuss more fully below: 
+* **catastrophic forgetting** - the model when fitting new data forgets previous data. An example, a model that is adapted to the medical domain loses knowledge of other domains. The same is true for some tasks, a model trained for image classification when fine-tuned loses its initial capabilities.
+* **missing learning plasticity** - the ability to acquire new information. A model that lacks plasticity has no ability to learn new information or solve new tasks.
+
+In addition, to solving these two issues we would like our model to have strong generalizability, that is, to be able to use new data to learn new capabilities. In addition, we would also like the method for continual learning to be **resource-efficient**. In fact, models today are expensive to train and we would not want to have an expensive method to conduct model training. In addition, we would like continual learning methods not to lead to expansion of a model (e.g., starting from a model of 1B parameters after tot iterations we would end up with a model of 10B).
+
+
+
+
+Suggested lectures:
+* [Continual Learning: Applications and the Road Forward](https://arxiv.org/abs/2311.11908)
+* [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487)
+  
+
+</details>
+
 
 ## Embeddings
 
