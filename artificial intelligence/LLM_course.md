@@ -94,6 +94,9 @@ Special attention should be paid to the concept of overfitting. Overfitting is i
 
 ## Natural Language Processing
 
+![NLP evolution](https://github.com/SalvatoreRa/tutorial/blob/main/images/evolution_nlp.png?raw=true)
+*From [here](https://arxiv.org/pdf/2303.18223)*
+
 Natural Language Processing (NLP) is that branch of artificial intelligence that deals with understanding human language. Humans express themselves through language and convey complex information. To be able to understand the various nuances of human language, sophisticated algorithms have been developed. 
 
 Text in its natural form is difficult for a machine to digest. Therefore, it is important to understand how to process a text (stemming, lemmatization, cleaning) and reduce it into units (tokenization). Once this is done one must then transform it into a vector representation that can then be used by computers (TF-IDF, bag-of-words, n-grams, embeddings). Special attention should be given to word embeddings because they learn dense vectors that represent the similarity in meaning of various words.
@@ -178,11 +181,12 @@ A list of resources about a more formal introduction on transformers and attenti
 * [TinyLlama](https://github.com/jzhang38/TinyLlama) - how to train TinyLlama, a smaller and more efficient version of the LLaMA (Large Language Model). This will help to learn how LLaMA has been trained.
 * [BLOOM](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) - BLOOM3 is a GPT3 like model (but an institutional effort to create an open-source model). The team behind the development provided details on the model’s capabilities, architecture, training data, and usage guidelines. 
 * [LLM 360](https://www.llm360.ai/) - it offer tools, resources, and information related to large language models (LLMs), likely focusing on their development, application, and best practices.
-* [nanoGPT](https://github.com/karpathy/nanoGPT) - by Karpathy provides a minimalistic implementation of GPT (Generative Pretrained Transformer) for educational purposes and small-scale experiments.
+* [nanoGPT](https://github.com/karpathy/nanoGPT) - by Karpathy provides a minimalistic implementation of GPT (Generative Pretrained Transformer) for educational purposes and small-scale experiments. [the video where he explains the project](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 **Theroretical resources**
 
-* [Chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications) - The article on LessWrong discusses the significant implications of DeepMind's Chinchilla paper, which suggests that large language models are often undertrained relative to their size. The key takeaway is that training data should be scaled up alongside model size to optimize performance efficiently. 
+* [Chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications) - The article on LessWrong discusses the significant implications of DeepMind's Chinchilla paper, which suggests that large language models are often undertrained relative to their size. The key takeaway is that training data should be scaled up alongside model size to optimize performance efficiently.
+* [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/abs/2401.02038v2) - This paper reviews the evolution of large language model training techniques and inference deployment technologies aligned with this emerging trend. 
 
 
 ## Supervised Fine-tuning
