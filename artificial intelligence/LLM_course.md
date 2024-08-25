@@ -126,6 +126,18 @@ The recurrent nature of text sequences requires special adaptation of neural net
 
 ## The LLM architecture
 
+An LLM is basically a transformer with many more parameters. In order to understand how an LLM works, it is important to understand at least at a high level how a transformer works. Especially since the attention mechanism was so revolutionary.
+
+The transformer consists of a few basic components:
+* A **tokenizer** that allows text to be mapped to integers. The tokenizer is an important component that is often the cause of some unexpected behavior of the 
+* A **embedding layer** that allows learning a vector and contextual representation of text.
+* a **transformer-block**, this is the beating heart of the transformer. The model is composed of several layers stacked on top of each other. Each transformer block is composed of **multi-head self-attention** followed by **batch normalization** **feed-forward layer**. Also present in the block are residual connection
+* The last layer to decode and generate text.
+* the transfomer consists of an encoder and a decoder, but there are models today that are encoders only or decoders only. 
+
+A particular point is to include multi-head self-attention (MHSA), because this is important for the transformer. MHSA allows the transformer to be so powerful, in fact modeling the relationships between the various tokens. Also, since there are multiple attention heads at each layer we can learn for each tokens different representations. Mechanistic studies show that the transformer learns a hierarchical representation, and the various layers go on to learn increasingly complex representations of the text.
+
+
 **High level resources**
 
 Here a list of resources that can give a great grasp of inner mechanism of a transformer. I add also different resources about self-attention.
