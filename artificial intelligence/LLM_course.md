@@ -147,6 +147,12 @@ A list of resources about a more formal introduction on transformers and attenti
 * [Transformers and Large Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf) - Dan Jurafsky and James H. Martin. This chapter of Speech and Language Processing describes in details the self-attention, the training, and the transformer. It is great resources and easy to understand.
 * [Fine-tuning and Masked Language Models](https://web.stanford.edu/~jurafsky/slp3/11.pdf) - Dan Jurafsky and James H. Martin. This chapter is focused on the BERT like transformer and how to fine-tune a model. Both chapters are easy and very insightful
 
+## Training of the LLM
+
+## Supervised Fine-tuning
+
+## Alignment & Instruction tuning
+
 ## The LLM datasets
 
 * [Preparing a Dataset for Instruction tuning](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2) -  Weights & Biases provides a detailed guide on preparing datasets for fine-tuning large language models (LLMs). It covers the importance of high-quality datasets, outlines steps for data collection and cleaning, and emphasizes the need for diverse and representative examples.
