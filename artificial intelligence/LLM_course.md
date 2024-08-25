@@ -159,3 +159,24 @@ A list of resources about a more formal introduction on transformers and attenti
 * [Generating a Clinical Instruction Dataset](https://medium.com/mlearning-ai/generating-a-clinical-instruction-dataset-in-portuguese-with-langchain-and-gpt-4-6ee9abfa41ae) - Medium article that details a process of creating a dataset for clinical instructions using LangChain and GPT-4. It covers steps including data collection, preprocessing, and leveraging GPT-4 for generating relevant instructions in Portuguese. The guide emphasizes practical implementation and offers insights into handling language-specific challenges in dataset creation.
 * [GPT 3.5 for news classification](https://medium.com/@kshitiz.sahay26/how-i-created-an-instruction-dataset-using-gpt-3-5-to-fine-tune-llama-2-for-news-classification-ed02fe41c81f) - Kshitiz Sahay discusses the process of using GPT-3.5 to generate a dataset for fine-tuning the Llama 2 model for news classification tasks. It covers dataset creation, preprocessing steps, and the fine-tuning process, providing practical insights and lessons learned during the project.
 * [Dataset creation for fine-tuning LLM](https://colab.research.google.com/drive/1GH8PW9-zAe4cXEZyOIE-T9uHXblIldAg?usp=sharing) -  A Google Colab notebook that contains technique to filter a dataset
+
+## Prompt engineering
+
+## Evaluation
+
+## Optimization
+
+## Dimensionality reduction
+
+## Security
+
+## Alternative to the transformer
+
+## Emerging trend
+
+## RAG
+
+## LLM and Knowledge Graphs
+
+## Agents
+
