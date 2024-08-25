@@ -177,6 +177,8 @@ A list of resources about a more formal introduction on transformers and attenti
 * [Training a causal language model from scratch](https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt)- a guide by HuggingFace in how to pre-train a GPT-2 like model from scratch
 * [TinyLlama](https://github.com/jzhang38/TinyLlama) - how to train TinyLlama, a smaller and more efficient version of the LLaMA (Large Language Model). This will help to learn how LLaMA has been trained.
 * [BLOOM](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) - BLOOM3 is a GPT3 like model (but an institutional effort to create an open-source model). The team behind the development provided details on the model’s capabilities, architecture, training data, and usage guidelines. 
+* [LLM 360](https://www.llm360.ai/) - it offer tools, resources, and information related to large language models (LLMs), likely focusing on their development, application, and best practices.
+* [nanoGPT](https://github.com/karpathy/nanoGPT) - by Karpathy provides a minimalistic implementation of GPT (Generative Pretrained Transformer) for educational purposes and small-scale experiments.
 
 **Theroretical resources**
 
