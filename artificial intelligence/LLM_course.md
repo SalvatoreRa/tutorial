@@ -135,8 +135,13 @@ The transformer consists of a few basic components:
 * The last layer to decode and generate text.
 * the transfomer consists of an encoder and a decoder, but there are models today that are encoders only or decoders only. 
 
+![the transformer architecture](https://github.com/SalvatoreRa/tutorial/blob/main/images/transformer_structure.png?raw=true)
+*from [original article](https://arxiv.org/pdf/1706.03762v5)*
+
 A particular point is to include multi-head self-attention (MHSA), because this is important for the transformer. MHSA allows the transformer to be so powerful, in fact modeling the relationships between the various tokens. Also, since there are multiple attention heads at each layer we can learn for each tokens different representations. Mechanistic studies show that the transformer learns a hierarchical representation, and the various layers go on to learn increasingly complex representations of the text.
 
+![multi-head self attention scheme](https://github.com/SalvatoreRa/tutorial/blob/main/images/multi_head_self_attention.png?raw=true)
+*from [original article](https://arxiv.org/pdf/1706.03762v5)*
 
 **High level resources**
 
