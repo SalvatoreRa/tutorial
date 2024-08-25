@@ -176,10 +176,12 @@ A list of resources about a more formal introduction on transformers and attenti
 * [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)  - It curates and organizes various datasets essential for training LLMs, particularly those used in chatbot development and instruction-based fine-tuning. The repository includes details such as dataset types, languages, sizes, and descriptions
 * [Training a causal language model from scratch](https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt)- a guide by HuggingFace in how to pre-train a GPT-2 like model from scratch
 * [TinyLlama](https://github.com/jzhang38/TinyLlama) - how to train TinyLlama, a smaller and more efficient version of the LLaMA (Large Language Model). This will help to learn how LLaMA has been trained.
-
-
+* [BLOOM](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) - BLOOM3 is a GPT3 like model (but an institutional effort to create an open-source model). The team behind the development provided details on the model’s capabilities, architecture, training data, and usage guidelines. 
 
 **Theroretical resources**
+
+* [Chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications) - The article on LessWrong discusses the significant implications of DeepMind's Chinchilla paper, which suggests that large language models are often undertrained relative to their size. The key takeaway is that training data should be scaled up alongside model size to optimize performance efficiently. 
+
 
 ## Supervised Fine-tuning
 
