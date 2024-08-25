@@ -173,11 +173,18 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **High level resources**
 
+* [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)  - It curates and organizes various datasets essential for training LLMs, particularly those used in chatbot development and instruction-based fine-tuning. The repository includes details such as dataset types, languages, sizes, and descriptions
+* [Training a causal language model from scratch](https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt)- a guide by HuggingFace in how to pre-train a GPT-2 like model from scratch
+* [TinyLlama](https://github.com/jzhang38/TinyLlama) - how to train TinyLlama, a smaller and more efficient version of the LLaMA (Large Language Model). This will help to learn how LLaMA has been trained.
+
+
+
 **Theroretical resources**
 
 ## Supervised Fine-tuning
 
 **High level resources**
+*  [Causal language modeling](https://huggingface.co/docs/transformers/tasks/language_modeling) A guide from HuggingFace to how fine-tune a DistilGPT-2 model. HuggingFace provides easy and quick way to fine-tune a model.
 
 **Theroretical resources**
 
