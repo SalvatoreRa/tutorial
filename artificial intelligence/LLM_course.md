@@ -146,6 +146,7 @@ A list of resources about a more formal introduction on transformers and attenti
 
 * [Transformers and Large Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf) - Dan Jurafsky and James H. Martin. This chapter of Speech and Language Processing describes in details the self-attention, the training, and the transformer. It is great resources and easy to understand.
 * [Fine-tuning and Masked Language Models](https://web.stanford.edu/~jurafsky/slp3/11.pdf) - Dan Jurafsky and James H. Martin. This chapter is focused on the BERT like transformer and how to fine-tune a model. Both chapters are easy and very insightful
+* [Attention is all you need](https://arxiv.org/abs/1706.03762) - The seminal paper that introduced the transformer
 
 ## Pre-training of the LLM
 
@@ -178,17 +179,45 @@ A list of resources about a more formal introduction on transformers and attenti
 
 ## Prompt engineering
 
+**High level resources**
+
+**Theroretical resources**
+
 ## Evaluation
+
+**High level resources**
+
+**Theroretical resources**
 
 ## Optimization
 
+**High level resources**
+
+**Theroretical resources**
+
 ## Dimensionality reduction
+
+**High level resources**
+
+**Theroretical resources**
 
 ## Security
 
+**High level resources**
+
+**Theroretical resources**
+
 ## Alternative to the transformer
 
+**High level resources**
+
+**Theroretical resources**
+
 ## Emerging trend
+
+**High level resources**
+
+**Theroretical resources**
 
 ## RAG
 
