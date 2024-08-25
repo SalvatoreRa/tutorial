@@ -245,7 +245,19 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **Theroretical resources**
 
+## Multimodal
+
+**High level resources**
+
+**Theroretical resources**
+
 ## Emerging trend
+
+**High level resources**
+
+**Theroretical resources**
+
+## Deployment
 
 **High level resources**
 
