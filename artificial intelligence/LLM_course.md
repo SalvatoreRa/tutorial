@@ -265,9 +265,10 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **Theroretical resources**
 
-## RAG
+## Retrieval-Augmented Generation (RAG)
 
 **High level resources**
+* [Scaling RAG for Big Data](https://ragaboutit.com/scaling-rag-for-big-data-techniques-and-strategies-for-handling-large-datasets/) - a deep dive about techniques and strategies for handling large datasets with RAG systems
 
 **Theroretical resources**
 
