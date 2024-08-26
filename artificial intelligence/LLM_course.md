@@ -187,7 +187,7 @@ A list of resources about a more formal introduction on transformers and attenti
 
 * [Chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications) - The article on LessWrong discusses the significant implications of DeepMind's Chinchilla paper, which suggests that large language models are often undertrained relative to their size. The key takeaway is that training data should be scaled up alongside model size to optimize performance efficiently.
 * [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/abs/2401.02038v2) - This paper reviews the evolution of large language model training techniques and inference deployment technologies aligned with this emerging trend. 
-
+* [Challenges and Responses in the Practice of Large Language Models](https://arxiv.org/abs/2408.09416) - A curated list of important questions (and answers) about infrastructure, architecture, data, application.
 
 ## Supervised Fine-tuning
 
