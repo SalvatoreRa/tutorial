@@ -267,7 +267,21 @@ A list of resources about a more formal introduction on transformers and attenti
 
 ## RAG
 
+**High level resources**
+
+**Theroretical resources**
+
 ## LLM and Knowledge Graphs
 
+**High level resources**
+
+**Theroretical resources**
+
+* [Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2408.08921) - A survey about GraphRAG. It discusses in depth the workflow (from indexing to generation), applications, evaluation and industry case scenarios.
+
 ## Agents
+
+**High level resources**
+
+**Theroretical resources**
 
