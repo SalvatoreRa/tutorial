@@ -239,6 +239,8 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **Theroretical resources**
 
+* [Controllable Text Generation for LLMs](https://arxiv.org/abs/2408.12599) - a survey about controlling text generation in LLMs with a focus on consistency, style, helpfulness and safety
+
 ## Alternative to the transformer
 
 **High level resources**
