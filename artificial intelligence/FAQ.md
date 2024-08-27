@@ -1449,3 +1449,18 @@ Suggested lectures:
 
 
 </details>
+
+<details>
+  <summary><b>is it possible the multimodal RAG?</b></summary>
+
+Most organizations have more than just text data. By **modality** we mean the type of data (text, images, audio, video, tables, and so on). Each of these data types is a modality, so when a dataset is composed of multiple modalities it is called **multimodal**. Obviously, there is interest in being able to search both images and text at the same time. 
+
+The precursor to these searches is OpenAi CLIP, in which joint embedding for images and text is learned. For example, we can use text (“a castle on a hill”) for all those images that are similar to that description (in this case images of castles and especially if they are on hills). Similarly, CLIP allows us to search from an image for its description.
+
+![Summary of CLIP](https://github.com/SalvatoreRa/tutorial/blob/main/images/OpenAI_CLIP.png?raw=true) *from [here](https://arxiv.org/pdf/2103.00020)*
+
+The idea of **multimodal RAG** is an extension of this concept. Basically given a query q we want to find all the d documents that allow the query to be answered. This time though d not only textual documents but can also be images, audio, video, and so on.
+
+
+
+</details>
