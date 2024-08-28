@@ -856,10 +856,13 @@ mLSTM on the other hand increases the memory of the system, allowing it to proce
 
 xLSTM seems to have an advantage over the transformer where memory mixing is required (e.g., parity tasks). The transformers and SSM models (such as Mamba) fail the task because they fail to conduct state tracking. Therefore, for the authors, the model is more expressive than the transformer. According to the authors also the model succeeds in efficiently modeling long context, has enhanced memory capacities, advantages in computational cost ( favorable scaling behavior). At present, however, it has not been widely adopted by the community.
 
-
+Articles describing in detail:
+* [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
+* [Are xLSTM a Menace to Transformer Dominion](https://levelup.gitconnected.com/are-xlstm-a-menace-to-transformer-dominion-2cf6290f59b4)
 
 Suggested lectures:
 * [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
+* [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
 
 </details>
 
