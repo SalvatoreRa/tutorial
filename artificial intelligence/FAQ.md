@@ -854,7 +854,7 @@ mLSTM on the other hand increases the memory of the system, allowing it to proce
  ![ xLSTM performance](https://github.com/SalvatoreRa/tutorial/blob/main/images/xLSTM_performance.png?raw=true)
 *from [here](https://arxiv.org/pdf/2405.04517)*
 
-xLSTM seems to have an advantage over the transformer where memory mixing is required (e.g., parity tasks). The transformers and SSM models (such as Mamba) fail the task because they fail to conduct state tracking. Therefore, for the authors, the model is more expressive than the transformer. 
+xLSTM seems to have an advantage over the transformer where memory mixing is required (e.g., parity tasks). The transformers and SSM models (such as Mamba) fail the task because they fail to conduct state tracking. Therefore, for the authors, the model is more expressive than the transformer. According to the authors also the model succeeds in efficiently modeling long context, has enhanced memory capacities, advantages in computational cost ( favorable scaling behavior). At present, however, it has not been widely adopted by the community.
 
 
 
