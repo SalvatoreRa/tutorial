@@ -822,6 +822,7 @@ suggested lectures:
 * [Mamba No. 5 (A Little Bit Of...)](https://jameschen.io/jekyll/update/2024/02/12/mamba.html)  - a detailed explaination of Mamba
 * a series of posts on state space models: [here](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1), [here](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2), and [here](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-3).
 * [A Survey of Mamba](https://arxiv.org/abs/2408.01129) - a detailed survey of Mamba models
+* [The Mamba Training Cookbook.](https://www.zyphra.com/post/the-zyphra-training-cookbook) - Pre-training hybrid (Mamba style) models is different from pre-training normal Transformers and it could be hard. This cookbook helps in the task.
 
 </details>
 
