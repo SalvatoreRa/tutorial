@@ -825,6 +825,43 @@ suggested lectures:
 
 </details>
 
+<details>
+  <summary><b>What are other alternative to the transformer?</b></summary>
+  
+There are several, but in this article we will discuss these alternatives that have been proposed and are considered the main ones:
+* xLSTM
+
+**xLSTM** has been proposed in 2024 as a model that can compete with transformers. The model was proposed by the same group that proposed LSTM several years ago. The authors note that LSTM has mainly three problems: 
+* ** Inability to revise storage decisions**. LSTM struggles with updating stored information when it encounters more relevant information in the sequence (this was shown with Nearest Neighbor Search problem in which LSTM struggles in identifying most similar vectors). 
+* **Limited storage capacity** an LSTM memory cells compress information into a single scalar value, this is a big compression and limits the amount of information that can be stored. This is especially a problem when it comes to modeling nuances, predicting rare tokens and so on. 
+* **Lack of parallelizability** LSTM is sequential by nature (each hidden state depends on the previous one) and therefore is not compatible with new hardware such as GPUs as well as making it impossible to train with huge amounts of text
+
+ ![xlSTM structure](https://github.com/SalvatoreRa/tutorial/blob/main/images/xLSTM.png?raw=true)
+*from [here](https://arxiv.org/pdf/2405.04517)*
+
+To solve these problems, the authors included a series of modifications that led to the creation of two variants of the xLSTM cell: sLSTM (scalar LSTM) and mLSTM (matrix LSTM). 
+
+For example **sLSTM** employs a series of modifications that improve its profile: 
+* **Exponential Gating.** It incorporates exponential activation functions for input and forgat gate, improving control over information flow.
+* **Normalization and stabilization.** To put greater stability, the authors insert a normalizer state for input and forget gates.
+* **Memory mixing.** sLSTM supports multiple memory cells and allows memory mixing through the use of recurrent connections, this allows better pattern extraction
+
+ ![ xLSTM block](https://github.com/SalvatoreRa/tutorial/blob/main/images/xLSTM_blocks.png?raw=true)
+*from [here](https://arxiv.org/pdf/2405.04517)*
+ 
+mLSTM on the other hand increases the memory of the system, allowing it to process and store information in parallel (instead of having a scalar here we have a matrix). This system therefore uses a **memory matrix** to allow more efficient storing and retrieval. Inspired by attention mechanisms it uses **a covariance update rule** to store key-value pairs 
+
+ ![ xLSTM performance](https://github.com/SalvatoreRa/tutorial/blob/main/images/xLSTM_performance.png?raw=true)
+*from [here](https://arxiv.org/pdf/2405.04517)*
+
+xLSTM seems to have an advantage over the transformer where memory mixing is required (e.g., parity tasks). The transformers and SSM models (such as Mamba) fail the task because they fail to conduct state tracking. Therefore, for the authors, the model is more expressive than the transformer. 
+
+
+
+Suggested lectures:
+* [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
+
+</details>
 
 ## Large Language Models
 
