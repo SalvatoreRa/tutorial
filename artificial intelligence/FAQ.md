@@ -1546,5 +1546,22 @@ Additional lectures:
 
 <details>
   <summary><b>What is the graph RAG? It is better of vector RAG?</b></summary>
-!
+
+Traditional RAG is also called **vector RAG** because we take text and get vectors by embedding. Now, vector RAG has a number of advantages but also a number of shortcomings: 
+* **Neglecting Relationships.** The textual information is interconnected (the chunks are actually not separate but connected to each other). Traditional RAG fails to capture this relational information. For example, scientific articles cite each other, and these citations are important relational information that is lost with RAG
+* **Redundant Information.** Different chunks may contain the same information and irrelevant information. Noisy data are a problem then for the generation.
+* **Lacking Global Information.** RAG finds only a subset of the documents, so locally relevant information but not globally relevant information, especially for summarization issues is a problem.
+
+Therefore a new paradigm has been suggested that can solve these problems:
+
+*Graph Retrieval-Augmented Generation (GraphRAG) emerges as an innovative solution to address these challenges. Unlike traditional RAG, GraphRAG retrieves graph elements containing relational knowledge pertinent to a given query from a pre-constructed graph database. - [source](https://arxiv.org/pdf/2408.08921)*
+
+![Graph RAG introduction](https://github.com/SalvatoreRa/tutorial/blob/main/images/GraphRAG.png?raw=true) *from [here](https://arxiv.org/pdf/2408.08921)*
+
+
+Suggested lectures:
+* [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
+* [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)
+
+
 </details>
