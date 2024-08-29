@@ -1536,10 +1536,15 @@ The idea of **multimodal RAG** is an extension of this concept. Basically given 
 There are three possible approaches:
 * **Embed all modalities into the same vector space** We can use a model such as CLIP as an embedder to project text and images into the same vector space. At query time, we find both images and text and can then provide both images and text to a multimodal LLM (such as BLIP3)
 * **Ground all modalities into one primary modality** In this case we transform all modalities into text (textual description for images, audio transcripts for audios, and so on) and then conduct text embedding. At query time we conduct the similarity search only on the text. We can then either put in the context for generation just the text or use a multimodal LLM
-* **separate stores for different modalities** In this case for each modality we have an embedder (for example an image/test aligned model, audio/text aligned model, text embedder and so on). We then get a vector database for each modality. at query time, we conduct the search separately for each database, we then find for each modality. The problem is that we now have top k examples per mode, to solve this we usually have a multimodal re-ranker
+* **separate stores for different modalities** In this case for each modality we have an embedder (for example an image/test aligned model, audio/text aligned model, text embedder and so on). We then get a vector database for each modality. at query time, we conduct the search separately for each database, and we then retrieve for each modality. The problem is that we now have top k examples per mode, to solve this we usually have a multimodal re-ranker
 
 Additional lectures:
 * [Retrieving Multimodal Information for Augmented Generation: A Survey](https://arxiv.org/abs/2303.10868)
 * [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)
 
+</details>
+
+<details>
+  <summary><b>What is the graph RAG? It is better of vector RAG?</b></summary>
+!
 </details>
