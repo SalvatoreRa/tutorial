@@ -1567,7 +1567,6 @@ GraphRAG inserts a step with a graph into the whole process:
 * **Graph-Enhanced Generation (G-Generation).** At this point the found entity and relationships are placed in the context of the model in order to generate the answer to the query. We can in case use specific prompts to enhance the generation process. In addition, refinement steps of this context can be conducted just as done with RAG.
 
 
-
 ![Graph RAG architecture](https://github.com/SalvatoreRa/tutorial/blob/main/images/GraphRAG_scheme.png?raw=true) *from [here](https://arxiv.org/pdf/2408.08921)*
 
 <p align="center" style="color:gray; font-size:24px;">So, GraphRAG will substitute the traditional RAG?</p>
@@ -1576,9 +1575,12 @@ Even GraphRAG is not perfect, especially when context is important, GraphRAG los
 
 *GraphRAG enables more accurate and context-aware generation of responses based on the structured information extracted from financial documents. But GraphRAG generally underperforms in abstractive Q&A tasks or when there is not explicit entity mentioned in the question. [source](https://arxiv.org/pdf/2408.04948)*
 
+So in [this study](https://arxiv.org/abs/2408.04948) they say we can take the best of both worlds and combine the two methods together:
 
 *The amalgamation of these two contexts allows us to leverage the strengths of both approaches. The VectorRAG component provides
 a broad, similarity-based retrieval of relevant information, while the GraphRAG element contributes structured, relationship-rich contextual data. [source](https://arxiv.org/pdf/2408.04948)*
+
+In other words, the systems of the future are likely to be hybrid.
 
 Suggested lectures:
 * [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
