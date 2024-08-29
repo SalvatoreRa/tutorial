@@ -564,6 +564,11 @@ During training, if you set the probability to 50 % the remaining neurons are re
 </details>
 
 <details>
+  <summary><b>What are Kolmogorov-Arnold Network (KAN)? Why the hype about it?</b></summary>
+!
+</details>
+
+<details>
   <summary><b>How to deal with overfitting in neural networks?</b></summary>
   
   *"The central challenge in machine learning is that we must perform well on new, previously unseen inputs — not just those on which our model was trained. The ability to perform well on previously unobserved inputs is called generalization."-[source](https://www.deeplearningbook.org/)* 
