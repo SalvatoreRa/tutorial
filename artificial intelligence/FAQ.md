@@ -1569,9 +1569,12 @@ GraphRAG inserts a step with a graph into the whole process:
 
 ![Graph RAG architecture](https://github.com/SalvatoreRa/tutorial/blob/main/images/GraphRAG_scheme.png?raw=true) *from [here](https://arxiv.org/pdf/2408.08921)*
 
-<div align="center" style="color:gray;">
-  <font size="6">So, GraphRAG will substitute the traditional RAG?</font>
-</div>
+<center>
+  
+## So, GraphRAG will substitute the traditional RAG?
+
+</center>
+
 
 Even GraphRAG is not perfect, especially when context is important, GraphRAG loses this semantic richness:
 
