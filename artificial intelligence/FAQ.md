@@ -889,7 +889,7 @@ mLSTM on the other hand increases the memory of the system, allowing it to proce
  ![ xLSTM performance](https://github.com/SalvatoreRa/tutorial/blob/main/images/xLSTM_performance.png?raw=true)
 *from [here](https://arxiv.org/pdf/2405.04517)*
 
-xLSTM seems to have an advantage over the transformer where memory mixing is required (e.g., parity tasks). The transformers and SSM models (such as Mamba) fail the task because they fail to conduct state tracking. Therefore, for the authors, the model is more expressive than the transformer. According to the authors also the model succeeds in efficiently modeling long context, has enhanced memory capacities, advantages in computational cost ( favorable scaling behavior). At present, however, it has not been widely adopted by the community.
+xLSTM seems to have an advantage over the transformer where memory mixing is required (e.g., parity tasks). The transformers and SSM models (such as Mamba) fail the task because they fail to conduct state tracking. Therefore, for the authors, the model is more expressive than the transformer. According to the authors also the model succeeds in efficiently modeling long context, has enhanced memory capacities, and advantages in computational cost ( favorable scaling behavior). At present, however, it has not been widely adopted by the community.
 
 ### Hyenas
 
@@ -902,6 +902,13 @@ The trick according to the authors is to maintain the data control that the atte
  ![Hyenas architecture structure](https://github.com/SalvatoreRa/tutorial/blob/main/images/xLSTM_performance.png?raw=true)
 *from [here](https://arxiv.org/pdf/2302.10866)*
 
+The Hyena operator is based on the lesson of previous models (H3 model) that use special matrices to understand relationships internal to the data. In addition, there are filters that are learned to better understand important relationships. These filters also specialize during training.
+
+![Hyenas performance](https://github.com/SalvatoreRa/tutorial/blob/main/images/hyena_performance.png?raw=true)
+*from [here](https://arxiv.org/pdf/2302.10866)*
+
+The performance of this architecture seems comparable but more importantly it is much more computationally efficient.
+
 
 Articles describing in detail:
 * [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
@@ -910,6 +917,7 @@ Articles describing in detail:
 Suggested lectures:
 * [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 * [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
+* [The Annotated Hyena](https://medium.com/@jskowera/the-annotated-hyena-3e50e0aa372a)
 
 </details>
 
