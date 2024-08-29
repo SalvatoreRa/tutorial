@@ -860,8 +860,11 @@ suggested lectures:
 <details>
   <summary><b>What are other alternative to the transformer?</b></summary>
   
-There are several, but in this article we will discuss these alternatives that have been proposed and are considered the main ones:
+There are several, but in this article, we will discuss the alternatives that have been proposed and are considered the main ones:
 * xLSTM
+* Hyenas
+
+### xLSTM
 
 **xLSTM** has been proposed in 2024 as a model that can compete with transformers. The model was proposed by the same group that proposed LSTM several years ago. The authors note that LSTM has mainly three problems: 
 * ** Inability to revise storage decisions**. LSTM struggles with updating stored information when it encounters more relevant information in the sequence (this was shown with Nearest Neighbor Search problem in which LSTM struggles in identifying most similar vectors). 
@@ -887,6 +890,18 @@ mLSTM on the other hand increases the memory of the system, allowing it to proce
 *from [here](https://arxiv.org/pdf/2405.04517)*
 
 xLSTM seems to have an advantage over the transformer where memory mixing is required (e.g., parity tasks). The transformers and SSM models (such as Mamba) fail the task because they fail to conduct state tracking. Therefore, for the authors, the model is more expressive than the transformer. According to the authors also the model succeeds in efficiently modeling long context, has enhanced memory capacities, advantages in computational cost ( favorable scaling behavior). At present, however, it has not been widely adopted by the community.
+
+### Hyenas
+
+Because the attention mechanism has a quadratic cost in relation to sequence length several studies have focused on how to make it linear. From this line of research, the authors of this [study](https://arxiv.org/abs/2302.10866) tried to design an architecture that could handle sequences of millions of tokens at a linear cost.
+
+The authors then introduced a new operator called `Hyena hierarchy` that combines long convolutions and element-wise multiplicative gating to reduce the computational cost of self-attention without, however, losing the same expressiveness.
+
+The trick according to the authors is to maintain the data control that the attention mechanism provides (via a matrix called the attention matrix). In hyenas, they conduct this data control by defining an implicit decomposition into a sequence of matrices (evaluated via a for-loop). Then the system basically gets a series of linear projections of the data and then combines them with long convolution. This saves a lot of computational resources
+
+ ![Hyenas architecture structure](https://github.com/SalvatoreRa/tutorial/blob/main/images/xLSTM_performance.png?raw=true)
+*from [here](https://arxiv.org/pdf/2302.10866)*
+
 
 Articles describing in detail:
 * [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
