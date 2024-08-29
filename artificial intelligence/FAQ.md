@@ -754,23 +754,32 @@ After getting an embedding it is good practice to conduct **a visual analysis**,
 
 <details>
   <summary><b>Can we use BERT like models for text generation?</b></summary>
-  **Masked language models** have long dominated NLP, especially because they were adaptable for multiple tasks. The paradigm shift occurred in 2020 when it was shown that GPT-like models could do **in-contex learning**. ICL allows a model to be able to do a task directly without fine-tuning. For example, by providing some examples in the prompt the model understands the task and executes it.
+  **Masked language models (MLM)** have long dominated NLP, especially because they were adaptable for multiple tasks. The paradigm shift occurred in 2020 when it was shown that GPT-like models could do **in-context learning**. ICL allows a model to be able to do a task directly without fine-tuning. For example, by providing some examples in the prompt the model understands the task and executes it.
   
 *“BERT-style models are very restricted in their generative capabilities. Because of the cumbersomeness of task-specific classification heads, we strongly do not recommend using this class of autoencoding models moving forward and consider them somewhat deprecated.” — [source](https://openreview.net/pdf?id=6ruVLB727MC)*
 
-This sealed the fate of BERT like models and the rise of auto-regressive models (GPT like). 
+This sealed the fate of BERT-like models and the rise of auto-regressive models (GPT-like). 
 
-The point is that it was thought that these models could not generate text efficiently. Until in 2024 two studies showed that this was not the case. Not only can they generate text but they can also do LCI:
+The point is that it was thought that these models could not generate text efficiently. Until 2024 two studies showed that this was not the case. Not only can they generate text but they can also do LCI:
 
 *There are two methods used to solve tasks with in-context learning: text generation where the model completes a given prompt (e.g. for translation) and ranking where the model chooses an answer from several options (e.g. for multiple choice questions). — [source](https://arxiv.org/abs/2406.04823)*
 
  ![BERT model text generation](https://github.com/SalvatoreRa/tutorial/blob/main/images/BERT_ICL.png?raw=true)
 *from [here](https://arxiv.org/pdf/2406.04823)*
 
-The result is that a model trained by masked language modeling is competitive with GPT-like models for text generation and in-context learning: it shows in fact *"similar absolute performance, similar scaling behavior, and with similar improvement when given more few-shot demonstrations.”* Since these models are not designed to generate accommodations must be used but still there is no need for additional training.
+The result is that a model trained by masked language modeling is competitive with GPT-like models for text generation and in-context learning: it shows in fact *"similar absolute performance, similar scaling behavior, and with similar improvement when given more few-shot demonstrations.”* Since these models are not designed to generate accommodations must be used but still, there is no need for additional training.
 
  ![BERT model text generation](https://github.com/SalvatoreRa/tutorial/blob/main/images/BERT_ICL_performance.png?raw=true)
 *from [here](https://arxiv.org/pdf/2406.04823)*
+
+Another [study](https://arxiv.org/pdf/2405.12630) confirms these results. For the authors MLM outperforms Causal Language Modeling (CLM) for text generation, it is more aligned with the original reference text.
+
+Articles describing in detail:
+* [Maybe GPT Isn’t the Best: BERTs Can Master Generative In-Context Learning](https://levelup.gitconnected.com/maybe-gpt-isnt-the-best-berts-can-master-generative-in-context-learning-2d95bc8c8507)
+
+Suggested lectures:
+* [BERTs are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
+* [Exploration of Masked and Causal Language Modelling for Text Generation](https://arxiv.org/abs/2405.12630)
 
 </details>
 
