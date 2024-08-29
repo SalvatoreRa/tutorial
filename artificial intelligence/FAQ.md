@@ -912,14 +912,32 @@ The performance of this architecture seems comparable but more importantly it is
 
 ## RWKV
 
-The architecture of RNNs (and derivatives) was a staple of NLP and sequence modeling for a long time until it was replaced by the transformer. RNNs unlike classical neural networks do not take a fixed size input but a sequence. In addition, an intriguing fact about RNNs is that they are more versatile than people think and can be used for different scanars: one-to-one (image-classification), one-to-many (image captioning), many-to-one (sequence classification), many-to-many (sequence generation), and so on 
+The architecture of RNNs (and derivatives) was a staple of NLP and sequence modeling for a long time until it was replaced by the transformer. RNNs unlike classical neural networks do not take a fixed-size input but a sequence. In addition, an intriguing fact about RNNs is that they are more versatile than people think and can be used for different scenarios: one-to-one (image classification), one-to-many (image captioning), many-to-one (sequence classification), many-to-many (sequence generation), and so on 
 
 ![RNN plasticity](https://github.com/SalvatoreRa/tutorial/blob/main/images/RNN-scheme.png?raw=true)
 *from [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)*
 
-RNNs as we mentioned above are not, however, without problems such as vanishing gradient, difficulty in storing information for long sequences, difficulty in parallelization. If the first two problems were solved by LSTM and GRU, the third was solved by the transformer. During training, the transformer though not only allows parallelization but also learning contextual information and even long dependencies within a sequence (at a rather high computational cost). 
+RNNs as we mentioned above are not, however, without problems such as vanishing gradient, difficulty in storing information for long sequences, and difficulty in parallelization. If the first two problems were solved by LSTM and GRU, the third was solved by the transformer. During training, the transformer though not only allows parallelization but also learning contextual information and even long dependencies within a sequence (at a rather high computational cost). 
 
 *'During inference, RNNs have some advantages in speed and memory efficiency. These advantages include simplicity, due to needing only matrix-vector operations, and memory efficiency, as the memory requirements do not grow during inference. Furthermore, the computation speed remains the same with context window length due to how computations only act on the current token and the state.' -[source](https://huggingface.co/blog/rwkv)*
+
+RKWV is inspired by [Apple's free transformer](https://machinelearning.apple.com/research/attention-free-transformer) though with a number of simplifications, along with a number of tricks to improve efficiency. RKWV tries to solve the context length problem, down to modeling sequences that have thousands of tokens. Likewise, make the system parallelizable so that it can be trained on GPUs (or similar hardware).
+
+In a certain system much like a transformer, some elements are retained: an embedding layer, a series of blocks stacked on top of each other, layer normalization, and trained by causal language modeling. What is eliminated is the attention layer of classical transformers and replaced with a new type of layer
+
+![RWKV scheme](https://github.com/SalvatoreRa/tutorial/blob/main/images/RWKV_block.png?raw=true)
+*from [here](https://arxiv.org/pdf/2305.13048)*
+
+There are two important elements to consider:
+* **Channel mixing**. *Channel mixing is the process where the next token being generated is mixed with the previous state output of the previous layer to update this “state of mind” [source](https://wiki.rwkv.com/advance/architecture.html#how-does-rwkv-differ-from-classic-rnn)* This can be seen as a short-term and accurate memory
+* **Channel mixing**. *Time mixing is a similar process, but it allows the model to retain part of the previous state of mind, enabling it to choose and store state information over a longer period, as chosen by the model. [source](https://wiki.rwkv.com/advance/architecture.html#how-does-rwkv-differ-from-classic-rnn)*, In this case, it is a lower accuracy but long-term memory
+
+These two elements together replace the attention of the transformer and work somewhat the same way but reducing the computational burden
+
+![RWKV architecture for language modeling](https://github.com/SalvatoreRa/tutorial/blob/main/images/C:\Users\sraieli\Downloads\RWKV_text_generation.png?raw=true)
+*from [here](https://arxiv.org/pdf/2305.13048)*
+
+
 
 Articles describing in detail:
 * [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
