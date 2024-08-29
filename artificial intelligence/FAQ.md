@@ -861,9 +861,9 @@ suggested lectures:
   <summary><b>What are other alternative to the transformer?</b></summary>
   
 There are several, but in this article, we will discuss the alternatives that have been proposed and are considered the main ones:
-* xLSTM
-* Hyenas
-* RWKV
+* **xLSTM**
+* **Hyenas**
+* **RWKV**
 
 ### xLSTM
 
@@ -912,6 +912,14 @@ The performance of this architecture seems comparable but more importantly it is
 
 ## RWKV
 
+The architecture of RNNs (and derivatives) was a staple of NLP and sequence modeling for a long time until it was replaced by the transformer. RNNs unlike classical neural networks do not take a fixed size input but a sequence. In addition, an intriguing fact about RNNs is that they are more versatile than people think and can be used for different scanars: one-to-one (image-classification), one-to-many (image captioning), many-to-one (sequence classification), many-to-many (sequence generation), and so on 
+
+![RNN plasticity](https://github.com/SalvatoreRa/tutorial/blob/main/images/RNN-scheme.png?raw=true)
+*from [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)*
+
+RNNs as we mentioned above are not, however, without problems such as vanishing gradient, difficulty in storing information for long sequences, difficulty in parallelization. If the first two problems were solved by LSTM and GRU, the third was solved by the transformer. During training, the transformer though not only allows parallelization but also learning contextual information and even long dependencies within a sequence (at a rather high computational cost). 
+
+*'During inference, RNNs have some advantages in speed and memory efficiency. These advantages include simplicity, due to needing only matrix-vector operations, and memory efficiency, as the memory requirements do not grow during inference. Furthermore, the computation speed remains the same with context window length due to how computations only act on the current token and the state.' -[source](https://huggingface.co/blog/rwkv)*
 
 Articles describing in detail:
 * [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
