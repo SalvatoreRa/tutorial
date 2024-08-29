@@ -1556,8 +1556,29 @@ Therefore a new paradigm has been suggested that can solve these problems:
 
 *Graph Retrieval-Augmented Generation (GraphRAG) emerges as an innovative solution to address these challenges. Unlike traditional RAG, GraphRAG retrieves graph elements containing relational knowledge pertinent to a given query from a pre-constructed graph database. - [source](https://arxiv.org/pdf/2408.08921)*
 
+
 ![Graph RAG introduction](https://github.com/SalvatoreRa/tutorial/blob/main/images/GraphRAG.png?raw=true) *from [here](https://arxiv.org/pdf/2408.08921)*
 
+In general, a **knowledge graph (KG)** is used as a graph. This is a special type of heterogeneous graph consisting of triplets (head, relation, tail). So we have to find a way to extract these elements (entities and relations) from the text. There are several methods to do this (manual, traditional machine learning, and so on) but today it can also be done using an LLM. LLM then can be used to populate the graph with entities and relationships but also to conduct post-processing of our KG.
+
+GraphRAG inserts a step with a graph into the whole process:
+* **Graph-Based Indexing (G-Indexing).** In this initial step we extract entities and relationships and literally build the graph.  There may then be additional steps with mapping properties to nodes and edges or organizing the graph in a fast retrieval way
+* **Graph-Guided Retrieval (G-Retrieval).** In this step we conduct the search in the graph to find the information needed to answer a user query. This search can be conducted with different algorithms.
+* **Graph-Enhanced Generation (G-Generation).** At this point the found entity and relationships are placed in the context of the model in order to generate the answer to the query. We can in case use specific prompts to enhance the generation process. In addition, refinement steps of this context can be conducted just as done with RAG.
+
+
+
+![Graph RAG architecture](https://github.com/SalvatoreRa/tutorial/blob/main/images/GraphRAG_scheme.png?raw=true) *from [here](https://arxiv.org/pdf/2408.08921)*
+
+<p align="center" style="color:gray; font-size:24px;">So, GraphRAG will substitute the traditional RAG?</p>
+
+Even GraphRAG is not perfect, especially when context is important, GraphRAG loses this semantic richness:
+
+*GraphRAG enables more accurate and context-aware generation of responses based on the structured information extracted from financial documents. But GraphRAG generally underperforms in abstractive Q&A tasks or when there is not explicit entity mentioned in the question. [source](https://arxiv.org/pdf/2408.04948)*
+
+
+*The amalgamation of these two contexts allows us to leverage the strengths of both approaches. The VectorRAG component provides
+a broad, similarity-based retrieval of relevant information, while the GraphRAG element contributes structured, relationship-rich contextual data. [source](https://arxiv.org/pdf/2408.04948)*
 
 Suggested lectures:
 * [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
