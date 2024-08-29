@@ -863,6 +863,7 @@ suggested lectures:
 There are several, but in this article, we will discuss the alternatives that have been proposed and are considered the main ones:
 * xLSTM
 * Hyenas
+* RWKV
 
 ### xLSTM
 
@@ -909,6 +910,8 @@ The Hyena operator is based on the lesson of previous models (H3 model) that use
 
 The performance of this architecture seems comparable but more importantly it is much more computationally efficient.
 
+## RWKV
+
 
 Articles describing in detail:
 * [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc)
@@ -918,6 +921,10 @@ Suggested lectures:
 * [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 * [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
 * [The Annotated Hyena](https://medium.com/@jskowera/the-annotated-hyena-3e50e0aa372a)
+* [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+* [RWKV, Explained](https://fullstackdeeplearning.com/blog/posts/rwkv-explainer/)
+* [RWKV Language Model](https://wiki.rwkv.com/)
+* [How the RWKV language model works](https://johanwind.github.io/2023/03/23/rwkv_details.html) - a minimal implementation of RWKV
 
 </details>
 
