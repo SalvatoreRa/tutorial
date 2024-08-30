@@ -569,11 +569,10 @@ During training, if you set the probability to 50 % the remaining neurons are re
 
 According to the Kolmogorov-Arnold representation theorem, any multivariate function can be expressed as a finite composition of continuous functions (combined by addition). To make a simpler example, we can imagine a cake as the result of a series of ingredients combined together in some way. In short, a complex object can be seen as the sum of individual elements that are combined in a specific way. In a recipe, we add only one ingredient at a time to make the process simpler. 
 
-```markdown
 $$
 f(x_1, \ldots, x_n) = \sum_{q=1}^{2n+1} \Phi_q \left( \sum_{p=1}^{n} \phi_{q,p}(x_p) \right)
 $$
-```
+
 
 </details>
 
