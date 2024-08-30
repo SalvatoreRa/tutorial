@@ -565,12 +565,18 @@ During training, if you set the probability to 50 % the remaining neurons are re
 
 <details>
   <summary><b>What are Kolmogorov-Arnold Network (KAN)? Why the hype about it?</b></summary>
-**Kolmogorov-Arnold Networks (KANs)** are a new type of neural network that is based on the *[Kolmogorov-Arnold representation theorem](https://en.wikipedia.org/wiki/Kolmogorov-Arnold_representation_theorem)* (while classical neural networks are based universal approximation theorem, according to which a neural network could approximate any function). 
+
+  **Kolmogorov-Arnold Networks (KANs)** are a new type of neural network that is based on the *[Kolmogorov-Arnold representation theorem](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem)* (while classical neural networks are based universal approximation theorem, according to which a neural network could approximate any function). 
 
 According to the Kolmogorov-Arnold representation theorem, any multivariate function can be expressed as a finite composition of continuous functions (combined by addition). To make a simpler example, we can imagine a cake as the result of a series of ingredients combined together in some way. In short, a complex object can be seen as the sum of individual elements that are combined in a specific way. In a recipe, we add only one ingredient at a time to make the process simpler. 
 
 $$f(x_1, \ldots, x_n) = \sum_{q=1}^{2n+1} \Phi_q \left( \sum_{p=1}^{n} \phi_{q,p}(x_p) \right)$$
 
+Observing this equation, we have a multivariate function (our cake) and univariate functions (our ingredients and $\Phi_q$ explaining how they are combined (the recipe steps). In short, from a finished product, we want to reconstruct the recipe.
+
+Why is this theorem of interest to us? Because in machine learning we need systems that allow us to approximate complex functions efficiently and accurately. Especially when there are so many dimensions, neural networks are in danger of falling into what is called the curse of dimensionality. 
+
+The second theoretical element we need is the concept of **spline.** Spline is a piecewise polynomial function that defines a smooth curve through a series of points. **B-splines**, on the other hand, is the mode of fit. For example, let's imagine that we have collected temperature data throughout the day at varying intervals and we want at this point a curve that shows us the trend. We can use a polynomial curve. The problem is that we would like the best one, only this doesn't happen and these curves tend to fluctuate quite a bit ([Runge's phenomenon](https://en.wikipedia.org/wiki/Runge%27s_phenomenon) for friends). Spline allows us to fit better because it divides the data into segments and fits an individual polynomial curve for each segment (before they had one curve for all the data). **B-splines** are an improvement that allows for better-fit curves. B-spline in short provides better accuracy. It achieves this by using control points to guide the fitting.
 
 </details>
 
