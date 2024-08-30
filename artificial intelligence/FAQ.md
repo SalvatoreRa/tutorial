@@ -565,7 +565,16 @@ During training, if you set the probability to 50 % the remaining neurons are re
 
 <details>
   <summary><b>What are Kolmogorov-Arnold Network (KAN)? Why the hype about it?</b></summary>
-!
+**Kolmogorov-Arnold Networks (KANs)** are a new type of neural network that is based on the *[Kolmogorov-Arnold representation theorem](https://en.wikipedia.org/wiki/Kolmogorov-Arnold_representation_theorem)* (while classical neural networks are based universal approximation theorem, according to which a neural network could approximate any function). 
+
+According to the Kolmogorov-Arnold representation theorem, any multivariate function can be expressed as a finite composition of continuous functions (combined by addition). To make a simpler example, we can imagine a cake as the result of a series of ingredients combined together in some way. In short, a complex object can be seen as the sum of individual elements that are combined in a specific way. In a recipe, we add only one ingredient at a time to make the process simpler. 
+
+```markdown
+$$
+f(x_1, \ldots, x_n) = \sum_{q=1}^{2n+1} \Phi_q \left( \sum_{p=1}^{n} \phi_{q,p}(x_p) \right)
+$$
+```
+
 </details>
 
 <details>
