@@ -586,11 +586,30 @@ $$C(t) = \sum_{i=0}^{n} P_i N_{i,k}(t)$$
 
 where $P_i$ are the control points, $N_{i,k}$ are called the basis fucntion and $t$ is called knot vector.
 
+Now we have the theoretical elements, what we need to keep in mind is: 
+* given a complex function we have a theorem that tells us we can reconstruct it from single unitary elements and a series of steps.
+* we can fit a curve with great accuracy for a series of points and thus highlight trends and other analyses.
+
 <center>
   
 ## Why do we care about it? How we can use it for a neural network?
 
 </center>
+
+Actually, because the classical neural network has a number of limitations: 
+* Fixed activation functions on the node. Each neuron has a predetermined activation function (like ReLU or Sigmoid). This is fine in many of the cases though it reduces the flexibility and adaptability of the network. In some cases it is difficult for a neural network to optimize a certain function or adapt to certain data.
+* Interpretability. Neural networks are poorly interpretable, the more parameters the worse it becomes. Understanding the internal decision making process becomes difficult and therefore it is harder to trust the predictions.
+
+At this point, KANs have recently been proposed to solve these two problems.
+
+ ![KAN introduction](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_introduction.png?raw=true) * from [the original papers](https://arxiv.org/pdf/2404.19756)*
+
+KANs are based in joining the Kolmogorov-Arnold Representation (KAR) theorem with B-splines. At each edge of the neural network we use B-splines at each edge of each neuron so as to porter learn B-spline activation function. In other words, the model learns the decomposition of the data (our pie) into a series of b-splines (our ingredients).
+
+![KAN versus MLP](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_vs_MLP.png?raw=true) * from [the original papers](https://arxiv.org/pdf/2404.19756)*
+
+
+
 
 </details>
 
