@@ -608,6 +608,25 @@ KANs are based in joining the Kolmogorov-Arnold Representation (KAR) theorem wit
 
 ![KAN versus MLP](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_vs_MLP.png?raw=true) * from [the original papers](https://arxiv.org/pdf/2404.19756)*
 
+Now let us go into a little more detail. In KAN the matrix of weights is replaced by a set of univariate function parameters at the edges of the network. Each node then can be seen as the sum of these functions (which are nonlinear). In contrast in MLPs we have a linear transformation (the multiplication with the matrix of weights) and a nonlinear function. In formulas we can clearly see the difference:
+
+$$\text{KAN}(\mathbf{x}) = \left( \Phi_{L-1} \circ \circ \circ \circ \cdots \circ \Phi_1 \circ \circ \Phi_0 \right) \mathbf{x}$$
+
+$$\text{MLP}(\mathbf{x}) = \left( \mathbf{W}_{L-1} \circ \sigma \circ \mathbf{W}_{L-2} \circ \sigma \circ \circ \cdots \circ \mathbf{W}_1 \circ \sigma \circ \mathbf{W}_0 \right) \mathbf{x}$$
+
+In a more compact version, we can rewrite it like this: 
+
+$$f(x_1, x_2, \ldots, x_n) = \sum_{q=1}^{2n+1} \Phi_q \left( \sum_{p=1}^{n} \phi_{q,p}(x_p) \right)$$
+
+Where $ϕ_q,p$ are univariate functions (b-splines) and $ϕ_q$ is the final function that assembles everything.
+
+Now each layer of a KAN network can be seen like this:
+
+$$\mathbf{x}_j^{(l+1)} = \sum_{i=1}^{n_l} \phi_{l,i,j} \left( x_i^{(l)} \right)$$
+
+where $x(l)$ is the transformation of the input to layer $l$ (basically the cooked dish after a number of steps and added ingredients) and $ϕ_l,i,j$ are the functions at the edges between layer $l$ and $l+1$.
+
+
 
 
 
