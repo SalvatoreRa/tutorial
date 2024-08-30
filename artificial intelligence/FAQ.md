@@ -578,6 +578,20 @@ Why is this theorem of interest to us? Because in machine learning we need syste
 
 The second theoretical element we need is the concept of **spline.** Spline is a piecewise polynomial function that defines a smooth curve through a series of points. **B-splines**, on the other hand, is the mode of fit. For example, let's imagine that we have collected temperature data throughout the day at varying intervals and we want at this point a curve that shows us the trend. We can use a polynomial curve. The problem is that we would like the best one, only this doesn't happen and these curves tend to fluctuate quite a bit ([Runge's phenomenon](https://en.wikipedia.org/wiki/Runge%27s_phenomenon) for friends). Spline allows us to fit better because it divides the data into segments and fits an individual polynomial curve for each segment (before they had one curve for all the data). **B-splines** are an improvement that allows for better-fit curves. B-spline in short provides better accuracy. It achieves this by using control points to guide the fitting.
 
+ ![comparison spline and polynomial function](https://github.com/SalvatoreRa/tutorial/blob/main/images/spline.png?raw=true) 
+
+Mathematically this is the equation of the b-spline:
+
+$$C(t) = \sum_{i=0}^{n} P_i N_{i,k}(t)$$
+
+where $P_i$ are the control points, $N_{i,k}$ are called the basis fucntion and $t$ is called knot vector.
+
+<center>
+  
+## Why do we care about it? How we can use it for a neural network?
+
+</center>
+
 </details>
 
 <details>
