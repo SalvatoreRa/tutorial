@@ -191,6 +191,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Can AI Replace Human Researchers](https://levelup.gitconnected.com/can-ai-replace-human-researchers-50fcc43ea587)| -- | The AI Scientist: Does Sakana New Method Mean Fully Automated Research?|
+|[Safekeep Science’s Future: Can LLMs Transform Peer Review?](https://levelup.gitconnected.com/safekeep-sciences-future-can-llms-transform-peer-review-e1f323caef08)| -- | Peer review is today’s science core, but is flawed with bias and burdening researchers. Can we improve it?|
 | [Beyond AlphaFold: The Future Of LLM in Medicine](https://towardsdatascience.com/beyond-alphafold-the-future-of-llm-in-medicine-42c10e302183) | -- | AlphaFold leaves a complex legacy: What will be the future of LLM in biology and medicine?|
 | [How LLMs Can Fuel Gene Editing Revolution](https://towardsdatascience.com/how-llms-can-fuel-gene-editing-revolution-1b15663f697c) | -- | Gene editing could cure most diseases, and LLMs can make it a reality sooner|
 | [AI’s Emerging Role in Disease Detection from Human Speech](https://medium.com/towards-data-science/ais-emerging-role-in-disease-detection-from-human-speech-f24e6d49d25c) | -- |Disease prediction from speech can be the next revolution in healthcare|
