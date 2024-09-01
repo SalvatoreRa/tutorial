@@ -192,7 +192,9 @@ A list of resources about a more formal introduction on transformers and attenti
 ## Supervised Fine-tuning
 
 **High level resources**
-*  [Causal language modeling](https://huggingface.co/docs/transformers/tasks/language_modeling) A guide from HuggingFace to how fine-tune a DistilGPT-2 model. HuggingFace provides easy and quick way to fine-tune a model.
+*  [Causal language modeling](https://huggingface.co/docs/transformers/tasks/language_modeling) - A guide from HuggingFace to how fine-tune a DistilGPT-2 model. HuggingFace provides easy and quick way to fine-tune a model.
+* [The Novice's LLM Training Guide](https://rentry.org/llm-training) - A beginners'guide to key concepts, practical steps, and tools needed for training or fine-tuning LLMs, including setting up datasets, choosing model architectures, and optimizing performance
+* [LoRA insights](https://lightning.ai/pages/community/lora-insights/) - An article by Sebastian Raschka about he basics of LoRA, how it can be used to efficiently fine-tune large language models (LLMs), It also highlights community-driven efforts and real-world examples of LoRA being applied in various projects.
 
 **Theroretical resources**
 
