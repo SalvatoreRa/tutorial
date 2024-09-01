@@ -162,7 +162,8 @@ Here a list of resources that can give a great grasp of inner mechanism of a tra
 * [nanoGPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Andrej Karpathy. Karpathy explain in this video how to implement GPT model from scratch (very useful at the programming side).
 * [Coding the Self-Attention Mechanism of LLMS From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) - Sebastian Raschka. Great blog post where is explained how to code self-attention (and cross-attention) in PyTorch
 * [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/) - Lilian Weng. A formal description of attention
-* [Decoding Strategies in LLMs](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html). An introduction to the different strategies for decoding. 
+* [Decoding Strategies in LLMs](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html). An introduction to the different strategies for decoding.
+[Attention Mechanisms and Transformers](https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/index.html) - a good introduction on attention mechanism and transformers with also a detailed mathematics discussion
 
 **Theroretical resources**
 
