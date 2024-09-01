@@ -195,6 +195,8 @@ A list of resources about a more formal introduction on transformers and attenti
 *  [Causal language modeling](https://huggingface.co/docs/transformers/tasks/language_modeling) - A guide from HuggingFace to how fine-tune a DistilGPT-2 model. HuggingFace provides easy and quick way to fine-tune a model.
 * [The Novice's LLM Training Guide](https://rentry.org/llm-training) - A beginners'guide to key concepts, practical steps, and tools needed for training or fine-tuning LLMs, including setting up datasets, choosing model architectures, and optimizing performance
 * [LoRA insights](https://lightning.ai/pages/community/lora-insights/) - An article by Sebastian Raschka about he basics of LoRA, how it can be used to efficiently fine-tune large language models (LLMs), It also highlights community-driven efforts and real-world examples of LoRA being applied in various projects.
+* [Fine-Tune Your Own Llama 2 Model](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html) - a step-by-step guide on how to fine-tune a LLaMA 2 model using a Google Colab notebook. The tutorial walks you through setting up the environment, loading the model, preparing the dataset, and executing the fine-tuning process.
+* [Padding Large Language Models](https://towardsdatascience.com/padding-large-language-models-examples-with-llama-2-199fb10df8ff) - a detailed explanation of padding in large language models (LLMs), focusing on its implementation using LLaMA 2.
 
 **Theroretical resources**
 
