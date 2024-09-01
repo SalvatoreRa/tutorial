@@ -213,6 +213,8 @@ A list of resources about a more formal introduction on transformers and attenti
 **High level resources**
 
 * [An Introduction to Training LLMs using RLHF](https://wandb.ai/ayush-thakur/Intro-RLAIF/reports/An-Introduction-to-Training-LLMs-Using-Reinforcement-Learning-From-Human-Feedback-RLHF---VmlldzozMzYyNjcy) - it provides an overview of how reinforcement learning is used to fine-tune large language models based on human feedback. It explains the process of training, key concepts involved, and the advantages of RLHF
+* [Illustration RLHF](https://huggingface.co/blog/rlhf) - it explains how RLHF is used to fine-tune LLMs to align them more closely with human values and preferences. The article discusses the steps involved in the RLHF process, including gathering human feedback, reward modeling, and policy optimization.
+* [Preference Tuning LLMs](https://huggingface.co/blog/pref-tuning) - A description of different approaches (DPO, IPO, and KTO) and their comparison.
 * [Distilabel](https://github.com/argilla-io/distilabel) -  is a tool designed to simplify the process of data labeling for machine learning. It provides a user-friendly interface for labeling datasets, with features that streamline the creation of labeled datasets for training models.
 
 
