@@ -121,6 +121,7 @@ The recurrent nature of text sequences requires special adaptation of neural net
 * [Visualize word embeddings](https://projector.tensorflow.org/) - The TensorFlow Embedding Projector is a tool for visualizing high-dimensional data. It allows users to load and explore embeddings using techniques like PCA, t-SNE, and UMAP.
 * [Jake Tae - PyTorch RNN from Scratch](https://jaketae.github.io/study/pytorch-rnn/): This tutorial by Jake Tae provides a comprehensive guide to building Recurrent Neural Networks (RNNs) from scratch using PyTorch. It covers the fundamental concepts of RNNs, including how they process sequential data, and provides step-by-step instructions for implementing an RNN model in PyTorch.
 * [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/):  This insightful blog post by Christopher Olah provides a thorough and accessible explanation of Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN) particularly effective for sequence data. The post breaks down the complex inner workings of LSTMs with detailed diagrams and intuitive explanations, covering key components like cell states, gates, and the flow of information.
+* [Modern Recurrent Neural Networks](https://www.d2l.ai/chapter_recurrent-modern/index.html) - detailed introduction on RNN architectures (LSTM, GRU,bidirectional, encoder/decoder) and their application
 
 **In-depth resources**
 
