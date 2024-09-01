@@ -37,14 +37,14 @@ Python is a great ecosystem for data science, on the other hand, some basic anal
 <details>
   <summary><b>Which correlation should use? </b></summary>
 
-  There are different types of correlation, The most famous of which is the **Pearson correlation**. The correlation coefficient represents the linear relationship between two variables. Pearson correlation has this formula:
+  There are different types of correlation, The most famous of which is the **[Pearson correlation](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)**. The correlation coefficient represents the linear relationship between two variables. Pearson correlation has this formula:
 
 $$r_{XY} = \frac{\sum (X_i - \overline{X})(Y_i - \overline{Y})}{\sqrt{\sum (X_i - \overline{X})^2 \sum (Y_i - \overline{Y})^2}}$$
 
 
 Where X and Y are the two variables, and $\overline{X}$ and $\overline{Y}$ represent the means. 
 
-**Spearman correlation** is another popular alternative:
+**[Spearman correlation](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient)** is another popular alternative:
 
 $$\rho = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}$$
 
@@ -57,7 +57,7 @@ The main differences between the two correlations soo:
 * Pearson is more sensitive to outlier data. Person is more recommended for interval and ratio data, while Spearman is for ordinal and non-normally distributed data. 
 
 
-As seen Pearson is recommended for linear relationships, while Spearman is recommended for monotonic associations. There is also **Kendall correlation**, but basically it is very similar to Spearman for assumptions. Linear relations are a special case of monotonic functions. A monotonic relation is where there is no change in direction or always increasing or always decreasing (not necessarily linearly)
+As seen Pearson is recommended for linear relationships, while Spearman is recommended for monotonic associations. There is also **[Kendall correlation](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient)**, but it is very similar to Spearman for assumptions. Linear relations are a special case of [monotonic functions](https://en.wikipedia.org/wiki/Monotonic_function). A monotonic relation is where there is no change in direction or always increasing or always decreasing (not necessarily linearly)
 
 ![correlation relationship](https://github.com/SalvatoreRa/tutorial/blob/main/images/correlation_relation.webp?raw=true)
 *from [here](https://www.quora.com/How-do-I-know-if-the-scatter-plot-displays-a-linear-a-monotonic-or-a-non-monotonic-relationship)*
@@ -125,13 +125,13 @@ Suggested lecture:
 <details>
   <summary><b>What is machine learning? </b></summary>
 
-**Machine Learning** is the field of study that deals with learning or predicting something from data. In the traditional paradigm, you had to write hard-coded rules. A machine learning algorithm should infer these rules on its own. 
+**[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)** is the field of study that deals with learning or predicting something from data. In the traditional paradigm, you had to write hard-coded rules. A machine learning algorithm should infer these rules on its own. 
 
 *"Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions" - from [Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)*
 
-As an example, we want to create a model to classify sentimental analysis of movie reviews. A traditional approach would be to create rules (something like if/then, for example, if "amazing" is present as a word the review is positive). A machine learning approach instead takes a dataset with labeled elements (a set of reviews that have already been annotated to be positive or negative) and derives the rules on its own.
+As an example, we want to create a model to classify [sentimental analysis](https://aws.amazon.com/what-is/sentiment-analysis/) of movie reviews. A traditional approach would be to create rules (something like if/then, for example, if "amazing" is present as a word the review is positive). A machine learning approach instead takes a dataset with labeled elements (a set of reviews that have already been annotated to be positive or negative) and derives the rules on its own.
 
-In some cases, these rules can be displayed. In this case, the model has learned boundaries to separate the various classes in the iris dataset:
+In some cases, these rules can be displayed. In this case, the model has learned boundaries to separate the various classes in the [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set):
 
 ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/sphx_glr_plot_voting_decision_regions_001.png?raw=true)
 *from [here](https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_decision_regions.html)*
@@ -143,7 +143,7 @@ In some cases, these rules can be displayed. In this case, the model has learned
 
 *"In probability theory, the central limit theorem (CLT) states that, under appropriate conditions, the distribution of a normalized version of the sample mean converges to a standard normal distribution. This holds even if the original variables themselves are not normally distributed. " - [source](https://en.wikipedia.org/wiki/Central_limit_theorem)* 
 
-**central limit theorem (CLT)** in a nutshell says that the distribution of sample means approximates a normal distribution as you increase the sample size. It is one of the most fundamental statistical theorems and is an important assumption for many algorithms. In other words. A key aspect is that the average of the sample means will be equal to the true population mean and standard deviation. In other words, with a sufficiently large sample size, we can predict the characteristics of a population
+**[central limit theorem (CLT)](https://en.wikipedia.org/wiki/Central_limit_theorem)** in a nutshell says that the distribution of sample means approximates a normal distribution as you increase the sample size. It is one of the most fundamental statistical theorems and is an important assumption for many algorithms. In other words. A key aspect is that the average of the sample means will be equal to the true population mean and standard deviation. In other words, with a sufficiently large sample size, we can predict the characteristics of a population
   
 </details>
 
@@ -168,14 +168,14 @@ Solutions are usually:
 <details>
   <summary><b>When to use K-fold cross-validation or group K-fold? </b></summary>
 
-**K-fold cross-validation** is one of the most widely used evaluation methods for a machine learning model. It is usually used to understand how a model behaves when there is unseen data. K-fold cross-validation is simple, we have a dataset X and a target variable y. The dataset is divided into K folds (then a subset of X and y) and for each interaction we train the model on k-1 fold and calculate the error on the remaining fold. If we have 100 examples and k =5, it means that at each iteration we select 20 random examples, train the model on the other 80 examples, and calculate the performance on the 20 examples.
+**K-fold cross-validation** is one of the most widely used evaluation methods for a machine learning model. It is usually used to understand how a model behaves when there is unseen data. K-fold cross-validation is simple, we have a dataset X and a target variable y. The dataset is divided into K folds (then a subset of X and y) and for each interaction, we train the model on k-1 fold and calculate the error on the remaining fold. If we have 100 examples and k =5, it means that at each iteration we select 20 random examples, train the model on the other 80 examples, and calculate the performance on the 20 examples.
   
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/1024px-K-fold_cross_validation_EN.svg.png?raw=true)
 *from Wikipedia*
 
 The main problem with k-fold cross-validation is that we assume that all the different folds have the same distribution. This is not true in a number of cases where the dataset is stratified by an additional temporal, group, or spatial dimension. This causes a so-called information leak and is easily understood when we look at data that are temporally stratified. If we use random shuffling, the model will see into the future and we have what can be called data leakage
 
-cross-validation leads to predictions that are overly optimistic (overly confident), favors models that are prone to overfitting. So for real-world cases, we need an alternative that avoids leakage between folds. This can be achieved with **group folds**:
+cross-validation leads to predictions that are overly optimistic (overly confident), favor models that are prone to overfitting. So for real-world cases, we need an alternative that avoids leakage between folds. This can be achieved with **group folds**:
 
 *"GroupKFold is a variation of k-fold which ensures that the same group is not represented in both testing and training sets. For example if the data is obtained from different subjects with several samples per-subject and if the model is flexible enough to learn from highly person specific features it could fail to generalize to new subjects. GroupKFold makes it possible to detect this kind of overfitting situations." -[source](https://scikit-learn.org/stable/modules/cross_validation.html)*
 
