@@ -212,6 +212,10 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **High level resources**
 
+* [An Introduction to Training LLMs using RLHF](https://wandb.ai/ayush-thakur/Intro-RLAIF/reports/An-Introduction-to-Training-LLMs-Using-Reinforcement-Learning-From-Human-Feedback-RLHF---VmlldzozMzYyNjcy) - it provides an overview of how reinforcement learning is used to fine-tune large language models based on human feedback. It explains the process of training, key concepts involved, and the advantages of RLHF
+* [Distilabel](https://github.com/argilla-io/distilabel) -  is a tool designed to simplify the process of data labeling for machine learning. It provides a user-friendly interface for labeling datasets, with features that streamline the creation of labeled datasets for training models.
+
+
 **Theroretical resources**
 
 * [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/abs/2308.10792) - A solid review on instruction tuning.
