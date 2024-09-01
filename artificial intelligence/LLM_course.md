@@ -23,6 +23,7 @@ There are several aspects of mathematics that can be useful in understanding and
 
 **High level Resources**
 
+* [Mathematics for Deep Learning](https://www.d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) - appendix of the "Dive into Deep Learning" (D2L) book. This section covers essential mathematical concepts that underpin deep learning, including linear algebra, calculus, probability, and optimization. 
 * [3Blue1Brown - The Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): This YouTube channel provides visually intuitive explanations of mathematical concepts, including linear algebra and neural networks.
 * [StatQuest with Josh Starmer - Statistics Fundamentals](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9): This YouTube series offers clear and engaging explanations of fundamental statistical concepts. Hosted by Josh Starmer, the videos use simple visuals and straightforward language to make topics like probability, regression, hypothesis testing, and statistical distributions accessible to learners at all levels. 
 * [AP Statistics Intuition by Ms Aerin](https://automata88.medium.com/list/cacc224d5e7d):  This Medium series by Ms. Aerin provides insightful explanations of AP Statistics concepts. The articles focus on building a deep understanding of statistical principles through intuitive explanations, making complex topics more approachable..
@@ -51,7 +52,8 @@ Python is the language of machine learning; most of the algorithms and libraries
 * [Real Python](https://realpython.com/): Real Python is a comprehensive online resource dedicated to teaching Python programming. It offers a wide range of tutorials, articles, and video courses covering everything from basic Python syntax to advanced topics like web development, data science, and automation. 
 * [freeCodeCamp - Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw): Long video that provides a full introduction into all of the core concepts in Python.
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): this online resource serves as a thorough guide to using Python for data science. It encompasses key topics such as data manipulation with Pandas, numerical computing with NumPy, data visualization with Matplotlib, and machine learning with Scikit-Learn.  
-* [freeCodeCamp - Machine Learning for Everybody](https://youtu.be/i_LwzRVP7bg): his YouTube video by freeCodeCamp provides an in-depth introduction to machine learning accessible to a broad audience. The tutorial covers fundamental concepts such as supervised and unsupervised learning, algorithms like linear regression, decision trees, and neural networks, and practical applications of machine learning. 
+* [freeCodeCamp - Machine Learning for Everybody](https://youtu.be/i_LwzRVP7bg): his YouTube video by freeCodeCamp provides an in-depth introduction to machine learning accessible to a broad audience. The tutorial covers fundamental concepts such as supervised and unsupervised learning, algorithms like linear regression, decision trees, and neural networks, and practical applications of machine learning.
+* [Tools for Deep Learning](https://www.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html)- a deep explaination of Python tools you can use for deep learning study 
 * [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120): This online course by Udacity offers a foundational introduction to machine learning. It covers essential topics such as supervised and unsupervised learning, decision trees, clustering, regression, and more.
 
 **In-depth resources**
@@ -217,7 +219,7 @@ A list of resources about a more formal introduction on transformers and attenti
 * [Preference Tuning LLMs](https://huggingface.co/blog/pref-tuning) - A description of different approaches (DPO, IPO, and KTO) and their comparison.
 * [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives) - An article by Sebastian Raschka which provides an overview of training LLMs with RLHF and explores alternative methods. It discusses the challenges and benefits of RLHF, comparing it to other techniques such as supervised fine-tuning and unsupervised methods. 
 * [Distilabel](https://github.com/argilla-io/distilabel) -  is a tool designed to simplify the process of data labeling for machine learning. It provides a user-friendly interface for labeling datasets, with features that streamline the creation of labeled datasets for training models.
-
+* [Fine-tune Mistral-7b with DPO](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html) - The blog post provides a guide on fine-tuning the Mistral 7B model using Direct Preference Optimization (DPO)
 
 **Theroretical resources**
 
