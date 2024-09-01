@@ -202,8 +202,8 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **Theroretical resources**
 
-* []() -
-* []() -
+* [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608) - This survey offers a detailed overview of techniques designed to fine-tune LLMs efficiently
+* [The Art of Data Selection](https://openreview.net/forum?id=hTBD3LYoqd) -  It provides a comprehensive overview of methods for selecting data when fine-tuning LLMs. A focus on all the step you need to prepare the dataset
 
 ## Alignment & Instruction tuning
 
