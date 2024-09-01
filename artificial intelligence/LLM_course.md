@@ -202,15 +202,19 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **Theroretical resources**
 
-* [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/abs/2308.10792) -
 * []() -
 * []() -
 
 ## Alignment & Instruction tuning
 
+![instruction tuning general pipeline](https://github.com/SalvatoreRa/tutorial/blob/main/images/instruction_tuning_pipeline_overview.png?raw=true)
+*from [](https://arxiv.org/abs/2308.10792)*
+
 **High level resources**
 
 **Theroretical resources**
+
+* [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/abs/2308.10792) - A solid review on instruction tuning.
 
 ## The LLM datasets
 
