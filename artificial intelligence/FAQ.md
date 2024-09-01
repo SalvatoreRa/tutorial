@@ -1062,7 +1062,7 @@ Articles describing in detail:
 <details>
   <summary><b>What does it mean emergent properties? what it is the scaling law?</b></summary>
 
-OpenAI proposed in 2020 a _power law for the performance of LLMs_: according to this scaling law, there is a relationship with three main factors: y model size (N), dataset size (D), and the amount of training compute (C). Given these factors we can derive the performance of the models:
+OpenAI proposed in 2020 a _power law for the performance of LLMs_: according to this [scaling law](https://en.wikipedia.org/wiki/Neural_scaling_law), there is a relationship with three main factors (model size (N), dataset size (D), and the amount of training compute (C)) and the model loss $L$. Given these factors we can derive the performance of the models:
 
 ![scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/scaling_law.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2001.08361)*
@@ -1087,9 +1087,20 @@ On the other hand, not everyone agrees on the real existence of these emerging p
 
 *" There are also extensive debates on the rationality of emergent abilities. A popular speculation is that emergent abilities might be partially attributed to the evaluation setting for special tasks (e.g., the discontinuous evaluation metrics)."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
 
+
 Articles describing in detail:
   * [A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)
   * [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9)
+
+In contrast, subsequent articles renew interest in [emerging properties](https://en.wikipedia.org/wiki/Emergence). According to [this article](https://arxiv.org/abs/2408.12578) one of the problems with emergent properties is that we do not have a clear definition. Therefore, the authors define three properties that an emergent property must have (this is inspired by physics where emergent properties are well characterized):
+
+*Specifically, we argue three characteristics should be observed to claim a capability is emergent (see Def. 1): beyond (i) sudden performance improvement for a specific task, we claim emergence is more likely to represent a meaningful concept if (ii) performance on several tasks improves simultaneously and (iii) there are precise structural changes in the model at the point of emergence. The intuition, borrowed from the study of emergence in other fields -[source](https://arxiv.org/pdf/2408.12578)*
+
+
+![definition of emergent properties in LLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/emergent_properties_llm_definition.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2408.12578)*
+
+The authors then state that an emergent property appears because something has changed in the structure of the model. For example, in their experiments, some properties appear because the model has learned the grammar of the system and the constraints they had defined. They talk extensively in the paper about the relationship between memorization and generalization, and it would probably be interesting to discuss in terms of grokking. The authors use a toy model and dataset, so the question about emergent properties remains open.
 
  
   Suggested lecture:
