@@ -623,7 +623,7 @@ Where $ϕ_q,p$ are univariate functions (b-splines) and $ϕ_q$ is the final func
 Now each layer of a KAN network can be seen like this:
 
 ```
-$$\mathbf{x}^{(l+1)} = \sum_{i=1}^{n_l} \phi_{i,j} \left( x_i^{(l)} \right)$$
+\mathbf{x}^{(l+1)} = \sum_{i=1}^{n_l} \phi_{i,j} \left( x_i^{(l)} \right)
 ```
 
 where $x(l)$ is the transformation of the input to layer $l$ (basically the cooked dish after a number of steps and added ingredients) and $ϕ_l,i,j$ are the functions at the edges between layer $l$ and $l+1$.
