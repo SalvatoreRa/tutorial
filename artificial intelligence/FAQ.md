@@ -642,6 +642,31 @@ As you can see the model starts with a coarse grid (fewer intervals). the idea i
 
 In other words, grid extension allows us to make the KAN more accurate without having to increase the number of parameters (add functions, for example). For the authors, this allows even small KANs to be accurate (sometimes even more so than larger ones (with more layers, and more functions) probably because the latter capture more noise).
 
+One of the strengths of KANs is precisely interpretability. To improve this, the authors use two techniques:
+* Sparsification and Pruning
+* Symbolification
+
+**Sparsification** is used to sparsify the network, so we can eliminate connections that are not needed. to do this the authors use L1-regularization. Usually in neural networks, L1-norm reduces the magnitude of the weights by inducing sparsification (making them zero or close to zero). In KAN there are no “weights” proper so we should define the L1 norm of these activation functions. In this case we therefore act on the function:
+
+$$\left\lvert \phi \right\rvert_1 = \frac{1}{N_p} \sum_{s=1}^{N_p} \left\lvert \phi(x_s) \right\rvert$$.
+
+with $\phi(x_s)$ representing the value of the function $N_p$ the number of input samples. With a $L_1$ in short we evaluate the value of the function and try to reduce it as a function of the absolute value of their mean. 
+
+**Pruning** is another technique used in neural networks in which we eliminate connections (neurons or edges) that are below a certain threshold value. This is because weights that are too small do not have an impact and can be eliminated. So by pruning, we can get a smaller network (a subnetwork). In general, this subnetwork is less heavy and more efficient, but it maintains the performance of the original network (like when pruning dead branches in a tree, the tree usually grows better). After pruning and sparsification, we then have a network that is less complex and potentially more interpretable.
+
+**Symbolification** is an interesting approach because the goal is to replace learned univariate functions with known symbolic functions (such as cosine, sine, or log).  So given a univariate function we want to identify potential symbolic functions. In practice, the univariate function can practically be approximated by another function that is better known and humanly readable. This task may not seem easy:
+
+*However, we cannot simply set the activation function to be the exact symbolic formula, since its inputs and outputs may have shifts and scalings. -[source](https://arxiv.org/pdf/2404.19756)*
+
+So taking the input $x$ and the output $y$ we want to replace with a function $f$, but we learn parameters (a,b,c,d) to try to approximate the original univariate function with: $y \approx c f(ax + b) + d$. This is then done with grid search and linear regression.
+
+![KAN Grid extension](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_sparsification_and_symbolification.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
+
+At this point:
+* we know how to train a KAN network. 
+* we have eliminated unnecessary connections by sparsification and pruning.
+* we have made it more interpretable because now our network is no longer composed of univariate functions but of symbolic functions
+
 </details>
 
 <details>
