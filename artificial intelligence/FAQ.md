@@ -683,7 +683,18 @@ As can be seen in this case, KANs do not forget the information learned up to th
 
 ![KAN continual learning](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_continual_learning.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
 
+*Currently, the biggest bottleneck of KANs lies in its slow training. KANs are usually 10x slower than MLPs, given the same number of parameters. We should be honest that we did not try hard to optimize KANs’ efficiency though, so we deem KANs’ slow training more as an engineering
+problem to be improved in the future rather than a fundamental limitation. If one wants to train a model fast, one should use MLPs. In other cases, however, KANs should be comparable or better than MLPs, which makes them worth trying. -[source](https://arxiv.org/pdf/2404.19756)*
 
+![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_guide.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
+
+Suggested lectures:
+* [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
+* [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
+
+Other resources:
+* [official code](https://github.com/KindXiaoming/pykan)
+* [Awesome KAN](https://github.com/mintisan/awesome-kan) - a list of resources about KAN
 
 </details>
 
