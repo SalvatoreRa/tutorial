@@ -667,6 +667,24 @@ At this point:
 * we have eliminated unnecessary connections by sparsification and pruning.
 * we have made it more interpretable because now our network is no longer composed of univariate functions but of symbolic functions
 
+The authors provide in this paper some examples where the elements we have seen are useful. For example, KANs are most efficient at tasks such as fitting in inputs of various sizes. KANs for the authors are more expressive but more importantly more efficient than MLPs (they require fewer parameters and scale better). It is also easy to interpret when the relationship between X and y is a symbolic function.
+
+![KAN scaling in comparison to MLP](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_scaling.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
+
+Another interesting point is that for the authors, KANs work best for **continual learning**. According to them, these networks are better able to retain learned information and adapt to learn new information (for more details on continual learning we discuss it in more detail [in this section](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/FAQ.md#:~:text=What%20is%20continual%20learning%3F%20Why%20do%20neural%20networks%20struggle%20with%20continual%20learning%3F) later). 
+
+*When a neural network is trained on task 1 and then shifted to being trained on task 2, the network will soon forget about how to perform task 1. A key difference between artificial neural networks and human brains is that human brains have function ally distinct modules placed locally in space. When a new task is learned, structure re-organization only occurs in local regions responsible for relevant skills , leaving other regions intact. -[source](https://arxiv.org/pdf/2404.19756)*
+
+For the authors, this favors KANs and the local nature of splines. This is because MLP rely on global activations that impact the entire model, while KANs have a more local optimization for each new example (as a new example arrives they only change limited sets of spline coefficients). In MLPs, on the other hand, any local changes are propagated throughout the system likely damaging learned knowledge (catastrophic forgetting).
+
+*As expected, KAN only remodels regions where data is present on in the current phase, leaving previous regions unchanged. By contrast, MLPs remodels the whole region after seeing new data samples, leading to catastrophic forgetting. -[source](https://arxiv.org/pdf/2404.19756)*
+
+As can be seen in this case, KANs do not forget the information learned up to that point:
+
+![KAN continual learning](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_continual_learning.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
+
+
+
 </details>
 
 <details>
