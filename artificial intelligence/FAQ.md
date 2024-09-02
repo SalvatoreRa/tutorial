@@ -610,9 +610,9 @@ KANs are based in joining the Kolmogorov-Arnold Representation (KAR) theorem wit
 
 Now let us go into a little more detail. In KAN the matrix of weights is replaced by a set of univariate function parameters at the edges of the network. Each node then can be seen as the sum of these functions (which are nonlinear). In contrast in MLPs, we have a linear transformation (the multiplication with the matrix of weights) and a nonlinear function. In formulas we can clearly see the difference:
 
-$$\text{KAN}(\mathbf{x}) = \left( \Phi_{L-1} \circ \circ \circ \circ \cdots \circ \Phi_1 \circ \circ \Phi_0 \right) \mathbf{x}$$
+$$\text{KAN}(\mathbf{x}) = \left( \Phi_{L-1} \circ \Phi_{L-2}  \circ \ \cdots \circ \Phi_1 \circ \Phi_0 \right) \mathbf{x}$$
 
-$\text{MLP}(\mathbf{x}) = \left( \mathbf{W}_{L-1} \circ \sigma \circ \mathbf{W}_{L-2} \circ \sigma \circ \cdots \circ \mathbf{W}_1 \circ \sigma \circ \mathbf{W}_0 \right) \mathbf{x}$
+$$\text{MLP}(\mathbf{x}) = \left( \mathbf{W}_{L-1} \circ \sigma \circ \cdots \circ \mathbf{W}_1 \circ \sigma \circ \mathbf{W}_0  \right) \mathbf{x}$$
 
 In a more compact version, we can rewrite it like this: 
 
