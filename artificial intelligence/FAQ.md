@@ -626,14 +626,21 @@ $$\mathbf{x}^{(l+1)} = \sum_{i=1}^{n_l} \phi_{i,j} \left(x_i^{(l)} \right)$$
 
 where $x(l)$ is the transformation of the input to layer $l$ (basically the cooked dish after a number of steps and added ingredients) and $ϕ_l,i,j$ are the functions at the edges between layer $l$ and $l+1$.
 
+Notice that the authors want to maintain this parallelism with the MLP. In MLPs you can stack different layers and then each layer learns a different representation of the data. The authors use the same principle, where they have a KAN layer and more layers can be added.
+
 ![KAN B-splines representation](https://github.com/SalvatoreRa/tutorial/blob/main/images/kan_splines.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
 
 B-splines allow us to learn complex relationships in the data, simply that they adjust their shape to minimize the approximation error. These flexibilities allow us to learn complex yet subtle patterns.
 
 The beauty of B-splines is that they are controlled by a set of control points (called grid points), the greater these points the greater the accuracy a spline can use to represent the feature. the greater the grid points, the more detail a splines can capture in the data. The authors therefore decided to use a technique to optimize this process, and learn more detailed patterns (add grid points) without conducting retraining, however. 
 
+As you can see the model starts with a coarse grid (fewer intervals). the idea is to start with learning the basic structure of the data without focusing on the details. As learning progresses you start adding points (refine the grid) and this di allows you to capture more details in the data. This is achieved by using least squares optimization to try to minimize the difference between the refined spline and the original one (the one with fewer points, in short learning more detail without losing the overall knowledge about the data previously learned). We could define it as starting with a sketch of a drawing, to which we gradually add details, trying not to transform the original basic idea
+
 ![KAN Grid extension](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_grid_extension.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
 
+*In principle, a spline can be made arbitrarily accurate to a target function as the grid can be made arbitrarily fine-grained. This good feature is inherited by KANs. By contrast, MLPs do not have the notion of “fine-graining”. Admittedly, increasing the width and depth of MLPs can lead to improvement in performance (“neural scaling laws”). However, these neural scaling laws are slow -[source](https://arxiv.org/pdf/2404.19756)*
+
+In other words, grid extension allows us to make the KAN more accurate without having to increase the number of parameters (add functions, for example). For the authors, this allows even small KANs to be accurate (sometimes even more so than larger ones (with more layers, and more functions) probably because the latter capture more noise).
 
 </details>
 
