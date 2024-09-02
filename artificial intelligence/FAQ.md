@@ -604,7 +604,7 @@ At this point, KANs have recently been proposed to solve these two problems.
 
  ![KAN introduction](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_introduction.png?raw=true) * from [the original papers](https://arxiv.org/pdf/2404.19756)*
 
-KANs are based in joining the Kolmogorov-Arnold Representation (KAR) theorem with B-splines. At each edge of the neural network we use B-splines at each edge of each neuron so as to porter learn B-spline activation function. In other words, the model learns the decomposition of the data (our pie) into a series of b-splines (our ingredients).
+KANs are based in joining the Kolmogorov-Arnold Representation (KAR) theorem with B-splines. At each edge of the neural network, we use B-splines at each edge of each neuron so as to porter learn B-spline activation function. In other words, the model learns the decomposition of the data (our pie) into a series of b-splines (our ingredients).
 
 ![KAN versus MLP](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_vs_MLP.png?raw=true) * from [the original papers](https://arxiv.org/pdf/2404.19756)*
 
@@ -622,11 +622,13 @@ Where $ϕ_q,p$ are univariate functions (b-splines) and $ϕ_q$ is the final func
 
 Now each layer of a KAN network can be seen like this:
 
-
 $$\mathbf{x}^{(l+1)} = \sum_{i=1}^{n_l} \phi_{i,j} \left(x_i^{(l)} \right)$$
 
 where $x(l)$ is the transformation of the input to layer $l$ (basically the cooked dish after a number of steps and added ingredients) and $ϕ_l,i,j$ are the functions at the edges between layer $l$ and $l+1$.
 
+B-splines allow us to learn complex relationships in the data, simply that they adjust their shape to minimize the approximation error. These flexibilities allow us to learn complex yet subtle patterns.
+
+The beauty of B-splines is that they are controlled by a set of control points (called grid points), the greater these points the greater the accuracy a spline can use to represent the feature. the greater the grid points, the more detail a splines can capture in the data. The authors therefore decided to use a technique to optimize this process, and learn more detailed patterns (add grid points) without conducting retraining, however. 
 
 
 
