@@ -723,6 +723,7 @@ Suggested lectures:
 Other resources:
 * [official code](https://github.com/KindXiaoming/pykan)
 * [Awesome KAN](https://github.com/mintisan/awesome-kan) - a list of resources about KAN
+* [The Annotated Kolmogorov-Arnold Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/) - a great explanation and implementation from scratch of the KAN
 
 </details>
 
