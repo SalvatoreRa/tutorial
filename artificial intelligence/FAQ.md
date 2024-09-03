@@ -652,7 +652,7 @@ One of the strengths of KANs is precisely interpretability. To improve this, the
 * Sparsification and Pruning
 * Symbolification
 
-**Sparsification** is used to sparsify the network, so we can eliminate connections that are not needed. to do this the authors use L1-regularization. Usually in neural networks, L1-norm reduces the magnitude of the weights by inducing sparsification (making them zero or close to zero). In KAN there are no “weights” proper so we should define the L1 norm of these activation functions. In this case we therefore act on the function:
+**Sparsification** is used to sparsify the network, so we can eliminate connections that are not needed. to do this the authors use L1-regularization. Usually in neural networks, L1-norm reduces the magnitude of the weights by inducing sparsification (making them zero or close to zero). In KAN there are no “weights” proper so we should define the L1 norm of these activation functions. In this case, we therefore act on the function:
 
 $$\left\lvert \phi \right\rvert_1 = \frac{1}{N_p} \sum_{s=1}^{N_p} \left\lvert \phi(x_s) \right\rvert$$.
 
@@ -702,7 +702,10 @@ Not everyone agrees with the supposed superiority of KANs. For example, [in this
 3 **KANs are MLPs with spline-basis as the activation function.** Rather than new neural networks, they would be MLPs in which the activation function is a spline
 4. **KANs do not beat the curse of dimensionality.** For the author, the claim is unwarranted by the evidence.
 
+[In this paper](https://arxiv.org/abs/2407.16674), instead they try to conduct an in-depth comparison between MLP and KAN for different domains (controlling the number of parameters and evaluating different tasks). The authors comment: *"Under these fair settings, we observe that KAN outperforms MLP
+only in symbolic formula representation tasks, while MLP typically excels over KAN in other tasks.“*
 
+![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/kan_mlp_fair_comparison.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2407.16674)*
 
 Overall, the article has the positive effect of making the use of Bsplines in neural networks more tractable and proposing a system that is more interpretable (via sparsification, pruning and symbolification). Also, the system is not yet optimized so in computational terms it is not exactly competitive with an MLP. It can be an interesting altrnative though and still develop.
 
