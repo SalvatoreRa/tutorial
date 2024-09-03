@@ -360,6 +360,12 @@ To give a more concrete example, we have a model like ResNet-50 that is trained 
 
 So we have a teacher model (ResNet in our example) that generates probabilities for each class. After that we take the student model and train it for the same data, again obtaining a probability distribution, exploiting a distillation loss we try to make these probability distributions similar to those of the teacher. In addition, we have a cross-entropy loss in which we use the actual labels of the data. The student model is trained by exploiting these two losses so it learns from both the teacher model and the real labels.
 
+An interesting [2024 study](https://arxiv.org/abs/2408.16737) states that it is not always necessary to use a larger model as a teacher. A larger model is a model that is more expensive. Certainly a larger model is a more accurate model, but for the same computing budget a smaller model guarantees more coverage (more examples) and more diverse. This is especially interesting when it comes to reasoning. The authors have shown that this approach works best when there are limited resources.
+
+![knowledge distillation when the computing budget is limited](https://github.com/SalvatoreRa/tutorial/blob/main/images/**knowledge_distillation2**.png?raw=true)
+*from [here](https://arxiv.org/pdf/2408.16737)*
+
+
 Suggested lecture:
   * [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
   
@@ -1152,6 +1158,8 @@ are not present in small models but arise in large models”, which is one of th
 On the other hand, not everyone agrees on the real existence of these emerging properties
 
 *" There are also extensive debates on the rationality of emergent abilities. A popular speculation is that emergent abilities might be partially attributed to the evaluation setting for special tasks (e.g., the discontinuous evaluation metrics)."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
+
+
 
 
 Articles describing in detail:
