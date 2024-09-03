@@ -694,6 +694,19 @@ problem to be improved in the future rather than a fundamental limitation. If on
 
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_guide.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2404.19756)*
 
+The question is: are these KANs better than MLPs?
+
+Not everyone agrees with the supposed superiority of KANs. For example, [in this report](https://vikasdhiman.info/reviews/KAN_a_review.pdf) four criticisms of the original article are offered:
+1. **MLPs have learnable activation functions as well.** Indeed, learnable functions can be used as activation functions. For example, something similar has already been explored [here](https://arxiv.org/abs/1906.09529). For example, if we consider a very simple MLP with two layers and rewrite it with a learnable activation function it is very reminiscent of kan $f(\mathbf{x}) = \mathbf{W}_2 \sigma(\mathbf{W}_1 \mathbf{x}) = \mathbf{W}_2 \phi_1(\mathbf{x}).$
+2. **The content of the paper does not justify the name, Kolmogorov-Arnold Networks (KANs).** An MLP can be rewritten as an addition. The difference between the KAT theorem and the Universal Approximation Theorem (UAT), is that the latter requires that to approximate any two-layer function with infinite neurons, while KAT would reduce to (2n + 1) function in hidden layers. The authors do not consistently use (2n + 1) in the hidden layer.
+3 **KANs are MLPs with spline-basis as the activation function.** Rather than new neural networks, they would be MLPs in which the activation function is a spline
+4. **KANs do not beat the curse of dimensionality.** For the author, the claim is unwarranted by the evidence.
+
+
+
+Overall, the article has the positive effect of making the use of Bsplines in neural networks more tractable and proposing a system that is more interpretable (via sparsification, pruning and symbolification). Also, the system is not yet optimized so in computational terms it is not exactly competitive with an MLP. It can be an interesting altrnative though and still develop.
+
+
 Suggested lectures:
 * [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 * [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
