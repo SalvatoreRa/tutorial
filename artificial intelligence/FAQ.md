@@ -648,7 +648,13 @@ As you can see the model starts with a coarse grid (fewer intervals). the idea i
 
 In other words, grid extension allows us to make the KAN more accurate without having to increase the number of parameters (add functions, for example). For the authors, this allows even small KANs to be accurate (sometimes even more so than larger ones (with more layers, and more functions) probably because the latter capture more noise).
 
-One of the strengths of KANs is precisely interpretability. To improve this, the authors use two techniques:
+To summarize:
+
+*The architecture of Kolmogorov-Arnold Networks (KAN) is unique in that its core idea is to replace traditional fixed linear weights with learnable univariate functions, achieving greater flexibility and adaptability. The architecture of KAN consists of multiple layers, each containing several nodes and edges. Each node is responsible for receiving input signals from the previous layer and applying nonlinear transformations to these signals via learnable univariate functions on the edges. These univariate functions are typically parameterized by spline functions to ensure smoothness and stability in the data processing process-[source](https://arxiv.org/pdf/2407.11075)*
+
+The use of splines makes it possible to capture complex patterns in the data as nonlinear relationships. The advantage of this architecture is that it is adaptable to various patterns in the data, and these functions can be adapted dynamically and also be refined in the process. This then allows the model to be not only adaptable but also very expressive.
+
+One of the strengths of KANs is precisely the interpretability. To improve this, the authors use two techniques:
 * Sparsification and Pruning
 * Symbolification
 
@@ -712,6 +718,7 @@ Overall, the article has the positive effect of making the use of Bsplines in ne
 Suggested lectures:
 * [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 * [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
+* [A Comprehensive Survey on Kolmogorov Arnold Networks (KAN)](https://arxiv.org/abs/2407.11075)
 
 Other resources:
 * [official code](https://github.com/KindXiaoming/pykan)
