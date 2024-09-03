@@ -702,8 +702,7 @@ Not everyone agrees with the supposed superiority of KANs. For example, [in this
 3 **KANs are MLPs with spline-basis as the activation function.** Rather than new neural networks, they would be MLPs in which the activation function is a spline
 4. **KANs do not beat the curse of dimensionality.** For the author, the claim is unwarranted by the evidence.
 
-[In this paper](https://arxiv.org/abs/2407.16674), instead they try to conduct an in-depth comparison between MLP and KAN for different domains (controlling the number of parameters and evaluating different tasks). The authors comment: *"Under these fair settings, we observe that KAN outperforms MLP
-only in symbolic formula representation tasks, while MLP typically excels over KAN in other tasks.“*
+[In this paper](https://arxiv.org/abs/2407.16674), instead they try to conduct an in-depth comparison between MLP and KAN for different domains (controlling the number of parameters and evaluating different tasks). The authors comment: *"Under these fair settings, we observe that KAN outperforms MLP only in symbolic formula representation tasks, while MLP typically excels over KAN in other tasks.“* In the ablation studies they show that its B-spline activation function gives an advantage in symbolic formula representation.
 
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/kan_mlp_fair_comparison.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2407.16674)*
 
