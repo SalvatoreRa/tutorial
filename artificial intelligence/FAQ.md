@@ -714,6 +714,19 @@ Not everyone agrees with the supposed superiority of KANs. For example, [in this
 
 Overall, the article has the positive effect of making the use of Bsplines in neural networks more tractable and proposing a system that is more interpretable (via sparsification, pruning and symbolification). Also, the system is not yet optimized so in computational terms it is not exactly competitive with an MLP. It can be an interesting altrnative though and still develop.
 
+## Working with KAN
+
+It is actually very easy to train KANs with the official Python library: [PyKAN](https://kindxiaoming.github.io/pykan/). For example, you just need to define the model and to train it:
+
+```Python
+model = KAN(width=[4, 5, 3], grid=5, k=3, seed=0, device=device)
+results = model.fit(dataset, opt="Adam", steps=100, metrics=(train_acc, test_acc), 
+                    loss_fn=torch.nn.CrossEntropyLoss(),
+                    lamb=0.01, lamb_entropy=10.);
+```
+
+![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_trained.png?raw=true)
+
 
 Suggested lectures:
 * [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
