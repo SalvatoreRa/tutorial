@@ -602,9 +602,9 @@ Now we have the theoretical elements, what we need to keep in mind is:
 
 </center>
 
-Actually, because the classical neural network has a number of limitations: 
-* Fixed activation functions on the node. Each neuron has a predetermined activation function (like ReLU or Sigmoid). This is fine in many of the cases though it reduces the flexibility and adaptability of the network. In some cases it is difficult for a neural network to optimize a certain function or adapt to certain data.
-* Interpretability. Neural networks are poorly interpretable, the more parameters the worse it becomes. Understanding the internal decision making process becomes difficult and therefore it is harder to trust the predictions.
+The classical neural network has some limitations: 
+* Fixed activation functions on the node. Each neuron has a predetermined activation function (like ReLU or Sigmoid). This is fine in many of the cases though it reduces the flexibility and adaptability of the network. In some cases, it is difficult for a neural network to optimize a certain function or adapt to certain data.
+* Interpretability. Neural networks are poorly interpretable, the more parameters the worse it becomes. Understanding the internal decision-making process becomes difficult and therefore it is harder to trust the predictions.
 
 At this point, KANs have recently been proposed to solve these two problems.
 
@@ -724,6 +724,8 @@ results = model.fit(dataset, opt="Adam", steps=100, metrics=(train_acc, test_acc
                     loss_fn=torch.nn.CrossEntropyLoss(),
                     lamb=0.01, lamb_entropy=10.);
 ```
+
+As you can see from the image below, we can see the progressive sparsification effect that happens with KANs. This increases the interpretability of the system:
 
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_trained.png?raw=true)
 
