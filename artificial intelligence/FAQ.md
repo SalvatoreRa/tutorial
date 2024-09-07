@@ -1890,5 +1890,7 @@ Articles discussing it in details:
 * [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4)
 
 Suggested lectures:
+* [Long Context RAG Performance of LLMs](https://www.databricks.com/blog/long-context-rag-performance-llms)
+* [Towards Long Context RAG](https://www.llamaindex.ai/blog/towards-long-context-rag)
 
 </details>
