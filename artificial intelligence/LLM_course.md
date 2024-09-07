@@ -239,7 +239,12 @@ A list of resources about a more formal introduction on transformers and attenti
 
 **High level resources**
 
+* [Prompt engineering guide](https://www.promptingguide.ai/) -  comprehensive resources for optimizing and designing prompts for LLMs. It includes advanced prompting techniques, guides, and examples.
+
 **Theroretical resources**
+
+* [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927) -
+* [A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks](https://arxiv.org/abs/2407.12994) - a detailed review of prompt engineering techniques for NLP tasks. It discusses 39 methods across 29 tasks like question answering, reasoning, and code generation.
 
 ## Evaluation
 
