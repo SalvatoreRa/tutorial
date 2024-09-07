@@ -254,6 +254,8 @@ There are several techniques, and it is difficult to describe them all; some of 
 
 * [Prompt engineering FAQs](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/FAQ.md) - The GitHub page provides a FAQ section on artificial intelligence topics, including a detailed explanation of prompt engineering. It defines prompt engineering, discusses its significance, and presents examples of how well-structured prompts can lead to optimized responses from AI models.
 * [Prompt engineering guide](https://www.promptingguide.ai/) -  comprehensive resources for optimizing and designing prompts for LLMs. It includes advanced prompting techniques, guides, and examples.
+* [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - a collection of resources focused on prompt engineering for AI models. It includes links to tools, research papers, tutorials, and datasets
+[Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - a curated collection of resources related to prompt engineering for GPT models.
 
 **Theroretical resources**
 
