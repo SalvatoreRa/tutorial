@@ -1880,5 +1880,15 @@ Therefore, rigorous comparisons between RAG and LC-LLM are needed before claimin
 
 ![Long context versus RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/longc_context_versus_rag.png?raw=true) *from [here](https://arxiv.org/pdf/2409.01666v1)*
 
+Articles discussing it in details:
+* [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199)
+* [When More is More? When For an LLM is Enough?](https://pub.towardsai.net/when-more-is-more-when-for-an-llm-is-enough-9488f54371ee)
+* [The AI Student Dilemma: Trust Yourself Or The Book?](https://levelup.gitconnected.com/the-ai-student-dilemma-trust-yourself-or-the-book-4aee1250718a)
+* [David vs. Goliath: Beating Long-Context Tasks with Small Models](https://levelup.gitconnected.com/david-vs-goliath-beating-long-context-tasks-with-small-models-1a4d61d9ea81)
+* [Are Long-Context LLMs Truly Revolutionary?](https://ai.plainenglish.io/are-long-context-llms-truly-revolutionary-a21e04ad701b)
+* [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f)
+* [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4)
+
+Suggested lectures:
 
 </details>
