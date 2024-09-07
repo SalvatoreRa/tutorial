@@ -244,6 +244,11 @@ Prompt engineering is a set of techniques that are used to improve the output of
 
 Notice, that these techniques levarage one of the most interesting and powerful aspects of LLMs, namely in-context learning. Prompt engineering techniques are not only used to modify the output of a model but also to exploit the reasoning capabilities of the model. Prompt engineering is used to improve user interaction with the LLM, reduce hallucinations, improve consistency and generation, clarify user intent, perform tasks that require reasoning, and much more
 
+There are several techniques, and it is difficult to describe them all; some of the best known are:
+* **Few-Shot Prompting** - provide the model with some input-output examples.
+* **Chain-of-Thought (CoT)** proposed to improve the reasoning of the model. The purpose is to aid the model in arriving at the solution by providing it with examples and step-by-step reasoning processes
+* **ZeroShot Chain-of-Thought (CoT)** asking the model to reason step-by-step prompts the model to not only produce the answer but also the reasoning.
+* **ReAct Prompting** interleave action and thinking to succeed in accomplishing a task. This type of prompt is usually used when the model has to perform a task and is very useful when using agents.
 
 **High level resources**
 
