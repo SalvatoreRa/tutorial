@@ -1840,5 +1840,37 @@ Suggested lectures:
 * [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
 * [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)
 
+</details>
+
+
+<details>
+  <summary><b>Does long-context LLM will substitute RAG?</b></summary>
+
+  Recently the context length of LLMs has increased dramatically (it went from 4K to 32K in a few months, and then up to over 100K). This has caused several researchers to claim that RAG is dead. In a sense putting all the context directly into the prompt means that they do not need to have to conduct retrieval.
+
+<p align=“center”>
+The question then is, does long context LLM (LC-LLM) make RAG obsolete?
+</p>
+
+The long context LLM still does not solve all the problems of LLMs. The LC-LLM solves some but not all of the needs of RAG: 
+* Developers will have to worry less about chunking strategy. The longer the context length of an LLM grows the less you have to conduct optimization for chunking and you can have chunks up to an entire document. 
+* There will be less tuning regarding chain-of-thought and other reasoning techniques. 
+* Summarization will be much easier. In fact, it will be enough to put all the documents in the whole context.
+* Better conversational assistants. This is because the model will be able to load the entire previous chat into the context.
+
+LC-LLMs cannot replace RAG because basically even a context-length of 10M tokens does not cover the amount of data an organization has. In fact, most organizations have huge amounts of structured and unstructured data, so they will have to conduct the same information retrieval in some form. Another important point is that the more the contest length grows, the more the cost of inference grows; RAG, on the other hand, is cheaper. 
+
+Other studies show that still the LC-LLM does not use its context length efficiently. So although the model is capable of accepting many more tokens it does not use them efficiently. The authors of [this study](https://arxiv.org/abs/2307.03172) showed that the model is actually sensitive to the location of information in context. So the model does not use the information efficiently because it has a bias for the position of the tokens: 
+
+*Furthermore,we observe a distinctive U-shaped performance curve; language model performance is
+highest when relevant information occurs at the very beginning (primacy bias) or end of its input context (recency bias), and performance significantly degrades when models must access and
+use information in the middle of their input context [source](https://arxiv.org/pdf/2307.03172)*
+
+![Long context LLMs do not efficiently use the context length](https://github.com/SalvatoreRa/tutorial/blob/main/images/long_context_LLM_lost_in_the_middle.png?raw=true) *from [here](https://arxiv.org/pdf/2307.03172)*
+
+In addition, one of the advantages of an LC-LLM would be that the model can conduct reasoning about the entire document.  The reasoning capabilities of an LLM however [degrade as the number of tokens increases](https://arxiv.org/abs/2402.14848). So by adding information to the prompt, you reduce the reasoning capabilities of the model (and thus the benefit of using an LC-LLM). Furthermore, techniques such as Chain-ofThought (CoT) prompting do not compensate for this performance degradation. In addition, LLMs with long inputs tend not to follow instructions, have more difficulty incorporating relevant information
+
+![Long context LLMs reasoning capabilities decrease with the increase in input length](https://github.com/SalvatoreRa/tutorial/blob/main/images/LC_LLM_reasoning_decrease_with_increase_input.png?raw=true) *from [here](https://arxiv.org/pdf/2402.14848)*
+
 
 </details>
