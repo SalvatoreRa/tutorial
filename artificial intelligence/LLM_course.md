@@ -237,6 +237,14 @@ A list of resources about a more formal introduction on transformers and attenti
 
 ## Prompt engineering
 
+Prompt engineering is a set of techniques that are used to improve the output of an LLM. Prompt engineering groups together techniques that allow task-specific instructions to be drawn and drive the model without altering its parameters. 
+
+![prompt engineering techniques](https://github.com/SalvatoreRa/tutorial/blob/main/images/prompt_engineering_principle.png?raw=true)
+*from [here](https://arxiv.org/pdf/2402.07927)*
+
+Notice, that these techniques levarage one of the most interesting and powerful aspects of LLMs, namely in-context learning. Prompt engineering techniques are not only used to modify the output of a model but also to exploit the reasoning capabilities of the model. Prompt engineering is used to improve user interaction with the LLM, reduce hallucinations, improve consistency and generation, clarify user intent, perform tasks that require reasoning, and much more
+
+
 **High level resources**
 
 * [Prompt engineering guide](https://www.promptingguide.ai/) -  comprehensive resources for optimizing and designing prompts for LLMs. It includes advanced prompting techniques, guides, and examples.
