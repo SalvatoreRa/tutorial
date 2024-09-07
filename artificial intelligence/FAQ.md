@@ -1862,15 +1862,23 @@ LC-LLMs cannot replace RAG because basically even a context-length of 10M tokens
 
 Other studies show that still the LC-LLM does not use its context length efficiently. So although the model is capable of accepting many more tokens it does not use them efficiently. The authors of [this study](https://arxiv.org/abs/2307.03172) showed that the model is actually sensitive to the location of information in context. So the model does not use the information efficiently because it has a bias for the position of the tokens: 
 
-*Furthermore,we observe a distinctive U-shaped performance curve; language model performance is
-highest when relevant information occurs at the very beginning (primacy bias) or end of its input context (recency bias), and performance significantly degrades when models must access and
-use information in the middle of their input context [source](https://arxiv.org/pdf/2307.03172)*
+*Furthermore,we observe a distinctive U-shaped performance curve; language model performance is highest when relevant information occurs at the very beginning (primacy bias) or end of its input context (recency bias), and performance significantly degrades when models must access and use information in the middle of their input context [source](https://arxiv.org/pdf/2307.03172)*
 
 ![Long context LLMs do not efficiently use the context length](https://github.com/SalvatoreRa/tutorial/blob/main/images/long_context_LLM_lost_in_the_middle.png?raw=true) *from [here](https://arxiv.org/pdf/2307.03172)*
 
 In addition, one of the advantages of an LC-LLM would be that the model can conduct reasoning about the entire document.  The reasoning capabilities of an LLM however [degrade as the number of tokens increases](https://arxiv.org/abs/2402.14848). So by adding information to the prompt, you reduce the reasoning capabilities of the model (and thus the benefit of using an LC-LLM). Furthermore, techniques such as Chain-ofThought (CoT) prompting do not compensate for this performance degradation. In addition, LLMs with long inputs tend not to follow instructions, have more difficulty incorporating relevant information
 
 ![Long context LLMs reasoning capabilities decrease with the increase in input length](https://github.com/SalvatoreRa/tutorial/blob/main/images/LC_LLM_reasoning_decrease_with_increase_input.png?raw=true) *from [here](https://arxiv.org/pdf/2402.14848)*
+
+In [this other study](https://arxiv.org/abs/2404.06654) shown that often LC-LLMs for long inputs to answer a question, instead of relying on context, prefer to rely on their parametric memory. They also show that non-Transformer architectures, such as RWKV and Mamba, still lag behind Transformers by large margins in using long context.
+
+Another important point is that there are no studies so far claiming that LC-LLM reduces hallucinations. One of the reasons why RAG was designed is to reduce hallucinations. So far, studies on LC-LLM do not show improvement in this important aspect.
+
+Therefore, rigorous comparisons between RAG and LC-LLM are needed before claiming that the latter post makes the former obsolete. [This study](https://www.arxiv.org/pdf/2407.16833) conducted such a comparison, suggesting that LC-LLM is superior to RAG. The results did not seem convincing. In a [later study](https://arxiv.org/abs/2409.01666v1) they compared more thoroughly and noted that RAG is still superior on questions requiring long context. In fact, additional context is beneficial for an LLM. Adding chunks to the context improves the performance of the model, but then it begins to decline. According to the authors, this occurs because the model initially benefits from having more relevant chunks, but later more irrelevant chunks also enter, and this noise hurts model performance. In fact, LLMs are sensitive to noise, so they struggle to reason and find response-relevant information when there are too many irrelevant documents.
+
+*While recent trends have favored long-context LLMs over RAG for their ability to incorporate extensive text sequences, our research challenges this perspective. We argue that extremely long contexts in LLMs can lead to a diminished focus on relevant information, potentially degrading answer quality in question-answering tasks.-[source](https://arxiv.org/pdf/2409.01666v1)*
+
+![Long context versus RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/longc_context_versus_rag.png?raw=true) *from [here](https://arxiv.org/pdf/2409.01666v1)*
 
 
 </details>
