@@ -1354,6 +1354,32 @@ Articles discussing the topic:
   
 </details>
 
+<details>
+  <summary><b>What is model merging?</b></summary>
+
+*Model merging, also known as model fusion, is an effective technique that merges the parameters of multiple separate models with different capabilities to build a universal model without needing access to the original training data or expensive computation - [source](https://arxiv.org/abs/2408.07666v4)*
+
+**Model merging** is an exciting new technique that has emerged in recent times. In ensemble learning, we have several models whose predictions we then merge during the inference phase (e.g., in random forest), whereas in model merging we conduct the merging of the various models at the parameter level thus obtaining only one model (and thus has a significant computational savings in inference).
+
+![model merging overview](https://github.com/SalvatoreRa/tutorial/blob/main/images/model_merging_overview.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
+
+There are several methods for conducting merging, these strategies can be divided into two groups of approaches: 
+* **Before Merging Methods** - methods that are used before the actual merging and thus make merging easier afterwards. For example, when model architectures are inconsistent, they should be modified before merging. Other approaches try to align model parameters before merging.
+* **During Merging Methods** - solve potential problems that arise during merging and then actually merge the models
+
+![model merging methods overview](https://github.com/SalvatoreRa/tutorial/blob/main/images/model_merging_methods_overview.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
+
+Before merging models, we need to be sure that we can merge them. [In this study](https://arxiv.org/abs/2106.03847) merged several GANs with different architecture, in order to conduct the merging they transformed the various gans into a specific target model. [In this other study](https://arxiv.org/abs/2402.16107) they proposed to merge several LLMs (NH2-Mixtral-8x7B, NH2-Solar-10.7B, OpenChat-3.5-7B) into one model. These models had different architecture and scale, so the authors did a knowledge distillation step to transform all the architectures to match that of OpenChat-3.5-7B and then only after merging.
+
+When you have the same architecture but models that were then fine-tuned you can use other approaches. For the *linear mode connectivity (LMC) property* of neural networks, there is a connected path between local minima in the loss. So there are multiple local minima in the weigth space that can represent the same features. so some authors have studied permutations of the weights to try to align the models before merging
+
+![model premerging methods overview](https://github.com/SalvatoreRa/tutorial/blob/main/images/model_premerging_methods_overview.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
+
+
+
+
+</details>
+
 ## Prompt engineering
 
 <details>
