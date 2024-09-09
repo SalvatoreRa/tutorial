@@ -1359,7 +1359,7 @@ Articles discussing the topic:
 
 *Model merging, also known as model fusion, is an effective technique that merges the parameters of multiple separate models with different capabilities to build a universal model without needing access to the original training data or expensive computation - [source](https://arxiv.org/abs/2408.07666v4)*
 
-**Model merging** is an exciting new technique that has emerged in recent times. In ensemble learning, we have several models whose predictions we then merge during the inference phase (e.g., in random forest), whereas in model merging we conduct the merging of the various models at the parameter level thus obtaining only one model (and thus has a significant computational savings in inference).
+**Model merging** is an exciting new technique that has emerged in recent times. In ensemble learning, we have several models whose predictions we then merge during the inference phase (e.g., in the random forest), whereas in model merging we conduct the merging of the various models at the parameter level thus obtaining only one model (and thus has significant computational savings in inference).
 
 ![model merging overview](https://github.com/SalvatoreRa/tutorial/blob/main/images/model_merging_overview.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
 
@@ -1369,11 +1369,17 @@ There are several methods for conducting merging, these strategies can be divide
 
 ![model merging methods overview](https://github.com/SalvatoreRa/tutorial/blob/main/images/model_merging_methods_overview.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
 
-Before merging models, we need to be sure that we can merge them. [In this study](https://arxiv.org/abs/2106.03847) merged several GANs with different architecture, in order to conduct the merging they transformed the various gans into a specific target model. [In this other study](https://arxiv.org/abs/2402.16107) they proposed to merge several LLMs (NH2-Mixtral-8x7B, NH2-Solar-10.7B, OpenChat-3.5-7B) into one model. These models had different architecture and scale, so the authors did a knowledge distillation step to transform all the architectures to match that of OpenChat-3.5-7B and then only after merging.
+Before merging models, we need to be sure that we can merge them. [In this study](https://arxiv.org/abs/2106.03847) merged several GANs with different architectures, in order to conduct the merging they transformed the various GANs into a specific target model. [In this other study](https://arxiv.org/abs/2402.16107) they proposed to merge several LLMs (NH2-Mixtral-8x7B, NH2-Solar-10.7B, OpenChat-3.5-7B) into one model. These models had different architectures and scales, so the authors did a knowledge distillation step to transform all the architectures to match that of OpenChat-3.5-7B and then only after merging.
 
-When you have the same architecture but models that were then fine-tuned you can use other approaches. For the *linear mode connectivity (LMC) property* of neural networks, there is a connected path between local minima in the loss. So there are multiple local minima in the weigth space that can represent the same features. so some authors have studied permutations of the weights to try to align the models before merging
+When you have the same architecture but models that were then fine-tuned you can use other approaches. For the *linear mode connectivity (LMC) property* of neural networks, there is a connected path between local minima in the loss. So there are multiple local minima in the weight space that can represent the same features. so some authors have studied permutations of the weights to try to align the models before merging.
 
 ![model premerging methods overview](https://github.com/SalvatoreRa/tutorial/blob/main/images/model_premerging_methods_overview.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
+
+Basic merging methods can be as simple as conducting parameter averaging of multiple models (not recommended because it leads to poor results). An [interesting approach](https://arxiv.org/abs/2212.04089) defines task vectors that represent the fine-tuned model and its difference from the basic model. So adding a task vector to the base model leads to learning a task, and subtracting this vector from the fine-tuned model leads to forgetting it. This approach then can be used to sum different tasks on models (or work with adapters).
+
+![model merging task vectors](https://github.com/SalvatoreRa/tutorial/blob/main/images/model_merging_task_vectors.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
+
+other possibilities include *Weighted-based merging*, the basic idea being that different models (or task vectors) represent different functions and each has a certain value of importance. These methods try to determine the importance of coefficients. for that instead of simply averaging the weights, the average in merging will be $\Theta_{\text{merge}} = \lambda_1^* \Theta^{(1)} + \lambda_2^* \Theta^{(2)}$ where $\Theta$ are the parameters of a model.
 
 
 
