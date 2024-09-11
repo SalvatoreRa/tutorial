@@ -1381,8 +1381,15 @@ Basic merging methods can be as simple as conducting parameter averaging of mult
 
 other possibilities include *Weighted-based merging*, the basic idea being that different models (or task vectors) represent different functions and each has a certain value of importance. These methods try to determine the importance of coefficients. for that instead of simply averaging the weights, the average in merging will be $\Theta_{\text{merge}} = \lambda_1^* \Theta^{(1)} + \lambda_2^* \Theta^{(2)}$ where $\Theta$ are the parameters of a model.
 
+These coefficients can then be learned by minimizing a loss function.
 
+Another alternative is to exploit the over-parameterized nature of neural networks and model pruning. In other words, sparsify the models before merging. This approach is referred to as Subspace-based Merging because it then projects the models into a small, sparse space. The advantage of this approach is that it potentially eliminates parameter conflicts, reduces noise during merging, and results in a smaller model.
 
+The previous approaches are static approaches, so some authors have proposed dynamic approaches that conduct different merging depending on the tasks or datasets. This idea is the basis of Routing-based Merging.
+
+![model merging](https://github.com/SalvatoreRa/tutorial/blob/main/images/routed_based_merging.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
+
+routed_based_merging
 
 </details>
 
