@@ -8,7 +8,7 @@ Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https:
 
 This is a collection of FAQs and their answers about ML, AI, neural networks, and LLM. Many of these questions have been asked to me by students or other ML practitioners, I decided to collect and discuss them here.
 
-The list is on construction and I am expanding it.
+The list is on construction and I am expanding it. Write to me or open an issue for any suggestions or additional questions.
 
 # Index
 * [FAQ on machine learning](#FAQ-on-machine-learning)
@@ -1389,7 +1389,15 @@ The previous approaches are static approaches, so some authors have proposed dyn
 
 ![model merging](https://github.com/SalvatoreRa/tutorial/blob/main/images/routed_based_merging.png?raw=true) *from [here](https://arxiv.org/pdf/2408.07666v4)*
 
-routed_based_merging
+Some challenges still remain : 
+* There is still a gap between independent models and models obtained post-merging. This means that the obtained models must then be fine-tuned and this performance recovery process is delicate. 
+* The merging process is expensive and inefficient. The obtained model performs well in inference, but the process to obtain it requires large computational resources.
+* merging homogeneous models is much more than merging heterogeneous models. however, heterogonal models are more diverse and perform better overall. Before we can conduct merging, we have to transform heterogeneous models into homogeneous models, and in this step, we lose some of the performances.
+* There is still a lack of in-depth theoretical analysis of model merging. Many of the approaches have an empirical nature rather than a theoretical background. 
+* Legal boundaries are not well defined. Still unclear whether merging models that are intellectual property into a new model makes the latter a new intellectual property or not.
+
+Suggested lectures:
+* [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666v4)
 
 </details>
 
