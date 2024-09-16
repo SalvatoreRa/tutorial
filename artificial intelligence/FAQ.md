@@ -1937,7 +1937,7 @@ Therefore, rigorous comparisons between RAG and LC-LLM are needed before claimin
 
 ![Long context versus RAG](https://github.com/SalvatoreRa/tutorial/blob/main/images/longc_context_versus_rag.png?raw=true) *from [here](https://arxiv.org/pdf/2409.01666v1)*
 
-Articles discussing it in details:
+Articles discussing it in detail:
 * [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199)
 * [When More is More? When For an LLM is Enough?](https://pub.towardsai.net/when-more-is-more-when-for-an-llm-is-enough-9488f54371ee)
 * [The AI Student Dilemma: Trust Yourself Or The Book?](https://levelup.gitconnected.com/the-ai-student-dilemma-trust-yourself-or-the-book-4aee1250718a)
