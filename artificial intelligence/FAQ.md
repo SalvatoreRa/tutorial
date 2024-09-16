@@ -1411,6 +1411,27 @@ Suggested lectures:
 
 </details>
 
+<details>
+  <summary><b>What is the role of small models in the LLM era?</b></summary>
+
+  LLMs have shown incredible ability and some reasoning properties. Motivated by the growth in performance, this has led to an increase in the number of parameters and larger and larger models. Obviously this scaling has a huge computational and energy cost. Therefore the question remains: is there still room for small models?
+
+
+![small model versus large model comparison](https://github.com/SalvatoreRa/tutorial/blob/main/images/small_model_versus_large_model_comparison.png?raw=true) *from [here](https://arxiv.org/pdf/2409.06857)*
+
+Building on these differences, there is a heated discussion about the future of small LLMs. We can imagine that there are two potential settings: 
+* **Collaboration.** In this case large LLMs and small models collaborate, thus trying to balance efficiency and accuracy
+* **Competition.** In certain niches it is preferable to leverage a small model than a large model, especially when we are interested in low cost, ease of deployment, and interoperability.
+
+Speaking of collaboration we can see several possibilities:
+* **Data curation.** It is critical for an LLM to have a good training dataset (and its performance depends largely on it). A small model can help in data curation by allowing faster filtering and deduplication of the dataset. Or a small LLM can be used to curate instruction-tuning datasets. Today there is *weak-to-strong generalization* in which a small LLM is used to improve the capabilities of a model. This is especially useful because today the capabilities of LLMs are getting stronger and stronger and you need experienced people to be able to cure alignment datasets.
+* **Efficient inference.** As the number of users increases, the cost of inference is getting larger and larger. Since user queries are not always super complex, simpler models might be enough to answer them. so it has been proposed to make inference more efficient by using an ensemble of models of different sizes. Or to use model cascading where increasing models cascade: a smaller model tries to answer and transfers the query to a larger one if it has difficulty answering. Model routing is another alternative where a model decides which LLM responds
+
+
+
+</details>
+
+
 ## Prompt engineering
 
 <details>
