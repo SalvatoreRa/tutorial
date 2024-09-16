@@ -1183,6 +1183,16 @@ A [later work](https://arxiv.org/abs/2407.13623) suggests that vocabulary size a
 ![Vocabulary scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/vocabulary_scaling_law.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2407.13623)*
 
+After the publication of [ChatGPT4-o1](https://openai.com/index/introducing-openai-o1-preview/), extending the scaling law to inference time was also discussed. ChatGPT4-o1 was trained on large amount of chain-of-thoughts (i.e., with a series of reasoning intermediates) to improve its reasoning ability. The model is then trained to conduct a whole series of reasoning steps to improve its ability on complex problems requiring reasoning. 
+
+*We have found that the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).--[source](https://openai.com/index/learning-to-reason-with-llms/)*
+
+![inference scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/inference_time_scaling_law.png?raw=true)
+*from [here](https://openai.com/index/learning-to-reason-with-llms/)*
+
+This is why some researchers suggest that we can also talk about a kind of inference scaling law (thus relating inference time to accuracy), the topic is still debated
+
+
 **Emergent properties** are properties that appear only with scale (as the number of parameters increases)
 
 *"In the literature, emergent abilities of LLMs are formally defined as “the abilities that
