@@ -1433,9 +1433,11 @@ Speaking of collaboration we can see several possibilities:
 
 ![How small LM model can enhance LLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/small_LM_enhance_LLM.png?raw=true) *from [here](https://arxiv.org/pdf/2409.06857)*
 
-Similarly, LLMs can enable enhancement of small models:
+Similarly, LLMs can enable the enhancement of small models:
 * **Knowledge Distillation** This is the most classic case where we use LLM knowledge to train a small LM. Depending on whether we have access to the LLM we can have two different approaches, white-box where we exploit the output distribution or black box where we use LLM to create a dataset for training
 * **Data Synthesis** It is now efficient to create quality datasets using LLM to train small LMs. Also, you can use it to augment the dataset we have collected (data augmentation).
+
+![How large LM model can enhance small LM](https://github.com/SalvatoreRa/tutorial/blob/main/images/small_LM_enhance_LLM.png?raw=true) *from [here](https://arxiv.org/pdf/2409.06857)*
 
 </details>
 
