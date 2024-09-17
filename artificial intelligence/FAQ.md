@@ -1437,7 +1437,7 @@ Similarly, LLMs can enable the enhancement of small models:
 * **Knowledge Distillation** This is the most classic case where we use LLM knowledge to train a small LM. Depending on whether we have access to the LLM we can have two different approaches, white-box where we exploit the output distribution or black box where we use LLM to create a dataset for training
 * **Data Synthesis** It is now efficient to create quality datasets using LLM to train small LMs. Also, you can use it to augment the dataset we have collected (data augmentation).
 
-![How large LM model can enhance small LM](https://github.com/SalvatoreRa/tutorial/blob/main/images/small_LM_enhance_LLM.png?raw=true) *from [here](https://arxiv.org/pdf/2409.06857)*
+![How large LM model can enhance small LM](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM_enhance_small_LM.png?raw=true) *from [here](https://arxiv.org/pdf/2409.06857)*
 
 There are three scenarios in which it is better to have a small LM than a large LLM:
 * **Computation-constrained environment** LLMs are expensive both to train and in inference, plus this means more latency. You don't always have the resources for either training or deployment, in these conditions it is better to go for a small LM. Often you do not even need an LLm but a fine-tuned model on a specific dataset
