@@ -1439,6 +1439,11 @@ Similarly, LLMs can enable the enhancement of small models:
 
 ![How large LM model can enhance small LM](https://github.com/SalvatoreRa/tutorial/blob/main/images/small_LM_enhance_LLM.png?raw=true) *from [here](https://arxiv.org/pdf/2409.06857)*
 
+There are three scenarios in which it is better to have a small LM than a large LLM:
+* **Computation-constrained environment** LLMs are expensive both to train and in inference, plus this means more latency. You don't always have the resources for either training or deployment, in these conditions it is better to go for a small LM. Often you do not even need an LLm but a fine-tuned model on a specific dataset
+* **Task-specific environment** For some domains the number of datasets is limited, and an LLM could not be trained. A small LLM fine-tuned on these data gives better results than a large LLM (conducting the fine-tuning of an LLM is an expensive task, and conducting multiple updates is not ideal). 
+* **Interpretability-required Environment** As regulations grow there are now areas or tasks where an interpretable model is required.  For example, in healthcare, it is important to have interpretable models and to understand why a model makes a decision. Smaller models are more interpretable. 
+
 </details>
 
 
