@@ -277,6 +277,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Lie to Me: Why Large Language Models Are Structural Liars](https://levelup.gitconnected.com/lie-to-me-why-large-language-models-are-structural-liars-d94bc14e522b) | -- | Unveiling the Inherent Hallucinations and Limitations of AI-Language Models|
+| [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
 | [How the LLM Got Lost in the Network and Discovered Graph Reasoning](https://towardsdatascience.com/how-the-llm-got-lost-in-the-network-and-discovered-graph-reasoning-e2736bd04efa) | -- |Enhancing large language models: A journey through graph reasoning and instruction-tuning |
 | [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f) | -- |Unveiling the Dual Nature of Noise in Retrieval-Augmented Generation |
 | [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4) | -- |Reassessing Retrieval-Augmented Generation in the Age of Long-Context Models |
