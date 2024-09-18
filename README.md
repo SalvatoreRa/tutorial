@@ -274,6 +274,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f) | -- |Unveiling the Dual Nature of Noise in Retrieval-Augmented Generation |
+| [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4) | -- |Reassessing Retrieval-Augmented Generation in the Age of Long-Context Models |
+| [AI Emergent Properties: What Makes AI Suddenly Learn New Tricks](https://levelup.gitconnected.com/ai-emergent-properties-what-makes-ai-suddenly-learn-new-tricks-d03639cf902e) | -- | The Critical Moment: When and Why AI Learns New Abilities|
 | [Strength in Weakness: How ‘Weak’ Models Can Be a Better Teacher than Large LLMs](https://ai.gopubby.com/strength-in-weakness-how-weak-models-can-be-a-better-teacher-than-large-llms-c31494057c67) | -- |Teaching is diversity and small LLM sometimes can grant more |
 | [The Convergence of Graph and Vector RAGs: A New Era in Information Retrieval](https://levelup.gitconnected.com/the-convergence-of-graph-and-vector-rags-a-new-era-in-information-retrieval-b5773a723615) | -- |Harnessing the Power of Hybrid Models to Transform AI-Driven Knowledge Systems |
 |[From Syntax to Semantics: How Code Turns LLMs into Better Models](https://levelup.gitconnected.com/from-syntax-to-semantics-how-code-turns-llms-into-better-models-1fc04fcda722)| -- |Exploring the Transformative Impact of Code Data on LLM Performance Across Diverse Tasks |
