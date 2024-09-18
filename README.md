@@ -274,6 +274,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Strength in Weakness: How ‘Weak’ Models Can Be a Better Teacher than Large LLMs](https://ai.gopubby.com/strength-in-weakness-how-weak-models-can-be-a-better-teacher-than-large-llms-c31494057c67) | -- |Teaching is diversity and small LLM sometimes can grant more |
+| [The Convergence of Graph and Vector RAGs: A New Era in Information Retrieval](https://levelup.gitconnected.com/the-convergence-of-graph-and-vector-rags-a-new-era-in-information-retrieval-b5773a723615) | -- |Harnessing the Power of Hybrid Models to Transform AI-Driven Knowledge Systems |
 |[From Syntax to Semantics: How Code Turns LLMs into Better Models](https://levelup.gitconnected.com/from-syntax-to-semantics-how-code-turns-llms-into-better-models-1fc04fcda722)| -- |Exploring the Transformative Impact of Code Data on LLM Performance Across Diverse Tasks |
 |[Knowledge is Nothing Without Reasoning: Unlocking the Full Potential of RAG through Self-Reasoning](https://levelup.gitconnected.com/knowledge-is-nothing-without-reasoning-unlocking-the-full-potential-of-rag-through-self-reasoning-7ec213516a56)| -- | Enhancing Reliability and Traceability in Retrieval-Augmented Generative Models|
 |[Short and Sweet: Enhancing LLM Performance with Constrained Chain-of-Thought](https://towardsdatascience.com/short-and-sweet-enhancing-llm-performance-with-constrained-chain-of-thought-c4479361d995)| -- |Sometimes few words are enough: reducing output length for increasing accuracy |
