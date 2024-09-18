@@ -163,6 +163,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Forever Learning: Why AI Struggles with Adapting to New Challenges](https://towardsdatascience.com/forever-learning-why-ai-struggles-with-adapting-to-new-challenges-95f514d8e9ab) | -- | Understanding the limits of deep learning and the quest for true continual adaptation|
 |[Learning to Learn: How AI and Humans Learn](https://levelup.gitconnected.com/learning-to-learn-how-ai-and-humans-learn-8825fded0a7b)| -- |Understanding learning to create better AI and understand ourselves |
 |[Tensors: a Gentle Introduction](https://medium.com/ai-in-plain-english/tensors-a-gentle-introduction-2d82e25b70c)| [PyTorch Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/PyTorch_tensors.ipynb), [Tensorflow Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/TensorFlow_tensors.ipynb), [Excel](https://github.com/SalvatoreRa/tutorial/blob/main/excel%20files/tensors.xlsx)|What there are? Why do you care? The name is intimidating, but fear not them! |
 |[Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)| -- |Understanding how a neural network learns helps us to avoid that the model from forgetting what it learns|
@@ -191,6 +192,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [A Brave New World for Scientific Discovery: Are AI Research Ideas Better?](https://levelup.gitconnected.com/a-brave-new-world-for-scientific-discovery-are-ai-research-ideas-better-5692c5aa8182) | -- | Can AI Lead Scientific Discovery? Or it is just another uchronia?|
+| [DeepMind’s AlphaProteo: Revolutionizing Protein Design with Machine Learning](https://levelup.gitconnected.com/deepminds-alphaproteo-revolutionizing-protein-design-with-machine-learning-6ace4e725350) | -- | Harnessing AI to Create High-Affinity Protein Binders in a Single Step|
 |[Can AI Replace Human Researchers](https://levelup.gitconnected.com/can-ai-replace-human-researchers-50fcc43ea587)| -- | The AI Scientist: Does Sakana New Method Mean Fully Automated Research?|
 |[Safekeep Science’s Future: Can LLMs Transform Peer Review?](https://levelup.gitconnected.com/safekeep-sciences-future-can-llms-transform-peer-review-e1f323caef08)| -- | Peer review is today’s science core, but is flawed with bias and burdening researchers. Can we improve it?|
 | [Beyond AlphaFold: The Future Of LLM in Medicine](https://towardsdatascience.com/beyond-alphafold-the-future-of-llm-in-medicine-42c10e302183) | -- | AlphaFold leaves a complex legacy: What will be the future of LLM in biology and medicine?|
