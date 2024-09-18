@@ -277,6 +277,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [How the LLM Got Lost in the Network and Discovered Graph Reasoning](https://towardsdatascience.com/how-the-llm-got-lost-in-the-network-and-discovered-graph-reasoning-e2736bd04efa) | -- |Enhancing large language models: A journey through graph reasoning and instruction-tuning |
 | [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f) | -- |Unveiling the Dual Nature of Noise in Retrieval-Augmented Generation |
 | [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4) | -- |Reassessing Retrieval-Augmented Generation in the Age of Long-Context Models |
 | [AI Emergent Properties: What Makes AI Suddenly Learn New Tricks](https://levelup.gitconnected.com/ai-emergent-properties-what-makes-ai-suddenly-learn-new-tricks-d03639cf902e) | -- | The Critical Moment: When and Why AI Learns New Abilities|
@@ -417,6 +418,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [AI Won’t Steal Your Job — But Get Ready for the World’s Most Annoying Coworker](https://ai.gopubby.com/ai-wont-steal-your-job-but-get-ready-for-the-world-s-most-annoying-coworker-6a2efb39cf5f) | -- | How AI Assistants Are Boosting Productivity While Becoming the Overachievers of the Office|
 | [Past Imperfect: Jailbreaking LLMs with Past Tense Requests](https://levelup.gitconnected.com/past-imperfect-jailbreaking-llms-with-past-tense-requests-0e35c1407a12) | -- | How Historical Reformulations Expose Vulnerabilities in AI Safety Measures|
 |[The Goldfish LLM: Swimming Through Data Without Memorizing It](https://medium.com/gitconnected/the-goldfish-llm-swimming-through-data-without-memorizing-it-5903e9bd90eb)| -- |Novel Training Approaches to Avoid Data Memorization and Privacy Risks Without Impacting Performance|
 |[How transparent are large language models?](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c)| -- |Stanford proposes an index to measure LLM transparency, and the results are not encouraging|
