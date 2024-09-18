@@ -138,6 +138,7 @@ This series of tutorials is focused on classical machine learning (regression, c
 | [Graph ML: Introduction to Python iGraph](https://ai.gopubby.com/graph-ml-introduction-to-python-igraph-88707258702) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Igraph.ipynb) |Python iGraph is a wide-use library to handle graphs. how do start using it? why? |
 | [Graph ML: Graph traversal algorithms in a nutshell](https://ai.gopubby.com/graph-ml-graph-traversal-algorithms-in-a-nutshell-a80288a4d604) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/BFS_and_DFS.ipynb) |A quick glance at bread-first and depth-first search algorithms for graph machine learning|
 | [Graph ML: Graph Data Representation](https://ai.gopubby.com/graph-ml-graph-data-representation-fc9dd17e05c) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/Graph_representation.ipynb) |how to represent graph data? how to store them? how to do in Python?|
+| [Graph ML: How Do you Visualize a Large network?](https://ai.gopubby.com/graph-ml-how-do-you-visualize-large-network-3ce3e57abe1e) | [Jupiter Notebook](https://github.com/SalvatoreRa/tutorial/blob/main/machine%20learning/graph_visualization_tutorial.ipynb) | Seeing is understanding: How to visualize large networks|
 
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
