@@ -282,13 +282,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Lie to Me: Why Large Language Models Are Structural Liars](https://levelup.gitconnected.com/lie-to-me-why-large-language-models-are-structural-liars-d94bc14e522b) | -- | Unveiling the Inherent Hallucinations and Limitations of AI-Language Models|
 | [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
 | [How the LLM Got Lost in the Network and Discovered Graph Reasoning](https://towardsdatascience.com/how-the-llm-got-lost-in-the-network-and-discovered-graph-reasoning-e2736bd04efa) | -- |Enhancing large language models: A journey through graph reasoning and instruction-tuning |
-| [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f) | -- |Unveiling the Dual Nature of Noise in Retrieval-Augmented Generation |
-| [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4) | -- |Reassessing Retrieval-Augmented Generation in the Age of Long-Context Models |
 | [AI Emergent Properties: What Makes AI Suddenly Learn New Tricks](https://levelup.gitconnected.com/ai-emergent-properties-what-makes-ai-suddenly-learn-new-tricks-d03639cf902e) | -- | The Critical Moment: When and Why AI Learns New Abilities|
 | [Strength in Weakness: How ‘Weak’ Models Can Be a Better Teacher than Large LLMs](https://ai.gopubby.com/strength-in-weakness-how-weak-models-can-be-a-better-teacher-than-large-llms-c31494057c67) | -- |Teaching is diversity and small LLM sometimes can grant more |
-| [The Convergence of Graph and Vector RAGs: A New Era in Information Retrieval](https://levelup.gitconnected.com/the-convergence-of-graph-and-vector-rags-a-new-era-in-information-retrieval-b5773a723615) | -- |Harnessing the Power of Hybrid Models to Transform AI-Driven Knowledge Systems |
 |[From Syntax to Semantics: How Code Turns LLMs into Better Models](https://levelup.gitconnected.com/from-syntax-to-semantics-how-code-turns-llms-into-better-models-1fc04fcda722)| -- |Exploring the Transformative Impact of Code Data on LLM Performance Across Diverse Tasks |
-|[Knowledge is Nothing Without Reasoning: Unlocking the Full Potential of RAG through Self-Reasoning](https://levelup.gitconnected.com/knowledge-is-nothing-without-reasoning-unlocking-the-full-potential-of-rag-through-self-reasoning-7ec213516a56)| -- | Enhancing Reliability and Traceability in Retrieval-Augmented Generative Models|
 |[Short and Sweet: Enhancing LLM Performance with Constrained Chain-of-Thought](https://towardsdatascience.com/short-and-sweet-enhancing-llm-performance-with-constrained-chain-of-thought-c4479361d995)| -- |Sometimes few words are enough: reducing output length for increasing accuracy |
 | [AI Hallucinations: Can Memory Hold the Answer?](https://towardsdatascience.com/ai-hallucinations-can-memory-hold-the-answer-5d19fd157356) | -- |Exploring How Memory Mechanisms Can Mitigate Hallucinations in Large Language Models |
 | [Balancing Cost and Performance: A Comparative Study of RAG and Long-Context LLMs](https://ai.plainenglish.io/balancing-cost-and-performance-a-comparative-study-of-rag-and-long-context-llms-f674f2a1bbf4) | -- | What is better between these approaches? Could they coexist?|
@@ -365,10 +361,16 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
 | [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
 
+&nbsp;
+
 # RAG and agents
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f) | -- |Unveiling the Dual Nature of Noise in Retrieval-Augmented Generation |
+| [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4) | -- |Reassessing Retrieval-Augmented Generation in the Age of Long-Context Models |
+| [The Convergence of Graph and Vector RAGs: A New Era in Information Retrieval](https://levelup.gitconnected.com/the-convergence-of-graph-and-vector-rags-a-new-era-in-information-retrieval-b5773a723615) | -- |Harnessing the Power of Hybrid Models to Transform AI-Driven Knowledge Systems |
+|[Knowledge is Nothing Without Reasoning: Unlocking the Full Potential of RAG through Self-Reasoning](https://levelup.gitconnected.com/knowledge-is-nothing-without-reasoning-unlocking-the-full-potential-of-rag-through-self-reasoning-7ec213516a56)| -- | Enhancing Reliability and Traceability in Retrieval-Augmented Generative Models|
 
 &nbsp;
 
