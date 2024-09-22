@@ -320,14 +320,11 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [The AI college student goes back to the bench](https://levelup.gitconnected.com/the-ai-college-student-goes-back-to-the-bench-daa6d9bdfb14) | -- | How LLM can solve college exams and why this is important |
 | [Can we detect AI-generated text?](https://levelup.gitconnected.com/can-we-detect-ai-generated-text-91293463dc52) | -- | Watermarking could be the solution for detecting it |
 | [Say Once! Repeating Words Is Not Helping AI](https://towardsdatascience.com/say-once-repeating-words-is-not-helping-ai-58f38035f66e) | -- |How and why is repeating tokens harming LLMs? Why is this a problem?  |
-| [FinGPT: open-source LLM for finance](https://medium.com/gitconnected/fingpt-open-source-llm-for-finance-e8ec10d0bf40) | -- |  Why this is important? Why do we need it?|
 | [Is AI funny? Maybe, a Bit](https://levelup.gitconnected.com/is-ai-funny-maybe-a-bit-fd5183f68779) | -- | Why AI is still struggling with humor and why this an important step |
 | [The imitation game: Taming the gap between open source and proprietary models](https://levelup.gitconnected.com/the-imitation-game-taming-the-gap-between-open-source-and-proprietary-models-627374b390e5) | -- | Can imitation models reach the performance of proprietary models like ChatGPT?|
 | [Scaling Isn’t Everything: How Bigger Models Fail Harder](https://salvatore-raieli.medium.com/scaling-isnt-everything-how-bigger-models-fail-harder-d64589be4f04) | -- | Are Large Language Models really understanding programming languages?|
-| [META’S LIMA: Maria Kondo’s way for LLMs training](https://levelup.gitconnected.com/metas-lima-maria-kondo-s-way-for-llms-training-8411e3907fed) | -- | Less and tidy data to create a model capable to rival ChatGPT|
 | [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9) | -- |Changing Perspective on Large Language Models emerging properties |
 | [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc) | -- |The Hyena model shows how convolution could be faster than self-attention |
-| [HuggingGPT: Give Your Chatbot an AI Army](https://levelup.gitconnected.com/hugginggpt-give-your-chatbot-an-ai-army-cfadf5647f98) | -- | HuggingGPT is capable to manage other models and solve complex tasks |
 | [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
 | [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
 | [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
@@ -364,7 +361,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)| -- |How to overcome the limits of Autoregressive Models for embedding |
 |[DeepMind’s SIMA: Rule the Simulated World Before Take Over the Real One](https://levelup.gitconnected.com/deepminds-sima-rule-the-simulated-world-before-take-over-the-real-one-ab335f474deb)| -- |A new agent by DeepMind shows impressive new generalization skills in videogames|
 |[Cosine Similarity and Embeddings Are Still in Love?](https://medium.com/gitconnected/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)| -- |Cosine similarity is the most used method, but it is really the best?|
-
+| [HuggingGPT: Give Your Chatbot an AI Army](https://levelup.gitconnected.com/hugginggpt-give-your-chatbot-an-ai-army-cfadf5647f98) | -- | HuggingGPT is capable to manage other models and solve complex tasks |
 
 &nbsp;
 
@@ -387,6 +384,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[GPT-InvestAR: LLMs for better investment](https://levelup.gitconnected.com/gpt-investar-llms-for-better-investment-f13f2ac72b3d)| -- |From Text to Trade: Could an LLM exploit annual reports to predict stock to buy?|
 | [Platypus: Quick, Cheap, and Powerful LLM](https://levelup.gitconnected.com/platypus-quick-cheap-and-powerful-llm-404b86af8755)| -- | Winning over the others with only one GPU and 5 hours of fine-tuning|
 |[META LLaMA 2.0: the most disruptive AInimal](https://levelup.gitconnected.com/meta-llama-2-0-the-most-disruptive-ainimal-d465ef187f2)| -- |Meta LLaMA can reshape the chatbot and LLM usage landscape|
+| [FinGPT: open-source LLM for finance](https://medium.com/gitconnected/fingpt-open-source-llm-for-finance-e8ec10d0bf40) | -- |  Why this is important? Why do we need it?|
+| [META’S LIMA: Maria Kondo’s way for LLMs training](https://levelup.gitconnected.com/metas-lima-maria-kondo-s-way-for-llms-training-8411e3907fed) | -- | Less and tidy data to create a model capable to rival ChatGPT|
 
 &nbsp;
 
