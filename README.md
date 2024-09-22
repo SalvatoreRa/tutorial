@@ -304,17 +304,12 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Can a LLM Really Learn New Things](https://levelup.gitconnected.com/can-a-llm-really-learn-new-things-d926b4502522)| -- |The Double-Edged Sword of Fine-Tuning Large Language Models|
 | [The AI Student Dilemma: Trust Yourself Or The Book?](https://levelup.gitconnected.com/the-ai-student-dilemma-trust-yourself-or-the-book-4aee1250718a) | -- | LLMs have to decide if trust their knowledge or additional context. What will they choose?|
 | [When More is More? When For an LLM is Enough?](https://pub.towardsai.net/when-more-is-more-when-for-an-llm-is-enough-9488f54371ee) | -- |In-context length is the LLM’s secret weapon, but with long-context is all changing |
-| [OpenELM Can Be The End of Siri](https://ai.plainenglish.io/openelm-can-be-the-end-of-siri-15b7b4aa83ca) | -- | Apple thinks the future of generative AI is on devices, but how?|
 | [Infini-attention: Can we Really have an Infinite Context Length?](https://levelup.gitconnected.com/infini-attention-can-we-really-have-an-infinite-context-length-ff7cb25ea6a3) | -- | Google believes that can we have an LLM with an infinite context length|
-| [LLaMa 3 is Here. Will It Be The Winning Animal in The Generative AI Zoo.](https://levelup.gitconnected.com/llama-3-is-here-will-it-be-the-winning-animal-in-the-generative-ai-zoo-9e94af73588f) | -- |LLaMA 3 is in early release, but the new META’s animal has fierce competition now |
 | [Crossing Boundaries or Building Walls? The Declining Interdisciplinarity of NLP](https://pub.towardsai.net/crossing-boundaries-or-building-walls-the-declining-interdisciplinarity-of-nlp-8a051f9ae53c) | -- | In a deluge of information, research is becoming more and more isolated, and this is a problem |
 | [You Know Nothing, ChatGPT. How Much Does Your LLM Know?](https://levelup.gitconnected.com/you-know-nothing-chatgpt-how-much-does-your-llm-know-03ce79d4b925) | -- | Knowledge is power, but how much an LLM can know, and is it enough?|
 | [Do Really Long-Context LLMs Exist](https://levelup.gitconnected.com/do-really-long-context-llms-exist-e928a179a5d5) | -- | Long-context LLMs are the topic of the moment, but beyond companies' claims, it is true?|
 | [Think, Then Speak: How Researchers Gave AI an Inner Monologue](https://levelup.gitconnected.com/think-then-speak-how-researchers-gave-ai-an-inner-monologue-f9bc5eb60139) | -- |QuietStar is a new promising approach for LLM reasoning|
-| [Does it Really Matter Grok?](https://levelup.gitconnected.com/does-it-really-matter-grok-fbf70c5117e2) | -- | Musk claims he has open-source Grok, but it does matter or is it just another move in larger play? |
 | [The AI worm and the LLM leaf](https://levelup.gitconnected.com/the-ai-worm-and-the-llm-leaf-6132d60c11be) | -- |New research warns how a LLM can be poisoned and spread around|
-|[DeepMind’s SIMA: Rule the Simulated World Before Take Over the Real One](https://levelup.gitconnected.com/deepminds-sima-rule-the-simulated-world-before-take-over-the-real-one-ab335f474deb)| -- |A new agent by DeepMind shows impressive new generalization skills in videogames|
-|[Cosine Similarity and Embeddings Are Still in Love?](https://medium.com/gitconnected/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)| -- |Cosine similarity is the most used method, but it is really the best?|
 | [PlanGPT: LLM domain specific to revolutionizing industries](https://levelup.gitconnected.com/plangpt-llm-domain-specific-to-revolutionizing-industries-f6c0ad87aec7)| -- | Knowledge and planning give the power to reshape industries|
 | [Indirect Reasoning for LLMs: Not Always There is a Direct Way to the Answer](https://levelup.gitconnected.com/indirect-reasoning-for-llms-not-always-there-is-a-direct-way-to-the-answer-d9cfee83bf58) | -- | Contrapositive and Contradiction for Automated Reasoning can help your model find the right answering | 
 |[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
@@ -387,6 +382,10 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
 |[Are xLSTM a Menace to Transformer Dominion](https://levelup.gitconnected.com/are-xlstm-a-menace-to-transformer-dominion-2cf6290f59b4)| -- |Researchers have massively improved LSTM, but what does it mean for the future?|
 | [GPT-4O, One Model is All You Need](https://ai.plainenglish.io/gpt-4o-one-model-is-all-you-need-933805b5cc00) | -- | The best part is it should be free for everyone|
+| [OpenELM Can Be The End of Siri](https://ai.plainenglish.io/openelm-can-be-the-end-of-siri-15b7b4aa83ca) | -- | Apple thinks the future of generative AI is on devices, but how?|
+| [LLaMa 3 is Here. Will It Be The Winning Animal in The Generative AI Zoo.](https://levelup.gitconnected.com/llama-3-is-here-will-it-be-the-winning-animal-in-the-generative-ai-zoo-9e94af73588f) | -- |LLaMA 3 is in early release, but the new META’s animal has fierce competition now |
+| [Does it Really Matter Grok?](https://levelup.gitconnected.com/does-it-really-matter-grok-fbf70c5117e2) | -- | Musk claims he has open-source Grok, but it does matter or is it just another move in larger play? |
+
 
 &nbsp;
 
