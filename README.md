@@ -325,16 +325,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Scaling Isn’t Everything: How Bigger Models Fail Harder](https://salvatore-raieli.medium.com/scaling-isnt-everything-how-bigger-models-fail-harder-d64589be4f04) | -- | Are Large Language Models really understanding programming languages?|
 | [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9) | -- |Changing Perspective on Large Language Models emerging properties |
 | [Welcome Back 80s: Transformers Could Be Blown Away by Convolution](https://levelup.gitconnected.com/welcome-back-80s-transformers-could-be-blown-away-by-convolution-21ff15f6d1cc) | -- |The Hyena model shows how convolution could be faster than self-attention |
-| [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
-| [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
-| [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
-|[SparseGPT: fewer parameters is better?](https://levelup.gitconnected.com/sparsegpt-fewer-parameters-is-better-7b47ad60ac00)| -- | How to get rid of 100 billion parameters and happily infer on one GPU |
-| [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7) | -- | A model able to conversate, persuade and beat you in a game of trust and betrayal |
-| [META’s PEER: A Collaborative Language Model](https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe) | -- | PEER (Plan, Edit, Explain, Repeat): collaborate with the AI to write a text |
-| [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
-| [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
-| [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
-| [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
+
 
 &nbsp;
 
@@ -386,6 +377,16 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[META LLaMA 2.0: the most disruptive AInimal](https://levelup.gitconnected.com/meta-llama-2-0-the-most-disruptive-ainimal-d465ef187f2)| -- |Meta LLaMA can reshape the chatbot and LLM usage landscape|
 | [FinGPT: open-source LLM for finance](https://medium.com/gitconnected/fingpt-open-source-llm-for-finance-e8ec10d0bf40) | -- |  Why this is important? Why do we need it?|
 | [META’S LIMA: Maria Kondo’s way for LLMs training](https://levelup.gitconnected.com/metas-lima-maria-kondo-s-way-for-llms-training-8411e3907fed) | -- | Less and tidy data to create a model capable to rival ChatGPT|
+| [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef)| -- | Can we create a model for all the spoken languages? |
+| [SpikeGPT: a 260 M only parameters LM not afraid of competition](https://levelup.gitconnected.com/spikegpt-a-260-m-only-parameters-lm-not-afraid-of-competition-e262431d67aa) | -- | Spiking Neural Networks are a promising alternative for the new generative AI models |
+| [META’s LLaMA: A small language model beating giants](https://medium.com/mlearning-ai/metas-llama-a-small-language-model-beating-giants-5065948e0b7f)|--| META open-source model will help us to understand how LMs biases arise |
+|[SparseGPT: fewer parameters is better?](https://levelup.gitconnected.com/sparsegpt-fewer-parameters-is-better-7b47ad60ac00)| -- | How to get rid of 100 billion parameters and happily infer on one GPU |
+| [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7) | -- | A model able to conversate, persuade and beat you in a game of trust and betrayal |
+| [META’s PEER: A Collaborative Language Model](https://medium.com/towards-artificial-intelligence/metas-peer-a-collaborative-language-model-a58a5dd709fe) | -- | PEER (Plan, Edit, Explain, Repeat): collaborate with the AI to write a text |
+| [Meta’s Hokkien: AI Translates an Unwritten Language for the First Time](https://pub.towardsai.net/metas-hokkien-ai-translates-an-unwritten-language-for-the-first-time-f18bed77bb11) | -- | Speech-to-speech model for a language that is passed down predominantly orally |
+| [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
+| [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
+| [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
 
 &nbsp;
 
