@@ -363,6 +363,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 | [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
+| [DeepMind’s AlphaProof: Achieving Podium Glory at the Math Olympiad Model](https://levelup.gitconnected.com/deepminds-alphaproof-achieving-podium-glory-at-the-math-olympiadmodel-61cf9ecc1f9f) | -- |Google DeepMind’s new artificial intelligence systems can solve complex mathematical problems |
+| [Google Gemma: is it Really a Gem?](https://levelup.gitconnected.com/google-gemma-is-it-really-a-gem-5b76d6607d3b) | -- |Google has just released two new open-source LLMs and is pushing for their adoption|
 |[Are xLSTM a Menace to Transformer Dominion](https://levelup.gitconnected.com/are-xlstm-a-menace-to-transformer-dominion-2cf6290f59b4)| -- |Researchers have massively improved LSTM, but what does it mean for the future?|
 | [GPT-4O, One Model is All You Need](https://ai.plainenglish.io/gpt-4o-one-model-is-all-you-need-933805b5cc00) | -- | The best part is it should be free for everyone|
 | [OpenELM Can Be The End of Siri](https://ai.plainenglish.io/openelm-can-be-the-end-of-siri-15b7b4aa83ca) | -- | Apple thinks the future of generative AI is on devices, but how?|
@@ -464,9 +466,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-| [DeepMind’s AlphaProof: Achieving Podium Glory at the Math Olympiad Model](https://levelup.gitconnected.com/deepminds-alphaproof-achieving-podium-glory-at-the-math-olympiadmodel-61cf9ecc1f9f) | -- |Google DeepMind’s new artificial intelligence systems can solve complex mathematical problems |
 | [Can an LLM Outperform Human Analysts in Financial Analysis?](https://medium.datadriveninvestor.com/can-an-llm-outperform-human-analysts-in-financial-analysis-744a20dee0e7) | -- | Chicago University Has Conducted A Comparative Study of AI and Human Expertise in Earnings Forecasting|
-| [Google Gemma: is it Really a Gem?](https://levelup.gitconnected.com/google-gemma-is-it-really-a-gem-5b76d6607d3b) | -- |Google has just released two new open-source LLMs and is pushing for their adoption|
+
 | [Stable Diffusion 3: Can You Still Believe in Your Eyes?](https://levelup.gitconnected.com/stable-diffusion-3-can-you-still-believe-in-your-eyes-3d9ba8f2a9d8) | -- |Stable Diffusion 3 has been announced: what all we know so far|
 | [MiQu: Can a mysterious model be a GPT-4 rival?](https://medium.com/gitconnected/miqu-can-a-mysterious-model-be-a-gpt-4-rival-a94f57e2f07f) | -- |An open-source model seems to be performing as GPT-4 but we do not know much about it |
 | [Human-Centered Loss Functions: Not All the Risks Are the Same](https://levelup.gitconnected.com/human-centered-loss-functions-not-all-the-risks-are-the-same-4bae47841a24) | -- |Aligning large language models with human behavior in uncertain futures |
