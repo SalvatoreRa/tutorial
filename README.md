@@ -152,6 +152,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 * [AI and art](#AI-and-art) - AI is impacting art, how? Which are the models that are driving this revolution? how do they work?
 * [AI and Climate Change](#AI-and-Climate-change) - Climate change is the most pressing issue of mankind. Can AI help us to solve it? Or it is a foe?
 * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development
+* [RAG and agents](#RAG-and-agents) -  Retrieval-augmented generation (RAG) and agents
 * [Computer vision](#Computer-vision) - all you need and want to know about convolutional neural networks and vision transformers.
 * [Artificial intelligence and music](#Artificial-intelligence-and-music) - music is a sequence, and AI knows well how to deal with sequences
 * [AI and ethics](#AI-and-ethics) - Artificial intelligence opens important ethical questions that need to be discussed.
@@ -363,6 +364,11 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
 | [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
 | [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
+
+# RAG and agents
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
 
 &nbsp;
 
