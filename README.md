@@ -400,6 +400,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [No Language Left Behind](https://pub.towardsai.net/no-language-left-behind-579afea29e52) | -- | Meta’s new model is able to translate between 200 different languages making the internet more accessible |
 | [Google’s Minerva, Solving Math Problems with AI](https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) | -- | Quantitative reasoning is hard for humans and it is hard for computers. Google’s new model just got astonishing results in solving math problems. |
 | [A New BLOOM in AI? Why the BLOOM Model Can Be a Gamechanger](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) | -- | We are now used to large language models, why is this so special? |
+|[Everything but everything you need to know about ChatGPT](https://medium.com/data-driven-fiction/everything-but-everything-you-need-to-know-about-chatgpt-546af7153ee2)|--| what is known, the latest news, what it is impacting, and what is changing. all in one article |
+|[The Unbearable Lightness of Being ChatGPT](https://medium.com/mlearning-ai/the-unbearable-lightness-of-being-chatgpt-95a4d9b48ed1)| -- | An ethical discussion with the most talked-about chatbot of the moment|
 
 &nbsp;
 
@@ -487,10 +489,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[RazzAIe awards 2022: what are the worst AI of the year?](https://medium.datadriveninvestor.com/razzaie-awards-2022-what-are-the-worst-ai-of-the-year-a2596c566218)| -- |What are the worst models of the year? What went wrong? |
 
 | [Deep learning can tell if you are above the drinking limit](https://medium.com/geekculture/deep-learning-can-tell-if-you-are-above-the-drinking-limit-40bea9205878) | -- | A new algorithm that can measure your alcohol consumption from your speech|
-|[Everything but everything you need to know about ChatGPT](https://medium.com/data-driven-fiction/everything-but-everything-you-need-to-know-about-chatgpt-546af7153ee2)|--| what is known, the latest news, what it is impacting, and what is changing. all in one article |
 |[2023: what should we expect to see in AI?](https://medium.datadriveninvestor.com/2023-what-should-we-expect-to-see-in-ai-7a6af1757ea8)|--|A discussion on emerging trends and possible scenarios|
 |[The Rise of AI: A Look at the 2022 Landscape](https://medium.com/towards-artificial-intelligence/the-rise-of-ai-a-look-at-the-2022-landscape-956e7e3f1839)| -- | Innovation and disruption: a look-up on what happened in AI in 2022 |
-|[The Unbearable Lightness of Being ChatGPT](https://medium.com/mlearning-ai/the-unbearable-lightness-of-being-chatgpt-95a4d9b48ed1)| -- | An ethical discussion with the most talked-about chatbot of the moment|
 |[Can an AI be a data scientist?](https://medium.com/mlearning-ai/can-an-ai-be-a-data-scientist-2d4d9b6c5d5)|[notebook](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/OpenAI_ChatGPT_test.ipynb)|OpenAI’s ChatGPT is blowing data scientists' minds. Could it steal their job?|
 | [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b) | -- |Data science has arrived in football. How teams and companies are using it?  |
 | [Make an app with streamlit in minutes](https://medium.com/mlearning-ai/make-an-app-with-streamlit-in-minutes-bec48ee19d67)| [code here](https://github.com/SalvatoreRa/Yoga_position) | Build an app to predict yoga position from photos with Python |
