@@ -99,7 +99,9 @@ Here is an index of the different sections and subsections:
     * [AI and science](#AI-and-science) - Artificial intelligence is changing all disciplines, but what is AI's impact on science itself?
     * [AI and art](#AI-and-art) - AI is impacting art, how? Which are the models that are driving this revolution? how do they work?
     * [AI and Climate Change](#AI-and-Climate-change) - Climate change is the most pressing issue of mankind. Can AI help us to solve it? Or it is a foe?
-    * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development
+    * [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development, the basis and the challenges
+    * [RAG and agents](#RAG-and-agents) -  A focus on retrieval-augmented generation (RAG) and agents
+    * [LLM models](#LLM-models) -  A focus on specific LLM models.
     * [Computer vision](#Computer-vision) - all you need and want to know about convolutional neural networks and vision transformers.
     * [Artificial intelligence and music](#Artificial-intelligence-and-music) - music is a sequence, and AI knows well how to deal with sequences
     * [AI and ethics](#AI-and-ethics) - Artificial intelligence opens important ethical questions that need to be discussed.
@@ -281,7 +283,6 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 | [Lie to Me: Why Large Language Models Are Structural Liars](https://levelup.gitconnected.com/lie-to-me-why-large-language-models-are-structural-liars-d94bc14e522b) | -- | Unveiling the Inherent Hallucinations and Limitations of AI-Language Models|
-| [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
 | [How the LLM Got Lost in the Network and Discovered Graph Reasoning](https://towardsdatascience.com/how-the-llm-got-lost-in-the-network-and-discovered-graph-reasoning-e2736bd04efa) | -- |Enhancing large language models: A journey through graph reasoning and instruction-tuning |
 | [AI Emergent Properties: What Makes AI Suddenly Learn New Tricks](https://levelup.gitconnected.com/ai-emergent-properties-what-makes-ai-suddenly-learn-new-tricks-d03639cf902e) | -- | The Critical Moment: When and Why AI Learns New Abilities|
 | [Strength in Weakness: How ‘Weak’ Models Can Be a Better Teacher than Large LLMs](https://ai.gopubby.com/strength-in-weakness-how-weak-models-can-be-a-better-teacher-than-large-llms-c31494057c67) | -- |Teaching is diversity and small LLM sometimes can grant more |
@@ -294,7 +295,6 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Navigating the Seas of Reason: A Geometric Odyssey to Enhance LLM Reasoning Capabilities](https://levelup.gitconnected.com/navigating-the-seas-of-reason-a-geometric-odyssey-to-enhance-llm-reasoning-capabilities-a985d24908ae) | -- |Exploring the Depths of Self-Attention Graphs and Intrinsic Dimensions in Large Language Models |
 | [Chat Quijote and the Windmills: Navigating AI Hallucinations on the Path to Accuracy](https://levelup.gitconnected.com/chat-quijote-and-the-windmills-navigating-ai-hallucinations-on-the-path-to-accuracy-0aaecf46354c) | -- | Strategies and Tools for Enhancing Reliability in Large Language Models|
 | [Is LLM Performance Predetermined by Their Genetic Code?](https://towardsdatascience.com/is-llm-performance-predetermined-by-their-genetic-code-74e7bb080dab) | -- | Exploring phylogenetic algorithms to predict the future of large language models|
-| [PlanRAG: Plan Your Way to Better Decisions](https://levelup.gitconnected.com/planrag-plan-your-way-to-better-decisions-9e992f08e5e6) | -- |Navigating complex decisions requires a plan: Can LLMs be used for decision-making? |
 | [Are Long-Context LLMs Truly Revolutionary?](https://ai.plainenglish.io/are-long-context-llms-truly-revolutionary-a21e04ad701b) | -- |Assessing the Impact and Potential of Long-Context Language Models |
 |[Can LLMs Truly Learn to Reason Implicitly?](https://ai.plainenglish.io/can-llms-truly-learn-to-reason-implicitly-cbbec79077c8) | -- |Unraveling the Mechanisms Behind Grokking and Systematic Generalization in LLMs|
 |[An LLM Student’s Handbook: Mastering the Art of Learning and Retaining Knowledge](https://levelup.gitconnected.com/an-llm-students-handbook-mastering-the-art-of-learning-and-retaining-knowledge-d5a59108968a) | -- |Learning and Forgetting: How to Improve the Balance|
@@ -302,8 +302,6 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Clear Waters: What an LLM Thinks Under the Surface](https://levelup.gitconnected.com/clear-waters-what-an-llm-thinks-under-the-surface-9b21206e31dc) | -- | Anthropic’s Take at Decoding Abstract Features in Large Language Models|
 | [Can Transformer Substitute Graph Neural Networks?](https://pub.towardsai.net/can-transformer-substitute-graph-neural-networks-b7d36047c9ac) | -- |Are transformers able to do graph reasoning and to which extent? |
 |[Can a LLM Really Learn New Things](https://levelup.gitconnected.com/can-a-llm-really-learn-new-things-d926b4502522)| -- |The Double-Edged Sword of Fine-Tuning Large Language Models|
-|[Are xLSTM a Menace to Transformer Dominion](https://levelup.gitconnected.com/are-xlstm-a-menace-to-transformer-dominion-2cf6290f59b4)| -- |Researchers have massively improved LSTM, but what does it mean for the future?|
-| [GPT-4O, One Model is All You Need](https://ai.plainenglish.io/gpt-4o-one-model-is-all-you-need-933805b5cc00) | -- | The best part is it should be free for everyone|
 | [The AI Student Dilemma: Trust Yourself Or The Book?](https://levelup.gitconnected.com/the-ai-student-dilemma-trust-yourself-or-the-book-4aee1250718a) | -- | LLMs have to decide if trust their knowledge or additional context. What will they choose?|
 | [When More is More? When For an LLM is Enough?](https://pub.towardsai.net/when-more-is-more-when-for-an-llm-is-enough-9488f54371ee) | -- |In-context length is the LLM’s secret weapon, but with long-context is all changing |
 | [OpenELM Can Be The End of Siri](https://ai.plainenglish.io/openelm-can-be-the-end-of-siri-15b7b4aa83ca) | -- | Apple thinks the future of generative AI is on devices, but how?|
@@ -369,6 +367,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Balancing Cost and Performance: A Comparative Study of RAG and Long-Context LLMs](https://ai.plainenglish.io/balancing-cost-and-performance-a-comparative-study-of-rag-and-long-context-llms-f674f2a1bbf4) | -- | What is better between these approaches? Could they coexist?|
 | [GraphRAG: Combining Retrieval and Summarization](https://levelup.gitconnected.com/graphrag-combining-retrieval-and-summarization-9262ff312d98) | -- |Enhancing Large Language Models for Complex Question Answering over Extensive Text Corpora |
 | [How Achieving Performance and Efficiency in RAG](https://levelup.gitconnected.com/how-achieving-performance-and-efficiency-in-rag-d5bb693efb91) | -- | Exploring Optimal Strategies for Streamlined Retrieval-Augmented Generation Workflows|
+| [PlanRAG: Plan Your Way to Better Decisions](https://levelup.gitconnected.com/planrag-plan-your-way-to-better-decisions-9e992f08e5e6) | -- |Navigating complex decisions requires a plan: Can LLMs be used for decision-making? |
 | [David vs. Goliath: Beating Long-Context Tasks with Small Models](https://levelup.gitconnected.com/david-vs-goliath-beating-long-context-tasks-with-small-models-1a4d61d9ea81) | -- |Unveiling LC-Boost: A Framework for Efficient and Effective Long-Context Processing |
 | [HippoRAG: Endowing Large Language Models with Human Memory Dynamics](https://levelup.gitconnected.com/hipporag-endowing-large-language-models-with-human-memory-dynamics-0e3d64b90480) | -- |Copy the brain for better knowledge integration and retrieval |
 | [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199) | --|Is it really true that long-context LLMs are killing the RAG? |
@@ -382,6 +381,12 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
 # LLM models
+
+| Articles | notebook | description |
+| ------- | ----------- | ------ |
+| [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
+|[Are xLSTM a Menace to Transformer Dominion](https://levelup.gitconnected.com/are-xlstm-a-menace-to-transformer-dominion-2cf6290f59b4)| -- |Researchers have massively improved LSTM, but what does it mean for the future?|
+| [GPT-4O, One Model is All You Need](https://ai.plainenglish.io/gpt-4o-one-model-is-all-you-need-933805b5cc00) | -- | The best part is it should be free for everyone|
 
 &nbsp;
 
