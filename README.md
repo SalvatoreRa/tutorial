@@ -151,8 +151,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 * [AI and science](#AI-and-science) - Artificial intelligence is changing all disciplines, but what is AI's impact on science itself?
 * [AI and art](#AI-and-art) - AI is impacting art, how? Which are the models that are driving this revolution? how do they work?
 * [AI and Climate Change](#AI-and-Climate-change) - Climate change is the most pressing issue of mankind. Can AI help us to solve it? Or it is a foe?
-* [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development
-* [RAG and agents](#RAG-and-agents) -  Retrieval-augmented generation (RAG) and agents
+* [Natural Language Processing and LLMs](#Natural-Language-Processing-and-LLMs) - LLMs are revolutionary but it is a fast-paced field, here I am discussing its development, the basis and the challenges
+* [RAG and agents](#RAG-and-agents) -  A focus on retrieval-augmented generation (RAG) and agents
+* [LLM models](#LLM-models) -  A focus on specific LLM models.
 * [Computer vision](#Computer-vision) - all you need and want to know about convolutional neural networks and vision transformers.
 * [Artificial intelligence and music](#Artificial-intelligence-and-music) - music is a sequence, and AI knows well how to deal with sequences
 * [AI and ethics](#AI-and-ethics) - Artificial intelligence opens important ethical questions that need to be discussed.
@@ -354,6 +355,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 &nbsp;
 
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
+
+
 # RAG and agents
 
 | Articles | notebook | description |
@@ -372,6 +376,12 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Bring Your AI Agents from Virtual to Reality](https://levelup.gitconnected.com/bring-your-ai-agents-from-virtual-to-reality-f16e40894ddd)| -- |AI agents are the new frontier, but how they are doing in the real world? |
 |[Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)| -- |How to overcome the limits of Autoregressive Models for embedding |
 
+
+&nbsp;
+
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
+
+# LLM models
 
 &nbsp;
 
