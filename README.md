@@ -29,7 +29,8 @@ This is the general index of this repository:
 
 * [About me](#About-me)
 * [How to use this repository](#How-to-use-this-repository)
-* [Cite this repository](#Cite-this-repository) 
+* [Cite this repository](#Cite-this-repository)
+* [What is new :fire:](#What-is-new) 
 * [Index of tutorials](#Index-of-tutorials)
     * [Tutorials on machine learning](#Tutorials-on-machine-learning)
     * [Tutorials and Articles on artificial intelligence](#Tutorials-on-artificial-intelligence)
@@ -83,6 +84,12 @@ version = {1.0},
 year = {2024}
 }
 ```
+
+[Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
+
+# What is new
+
+* Sep 24 - tutorial reorganization. 
 
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
