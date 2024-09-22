@@ -317,8 +317,6 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[DeepMind’s SIMA: Rule the Simulated World Before Take Over the Real One](https://levelup.gitconnected.com/deepminds-sima-rule-the-simulated-world-before-take-over-the-real-one-ab335f474deb)| -- |A new agent by DeepMind shows impressive new generalization skills in videogames|
 |[Cosine Similarity and Embeddings Are Still in Love?](https://medium.com/gitconnected/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)| -- |Cosine similarity is the most used method, but it is really the best?|
 | [PlanGPT: LLM domain specific to revolutionizing industries](https://levelup.gitconnected.com/plangpt-llm-domain-specific-to-revolutionizing-industries-f6c0ad87aec7)| -- | Knowledge and planning give the power to reshape industries|
-|[Bring Your AI Agents from Virtual to Reality](https://levelup.gitconnected.com/bring-your-ai-agents-from-virtual-to-reality-f16e40894ddd)| -- |AI agents are the new frontier, but how they are doing in the real world? |
-|[Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)| -- |How to overcome the limits of Autoregressive Models for embedding |
 | [Indirect Reasoning for LLMs: Not Always There is a Direct Way to the Answer](https://levelup.gitconnected.com/indirect-reasoning-for-llms-not-always-there-is-a-direct-way-to-the-answer-d9cfee83bf58) | -- | Contrapositive and Contradiction for Automated Reasoning can help your model find the right answering | 
 |[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[Teaching is Hard: How to Train Small Models and Outperforming Large Counterparts](https://towardsdatascience.com/teaching-is-hard-how-to-train-small-models-and-outperforming-large-counterparts-f131f9d463e1)| -- |Distilling the knowledge of a large model is complex but a new method shows incredible performances|
@@ -371,6 +369,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [HippoRAG: Endowing Large Language Models with Human Memory Dynamics](https://levelup.gitconnected.com/hipporag-endowing-large-language-models-with-human-memory-dynamics-0e3d64b90480) | -- |Copy the brain for better knowledge integration and retrieval |
 | [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199) | --|Is it really true that long-context LLMs are killing the RAG? |
 | [War and Peace: A Conflictual Love Between the LLM and RAG](https://ai.plainenglish.io/war-and-peace-a-conflictual-love-between-the-llm-and-rag-78428a5776fb) | -- |There is a complex relationship between the LLM prior knowledge and the RAG. |
+|[Bring Your AI Agents from Virtual to Reality](https://levelup.gitconnected.com/bring-your-ai-agents-from-virtual-to-reality-f16e40894ddd)| -- |AI agents are the new frontier, but how they are doing in the real world? |
+|[Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)| -- |How to overcome the limits of Autoregressive Models for embedding |
+
 
 &nbsp;
 
