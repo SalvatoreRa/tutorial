@@ -310,12 +310,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Do Really Long-Context LLMs Exist](https://levelup.gitconnected.com/do-really-long-context-llms-exist-e928a179a5d5) | -- | Long-context LLMs are the topic of the moment, but beyond companies' claims, it is true?|
 | [Think, Then Speak: How Researchers Gave AI an Inner Monologue](https://levelup.gitconnected.com/think-then-speak-how-researchers-gave-ai-an-inner-monologue-f9bc5eb60139) | -- |QuietStar is a new promising approach for LLM reasoning|
 | [The AI worm and the LLM leaf](https://levelup.gitconnected.com/the-ai-worm-and-the-llm-leaf-6132d60c11be) | -- |New research warns how a LLM can be poisoned and spread around|
-| [PlanGPT: LLM domain specific to revolutionizing industries](https://levelup.gitconnected.com/plangpt-llm-domain-specific-to-revolutionizing-industries-f6c0ad87aec7)| -- | Knowledge and planning give the power to reshape industries|
 | [Indirect Reasoning for LLMs: Not Always There is a Direct Way to the Answer](https://levelup.gitconnected.com/indirect-reasoning-for-llms-not-always-there-is-a-direct-way-to-the-answer-d9cfee83bf58) | -- | Contrapositive and Contradiction for Automated Reasoning can help your model find the right answering | 
 |[A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)| -- |Will be the transformer the model leading us to artificial general intelligence? Or will be replaced?|
 |[Teaching is Hard: How to Train Small Models and Outperforming Large Counterparts](https://towardsdatascience.com/teaching-is-hard-how-to-train-small-models-and-outperforming-large-counterparts-f131f9d463e1)| -- |Distilling the knowledge of a large model is complex but a new method shows incredible performances|
-|[LeMA: For an LLM Learning Math is Making Mistakes](https://levelup.gitconnected.com/lema-for-an-llm-learning-math-is-making-mistakes-f758f63eaafe)| -- | learning from mistakes helps large language models achieve better performance in reasoning tasks |
-|[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning |
 |[Order Matters: How AI Struggles with the Reverse](https://pub.towardsai.net/order-matters-how-ai-struggles-with-the-reverse-ed0a2e8f09df)| -- |How and why does the reversal curse impact the large language models |
 |[Mistral 7B: a New Wind Blowing Away Other Language Models](https://levelup.gitconnected.com/mistral-7b-a-new-wind-blowing-other-language-models-b74d7bfe137e)| -- | Mistral 7B is more performing and faster than other LLMs|
 |[GPT-InvestAR: LLMs for better investment](https://levelup.gitconnected.com/gpt-investar-llms-for-better-investment-f13f2ac72b3d)| -- |From Text to Trade: Could an LLM exploit annual reports to predict stock to buy?|
@@ -369,6 +366,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [War and Peace: A Conflictual Love Between the LLM and RAG](https://ai.plainenglish.io/war-and-peace-a-conflictual-love-between-the-llm-and-rag-78428a5776fb) | -- |There is a complex relationship between the LLM prior knowledge and the RAG. |
 |[Bring Your AI Agents from Virtual to Reality](https://levelup.gitconnected.com/bring-your-ai-agents-from-virtual-to-reality-f16e40894ddd)| -- |AI agents are the new frontier, but how they are doing in the real world? |
 |[Follow the Echo: How to Get a Good Embedding from your LLM](https://levelup.gitconnected.com/follow-the-echo-how-to-get-a-good-embedding-from-your-llm-d243fc2ebcbf)| -- |How to overcome the limits of Autoregressive Models for embedding |
+|[DeepMind’s SIMA: Rule the Simulated World Before Take Over the Real One](https://levelup.gitconnected.com/deepminds-sima-rule-the-simulated-world-before-take-over-the-real-one-ab335f474deb)| -- |A new agent by DeepMind shows impressive new generalization skills in videogames|
+|[Cosine Similarity and Embeddings Are Still in Love?](https://medium.com/gitconnected/cosine-similarity-and-embeddings-are-still-in-love-f9aec98396a4)| -- |Cosine similarity is the most used method, but it is really the best?|
 
 
 &nbsp;
@@ -385,6 +384,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [OpenELM Can Be The End of Siri](https://ai.plainenglish.io/openelm-can-be-the-end-of-siri-15b7b4aa83ca) | -- | Apple thinks the future of generative AI is on devices, but how?|
 | [LLaMa 3 is Here. Will It Be The Winning Animal in The Generative AI Zoo.](https://levelup.gitconnected.com/llama-3-is-here-will-it-be-the-winning-animal-in-the-generative-ai-zoo-9e94af73588f) | -- |LLaMA 3 is in early release, but the new META’s animal has fierce competition now |
 | [Does it Really Matter Grok?](https://levelup.gitconnected.com/does-it-really-matter-grok-fbf70c5117e2) | -- | Musk claims he has open-source Grok, but it does matter or is it just another move in larger play? |
+| [PlanGPT: LLM domain specific to revolutionizing industries](https://levelup.gitconnected.com/plangpt-llm-domain-specific-to-revolutionizing-industries-f6c0ad87aec7)| -- | Knowledge and planning give the power to reshape industries|
+|[LeMA: For an LLM Learning Math is Making Mistakes](https://levelup.gitconnected.com/lema-for-an-llm-learning-math-is-making-mistakes-f758f63eaafe)| -- | learning from mistakes helps large language models achieve better performance in reasoning tasks |
+|[LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c)| -- |A model beating previous competitors for mathematical reasoning |
 
 
 &nbsp;
