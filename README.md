@@ -307,9 +307,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [When More is More? When For an LLM is Enough?](https://pub.towardsai.net/when-more-is-more-when-for-an-llm-is-enough-9488f54371ee) | -- |In-context length is the LLM’s secret weapon, but with long-context is all changing |
 | [OpenELM Can Be The End of Siri](https://ai.plainenglish.io/openelm-can-be-the-end-of-siri-15b7b4aa83ca) | -- | Apple thinks the future of generative AI is on devices, but how?|
 | [Infini-attention: Can we Really have an Infinite Context Length?](https://levelup.gitconnected.com/infini-attention-can-we-really-have-an-infinite-context-length-ff7cb25ea6a3) | -- | Google believes that can we have an LLM with an infinite context length|
-| [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199) | --|Is it really true that long-context LLMs are killing the RAG? |
 | [LLaMa 3 is Here. Will It Be The Winning Animal in The Generative AI Zoo.](https://levelup.gitconnected.com/llama-3-is-here-will-it-be-the-winning-animal-in-the-generative-ai-zoo-9e94af73588f) | -- |LLaMA 3 is in early release, but the new META’s animal has fierce competition now |
-| [War and Peace: A Conflictual Love Between the LLM and RAG](https://ai.plainenglish.io/war-and-peace-a-conflictual-love-between-the-llm-and-rag-78428a5776fb) | -- |There is a complex relationship between the LLM prior knowledge and the RAG. |
 | [Crossing Boundaries or Building Walls? The Declining Interdisciplinarity of NLP](https://pub.towardsai.net/crossing-boundaries-or-building-walls-the-declining-interdisciplinarity-of-nlp-8a051f9ae53c) | -- | In a deluge of information, research is becoming more and more isolated, and this is a problem |
 | [You Know Nothing, ChatGPT. How Much Does Your LLM Know?](https://levelup.gitconnected.com/you-know-nothing-chatgpt-how-much-does-your-llm-know-03ce79d4b925) | -- | Knowledge is power, but how much an LLM can know, and is it enough?|
 | [Do Really Long-Context LLMs Exist](https://levelup.gitconnected.com/do-really-long-context-llms-exist-e928a179a5d5) | -- | Long-context LLMs are the topic of the moment, but beyond companies' claims, it is true?|
@@ -371,6 +369,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [How Achieving Performance and Efficiency in RAG](https://levelup.gitconnected.com/how-achieving-performance-and-efficiency-in-rag-d5bb693efb91) | -- | Exploring Optimal Strategies for Streamlined Retrieval-Augmented Generation Workflows|
 | [David vs. Goliath: Beating Long-Context Tasks with Small Models](https://levelup.gitconnected.com/david-vs-goliath-beating-long-context-tasks-with-small-models-1a4d61d9ea81) | -- |Unveiling LC-Boost: A Framework for Efficient and Effective Long-Context Processing |
 | [HippoRAG: Endowing Large Language Models with Human Memory Dynamics](https://levelup.gitconnected.com/hipporag-endowing-large-language-models-with-human-memory-dynamics-0e3d64b90480) | -- |Copy the brain for better knowledge integration and retrieval |
+| [RAG is Dead, Long Live RAG](https://levelup.gitconnected.com/rag-is-dead-long-live-rag-c607e1799199) | --|Is it really true that long-context LLMs are killing the RAG? |
+| [War and Peace: A Conflictual Love Between the LLM and RAG](https://ai.plainenglish.io/war-and-peace-a-conflictual-love-between-the-llm-and-rag-78428a5776fb) | -- |There is a complex relationship between the LLM prior knowledge and the RAG. |
 
 &nbsp;
 
