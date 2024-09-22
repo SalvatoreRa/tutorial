@@ -298,10 +298,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[Can LLMs Truly Learn to Reason Implicitly?](https://ai.plainenglish.io/can-llms-truly-learn-to-reason-implicitly-cbbec79077c8) | -- |Unraveling the Mechanisms Behind Grokking and Systematic Generalization in LLMs|
 |[An LLM Student’s Handbook: Mastering the Art of Learning and Retaining Knowledge](https://levelup.gitconnected.com/an-llm-students-handbook-mastering-the-art-of-learning-and-retaining-knowledge-d5a59108968a) | -- |Learning and Forgetting: How to Improve the Balance|
 |[Maybe GPT Isn’t the Best: BERTs Can Master Generative In-Context Learning](https://levelup.gitconnected.com/maybe-gpt-isnt-the-best-berts-can-master-generative-in-context-learning-2d95bc8c8507) | -- |Challenging AI Paradigms with DeBERTa’s Surprising Capabilities|
-| [David vs. Goliath: Beating Long-Context Tasks with Small Models](https://levelup.gitconnected.com/david-vs-goliath-beating-long-context-tasks-with-small-models-1a4d61d9ea81) | -- |Unveiling LC-Boost: A Framework for Efficient and Effective Long-Context Processing |
 | [Clear Waters: What an LLM Thinks Under the Surface](https://levelup.gitconnected.com/clear-waters-what-an-llm-thinks-under-the-surface-9b21206e31dc) | -- | Anthropic’s Take at Decoding Abstract Features in Large Language Models|
 | [Can Transformer Substitute Graph Neural Networks?](https://pub.towardsai.net/can-transformer-substitute-graph-neural-networks-b7d36047c9ac) | -- |Are transformers able to do graph reasoning and to which extent? |
-| [HippoRAG: Endowing Large Language Models with Human Memory Dynamics](https://levelup.gitconnected.com/hipporag-endowing-large-language-models-with-human-memory-dynamics-0e3d64b90480) | -- |Copy the brain for better knowledge integration and retrieval |
 |[Can a LLM Really Learn New Things](https://levelup.gitconnected.com/can-a-llm-really-learn-new-things-d926b4502522)| -- |The Double-Edged Sword of Fine-Tuning Large Language Models|
 |[Are xLSTM a Menace to Transformer Dominion](https://levelup.gitconnected.com/are-xlstm-a-menace-to-transformer-dominion-2cf6290f59b4)| -- |Researchers have massively improved LSTM, but what does it mean for the future?|
 | [GPT-4O, One Model is All You Need](https://ai.plainenglish.io/gpt-4o-one-model-is-all-you-need-933805b5cc00) | -- | The best part is it should be free for everyone|
@@ -371,6 +369,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | [Balancing Cost and Performance: A Comparative Study of RAG and Long-Context LLMs](https://ai.plainenglish.io/balancing-cost-and-performance-a-comparative-study-of-rag-and-long-context-llms-f674f2a1bbf4) | -- | What is better between these approaches? Could they coexist?|
 | [GraphRAG: Combining Retrieval and Summarization](https://levelup.gitconnected.com/graphrag-combining-retrieval-and-summarization-9262ff312d98) | -- |Enhancing Large Language Models for Complex Question Answering over Extensive Text Corpora |
 | [How Achieving Performance and Efficiency in RAG](https://levelup.gitconnected.com/how-achieving-performance-and-efficiency-in-rag-d5bb693efb91) | -- | Exploring Optimal Strategies for Streamlined Retrieval-Augmented Generation Workflows|
+| [David vs. Goliath: Beating Long-Context Tasks with Small Models](https://levelup.gitconnected.com/david-vs-goliath-beating-long-context-tasks-with-small-models-1a4d61d9ea81) | -- |Unveiling LC-Boost: A Framework for Efficient and Effective Long-Context Processing |
+| [HippoRAG: Endowing Large Language Models with Human Memory Dynamics](https://levelup.gitconnected.com/hipporag-endowing-large-language-models-with-human-memory-dynamics-0e3d64b90480) | -- |Copy the brain for better knowledge integration and retrieval |
 
 &nbsp;
 
