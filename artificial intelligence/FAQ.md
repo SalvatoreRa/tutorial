@@ -1195,8 +1195,7 @@ This is why some researchers suggest that we can also talk about a kind of infer
 
 **Emergent properties** are properties that appear only with scale (as the number of parameters increases)
 
-*"In the literature, emergent abilities of LLMs are formally defined as “the abilities that
-are not present in small models but arise in large models”, which is one of the most prominent features that distinguish LLMs from previous PLMs."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
+*"In the literature, emergent abilities of LLMs are formally defined as “the abilities that are not present in small models but arise in large models”, which is one of the most prominent features that distinguish LLMs from previous PLMs."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
 
 ![emergent_properties](https://github.com/SalvatoreRa/tutorial/blob/main/images/emergent_properties.png?raw=true)
 *from the [original article](https://arxiv.org/pdf/2206.07682.pdf)*
@@ -1413,6 +1412,9 @@ Suggested lectures:
 
 <details>
   <summary><b>What is the role of small models in the LLM era?</b></summary>
+
+![small model overview](https://github.com/SalvatoreRa/tutorial/blob/main/images/SLM_overview.png?raw=true) *from [here](https://arxiv.org/pdf/2409.06857)*
+  
 
   LLMs have shown incredible ability and some reasoning properties. Motivated by the growth in performance, this has led to an increase in the number of parameters and larger and larger models. Obviously this scaling has a huge computational and energy cost. Therefore the question remains: is there still room for small models?
 
