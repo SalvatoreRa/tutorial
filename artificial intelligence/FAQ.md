@@ -1306,6 +1306,26 @@ Another type of hallucination is **contextual hallucination**. In this case, alt
 ![hallucination RAG causes](https://github.com/SalvatoreRa/tutorial/blob/main/images/hallucination_contextual.png?raw=true)
 *from the [original article](https://arxiv.org/pdf/2304.13734)*
 
+Another interesting point is whether **one can identify the presence of the error from the internal state of the model**.  [In this paper](https://arxiv.org/abs/2410.02707) discuss how there are elements on the truthfulness of the response and how this can be derived from the internal state of the model:
+
+*another line of work has explored the internal representations of LLMs, suggesting that LLMs encode signals of truthfulness. In this work, we reveal that the internal representations of LLMs encode much more information about truthfulness than previously recognized. [source](https://arxiv.org/abs/2410.02707)*
+
+An interesting point is that they describe hallucinations as a function of model responses and model perception of error. They conduct sampling for each question and check whether the model responds correctly or incorrectly:
+
+*More generally, we categorize the errors by logging three specific features for each example: (a) the number of different answers generated; (b) the frequency of the correct answer; and (c) the frequency of the most common incorrect answer. [source](https://arxiv.org/abs/2410.02707)*
+
+This reveals some interesting patterns: 
+* **Refuses to answer.** The model responds that it cannot answer the question
+* **Consistently correct** Answers correctly in at least half of the cases. Interesting that the model either always responds correctly or sometimes responds incorrectly (despite responding correctly in most cases)
+* **Consistently incorrect** Consistently generates the same incorrect response in at least half of the cases. Paradoxically in some cases, the model responds incorrectly for most of the sampling and occasionally responds correctly, this shows that the model has some understanding of the subject in cases even when it is wrong.
+* **Two competing** Generates both correct and incorrect responses at similar rates
+* **Many answers** Generates over 10 distinct answers
+
+![taxonomy error generarate by the LLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/errors_llm_according_internal_state.png?raw=true)
+*The figure illustrates three representative error type. from the [original article](https://arxiv.org/pdf/2410.02707)*
+
+
+
 Articles describing in detail:
   * [A Requiem for the Transformer?](https://towardsdatascience.com/a-requiem-for-the-transformer-297e6f14e189)
   * [AI Hallucinations: Can Memory Hold the Answer?](https://towardsdatascience.com/ai-hallucinations-can-memory-hold-the-answer-5d19fd157356)
