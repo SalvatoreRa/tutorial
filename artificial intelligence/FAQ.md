@@ -1293,18 +1293,40 @@ Recent studies show how fine-tuning and instruction tuning can increase an LLM's
 
 There is a dissonance between what is the meaning of the term "hallucination" in human psychology ("when you hear, see, smell, taste, or feel things that appear to be real but only exist in your mind") and what is meant by hallucination in machine learning. In a [recent article](https://arxiv.org/abs/2402.01769) they took care to align these two definitions. They divided hallucinations that are seen in the case of LLM into different types. This new classification is interesting because it is difficult to be able to resolve all causes of hallucinations in LLM with one approach. Instead, by having a classification of the various subtypes, one can think about acting on each subtype (which is perhaps the one most relevant to our task):
 
-_By grounding our discussion in specific psychological constructs, we seek to shed light on these phenomena in
-language models, paving the way for the development of targeted solutions for different types of ”hallucinations.” - [source](https://arxiv.org/abs/2402.01769)_
+_By grounding our discussion in specific psychological constructs, we seek to shed light on these phenomena in language models, paving the way for the development of targeted solutions for different types of ”hallucinations.” - [source](https://arxiv.org/abs/2402.01769)_
 
 ![hallucination LLM causes](https://github.com/SalvatoreRa/tutorial/blob/main/images/llm_hallucination_psicology.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2402.01769)*
 
 For example, **confabulation** is a hallucination that emerges from the LLM unpredictably, owing to internal factors that are unrelated to the prompt. In a sense, this type of hallucination is associated with the LLM's uncertainty in responding to the prompt. In [this paper](https://www.nature.com/articles/s41586-024-07421-0) they show that a high uncertainty in the response is an indication of confabulation (this uncertainty can be estimated with an entropy that is associated with the meaning of the response).
 
-Another type of hallucination is **contextual hallucination**. In this case, although we provide the context (and thus the correct facts) in the prompt the model fails to generate the correct output. According to this [study]() contextual hallucinations are related to the extent to which an LLM attends to the provided contextual information. In other words, it depends on the relationship between the attention (attention weights) associated with the context and the attention devoted to the newly generated tokens. Therefore, one can classify when a model will generate these kinds of hallucinations by extracting the attention weights and constructing a linear classifier.
+Another type of hallucination is **contextual hallucination**. In this case, although we provide the context (and thus the correct facts) in the prompt the model fails to generate the correct output. According to this [study](https://arxiv.org/pdf/2407.07071) contextual hallucinations are related to the extent to which an LLM attends to the provided contextual information. In other words, it depends on the relationship between the attention (attention weights) associated with the context and the attention devoted to the newly generated tokens. Therefore, one can classify when a model will generate these kinds of hallucinations by extracting the attention weights and constructing a linear classifier.
 
 ![hallucination RAG causes](https://github.com/SalvatoreRa/tutorial/blob/main/images/hallucination_contextual.png?raw=true)
 *from the [original article](https://arxiv.org/pdf/2304.13734)*
+
+One reason for the emergence of these contextual hallucinations is that the model gives too much attention to noise:
+
+*we visualize the normalized attention scores assigned to different parts of the context by a Transformer. The task is to retrieve an answer embedded in the middle of a pile of documents. The visualization reveals that Transformer tends to allocate only a small proportion of attention scores to the correct answer, while disproportionately focusing on irrelevant context. --[source](https://arxiv.org/abs/2410.05258)*
+
+![Transformer often over-attends to irrelevant context (i.e., attention noise)](https://github.com/SalvatoreRa/tutorial/blob/main/images/attention_noise.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2410.05258)*
+
+So too much attention score is assigned to irrelevant context, this confuses the model and leads to generating a wrong response. This misallocation of attention scores is a major cause of contextual hallucinations. So one way to be able to reduce this type of hallucination is to reduce the noise in the attention pattern. [In this article](https://arxiv.org/abs/2410.05258) proposes the **differential transformer (DIFF Transformer)** for the very purpose of reducing this noise.
+
+*The differential attention mechanism is proposed to cancel attention noise with differential denoising. Specifically, we partition the query and key vectors into two groups and compute two separate softmax attention maps. Then the result of subtracting these two maps is regarded as attention scores. The idea is analogous to differential amplifiers [19] proposed in electrical engineering, where the difference between two signals is used as output, so that we can null out the common-mode noise of the input. --[source](https://arxiv.org/abs/2410.05258)*
+
+![The differential attention mechanism maps query, key, and value vectors to outputs](https://github.com/SalvatoreRa/tutorial/blob/main/images/diff_attention.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2410.05258)*
+
+![Evaluation of contextual hallucination on text summarization and question answering](https://github.com/SalvatoreRa/tutorial/blob/main/images/diff_transformer.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2410.05258)*
+
+In simple words, the model learns how to reduce the weight given to attention noise and to focus only on important information. This system is inspired by the idea that the difference between two signals cancels out the noise. On two retrieval tasks, the authors show that the DIFF transformer reduces contextual information (they focus on the cases where the input
+context contains correct facts, but the model still fails to produce accurate outputs). They also show in the work that the model also has improvements in both in-context learning and long-context retrieval.
+
+![The differential attention mechanism maps query, key, and value vectors to outputs](https://github.com/SalvatoreRa/tutorial/blob/main/images/contextual-hallucination-reduction.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2410.05258)*
 
 Another interesting point is whether **one can identify the presence of the error from the internal state of the model**.  [In this paper](https://arxiv.org/abs/2410.02707) discuss how there are elements on the truthfulness of the response and how this can be derived from the internal state of the model:
 
