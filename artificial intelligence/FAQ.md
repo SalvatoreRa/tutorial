@@ -730,6 +730,9 @@ Another interesting result is the spectral bias analysis. MLPs are known to have
 
 ![MLPs manifest strong spectral biases (top), while KANs do not (bottom).](https://github.com/SalvatoreRa/tutorial/blob/main/images/spectral_bias_kan.png?raw=true) *MLPs manifest strong spectral biases (top), while KANs do not (bottom). from [the original papers](https://arxiv.org/pdf/2410.01803)*
 
+*Precisely since KANs are not susceptible to spectral biases, they are likely to overfit to noises. As a consequence, we notice that KANs are more subject to overfitting on the training data regression when the task is very complicated. On the other hand, we can increase the number of training points to alleviate the overfitting-[source](https://arxiv.org/pdf/2410.01803)*
+
+So being less susceptible to spectral bias comes at the cost of being more at risk of overfitting. For smooth function, one can use a KAN with a small grid size (fewer points in the B-splines), while for high frequencies function better a KAN with a large grid. For large-scale and smooth function, however, an MLP is recommended.
 
 ## Working with KAN
 
