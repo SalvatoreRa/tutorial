@@ -598,7 +598,7 @@ Now we have the theoretical elements, what we need to keep in mind is:
 
 <center>
   
-## Why do we care about it? How we can use it for a neural network?
+## Why do we care about it? How can we use it for a neural network?
 
 </center>
 
@@ -708,11 +708,28 @@ Not everyone agrees with the supposed superiority of KANs. For example, [in this
 3 **KANs are MLPs with spline-basis as the activation function.** Rather than new neural networks, they would be MLPs in which the activation function is a spline
 4. **KANs do not beat the curse of dimensionality.** For the author, the claim is unwarranted by the evidence.
 
+## How do they compare with MLP?
+
 [In this paper](https://arxiv.org/abs/2407.16674), instead they try to conduct an in-depth comparison between MLP and KAN for different domains (controlling the number of parameters and evaluating different tasks). The authors comment: *"Under these fair settings, we observe that KAN outperforms MLP only in symbolic formula representation tasks, while MLP typically excels over KAN in other tasks.“* In the ablation studies they show that its B-spline activation function gives an advantage in symbolic formula representation.
 
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/kan_mlp_fair_comparison.png?raw=true) *from [the original papers](https://arxiv.org/pdf/2407.16674)*
 
-Overall, the article has the positive effect of making the use of Bsplines in neural networks more tractable and proposing a system that is more interpretable (via sparsification, pruning and symbolification). Also, the system is not yet optimized so in computational terms it is not exactly competitive with an MLP. It can be an interesting altrnative though and still develop.
+Overall, the article has the positive effect of making the use of B-splines in neural networks more tractable and proposing a system that is more interpretable (via sparsification, pruning, and symbolification). Also, the system is not yet optimized so in computational terms it is not exactly competitive with an MLP. It can be an interesting alternative though and still develop.
+
+In [this other article](https://arxiv.org/abs/2410.01803) they compared the ability of KAN and MLP to represent and approximate functions.
+
+*In this article, we study the approximation theory and spectral bias of KANs and compare them with MLPs. Specifically, we show that any MLP with the ReLUk activation function can be reparameterized as a KAN with a comparable number of parameters. This establishes that the representation and approximation power of KANs is at least as great as that of MLPs. -[source](https://arxiv.org/pdf/2410.01803)*
+
+Thus, KANs can represent MLPs that have a similar size (in other words, they have the same approximation power). 
+
+*On the other hand, we also show that any KAN (without SiLU non-linearity) can be represented using an MLP. However, the number of parameters in the MLP representation is larger by a factor proportional to the grid size of the KAN-[source](https://arxiv.org/pdf/2410.01803)*
+
+MLPs can represent KANs, however, at the cost of increasing the parameter number. The number of parameters of an MLP increases significantly with the grid size of the KAN. So if we have a task that requires KANs with a large grids, it is not efficient to use an MLP.
+
+Another interesting result is the spectral bias analysis. MLPs are known to have a spectral bias for low-frequency components first (like smooth, gradual changes in the function that the model wants to learn). Gradient descent favors low frequencies  are learned earlier in training, in contrast, high-frequency details require finer adjustments, which typically come later in training as the model fits more of the detailed features of the data. This spectral bias serves as a regularizer and seems to be useful for many machine-learning applications. Sometimes high-frequencies (like sharp, rapid changes or very detailed variations, where the function's value changes rapidly over a short interval) are useful to learn. In these cases often high-frequency information has to be encoded using methods like Fourier feature mapping or use different nonlinear functionals. For the authors, KANs theoretically have reduced spectral bias.
+
+![MLPs manifest strong spectral biases (top), while KANs do not (bottom).](https://github.com/SalvatoreRa/tutorial/blob/main/images/spectral_bias_kan.png?raw=true) *MLPs manifest strong spectral biases (top), while KANs do not (bottom). from [the original papers](https://arxiv.org/pdf/2410.01803)*
+
 
 ## Working with KAN
 
