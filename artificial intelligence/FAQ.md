@@ -758,6 +758,94 @@ Seeing some applications in detail, [this study](https://arxiv.org/abs/2409.0429
 
 *The key contributions of this paper are in demonstrating that (a) CoxKAN finds interpretable symbolic formulas for the hazard function, (b) CoxKAN identifies biomarkers and complex variable interactions, and (c) CoxKAN achieves performance that is superior to CoxPH and consistent with or better than DeepSurv (the equivalent MLP-based model). --[source](https://arxiv.org/pdf/2409.04290)*
 
+CoxKAN can be seen as an extension of KANs in which censored regression is conducted. Everything is pretty much the same except the loss (you use Cox loss plus a regularization coefficient to sparsify). Since KANs are slower to train than MLPs regularization helps speed up training. Unlike MLP we have both pruning and symbolic fitting. These two steps help make the model more interpretable.
+
+![Cox-KAN pipeline](https://github.com/SalvatoreRa/tutorial/blob/main/images/coxKAN_pipeline.png?raw=true) *from the original article*
+
+once the [specific library](https://github.com/knottwill/CoxKAN/) is installed:
+
+```Python
+# Install coxkan
+! pip install coxkan scikit-survival
+```
+We are also installing [scikit-survival](https://scikit-survival.readthedocs.io/en/stable/index.html) to make a comparison with a trained model based on decision trees (XGBoost based).
+
+At this point, we can train our neural network:
+
+```Python
+from coxkan import CoxKAN
+from sklearn.model_selection import train_test_split
+import numpy as np
+from coxkan.datasets import gbsg
+
+# load dataset
+df_train, df_test = gbsg.load(split=True)
+name, duration_col, event_col, covariates = gbsg.metadata()
+
+# init CoxKAN
+ckan = CoxKAN(width=[len(covariates), 1], seed=42)
+
+# pre-process and register data
+df_train, df_test = ckan.process_data(df_train, df_test, duration_col, event_col, normalization='standard')
+
+# train CoxKAN
+_ = ckan.train(
+    df_train, 
+    df_test, 
+    duration_col=duration_col, 
+    event_col=event_col,
+    opt='Adam',
+    lr=0.01,
+    steps=100)
+
+print("\nCoxKAN C-Index: ", ckan.cindex(df_test))
+
+# Auto symbolic fitting
+fit_success = ckan.auto_symbolic(verbose=False)
+display(ckan.symbolic_formula(floating_digit=2)[0][0])
+
+# Plot coxkan
+fig = ckan.plot(beta=20)
+```
+Results for coxKAN:
+
+![KAN network for survival](https://github.com/SalvatoreRa/tutorial/blob/main/images/cox_kan.png?raw=true)
+
+```Python
+import pandas as pd
+from sksurv.ensemble import GradientBoostingSurvivalAnalysis
+from sksurv.metrics import concordance_index_censored
+from sksurv.util import Surv
+
+# Prepare the target variables for survival analysis
+y_train = Surv.from_arrays(event=df_train['event'].astype(bool), time=df_train['duration'])
+y_test = Surv.from_arrays(event=df_test['event'].astype(bool), time=df_test['duration'])
+
+# Prepare the feature matrices
+X_train = df_train.drop(['duration', 'event'], axis=1)
+X_test = df_test.drop(['duration', 'event'], axis=1)
+
+# Initialize and train the model
+model = GradientBoostingSurvivalAnalysis()
+model.fit(X_train, y_train)
+
+# Predict risk scores on the test set
+pred_test = model.predict(X_test)
+
+# Compute the concordance index
+cindex = concordance_index_censored(y_test['event'], y_test['time'], pred_test)
+
+print("C-index on the test set:", cindex[0])
+```
+
+results for the gradient boosting method:
+![scikit survival comparison with coxKAN](https://github.com/SalvatoreRa/tutorial/blob/main/images/scikit_survival.png?raw=true)
+
+We can notice three things: 
+* the result is similar to that obtained with traditional machine learning.
+* We can get the symbolic formula for our KAN that allows us to interpret the relationship between the various features.
+* We can also visualize these features.
+
 
 Suggested lectures:
 * [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
