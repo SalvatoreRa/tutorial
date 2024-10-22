@@ -749,12 +749,14 @@ As you can see from the image below, we can see the progressive sparsification e
 
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_trained.png?raw=true)
 
-## Application of KAN
+## Applications of KAN
 
 Several articles have come out today that present the application of KANs, below are some examples of applications:
 * KAN-based models for medical image segmentation ([U-net based](https://arxiv.org/abs/2406.02918)) have been proposed in computer vision.
 
-Seeing some applications in detail, [this study](https://arxiv.org/abs/2409.04290) proposes an extension of KANs for survival modeling (called time-to-event analysis, where they model time until an event happens). In this task, deep learning-based models usually perform better than traditional machine learning models but at the cost of loss of interpretability.
+Seeing some applications in detail, [this study](https://arxiv.org/abs/2409.04290) proposes an extension of KANs for survival modeling (called time-to-event analysis, where they model time until an event happens). In this task, deep learning-based models usually perform better than traditional machine learning models but at the cost of loss of interpretability. Precisely because of the need for interpretability, KANs have been considered a good alternative:
+
+*The key contributions of this paper are in demonstrating that (a) CoxKAN finds interpretable symbolic formulas for the hazard function, (b) CoxKAN identifies biomarkers and complex variable interactions, and (c) CoxKAN achieves performance that is superior to CoxPH and consistent with or better than DeepSurv (the equivalent MLP-based model). --[source](https://arxiv.org/pdf/2409.04290)*
 
 
 Suggested lectures:
