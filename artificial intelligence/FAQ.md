@@ -749,6 +749,13 @@ As you can see from the image below, we can see the progressive sparsification e
 
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_trained.png?raw=true)
 
+## Application of KAN
+
+Several articles have come out today that present the application of KANs, below are some examples of applications:
+* KAN-based models for medical image segmentation ([U-net based](https://arxiv.org/abs/2406.02918)) have been proposed in computer vision.
+
+Seeing some applications in detail, [this study](https://arxiv.org/abs/2409.04290) proposes an extension of KANs for survival modeling (called time-to-event analysis, where they model time until an event happens). In this task, deep learning-based models usually perform better than traditional machine learning models but at the cost of loss of interpretability.
+
 
 Suggested lectures:
 * [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
