@@ -1619,7 +1619,43 @@ Small LMs (SLMs) are not simply LLMs with fewer parameters but they too have gon
 
 *With such criteria, we select 59 SLMs as detailed in Table 1. Our selection encompasses a wide range of models from both industry and academia, based on factors such as model architecture, parameter size, and data availability. While all selected SLMs share similar architectures, they differ in specific hyperparameters and training datasets, with some datasets remaining closed-source. These variations lead to differing performance across tasks--[source](https://arxiv.org/pdf/2409.15790)*
 
+The authors present in this survey the various modifications that have been conducted in respect to the original transformer.
 
+![transformer modification in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/transformer_block.png?raw=true) *The architecture modification of the SLM, highlighting 6 configurations: attention type, FFN type, FFN ratio, FFN activation, vocabulary size, and normalization type. from [here](https://arxiv.org/pdf/2409.15790)*
+
+The attention mechanism has been modified since its first appearance, and today we can see four types of attention mechanism:
+* **Multi-Head Attention (MHA)** or the original version, where we have different attention heads.
+* **Multi-Query Attention (MQA)** is a simplified version of MHA where queries are shared across all heads (single key and value, but we have different key and value projections due to different queries). This reduces both complexity and time.
+* **Group-Query Attention (GQA)** Similar to MQA we have queries are shared across all heads but we have separate key and value (heads are grouped, so one key/value for some of the heads). This system tries to reduce complexity while balancing the expressiveness of the model (effectiveness and diversity).
+* **Multi-Head Latent Attention (MLA)** low-rank key-value joint compression to reduce the complexity of the attention mechanism. In other words, there is a projection step before the calculation of MHA.
+
+![The type of self-attention in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/attention_mechanism_SLM_modification.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+
+Two variants exist today with regard to feed-forward networks:
+* **Standard FFN** Two layers of neurons with nonlinear activation (e.g., classical MLP).
+* **Gated FFN** There is an additional gate layer that allows the network to control and regulate the flow of information.
+
+![The type of feed-forward neural network in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/FFNN_SLM_modification.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+
+Another parameter that is evaluated is the intermediate ratio of the feed-forward network (size of the middle layer in relation to the whole network). For example, if the intermediate ratio is 4, it means that the hidden layer in the middle of the feed-forward network is 4 times larger than the input/output layer of the network. This is also called temporal expansion and allows more complex transformations thus learning a better representation of the data.
+
+Size is also an important parameter, and there have been variations in vocabulary size.
+
+![The type of feed-forward neural network in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/ratio_vocabulary_size_slm.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+
+There have also been changes in the activation function of feed-forward neural networks (FFN), in the transformers these functions are found:
+* **ReLU (Rectified Linear Unit)**.
+* **GELU (Gaussian Error Linear Unit)** allows smoothing between zero and positive values.
+* **SiLU (Sigmoid Linear Unit)** a combination of the properties of the sigmoid and ReLU
+* **GeLU TanH**
+
+![ The activation function of the feed-forward neural network](https://github.com/SalvatoreRa/tutorial/blob/main/images/activation_slm.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+
+Finally, we have several types of layered normalization: 
+**LayerNorm** Normalizes all features in a layer. t takes the mean and variance of all features in a layer (or the entire set of input features) and scales them to have zero mean and unit variance. After normalization, the learned scaling and shift parameters are applied.
+* **RMSNorm** focuses only on normalizing the variance (i.e., the “scaling” of the input), without centering the data by subtracting the mean. It calculates the root mean square (RMS) of the input and scales the data according to this.
+
+![The type of layer normalization in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/layer_norm_SLM.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
 
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
