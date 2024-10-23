@@ -1612,6 +1612,7 @@ There are three scenarios in which it is better to have a small LM than a large 
 * **Interpretability-required Environment** As regulations grow there are now areas or tasks where an interpretable model is required.  For example, in healthcare, it is important to have interpretable models and to understand why a model makes a decision. Smaller models are more interpretable. 
 
 suggested lectures:
+* [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
 * [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
 
 </details>
