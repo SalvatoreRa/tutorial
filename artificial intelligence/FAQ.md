@@ -1623,10 +1623,10 @@ The authors present in this survey the various modifications that have been cond
 
 ![transformer modification in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/transformer_block.png?raw=true) *The architecture modification of the SLM, highlighting 6 configurations: attention type, FFN type, FFN ratio, FFN activation, vocabulary size, and normalization type. from [here](https://arxiv.org/pdf/2409.15790)*
 
-The attention mechanism has been modified since its first appearance, and today we can see four types of attention mechanism:
+The attention mechanism has been modified since its first appearance, and today we can see four types of attention mechanisms:
 * **Multi-Head Attention (MHA)** or the original version, where we have different attention heads.
 * **Multi-Query Attention (MQA)** is a simplified version of MHA where queries are shared across all heads (single key and value, but we have different key and value projections due to different queries). This reduces both complexity and time.
-* **Group-Query Attention (GQA)** Similar to MQA we have queries are shared across all heads but we have separate key and value (heads are grouped, so one key/value for some of the heads). This system tries to reduce complexity while balancing the expressiveness of the model (effectiveness and diversity).
+* **Group-Query Attention (GQA)** Similar to MQA we have queries that are shared across all heads but we have separate keys and values (heads are grouped, so one key/value for some of the heads). This system tries to reduce complexity while balancing the expressiveness of the model (effectiveness and diversity).
 * **Multi-Head Latent Attention (MLA)** low-rank key-value joint compression to reduce the complexity of the attention mechanism. In other words, there is a projection step before the calculation of MHA.
 
 ![The type of self-attention in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/attention_mechanism_SLM_modification.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
@@ -1656,6 +1656,16 @@ Finally, we have several types of layered normalization:
 * **RMSNorm** focuses only on normalizing the variance (i.e., the “scaling” of the input), without centering the data by subtracting the mean. It calculates the root mean square (RMS) of the input and scales the data according to this.
 
 ![The type of layer normalization in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/layer_norm_SLM.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+
+The authors analyze the different trends by showing:
+* MHA appears to be slowly being replaced by GQA.
+* Standard FFN is being replaced by Gated FFN. Today almost all models use the latter.
+* The intermediate ratio of the feed-forward neural network is set at 4 for Standard FFN while there is a different range for Gated FFNN (2 to 8).
+* The vocabulary size is the number of unique tokens an SLM can recognize and this value has grown over the years to be greater than 50K
+* The type of layer normalization in the original transformer was LayerNorm, today most new models use RMS normalization
+
+![architecture trends in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/architecture_trend.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+
 
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
