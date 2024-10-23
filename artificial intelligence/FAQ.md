@@ -1666,6 +1666,8 @@ The authors analyze the different trends by showing:
 
 ![architecture trends in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/architecture_trend.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
 
+*As of August 2024, a typical SLM architecture tends to use group-query attention, gated FFN with SiLU activation, an intermediate ratio of FFN between 2 and 8, RMS normalization, and a vocabulary size larger than 50K. However, the choice of such settings is mostly empirical, without strict and public validation on the superiority of such model’s capacity --[source](https://arxiv.org/pdf/2409.15790)*
+
 
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
