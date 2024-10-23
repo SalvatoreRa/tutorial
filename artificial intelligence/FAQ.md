@@ -1609,7 +1609,17 @@ Similarly, LLMs can enable the enhancement of small models:
 There are three scenarios in which it is better to have a small LM than a large LLM:
 * **Computation-constrained environment** LLMs are expensive both to train and in inference, plus this means more latency. You don't always have the resources for either training or deployment, in these conditions it is better to go for a small LM. Often you do not even need an LLm but a fine-tuned model on a specific dataset
 * **Task-specific environment** For some domains the number of datasets is limited, and an LLM could not be trained. A small LLM fine-tuned on these data gives better results than a large LLM (conducting the fine-tuning of an LLM is an expensive task, and conducting multiple updates is not ideal). 
-* **Interpretability-required Environment** As regulations grow there are now areas or tasks where an interpretable model is required.  For example, in healthcare, it is important to have interpretable models and to understand why a model makes a decision. Smaller models are more interpretable. 
+* **Interpretability-required Environment** As regulations grow there are now areas or tasks where an interpretable model is required.  For example, in healthcare, it is important to have interpretable models and to understand why a model makes a decision. Smaller models are more interpretable.
+
+## Evolution of small LLMs
+
+![SLMs have gained increasing attention from both the research and industrial communities](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM_enhance_small_LM.png?raw=true) *SLMs have gained increasing attention from both the research and industrial communities. from [here](https://arxiv.org/pdf/2409.15790)*
+
+Small LMs (SLMs) are not simply LLMs with fewer parameters but they too have gone through an evolution. Recently [this survey](https://arxiv.org/abs/2409.15790) analyzed them:
+
+*With such criteria, we select 59 SLMs as detailed in Table 1. Our selection encompasses a wide range of models from both industry and academia, based on factors such as model architecture, parameter size, and data availability. While all selected SLMs share similar architectures, they differ in specific hyperparameters and training datasets, with some datasets remaining closed-source. These variations lead to differing performance across tasks--[source](https://arxiv.org/pdf/2409.15790)*
+
+
 
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
