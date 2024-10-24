@@ -1627,19 +1627,19 @@ The attention mechanism has been modified since its first appearance, and today 
 * **Group-Query Attention (GQA)** Similar to MQA we have queries that are shared across all heads but we have separate keys and values (heads are grouped, so one key/value for some of the heads). This system tries to reduce complexity while balancing the expressiveness of the model (effectiveness and diversity).
 * **Multi-Head Latent Attention (MLA)** low-rank key-value joint compression to reduce the complexity of the attention mechanism. In other words, there is a projection step before the calculation of MHA.
 
-![The type of self-attention in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/attention_mechanism_SLM_modification.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+![The type of self-attention in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/attention_mechanism_SLM_modification.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
 Two variants exist today with regard to feed-forward networks:
 * **Standard FFN** Two layers of neurons with nonlinear activation (e.g., classical MLP).
 * **Gated FFN** There is an additional gate layer that allows the network to control and regulate the flow of information.
 
-![The type of feed-forward neural network in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/FFNN_SLM_modification.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+![The type of feed-forward neural network in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/FFNN_SLM_modification.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
 Another parameter that is evaluated is the intermediate ratio of the feed-forward network (size of the middle layer in relation to the whole network). For example, if the intermediate ratio is 4, it means that the hidden layer in the middle of the feed-forward network is 4 times larger than the input/output layer of the network. This is also called temporal expansion and allows more complex transformations thus learning a better representation of the data.
 
 Size is also an important parameter, and there have been variations in vocabulary size.
 
-![The type of feed-forward neural network in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/ratio_vocabulary_size_slm.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+![The type of feed-forward neural network in SLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/ratio_vocabulary_size_slm.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
 There have also been changes in the activation function of feed-forward neural networks (FFN), in the transformers these functions are found:
 * **ReLU (Rectified Linear Unit)**.
@@ -1647,13 +1647,13 @@ There have also been changes in the activation function of feed-forward neural n
 * **SiLU (Sigmoid Linear Unit)** a combination of the properties of the sigmoid and ReLU
 * **GeLU TanH**
 
-![ The activation function of the feed-forward neural network](https://github.com/SalvatoreRa/tutorial/blob/main/images/activation_slm.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+![ The activation function of the feed-forward neural network](https://github.com/SalvatoreRa/tutorial/blob/main/images/activation_slm.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
 Finally, we have several types of layered normalization: 
 **LayerNorm** Normalizes all features in a layer. t takes the mean and variance of all features in a layer (or the entire set of input features) and scales them to have zero mean and unit variance. After normalization, the learned scaling and shift parameters are applied.
 * **RMSNorm** focuses only on normalizing the variance (i.e., the “scaling” of the input), without centering the data by subtracting the mean. It calculates the root mean square (RMS) of the input and scales the data according to this.
 
-![The type of layer normalization in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/layer_norm_SLM.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+![The type of layer normalization in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/layer_norm_SLM.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
 The authors analyze the different trends by showing:
 * MHA appears to be slowly being replaced by GQA.
@@ -1662,7 +1662,7 @@ The authors analyze the different trends by showing:
 * The vocabulary size is the number of unique tokens an SLM can recognize and this value has grown over the years to be greater than 50K
 * The type of layer normalization in the original transformer was LayerNorm, today most new models use RMS normalization
 
-![architecture trends in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/architecture_trend.png?raw=true) *. from [here](https://arxiv.org/pdf/2409.15790)*
+![architecture trends in SLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/architecture_trend.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
 *As of August 2024, a typical SLM architecture tends to use group-query attention, gated FFN with SiLU activation, an intermediate ratio of FFN between 2 and 8, RMS normalization, and a vocabulary size larger than 50K. However, the choice of such settings is mostly empirical, without strict and public validation on the superiority of such model’s capacity --[source](https://arxiv.org/pdf/2409.15790)*
 
@@ -1672,14 +1672,16 @@ Another intriguing point is that there are some innovations in the model archite
 * **Connect input and output embeddings**: Input embeddings (used to convert words or tokens into vectors) and output embeddings (used to predict the next token) can share the same parameters. This reduces the number of parameters learned without significant loss of accuracy.
 * **Level Sharing (Weight Tying)**: Some models share parameters among different levels of the network. Instead of learning different sets of weights for each layer, a single set of weights is reused across multiple layers. For example, the weights of the attention mechanism or feed-forward layers can be the same in different layers, helping to reduce the model footprint.
 
-![parameter sharing in small language model](https://github.com/SalvatoreRa/tutorial/blob/main/images/parameter_sharing.png?raw=true) *. from [here](https://arxiv.org/pdf/2306.09380)*
+![parameter sharing in small language model](https://github.com/SalvatoreRa/tutorial/blob/main/images/parameter_sharing.png?raw=true) *from [here](https://arxiv.org/pdf/2306.09380)*
 
-Nonlinearity compensation was introduced by [this article](https://arxiv.org/abs/2312.17276) where they note the so-called feature collapse phenomenon. In the deeper layers of an LLM, the variety in the features (or their representation) is reduced. So in deeper layers, features are more similar to each other, which impacts quality and creativity of the model. In this paper, they solve increasing the nonlinearity of the model with augmented shortcuts into the Multi-Head Attention (MHA) and a series activation function to the FFNN layer.
+Nonlinearity compensation was introduced by [this article](https://arxiv.org/abs/2312.17276) where they note the so-called feature collapse phenomenon. In the deeper layers of an LLM, the variety in the features (or their representation) is reduced. So in deeper layers, features are more similar to each other, which impacts quality and creativity of the model. In this paper, they solved the problem with increasing the nonlinearity of the model with augmented shortcuts into the Multi-Head Attention (MHA) and a series activation function to the FFNN layer.
 
-![Nonlinearity compensatio in small language model](https://github.com/SalvatoreRa/tutorial/blob/main/images/parameter_sharing.png?raw=true) *. from [here](https://arxiv.org/pdf/2312.17276)*
+![Nonlinearity compensatio in small language model](https://github.com/SalvatoreRa/tutorial/blob/main/images/nonlinear_compensation.png?raw=true) *from [here](https://arxiv.org/pdf/2312.17276)*
 
+They note in the article that data quality is critical to the quality of the model. For example, SLMs that are state-of-the-art take special care with datasets. Also, today t SLMs are trained over large amounts of tokens (typically >1.5T, but even up to 12T). These models would theoretically be over-trained (at least according to [Chinchilla's scaling law](https://arxiv.org/abs/2203.15556)). Being over-trained though would have utility for SLMs that are deployed on resource-constrained devices. 
+The performance of SLMs grew from 2022 to 2024, showing future potential for SLMs on devices. it is true that larger models usually perform better, but smaller models can still excel at specific tasks. SLMs show good in-context learning ability, although they remain inferior to the large closed-source LLMs.  These SLMs are closing the gap with closed-source models and commonsense tasks, though there remains a significant in tasks requiring complex reasoning or logic.
 
-
+![SLM capabilities over time](https://github.com/SalvatoreRa/tutorial/blob/main/images/SLM_capabilities.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
