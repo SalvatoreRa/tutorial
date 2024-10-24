@@ -1683,6 +1683,12 @@ The performance of SLMs grew from 2022 to 2024, showing future potential for SLM
 
 ![SLM capabilities over time](https://github.com/SalvatoreRa/tutorial/blob/main/images/SLM_capabilities.png?raw=true) *from [here](https://arxiv.org/pdf/2409.15790)*
 
+Other results shown in the survey are:
+* Apart from the model size, the model architecture also impacts latency. Factors such as the number of layers, the width of the FFNN, the vocabulary size, and whether parameters are shared play significant roles. The impact on memory is related to the number of parameters and the size of the vocabulary.
+* Greater quantization accuracy, better performance. 4-Bit seems to be a sweet spot.
+* Prefill phase is the most important phase for using GPU in inference (feed the prompt to the model) while decoding is conducted one token at a time. matrix by vector multiplication seems to be the most time-consuming operation (70% end-to-end inference time). Increasing context length seriously impacts memory utilization.
+
+
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
 * [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
