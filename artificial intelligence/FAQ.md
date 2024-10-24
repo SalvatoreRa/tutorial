@@ -1666,6 +1666,13 @@ The authors analyze the different trends by showing:
 
 *As of August 2024, a typical SLM architecture tends to use group-query attention, gated FFN with SiLU activation, an intermediate ratio of FFN between 2 and 8, RMS normalization, and a vocabulary size larger than 50K. However, the choice of such settings is mostly empirical, without strict and public validation on the superiority of such model’s capacity --[source](https://arxiv.org/pdf/2409.15790)*
 
+Another intriguing point is that there are some innovations in the model architecture for SLM and that are present in modern SLMs today: Layer-wise parameter scaling and Nonlinearity compensation.
+
+**[Layer-wise parameter scaling](https://arxiv.org/pdf/2306.09380)** is a technique that allows the same set of weights to be reused in different parts of the model (thus reducing the number of parameters but maintaining performance). We can typically see two approaches: 
+* **Connect input and output embeddings**: Input embeddings (used to convert words or tokens into vectors) and output embeddings (used to predict the next token) can share the same parameters. This reduces the number of parameters learned without significant loss of accuracy.
+* **Level Sharing (Weight Tying)**: Some models share parameters among different levels of the network. Instead of learning different sets of weights for each layer, a single set of weights is reused across multiple layers. For example, the weights of the attention mechanism or feed-forward layers can be the same in different layers, helping to reduce the model footprint.
+
+![parameter sharing in small language model](https://github.com/SalvatoreRa/tutorial/blob/main/images/parameter_sharing.png?raw=true) *. from [here](https://arxiv.org/pdf/2306.09380)*
 
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
