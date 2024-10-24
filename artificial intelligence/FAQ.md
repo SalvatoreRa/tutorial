@@ -1674,6 +1674,13 @@ Another intriguing point is that there are some innovations in the model archite
 
 ![parameter sharing in small language model](https://github.com/SalvatoreRa/tutorial/blob/main/images/parameter_sharing.png?raw=true) *. from [here](https://arxiv.org/pdf/2306.09380)*
 
+Nonlinearity compensation was introduced by [this article](https://arxiv.org/abs/2312.17276) where they note the so-called feature collapse phenomenon. In the deeper layers of an LLM, the variety in the features (or their representation) is reduced. So in deeper layers, features are more similar to each other, which impacts quality and creativity of the model. In this paper, they solve increasing the nonlinearity of the model with augmented shortcuts into the Multi-Head Attention (MHA) and a series activation function to the FFNN layer.
+
+![Nonlinearity compensatio in small language model](https://github.com/SalvatoreRa/tutorial/blob/main/images/parameter_sharing.png?raw=true) *. from [here](https://arxiv.org/pdf/2312.17276)*
+
+
+
+
 suggested lectures:
 * [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
 * [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
