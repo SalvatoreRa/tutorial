@@ -1335,11 +1335,11 @@ Moreover, not everyone agrees on the real existence of these emerging properties
 
 *" There are also extensive debates on the rationality of emergent abilities. A popular speculation is that emergent abilities might be partially attributed to the evaluation setting for special tasks (e.g., the discontinuous evaluation metrics)."*-[source](https://arxiv.org/pdf/2303.18223.pdf)
 
-So using discontinuous metrics favors the appearance of discontinuous properties (aka emergent properties). [In addition](https://www.jasonwei.net/blog/common-arguments-regarding-emergent-abilities), we considered only a few datapoints (1B, 7B, 13B, 70B, 150B) and have no results for intermediate points, this favors discontinuous behavior (if we had more datapoints many properties would be less discontinuous). The unpredictability itself is also controversial. In fact, many behaviors of an LLM can be predicted with smaller models (although a difficult task both at the technical level and because there are still things we are not clear about the scaling of LLMs).
+So using discontinuous metrics favors the appearance of discontinuous properties (aka emergent properties). [In addition](https://www.jasonwei.net/blog/common-arguments-regarding-emergent-abilities), we considered only a few data points (1B, 7B, 13B, 70B, 150B) and have no results for intermediate points, this favors discontinuous behavior (if we had more data points many properties would be less discontinuous). The unpredictability itself is also controversial. In fact, many behaviors of an LLM can be predicted with smaller models (although a difficult task both at the technical level and because there are still things we are not clear about the scaling of LLMs).
 
 At present only definition 2 stands (the property emerges without the model being trained for it). This definition is a bit vague and could refer to one of two cases:
 * The property emerges even if the model is not exposed to the data for that property.
-* the model is exposed to the data for the property but the developers do not know about it.
+* The model is exposed to the data for the property but the developers do not know about it.
 
 The problem is that we don't know that we don't know what is in the training set of many LLMs (especially the closed-source ones). For example, [ChatGPT is not trained to play chess](https://www.reddit.com/r/AnarchyChess/comments/10ydnbb/i_placed_stockfish_white_against_chatgpt_black/) but because there is a huge amount of discussion on the internet about chess the model has been exposed about the game of chess, rules, moves used by users and so on. This then makes it complicated to decide whether a property is emergent or not (especially if we don't know what the model has seen).
 
