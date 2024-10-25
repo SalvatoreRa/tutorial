@@ -1302,7 +1302,7 @@ A [later work](https://arxiv.org/abs/2407.13623) suggests that vocabulary size a
 ![Vocabulary scaling law](https://github.com/SalvatoreRa/tutorial/blob/main/images/vocabulary_scaling_law.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2407.13623)*
 
-After the publication of [ChatGPT4-o1](https://openai.com/index/introducing-openai-o1-preview/), extending the scaling law to inference time was also discussed. ChatGPT4-o1 was trained on large amount of chain-of-thoughts (i.e., with a series of reasoning intermediates) to improve its reasoning ability. The model is then trained to conduct a whole series of reasoning steps to improve its ability on complex problems requiring reasoning. 
+After the publication of [ChatGPT4-o1](https://openai.com/index/introducing-openai-o1-preview/), extending the scaling law to inference time was also discussed. ChatGPT4-o1 was trained on a large amount of chain-of-thoughts (i.e., with a series of reasoning intermediates) to improve its reasoning ability. The model is then trained to conduct a whole series of reasoning steps to improve its ability on complex problems requiring reasoning. 
 
 *We have found that the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).--[source](https://openai.com/index/learning-to-reason-with-llms/)*
 
@@ -1343,10 +1343,19 @@ At present only definition 2 stands (the property emerges without the model bein
 
 The problem is that we don't know that we don't know what is in the training set of many LLMs (especially the closed-source ones). For example, [ChatGPT is not trained to play chess](https://www.reddit.com/r/AnarchyChess/comments/10ydnbb/i_placed_stockfish_white_against_chatgpt_black/) but because there is a huge amount of discussion on the internet about chess the model has been exposed about the game of chess, rules, moves used by users and so on. This then makes it complicated to decide whether a property is emergent or not (especially if we don't know what the model has seen).
 
+There are also many others for which many researchers remain skeptical of emergent properties. The first reason is **prompt sensitivity** or the phenomenon that LLMs respond differently depending on the prompt (even though the semantic meaning is equivalent). This is a phenomenon observed in all LLMs and would seem to indicate that LLMs are more of statistical pattern machines than capable of reasoning. In this study they show how [in-context learning depends on the structure of the prompt](https://aclanthology.org/2022.acl-long.556/). In [other paper](https://arxiv.org/pdf/2406.11050) they show how perturbations of the prompt cause reduced performance. If the pattern were capable of reasoning or if it were an emergent property this phenomenon should not happen. On the contrary, the appearance of this phenomenon indicates that the model is just matching the request in the prompt in the data. This phenomenon is also called **Token bias** and indicates that the model is biased toward data that it saw in the training:
 
-In contrast, subsequent articles renew interest in [emerging properties](https://en.wikipedia.org/wiki/Emergence). According to [this article](https://arxiv.org/abs/2408.12578) agree we need another definition of emergent property. Therefore, the authors define three properties that an emergent property must have (this is inspired by physics where emergent properties are well characterized):
+*A strong token bias suggests that the model is relying on superficial patterns in the input rather than truly understanding the underlying reasoning task--[source](https://arxiv.org/pdf/2406.11050)*
+
+![example of token bias in LLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM_unable_reasoning.png?raw=true)
+*from the [original article](https://arxiv.org/pdf/2406.11050)*
+
+Another indication is that the model seems to regurgitate data more than it understands (the model then only performs correctly if it has seen the data). [This article](https://arxiv.org/abs/2211.09110) shows that there is a correlation between model accuracy and copyright issue risk. 
+
+In contrast, subsequent articles renew interest in [emerging properties](https://en.wikipedia.org/wiki/Emergence). [This article](https://arxiv.org/abs/2408.12578) agree we need another definition of emergent property. Therefore, the authors define three properties that an emergent property must have (this is inspired by physics where emergent properties are well characterized):
 
 *Specifically, we argue three characteristics should be observed to claim a capability is emergent (see Def. 1): beyond (i) sudden performance improvement for a specific task, we claim emergence is more likely to represent a meaningful concept if (ii) performance on several tasks improves simultaneously and (iii) there are precise structural changes in the model at the point of emergence. The intuition, borrowed from the study of emergence in other fields -[source](https://arxiv.org/pdf/2408.12578)*
+
 
 
 ![definition of emergent properties in LLMs](https://github.com/SalvatoreRa/tutorial/blob/main/images/emergent_properties_llm_definition.png?raw=true)
