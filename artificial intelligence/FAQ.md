@@ -30,7 +30,7 @@ Python is a great ecosystem for data science, on the other hand, some basic anal
 * **Improve storage** since it leverages Apache Arrow.
 * **File scanning** which allows you to work with very large files without necessarily keeping the whole file in memory
 
-**Polars** also is similar to Pandas in syntax so switching between libraries is fairly easy. Since there is a larger ecosystem compatible with Pandas, it is recommended to use it for small/medium datasets and use Polars for huge datasets
+**Polars** also is similar to Pandas in syntax so switching between libraries is fairly easy. Since there is a larger ecosystem compatible with Pandas, it is recommended to use it for small/medium datasets and use Polars for huge datasets.
   
 </details>
 
