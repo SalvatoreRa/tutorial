@@ -187,7 +187,7 @@ cross-validation leads to predictions that are overly optimistic (overly confide
 <details>
   <summary><b>Should I use Class imbalance corrections?</b></summary>
   
-  In general, there are plenty of methods for correcting class imbalance data, though it is not always a good idea to do so. **Imbalance data** is when in a classification dataset there is an overabundance of one of the class labels. In this case, the most abundant class is called majority class and the other minority class (this is in the case of binary classification, but class imbalance can also occur in the case of multiclass classification).
+  In general, there are plenty of methods for correcting class imbalance data, though it is not always a good idea to do so. **Imbalance data** is when in a classification dataset there is an overabundance of one of the class labels. In this case, the most abundant class is called the majority class and the other minority class (this is in the case of binary classification, but class imbalance can also occur in the case of multiclass classification).
 
   ![neuron](https://github.com/SalvatoreRa/tutorial/blob/main/images/imbalance_data.png?raw=true)
 *from [here](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data)*
@@ -196,7 +196,7 @@ Generally, the most commonly used strategies are:
 * **Downsample the majority class.** in this case the goal is to reduce the number of examples in the majority class to have a balanced dataset (but we risk losing information).
 * **Upsampling of the minority class.** conversely we increase the number of examples in the minority class by exploiting machine learning or artificial intelligence approaches (this can introduce bias though)
 
-For example, when we are interested in a well-calibrated model, oversampling may do more harm than not. A calibrated model is when we can interpret he output of such a model in terms of a probability. We might actually think that all models are calibrated, but in general models are overconfident (for example in the case of binary classification, an overconfident model predicts values close to 0 and 1 in many cases where they should not do). 
+For example, when we are interested in a well-calibrated model, oversampling may do more harm than not. A calibrated model is when we can interpret the output of such a model in terms of probability. We might actually think that all models are calibrated, but in general, models are overconfident (for example in the case of binary classification, an overconfident model predicts values close to 0 and 1 in many cases where they should not do). 
 
 *"Model calibration captures the accuracy of risk estimates, relating to the agreement between the estimated (predicted) and observed number of events. In clinical applications where a patient’s predicted risk is the entity used to inform clinical decisions, it is essential to assess model calibration. If a model is poorly calibrated, it may produce risk estimates that do not approximate a patient’s true risk well [3]. A poorly calibrated model may produce predicted risks that consistently over- or under-estimate true risk or that are too extreme (too close to 0 or 1) or too modest (too close to event prevalence)"* -- from [here](https://arxiv.org/pdf/2404.19494)
 
