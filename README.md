@@ -289,6 +289,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Through the Uncanny Mirror: Do LLMs Remember Like the Human Mind?](https://towardsdatascience.com/through-the-uncanny-mirror-do-llms-remember-like-the-human-mind-cc9c63677610)| -- |Exploring the Eerie Parallels and Profound Differences Between AI and Human Memory |
 | [Lie to Me: Why Large Language Models Are Structural Liars](https://levelup.gitconnected.com/lie-to-me-why-large-language-models-are-structural-liars-d94bc14e522b) | -- | Unveiling the Inherent Hallucinations and Limitations of AI-Language Models|
 | [How the LLM Got Lost in the Network and Discovered Graph Reasoning](https://towardsdatascience.com/how-the-llm-got-lost-in-the-network-and-discovered-graph-reasoning-e2736bd04efa) | -- |Enhancing large language models: A journey through graph reasoning and instruction-tuning |
 | [AI Emergent Properties: What Makes AI Suddenly Learn New Tricks](https://levelup.gitconnected.com/ai-emergent-properties-what-makes-ai-suddenly-learn-new-tricks-d03639cf902e) | -- | The Critical Moment: When and Why AI Learns New Abilities|
@@ -375,6 +376,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Kolmogorov-Arnold Transformer (KAT): Is the MLP Headed for Retirement?](https://levelup.gitconnected.com/kolmogorov-arnold-transformer-kat-is-the-mlp-headed-for-retirement-d5958ea8da71)| -- |Exploring how the Kolmogorov-Arnold Transformer (KAT) challenges the MLP dominance in modern deep-learning |
 | [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
 | [DeepMind’s AlphaProof: Achieving Podium Glory at the Math Olympiad Model](https://levelup.gitconnected.com/deepminds-alphaproof-achieving-podium-glory-at-the-math-olympiadmodel-61cf9ecc1f9f) | -- |Google DeepMind’s new artificial intelligence systems can solve complex mathematical problems |
 | [Google Gemma: is it Really a Gem?](https://levelup.gitconnected.com/google-gemma-is-it-really-a-gem-5b76d6607d3b) | -- |Google has just released two new open-source LLMs and is pushing for their adoption|
