@@ -350,6 +350,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Neighbors Count: Boosting Document Embeddings with Contextual Encoding](https://levelup.gitconnected.com/neighbors-count-boosting-document-embeddings-with-contextual-encoding-bc31bf1dd301)| -- | Harnessing Neighboring Documents to Elevate Retrieval Accuracy through Context-Aware Embeddings|
+|[AI Search Engine: Finding Ariadne’s Thread or Losing the Way](https://ai.gopubby.com/ai-search-engine-finding-ariadnes-thread-or-losing-the-way-ab8d446d0715)| -- |Exploring the Pathways and Pitfalls of Multimodal AI Search with Large Language Models |
 | [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f) | -- |Unveiling the Dual Nature of Noise in Retrieval-Augmented Generation |
 | [J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal](https://ai.gopubby.com/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4) | -- |Reassessing Retrieval-Augmented Generation in the Age of Long-Context Models |
 | [The Convergence of Graph and Vector RAGs: A New Era in Information Retrieval](https://levelup.gitconnected.com/the-convergence-of-graph-and-vector-rags-a-new-era-in-information-retrieval-b5773a723615) | -- |Harnessing the Power of Hybrid Models to Transform AI-Driven Knowledge Systems |
