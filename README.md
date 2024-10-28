@@ -291,6 +291,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Believe In Yourself: Do LLMs Internally Know What Is True?](https://levelup.gitconnected.com/believe-in-yourself-do-llms-internally-know-what-is-true-4d0d08ec45b5)| -- |Leveraging Internal Representations to Detect and Understand Errors in Large Language Models |
+|[Taming the Attention Hydra: Is Too Much Attention Slowing Down Transformers](https://levelup.gitconnected.com/taming-the-attention-hydra-is-too-much-attention-slowing-down-transformers-999092f32c89)| -- |Pruning Attention Layers to Boost Transformer Efficiency Without Performance Loss |
+|[Speak About Yourself: Using SAEs and LLMs to Decode the Inner Workings of LLMs](https://ai.gopubby.com/speak-about-yourself-using-saes-and-llms-to-decode-the-inner-workings-of-llms-c8e74545d538)| -- |How Sparse Autoencoders and Language Models Collaborate to Make Complex Neural Activations Understandable |
 |[Through the Uncanny Mirror: Do LLMs Remember Like the Human Mind?](https://towardsdatascience.com/through-the-uncanny-mirror-do-llms-remember-like-the-human-mind-cc9c63677610)| -- |Exploring the Eerie Parallels and Profound Differences Between AI and Human Memory |
 | [Lie to Me: Why Large Language Models Are Structural Liars](https://levelup.gitconnected.com/lie-to-me-why-large-language-models-are-structural-liars-d94bc14e522b) | -- | Unveiling the Inherent Hallucinations and Limitations of AI-Language Models|
 | [How the LLM Got Lost in the Network and Discovered Graph Reasoning](https://towardsdatascience.com/how-the-llm-got-lost-in-the-network-and-discovered-graph-reasoning-e2736bd04efa) | -- |Enhancing large language models: A journey through graph reasoning and instruction-tuning |
