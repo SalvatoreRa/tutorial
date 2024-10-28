@@ -1350,10 +1350,12 @@ There are also many others for which many researchers remain skeptical of emerge
 ![example of token bias in LLM](https://github.com/SalvatoreRa/tutorial/blob/main/images/LLM_unable_reasoning.png?raw=true)
 *from the [original article](https://arxiv.org/pdf/2406.11050)*
 
-Another indication is that the model seems to regurgitate data more than it understands (the model then only performs correctly if it has seen the data). [This article](https://arxiv.org/abs/2211.09110) shows that there is a correlation between model accuracy and copyright issue risk. This agrees with the results of [this study](https://arxiv.org/pdf/2309.13638) where the performance of the model depends on the frequency in the given training
+Another indication is that the model seems to regurgitate data more than it understands (the model then only performs correctly if it has seen the data). [This article](https://arxiv.org/abs/2211.09110) shows that there is a correlation between model accuracy and copyright issue risk. This agrees with the results of [this study](https://arxiv.org/pdf/2309.13638) where the performance of the model depends on the frequency of the words in the given training
 
 ![Effects on the performance of large language models that are attributable to the fact that they are statistical next-word prediction systems.](https://github.com/SalvatoreRa/tutorial/blob/main/images/sensibility_probability.png?raw=true)
 *from the [original article](https://arxiv.org/pdf/2309.13638)*
+
+
 
 In contrast, subsequent articles renew interest in [emerging properties](https://en.wikipedia.org/wiki/Emergence). [This article](https://arxiv.org/abs/2408.12578) agree we need another definition of emergent property. Therefore, the authors define three properties that an emergent property must have (this is inspired by physics where emergent properties are well characterized):
 
