@@ -204,6 +204,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[AI Planning or Serendipity? Where Do the Best Research Ideas Come From?](https://ai.gopubby.com/ai-planning-or-serendipity-where-do-the-best-research-ideas-come-from-f8e5e6692964)| -- |Can AI Planning Replace Human Researchers in Generating Novel Ideas? |
+|[Charting the Linguistic Seas: Navigating the Uncharted Waters of Human Language with an LLM](https://levelup.gitconnected.com/charting-the-linguistic-seas-navigating-the-uncharted-waters-of-human-language-with-an-llm-209363b45c50)| -- |Exploring the Brain’s Language Networks with Spatially Organized AI |
 | [A Brave New World for Scientific Discovery: Are AI Research Ideas Better?](https://levelup.gitconnected.com/a-brave-new-world-for-scientific-discovery-are-ai-research-ideas-better-5692c5aa8182) | -- | Can AI Lead Scientific Discovery? Or it is just another uchronia?|
 | [DeepMind’s AlphaProteo: Revolutionizing Protein Design with Machine Learning](https://levelup.gitconnected.com/deepminds-alphaproteo-revolutionizing-protein-design-with-machine-learning-6ace4e725350) | -- | Harnessing AI to Create High-Affinity Protein Binders in a Single Step|
 |[Can AI Replace Human Researchers](https://levelup.gitconnected.com/can-ai-replace-human-researchers-50fcc43ea587)| -- | The AI Scientist: Does Sakana New Method Mean Fully Automated Research?|
