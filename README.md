@@ -378,6 +378,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Less Distraction, More Precision: The Diff Transformer’s Secret to Better Language Models](https://ai.gopubby.com/less-distraction-more-precision-the-diff-transformers-secret-to-better-language-models-77abbab6fe3e)| -- | Unlocking Efficiency in AI: How the Diff Transformer Filters Noise to Enhance Accuracy and Performance|
 |[Kolmogorov-Arnold Transformer (KAT): Is the MLP Headed for Retirement?](https://levelup.gitconnected.com/kolmogorov-arnold-transformer-kat-is-the-mlp-headed-for-retirement-d5958ea8da71)| -- |Exploring how the Kolmogorov-Arnold Transformer (KAT) challenges the MLP dominance in modern deep-learning |
 | [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
 | [DeepMind’s AlphaProof: Achieving Podium Glory at the Math Olympiad Model](https://levelup.gitconnected.com/deepminds-alphaproof-achieving-podium-glory-at-the-math-olympiadmodel-61cf9ecc1f9f) | -- |Google DeepMind’s new artificial intelligence systems can solve complex mathematical problems |
@@ -477,6 +478,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Be Yourself: Does Assigning Roles Hurt AI Performance?](https://levelup.gitconnected.com/be-yourself-does-assigning-roles-hurt-ai-performance-ae4b7f74602f)| -- |Does Personality Matter? How Roles in System Prompts Affect AI Output |
+|[Power Corrupts: Hierarchies, Persuasion, and Anti-Social Behavior in LLMs](https://ai.gopubby.com/power-corrupts-hierarchies-persuasion-and-anti-social-behavior-in-llms-b3c4dd5575cb)| -- | Unraveling Power Dynamics and Ethical Implications in LLM Agents|
 | [AI Won’t Steal Your Job — But Get Ready for the World’s Most Annoying Coworker](https://ai.gopubby.com/ai-wont-steal-your-job-but-get-ready-for-the-world-s-most-annoying-coworker-6a2efb39cf5f) | -- | How AI Assistants Are Boosting Productivity While Becoming the Overachievers of the Office|
 | [Past Imperfect: Jailbreaking LLMs with Past Tense Requests](https://levelup.gitconnected.com/past-imperfect-jailbreaking-llms-with-past-tense-requests-0e35c1407a12) | -- | How Historical Reformulations Expose Vulnerabilities in AI Safety Measures|
 |[The Goldfish LLM: Swimming Through Data Without Memorizing It](https://medium.com/gitconnected/the-goldfish-llm-swimming-through-data-without-memorizing-it-5903e9bd90eb)| -- |Novel Training Approaches to Avoid Data Memorization and Privacy Risks Without Impacting Performance|
