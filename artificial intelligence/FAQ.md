@@ -362,7 +362,7 @@ So we have a teacher model (ResNet in our example) that generates probabilities 
 
 An interesting [2024 study](https://arxiv.org/abs/2408.16737) states that it is not always necessary to use a larger model as a teacher. A larger model is a model that is more expensive. Certainly, a larger model is a more accurate model, but for the same computing budget a smaller model guarantees more coverage (more examples) and more diversity. This is especially interesting when it comes to reasoning. The authors have shown that this approach works best when there are limited resources.
 
-![knowledge distillation when the computing budget is limited](https://github.com/SalvatoreRa/tutorial/blob/main/images/knowledge_distillation2.png?raw=true)
+![knowledge distillation when the computing budget is limited](https://github.com/SalvatoreRa/tutorial/blob/main/images/knowledge_distillation_optimal_resources.png?raw=true)
 *from [here](https://arxiv.org/pdf/2408.16737)*
 
 [In this study](https://arxiv.org/pdf/2411.08028), they propose a new approach called Learning with Less Computational Resources and less data for Knowledge Distillation (LLKD). In this approach, they prioritize the teacher model exhibiting high confidence in its labeling (so they should be correct) and the student model exhibiting high uncertainty (so examples that the student model finds difficult). In simple words, use examples that are difficult for the student but which the teacher is confident about instead.
