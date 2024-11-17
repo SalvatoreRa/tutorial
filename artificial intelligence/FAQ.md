@@ -365,6 +365,7 @@ An interesting [2024 study](https://arxiv.org/abs/2408.16737) states that it is 
 ![knowledge distillation when the computing budget is limited](https://github.com/SalvatoreRa/tutorial/blob/main/images/knowledge_distillation2.png?raw=true)
 *from [here](https://arxiv.org/pdf/2408.16737)*
 
+[In this study](https://arxiv.org/pdf/2411.08028), they propose a new approach called Learning with Less Computational Resources and less data for Knowledge Distillation (LLKD). In this approach, they prioritize the teacher model exhibiting high confidence in its labeling (so they should be correct) and the student model exhibiting high uncertainty (so examples that the student model finds difficult). In simple words, use examples that are difficult for the student but which the teacher is confident about instead.
 
 Suggested lecture:
   * [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
