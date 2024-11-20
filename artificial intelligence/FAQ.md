@@ -762,14 +762,18 @@ As you can see from the image below, we can see the progressive sparsification e
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_trained.png?raw=true) 
 ## Applications of KAN
 
+
+
 ![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_progression.png?raw=true) *Fast development of KAN in one year. from [the original papers](https://arxiv.org/pdf/2411.06078)*
 
-
+KANs have been efficiently adapted to deep learning. This was done through a series of modifications and new architectures. This has meant that they can also be used for a variety of applications outside those thought of.
 
 Several articles have come out today that present the application of KANs, below are some examples of applications:
 * KAN-based models for medical image segmentation ([U-net based](https://arxiv.org/abs/2406.02918)) have been proposed in computer vision.
-* There are also KAN proposed for time series as [here](https://arxiv.org/abs/2405.07344), [here](https://arxiv.org/abs/2406.02486) or [here](https://arxiv.org/pdf/2405.08790)
+* There are also KAN proposed for time series as [here](https://arxiv.org/abs/2405.07344), [here](https://arxiv.org/abs/2406.02486) or [here](https://arxiv.org/pdf/2405.08790). They show they can have similar results to RNNs with less parameters.
 * For graph analysis, like graph collaborative filtering ([here](https://arxiv.org/abs/2406.01034)) or molecular representation ([here](https://arxiv.org/abs/2408.01018))
+* [Wav-KAN](https://arxiv.org/abs/2405.12832) showcasing KANs’ broad applicability in modern fields like signal
+processing.
 
 Seeing some applications in detail, [this study](https://arxiv.org/abs/2409.04290) proposes an extension of KANs for survival modeling (called time-to-event analysis, where they model time until an event happens). In this task, deep learning-based models usually perform better than traditional machine learning models but at the cost of loss of interpretability. Precisely because of the need for interpretability, KANs have been considered a good alternative:
 
