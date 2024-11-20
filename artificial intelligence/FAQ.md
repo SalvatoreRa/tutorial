@@ -765,6 +765,8 @@ As you can see from the image below, we can see the progressive sparsification e
 
 Several articles have come out today that present the application of KANs, below are some examples of applications:
 * KAN-based models for medical image segmentation ([U-net based](https://arxiv.org/abs/2406.02918)) have been proposed in computer vision.
+* There are also KAN proposed for time series as [here](https://arxiv.org/abs/2405.07344), [here](https://arxiv.org/abs/2406.02486) or [here](https://arxiv.org/pdf/2405.08790)
+* For graph analysis, like graph collaborative filtering ([here](https://arxiv.org/abs/2406.01034)) or molecular representation ([here](https://arxiv.org/abs/2408.01018))
 
 Seeing some applications in detail, [this study](https://arxiv.org/abs/2409.04290) proposes an extension of KANs for survival modeling (called time-to-event analysis, where they model time until an event happens). In this task, deep learning-based models usually perform better than traditional machine learning models but at the cost of loss of interpretability. Precisely because of the need for interpretability, KANs have been considered a good alternative:
 
