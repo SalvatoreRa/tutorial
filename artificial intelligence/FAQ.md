@@ -759,9 +759,12 @@ results = model.fit(dataset, opt="Adam", steps=100, metrics=(train_acc, test_acc
 
 As you can see from the image below, we can see the progressive sparsification effect that happens with KANs. This increases the interpretability of the system:
 
-![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_trained.png?raw=true)
-
+![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_trained.png?raw=true) 
 ## Applications of KAN
+
+![KAN guide](https://github.com/SalvatoreRa/tutorial/blob/main/images/KAN_progression.png?raw=true) *Fast development of KAN in one year. from [the original papers](https://arxiv.org/pdf/2411.06078)*
+
+
 
 Several articles have come out today that present the application of KANs, below are some examples of applications:
 * KAN-based models for medical image segmentation ([U-net based](https://arxiv.org/abs/2406.02918)) have been proposed in computer vision.
@@ -873,6 +876,7 @@ Other resources:
 * [KANvas](https://kanvas.deepverse.tech/#/kan) - a tool to play and understand KAN
 * [Why is the (KAN) Kolmogorov-Arnold Networks so promising](https://engyasin.github.io/posts/why-the-new-kolmogorov-arnold-networks-so-promising/)
 * [Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.](https://github.com/mintisan/awesome-kan?tab=readme-ov-file)
+* [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 
 </details>
 
