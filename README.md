@@ -385,6 +385,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [You Know Nothing, John LLM: Why Do You Answer Anyway?](https://levelup.gitconnected.com/you-know-nothing-john-llm-why-do-you-answer-anyway-97e10b59b7d2) |--|Distinguishing Knowledge Gaps from Misguided Confidence in Large Language Models |
 |[Less Distraction, More Precision: The Diff Transformer’s Secret to Better Language Models](https://ai.gopubby.com/less-distraction-more-precision-the-diff-transformers-secret-to-better-language-models-77abbab6fe3e)| -- | Unlocking Efficiency in AI: How the Diff Transformer Filters Noise to Enhance Accuracy and Performance|
 |[Kolmogorov-Arnold Transformer (KAT): Is the MLP Headed for Retirement?](https://levelup.gitconnected.com/kolmogorov-arnold-transformer-kat-is-the-mlp-headed-for-retirement-d5958ea8da71)| -- |Exploring how the Kolmogorov-Arnold Transformer (KAT) challenges the MLP dominance in modern deep-learning |
 | [OpenAI’s New ‘Reasoning’ AI Models Arrived: Will They Survive the Hype?](https://levelup.gitconnected.com/openais-new-reasoning-ai-models-arrived-will-they-survive-the-hype-a55c582363b9) | -- |Will the Captain Catch the Whale of Reasoning or Sink in the Pursuit |
@@ -485,6 +486,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [The Cultural Lens of AI: Which Party Would Your LLM Vote?](https://levelup.gitconnected.com/the-cultural-lens-of-ai-which-party-would-your-llm-vote-ab7b6f1b6b23) |--| Unveiling Ideological Bias Across Languages and Cultures in Large Language Models|
 |[Be Yourself: Does Assigning Roles Hurt AI Performance?](https://levelup.gitconnected.com/be-yourself-does-assigning-roles-hurt-ai-performance-ae4b7f74602f)| -- |Does Personality Matter? How Roles in System Prompts Affect AI Output |
 |[Power Corrupts: Hierarchies, Persuasion, and Anti-Social Behavior in LLMs](https://ai.gopubby.com/power-corrupts-hierarchies-persuasion-and-anti-social-behavior-in-llms-b3c4dd5575cb)| -- | Unraveling Power Dynamics and Ethical Implications in LLM Agents|
 | [AI Won’t Steal Your Job — But Get Ready for the World’s Most Annoying Coworker](https://ai.gopubby.com/ai-wont-steal-your-job-but-get-ready-for-the-world-s-most-annoying-coworker-6a2efb39cf5f) | -- | How AI Assistants Are Boosting Productivity While Becoming the Overachievers of the Office|
