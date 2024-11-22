@@ -291,6 +291,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [The Savant Syndrome: Is Pattern Recognition Equivalent to Intelligence?](https://towardsdatascience.com/the-savant-syndrome-is-pattern-recognition-equivalent-to-intelligence-242aab928152) |--|Exploring the limits of artificial intelligence: why mastering patterns may not equal genuine reasoning |
+| [What if LLMs Are Better Than We Think? Or Is It Our Judgement That’s Flawed?](https://ai.gopubby.com/what-if-llms-are-better-than-we-think-or-is-it-our-judgement-thats-flawed-5cbd9c758275) |--|A Study of Label Errors and Their Impact on LLM Performance Evaluations |
 |[Believe In Yourself: Do LLMs Internally Know What Is True?](https://levelup.gitconnected.com/believe-in-yourself-do-llms-internally-know-what-is-true-4d0d08ec45b5)| -- |Leveraging Internal Representations to Detect and Understand Errors in Large Language Models |
 |[Taming the Attention Hydra: Is Too Much Attention Slowing Down Transformers](https://levelup.gitconnected.com/taming-the-attention-hydra-is-too-much-attention-slowing-down-transformers-999092f32c89)| -- |Pruning Attention Layers to Boost Transformer Efficiency Without Performance Loss |
 |[Speak About Yourself: Using SAEs and LLMs to Decode the Inner Workings of LLMs](https://ai.gopubby.com/speak-about-yourself-using-saes-and-llms-to-decode-the-inner-workings-of-llms-c8e74545d538)| -- |How Sparse Autoencoders and Language Models Collaborate to Make Complex Neural Activations Understandable |
