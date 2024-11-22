@@ -385,6 +385,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [What Is The Best Therapy For a Hallucinating AI Patient?](https://levelup.gitconnected.com/what-is-the-best-therapy-for-a-hallucinating-ai-patient-acf0cb9b3e00) |--|Exploring the Art and Science of Prompt Engineering to Cure LLM Hallucinations |
+| [LLMs and the Student Dilemma: Learning to Solve or Learning to Remember?](https://levelup.gitconnected.com/llms-and-the-student-dilemma-learning-to-solve-or-learning-to-remember-249152b72d82) |--|Investigating Whether Large Language Models Rely on Genuine Understanding or Clever Heuristics in Arithmetic Reasoning |
 | [You Know Nothing, John LLM: Why Do You Answer Anyway?](https://levelup.gitconnected.com/you-know-nothing-john-llm-why-do-you-answer-anyway-97e10b59b7d2) |--|Distinguishing Knowledge Gaps from Misguided Confidence in Large Language Models |
 |[Less Distraction, More Precision: The Diff Transformer’s Secret to Better Language Models](https://ai.gopubby.com/less-distraction-more-precision-the-diff-transformers-secret-to-better-language-models-77abbab6fe3e)| -- | Unlocking Efficiency in AI: How the Diff Transformer Filters Noise to Enhance Accuracy and Performance|
 |[Kolmogorov-Arnold Transformer (KAT): Is the MLP Headed for Retirement?](https://levelup.gitconnected.com/kolmogorov-arnold-transformer-kat-is-the-mlp-headed-for-retirement-d5958ea8da71)| -- |Exploring how the Kolmogorov-Arnold Transformer (KAT) challenges the MLP dominance in modern deep-learning |
