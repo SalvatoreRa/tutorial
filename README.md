@@ -291,6 +291,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Open the Artificial Brain: Sparse Autoencoders for LLM Inspection](https://towardsdatascience.com/open-the-artificial-brain-sparse-autoencoders-for-llm-inspection-c845f2a3f786) |--|A deep dive into LLM visualization and interpretation using sparse autoencoders |
+| [Teach What You Know, Learn What Is Hard to Master](https://levelup.gitconnected.com/teach-what-you-know-learn-what-is-hard-to-master-5a515370be90) |--| Adaptive Knowledge Distillation for Efficient Learning from Large Language Models|
 | [The Savant Syndrome: Is Pattern Recognition Equivalent to Intelligence?](https://towardsdatascience.com/the-savant-syndrome-is-pattern-recognition-equivalent-to-intelligence-242aab928152) |--|Exploring the limits of artificial intelligence: why mastering patterns may not equal genuine reasoning |
 | [What if LLMs Are Better Than We Think? Or Is It Our Judgement That’s Flawed?](https://ai.gopubby.com/what-if-llms-are-better-than-we-think-or-is-it-our-judgement-thats-flawed-5cbd9c758275) |--|A Study of Label Errors and Their Impact on LLM Performance Evaluations |
 |[Believe In Yourself: Do LLMs Internally Know What Is True?](https://levelup.gitconnected.com/believe-in-yourself-do-llms-internally-know-what-is-true-4d0d08ec45b5)| -- |Leveraging Internal Representations to Detect and Understand Errors in Large Language Models |
