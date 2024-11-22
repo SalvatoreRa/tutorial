@@ -188,6 +188,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Traditional ML Still Reigns: Why LLMs Struggle in Clinical Prediction?](https://levelup.gitconnected.com/traditional-ml-still-reigns-why-llms-struggle-in-clinical-prediction-0717b72bd37e) |--|Clinical prediction is more than medical knowledge: An LLM may not be the solution for every task |
 |[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)| -- |Tree-based algorithms are the winner in tabular data: Why?|
 |[Tabula Rasa: How to save your network from the category drama](https://levelup.gitconnected.com/tabula-rasa-how-to-save-your-network-from-the-category-drama-623d67ad2e65)| -- | Neural networks do not like categories but you have techniques to save your favorite model |
 |[Neural Ensemble: what’s Better than a Neural Network? A group of them](https://levelup.gitconnected.com/neural-ensemble-whats-better-than-a-neural-network-a-group-of-them-0c9e156fca15)| -- | Neural ensemble: how to combine different neural networks in a powerful model |
@@ -290,7 +291,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 ## Natural Language Processing and LLMs
 
 | Articles | notebook | description |
-| ------- | ----------- | ------ |
+| [The Art of LLM Bonsai: How to Make Your LLM Small and Still Beautiful](https://levelup.gitconnected.com/the-art-of-llm-bonsai-how-to-make-your-llm-small-and-still-beautiful-4894398c3743) |--| Mastering the Balance Between Efficiency and Accuracy in LLM Quantization|
 | [Open the Artificial Brain: Sparse Autoencoders for LLM Inspection](https://towardsdatascience.com/open-the-artificial-brain-sparse-autoencoders-for-llm-inspection-c845f2a3f786) |--|A deep dive into LLM visualization and interpretation using sparse autoencoders |
 | [Teach What You Know, Learn What Is Hard to Master](https://levelup.gitconnected.com/teach-what-you-know-learn-what-is-hard-to-master-5a515370be90) |--| Adaptive Knowledge Distillation for Efficient Learning from Large Language Models|
 | [The Savant Syndrome: Is Pattern Recognition Equivalent to Intelligence?](https://towardsdatascience.com/the-savant-syndrome-is-pattern-recognition-equivalent-to-intelligence-242aab928152) |--|Exploring the limits of artificial intelligence: why mastering patterns may not equal genuine reasoning |
@@ -359,6 +360,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Context vs. Prior Knowledge: How to Modify LLM Behavior](https://levelup.gitconnected.com/context-vs-prior-knowledge-how-to-modify-llm-behavior-88016b2846ab) |--| Unveiling the Mechanism Behind Controlling Sensitivity in Language Models|
 |[Neighbors Count: Boosting Document Embeddings with Contextual Encoding](https://levelup.gitconnected.com/neighbors-count-boosting-document-embeddings-with-contextual-encoding-bc31bf1dd301)| -- | Harnessing Neighboring Documents to Elevate Retrieval Accuracy through Context-Aware Embeddings|
 |[AI Search Engine: Finding Ariadne’s Thread or Losing the Way](https://ai.gopubby.com/ai-search-engine-finding-ariadnes-thread-or-losing-the-way-ab8d446d0715)| -- |Exploring the Pathways and Pitfalls of Multimodal AI Search with Large Language Models |
 | [Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG](https://levelup.gitconnected.com/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f) | -- |Unveiling the Dual Nature of Noise in Retrieval-Augmented Generation |
