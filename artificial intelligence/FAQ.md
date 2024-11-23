@@ -882,6 +882,7 @@ Other resources:
 * [Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.](https://github.com/mintisan/awesome-kan?tab=readme-ov-file)
 * [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 
+
 </details>
 
 <details>
