@@ -886,6 +886,56 @@ Other resources:
 </details>
 
 <details>
+  <summary><b>What are (Comple)XNet or Xnet?</b></summary>
+
+One of the most important challenges in computational mathematics and artificial intelligence (AI) is finding the most appropriate function to accurately model a given dataset. Traditional methods involve a number of classes of functions (such as polynomials or Fourier series) that are simple and computationally inexpensive. Deep learning methods, on the other hand, use locally linear functions with
+nonlinear activations. In 2024, **KANs** were proposed, which instead were inspired by the Kolmogorov-Arnold representation theorem and use B-splines as learnable functions (in the case of MLPs, one uses functions that have fixed functions)
+
+Instead, [in this paper](https://arxiv.org/abs/2409.19221v1) they start from another theorem Cauchy integral formula to extend real-valued functions into the complex domain. This theorem states that if you have an analytic (smooth and differentiable) function in a region of the complex plane, then the integral function along any closed loop within that region is zero. So a function must have a derivative at every point in the complex plane, and that derivative is continuous. A closed loop is simply a path in the complex plane that begins at one point and ends at the same point. This theorem is useful for predicting the behavior of functions.
+
+Building on this, the authors develop a new activation function called the **Cauchy Activation Function**:
+
+![xNET](https://github.com/SalvatoreRa/tutorial/blob/main/images/Cauchy_activation_ function.png?raw=true) 
+*from [here](https://arxiv.org/pdf/2409.19221)*
+
+where λ1, λ2, and d are parameters optimized during training. The beauty of this function is that it can approximate any smooth function to its highest possible order. This function is localized and decays at the both ends: the output decreases as the input moves away from the center, allowing it to focus on local data. It is also mathematically efficient
+
+![xNET](https://github.com/SalvatoreRa/tutorial/blob/main/images/caucy_function.png?raw=true) 
+*from [here](https://arxiv.org/pdf/2409.19221)*
+
+In contrast to KANs, we can build an activation function and insert it directly into our neural network, without the need for major adaptations.
+
+```Python
+
+import torch 
+import torch.nn as nn
+
+# Create a class to represent the function
+class CauchyActivation(nn.Module):
+  def __init__(self):
+    super().__init__()
+    # Set the trainable parameters: λ1, λ2, d 
+    self.lambda1 = nn.Parameter(torch.tensor(1.0))
+    self.lambda2 = nn.Parameter(torch.tensor(1.0))
+    self.d = nn.Parameter(torch.tensor(1.0))
+  def forward(self, x):
+    x2_d2 = x ** 2 + self.d ** 2
+    return self.lambda1 * x / x2_d2 + self.lambda2 / x2_d2
+# Define and insert directly in a neural net
+cauchy_activation = CauchyActivation() 
+```
+
+For the [authors](https://arxiv.org/pdf/2410.02033), this is enough to have better-performing networks:
+
+![xNET](https://github.com/SalvatoreRa/tutorial/blob/main/images/xNET_performance.png?raw=true) 
+*from [here](https://arxiv.org/pdf/2410.02033)*
+
+
+
+
+</details>
+
+<details>
   <summary><b>How to deal with overfitting in neural networks?</b></summary>
   
   *"The central challenge in machine learning is that we must perform well on new, previously unseen inputs — not just those on which our model was trained. The ability to perform well on previously unobserved inputs is called generalization."-[source](https://www.deeplearningbook.org/)* 
