@@ -291,6 +291,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 ## Natural Language Processing and LLMs
 
 | Articles | notebook | description |
+| ------- | ----------- | ------ |
 | [The Art of LLM Bonsai: How to Make Your LLM Small and Still Beautiful](https://levelup.gitconnected.com/the-art-of-llm-bonsai-how-to-make-your-llm-small-and-still-beautiful-4894398c3743) |--| Mastering the Balance Between Efficiency and Accuracy in LLM Quantization|
 | [Open the Artificial Brain: Sparse Autoencoders for LLM Inspection](https://towardsdatascience.com/open-the-artificial-brain-sparse-autoencoders-for-llm-inspection-c845f2a3f786) |--|A deep dive into LLM visualization and interpretation using sparse autoencoders |
 | [Teach What You Know, Learn What Is Hard to Master](https://levelup.gitconnected.com/teach-what-you-know-learn-what-is-hard-to-master-5a515370be90) |--| Adaptive Knowledge Distillation for Efficient Learning from Large Language Models|
