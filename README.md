@@ -208,6 +208,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [I, LLM: Mapping Cognitive Parallels in Humans and AI](https://levelup.gitconnected.com/i-llm-mapping-cognitive-parallels-in-humans-and-ai-87f1e58473e1) | -- |Exploring Specialization and Functionality in Neural and Artificial Minds |
 | [The Cybernetic Neuroscientist: Smarter Than Experts?](https://levelup.gitconnected.com/the-cybernetic-neuroscientist-smarter-than-experts-f349d8d35ae1) | -- |Exploring How AI Outperforms Human Expertise in Predicting Neuroscience Breakthroughs |
 |[AI Planning or Serendipity? Where Do the Best Research Ideas Come From?](https://ai.gopubby.com/ai-planning-or-serendipity-where-do-the-best-research-ideas-come-from-f8e5e6692964)| -- |Can AI Planning Replace Human Researchers in Generating Novel Ideas? |
 |[Charting the Linguistic Seas: Navigating the Uncharted Waters of Human Language with an LLM](https://levelup.gitconnected.com/charting-the-linguistic-seas-navigating-the-uncharted-waters-of-human-language-with-an-llm-209363b45c50)| -- |Exploring the Brain’s Language Networks with Spatially Organized AI |
@@ -296,6 +297,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [How Far Is AI from Human Intelligence?](https://levelup.gitconnected.com/how-far-is-ai-from-human-intelligence-6ab4b2a5ce1c) | -- |The LLM revolution has led to various speculations, but besides marketing and fears, how close are we? |
 | [Know Yourself: How Much AI is Aware of Itself?](https://levelup.gitconnected.com/know-yourself-how-much-ai-is-aware-of-itself-22c1266a6b1d) | -- |Exploring Situational Awareness in LLMs through Behavioral Testing and Benchmarking |
 | [A Memory for All Transformers: Sharing to Perform Better](https://levelup.gitconnected.com/a-memory-for-all-transformers-sharing-to-perform-better-82f7f51a58c1) | -- |Unlocking Collective Intelligence: How Shared Memory Enhances Transformer Efficiency and Performance |
 | [From Solution to Problem: The Reverse Path to Smarter AI](https://levelup.gitconnected.com/from-solution-to-problem-the-reverse-path-to-smarter-ai-80a69d17c28b) | -- |Reverse reasoning as a trick to better reasoning in LLMs |
