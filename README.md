@@ -176,6 +176,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [The Good, the Bad, and the Ugly: Memory for a Neural Network](https://towardsdatascience.com/the-good-the-bad-an-ugly-memory-for-a-neural-network-bac1f79e8dfd) | -- |Memory can play tricks; to learn best it is not always good to memorize |
 | [Forever Learning: Why AI Struggles with Adapting to New Challenges](https://towardsdatascience.com/forever-learning-why-ai-struggles-with-adapting-to-new-challenges-95f514d8e9ab) | -- | Understanding the limits of deep learning and the quest for true continual adaptation|
 |[Learning to Learn: How AI and Humans Learn](https://levelup.gitconnected.com/learning-to-learn-how-ai-and-humans-learn-8825fded0a7b)| -- |Understanding learning to create better AI and understand ourselves |
 |[Tensors: a Gentle Introduction](https://medium.com/ai-in-plain-english/tensors-a-gentle-introduction-2d82e25b70c)| [PyTorch Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/PyTorch_tensors.ipynb), [Tensorflow Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/TensorFlow_tensors.ipynb), [Excel](https://github.com/SalvatoreRa/tutorial/blob/main/excel%20files/tensors.xlsx)|What there are? Why do you care? The name is intimidating, but fear not them! |
@@ -295,6 +296,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Know Yourself: How Much AI is Aware of Itself?](https://levelup.gitconnected.com/know-yourself-how-much-ai-is-aware-of-itself-22c1266a6b1d) | -- |Exploring Situational Awareness in LLMs through Behavioral Testing and Benchmarking |
+| [A Memory for All Transformers: Sharing to Perform Better](https://levelup.gitconnected.com/a-memory-for-all-transformers-sharing-to-perform-better-82f7f51a58c1) | -- |Unlocking Collective Intelligence: How Shared Memory Enhances Transformer Efficiency and Performance |
 | [From Solution to Problem: The Reverse Path to Smarter AI](https://levelup.gitconnected.com/from-solution-to-problem-the-reverse-path-to-smarter-ai-80a69d17c28b) | -- |Reverse reasoning as a trick to better reasoning in LLMs |
 | [You’re Not a Writer, ChatGPT — But You Sound Like One.](https://levelup.gitconnected.com/youre-not-a-writer-chatgpt-but-you-sound-like-one-75fa329ac3a9) | -- |The AI That Dreamed of Being Hemingway but Found Itself an Echo |
 | [The Art of LLM Bonsai: How to Make Your LLM Small and Still Beautiful](https://levelup.gitconnected.com/the-art-of-llm-bonsai-how-to-make-your-llm-small-and-still-beautiful-4894398c3743) |--| Mastering the Balance Between Efficiency and Accuracy in LLM Quantization|
