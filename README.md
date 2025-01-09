@@ -207,6 +207,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [The Cybernetic Neuroscientist: Smarter Than Experts?](https://levelup.gitconnected.com/the-cybernetic-neuroscientist-smarter-than-experts-f349d8d35ae1) | -- |Exploring How AI Outperforms Human Expertise in Predicting Neuroscience Breakthroughs |
 |[AI Planning or Serendipity? Where Do the Best Research Ideas Come From?](https://ai.gopubby.com/ai-planning-or-serendipity-where-do-the-best-research-ideas-come-from-f8e5e6692964)| -- |Can AI Planning Replace Human Researchers in Generating Novel Ideas? |
 |[Charting the Linguistic Seas: Navigating the Uncharted Waters of Human Language with an LLM](https://levelup.gitconnected.com/charting-the-linguistic-seas-navigating-the-uncharted-waters-of-human-language-with-an-llm-209363b45c50)| -- |Exploring the Brain’s Language Networks with Spatially Organized AI |
 | [A Brave New World for Scientific Discovery: Are AI Research Ideas Better?](https://levelup.gitconnected.com/a-brave-new-world-for-scientific-discovery-are-ai-research-ideas-better-5692c5aa8182) | -- | Can AI Lead Scientific Discovery? Or it is just another uchronia?|
@@ -294,6 +295,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [From Solution to Problem: The Reverse Path to Smarter AI](https://levelup.gitconnected.com/from-solution-to-problem-the-reverse-path-to-smarter-ai-80a69d17c28b) | -- |Reverse reasoning as a trick to better reasoning in LLMs |
+| [You’re Not a Writer, ChatGPT — But You Sound Like One.](https://levelup.gitconnected.com/youre-not-a-writer-chatgpt-but-you-sound-like-one-75fa329ac3a9) | -- |The AI That Dreamed of Being Hemingway but Found Itself an Echo |
 | [The Art of LLM Bonsai: How to Make Your LLM Small and Still Beautiful](https://levelup.gitconnected.com/the-art-of-llm-bonsai-how-to-make-your-llm-small-and-still-beautiful-4894398c3743) |--| Mastering the Balance Between Efficiency and Accuracy in LLM Quantization|
 | [Open the Artificial Brain: Sparse Autoencoders for LLM Inspection](https://towardsdatascience.com/open-the-artificial-brain-sparse-autoencoders-for-llm-inspection-c845f2a3f786) |--|A deep dive into LLM visualization and interpretation using sparse autoencoders |
 | [Teach What You Know, Learn What Is Hard to Master](https://levelup.gitconnected.com/teach-what-you-know-learn-what-is-hard-to-master-5a515370be90) |--| Adaptive Knowledge Distillation for Efficient Learning from Large Language Models|
