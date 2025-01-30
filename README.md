@@ -297,6 +297,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [What if Hallucination Is a Spark of Creativity? Harnessing LLM Flaws for Drug Discovery](https://levelup.gitconnected.com/what-if-hallucination-is-a-spark-of-creativity-harnessing-llm-flaws-for-drug-discovery-eb98be47b2ee)|--|Exploring the Unexpected Potential of AI Hallucinations to Revolutionize Drug Development |
+| [Can I Really Trust You, ChatGPT? Bridging AI Confidence and Human Understanding](https://levelup.gitconnected.com/can-i-really-trust-you-chatgpt-bridging-ai-confidence-and-human-understanding-6c02d770cfb8)|--|Exploring the Calibration and Communication Gaps Shaping Trust in AI-Driven Decisions |
+| [The Dream Machine: Decoding Why LLMs Hallucinate Reality](https://levelup.gitconnected.com/the-dream-machine-decoding-why-llms-hallucinate-reality-fea8846a5bc5)|--|HALoGEN: Benchmarking and Verifying Hallucinations in Generative Language Models |
 | [How Far Is AI from Human Intelligence?](https://levelup.gitconnected.com/how-far-is-ai-from-human-intelligence-6ab4b2a5ce1c) | -- |The LLM revolution has led to various speculations, but besides marketing and fears, how close are we? |
 | [Know Yourself: How Much AI is Aware of Itself?](https://levelup.gitconnected.com/know-yourself-how-much-ai-is-aware-of-itself-22c1266a6b1d) | -- |Exploring Situational Awareness in LLMs through Behavioral Testing and Benchmarking |
 | [A Memory for All Transformers: Sharing to Perform Better](https://levelup.gitconnected.com/a-memory-for-all-transformers-sharing-to-perform-better-82f7f51a58c1) | -- |Unlocking Collective Intelligence: How Shared Memory Enhances Transformer Efficiency and Performance |
