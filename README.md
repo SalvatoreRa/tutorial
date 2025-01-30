@@ -176,6 +176,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Learning is a simple task, complex plans are doomed to fail](https://levelup.gitconnected.com/learning-is-a-simple-task-complex-plans-are-doomed-to-fail-4747a4439986)|--| How simplicity in model design and training fosters generalization and the phenomenon of grokking in neural networks|
 | [The Good, the Bad, and the Ugly: Memory for a Neural Network](https://towardsdatascience.com/the-good-the-bad-an-ugly-memory-for-a-neural-network-bac1f79e8dfd) | -- |Memory can play tricks; to learn best it is not always good to memorize |
 | [Forever Learning: Why AI Struggles with Adapting to New Challenges](https://towardsdatascience.com/forever-learning-why-ai-struggles-with-adapting-to-new-challenges-95f514d8e9ab) | -- | Understanding the limits of deep learning and the quest for true continual adaptation|
 |[Learning to Learn: How AI and Humans Learn](https://levelup.gitconnected.com/learning-to-learn-how-ai-and-humans-learn-8825fded0a7b)| -- |Understanding learning to create better AI and understand ourselves |
