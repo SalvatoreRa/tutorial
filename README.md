@@ -371,6 +371,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Beyond Text: Navigating Toward a Multimodal RAG Horizon](https://levelup.gitconnected.com/beyond-text-navigating-toward-a-multimodal-rag-horizon-b5bf3285db01)|--|Harnessing the Power of Videos and Multimodal Integration for Next-Generation Retrieval-Augmented Generation |
+| [You Cache Only Once: Cache-Augmented Generation (CAG) Instead Of RAG](https://levelup.gitconnected.com/you-cache-only-once-cache-augmented-generation-cag-instead-of-rag-25f19cf239f6)|--| Streamlining Knowledge Tasks with Cache-Augmented Generation: A Simpler Alternative to Retrieval-Based Approaches|
+| [Do Not Flip a Coin: When to Use RAG or Long Context LLMs](https://levelup.gitconnected.com/do-not-flip-a-coin-when-to-use-rag-or-long-context-llms-6f51a39de98c)|--|Understanding the Trade-offs and Best Practices for Optimizing LLMs with External Knowledge Sources |
 |[Context vs. Prior Knowledge: How to Modify LLM Behavior](https://levelup.gitconnected.com/context-vs-prior-knowledge-how-to-modify-llm-behavior-88016b2846ab) |--| Unveiling the Mechanism Behind Controlling Sensitivity in Language Models|
 |[Neighbors Count: Boosting Document Embeddings with Contextual Encoding](https://levelup.gitconnected.com/neighbors-count-boosting-document-embeddings-with-contextual-encoding-bc31bf1dd301)| -- | Harnessing Neighboring Documents to Elevate Retrieval Accuracy through Context-Aware Embeddings|
 |[AI Search Engine: Finding Ariadne’s Thread or Losing the Way](https://ai.gopubby.com/ai-search-engine-finding-ariadnes-thread-or-losing-the-way-ab8d446d0715)| -- |Exploring the Pathways and Pitfalls of Multimodal AI Search with Large Language Models |
