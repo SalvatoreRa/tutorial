@@ -2034,7 +2034,7 @@ In this framework, the model produces several steps of thought as it moves towar
 ![TOT](https://github.com/SalvatoreRa/tutorial/blob/main/images/TOT.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2305.10601)*
 
-An interesting development is to add an agent to conduct the search. In this article, they add a controller that precisely controls the search in the ToT
+An interesting development is to add an agent to conduct the search. In this article, they add a controller that precisely controls the search in the ToT. 
 
 ![TOT2](https://github.com/SalvatoreRa/tutorial/blob/main/images/TOT3.png?raw=true)
 *from the [original article](https://arxiv.org/abs/2305.08291)*
