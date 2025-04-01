@@ -177,13 +177,13 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
 | [Learning is a simple task, complex plans are doomed to fail](https://levelup.gitconnected.com/learning-is-a-simple-task-complex-plans-are-doomed-to-fail-4747a4439986)|--| How simplicity in model design and training fosters generalization and the phenomenon of grokking in neural networks|
-| [The Good, the Bad, and the Ugly: Memory for a Neural Network](https://towardsdatascience.com/the-good-the-bad-an-ugly-memory-for-a-neural-network-bac1f79e8dfd) | -- |Memory can play tricks; to learn best it is not always good to memorize |
+| [The Good, the Bad, and the Ugly: Memory for a Neural Network](https://medium.com/data-science/the-good-the-bad-an-ugly-memory-for-a-neural-network-bac1f79e8dfd) | -- |Memory can play tricks; to learn best it is not always good to memorize |
 | [Forever Learning: Why AI Struggles with Adapting to New Challenges](https://towardsdatascience.com/forever-learning-why-ai-struggles-with-adapting-to-new-challenges-95f514d8e9ab) | -- | Understanding the limits of deep learning and the quest for true continual adaptation|
 |[Learning to Learn: How AI and Humans Learn](https://levelup.gitconnected.com/learning-to-learn-how-ai-and-humans-learn-8825fded0a7b)| -- |Understanding learning to create better AI and understand ourselves |
 |[Tensors: a Gentle Introduction](https://medium.com/ai-in-plain-english/tensors-a-gentle-introduction-2d82e25b70c)| [PyTorch Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/PyTorch_tensors.ipynb), [Tensorflow Code](https://github.com/SalvatoreRa/tutorial/blob/main/artificial%20intelligence/TensorFlow_tensors.ipynb), [Excel](https://github.com/SalvatoreRa/tutorial/blob/main/excel%20files/tensors.xlsx)|What there are? Why do you care? The name is intimidating, but fear not them! |
 |[Grokking: Learning Is Generalization and Not Memorization](https://levelup.gitconnected.com/grokking-learning-is-generalization-and-not-memorization-52c43c9025e4)| -- |Understanding how a neural network learns helps us to avoid that the model from forgetting what it learns|
-| [A fAIry tale of the Inductive Bias](https://towardsdatascience.com/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
-| [Unsupervised data pruning: less data to learn better](https://towardsdatascience.com/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
+| [A fAIry tale of the Inductive Bias](https://medium.com/data-science/a-fairy-tale-of-the-inductive-bias-d418fc61726c) | -- | Do we need inductive bias? How simple models can reach the performance of complex models |
+| [Unsupervised data pruning: less data to learn better](https://medium.com/data-science/unsupervised-data-pruning-less-data-to-learn-better-30cd2bfbd855)|--|Not always more data is meaning a more accurate model, but how to choose your data? |
 
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
