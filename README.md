@@ -205,6 +205,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 [Back to General index](#Index) -- [Index of tutorials](#Index-of-tutorials)
 
+
 ## AI and science
 
 | Articles | notebook | description |
