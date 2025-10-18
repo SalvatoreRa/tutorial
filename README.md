@@ -304,6 +304,9 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[]()|--| |
 |[]()|--| |
 |[]()|--| |
+|[Follow the Ants, They Know the Path: Enhancing LLM Reasoning with ACO-ToT](https://levelup.gitconnected.com/follow-the-ants-they-know-the-path-enhancing-llm-reasoning-with-aco-tot-7974c4928658)|--| Harnessing Swarm Intelligence and Tree of Thought Optimization to Unlock Advanced AI Reasoning|
+|[The LLMs’ Dilemma: Thinking Too Much OR Too Little?](https://levelup.gitconnected.com/the-llms-dilemma-thinking-too-much-or-too-little-619a7532a47e)|--| Exploring the fine line between deep reasoning and computational overkill in large language models.|
+|[How Much Data Does ChatGPT Need to Reason? Less Than You Think](https://levelup.gitconnected.com/how-much-data-does-chatgpt-need-to-reason-less-than-you-think-a6e152e11c1e)|--| Challenging the Big Data Myth: How AI Achieves Complex Reasoning with Surprisingly Few Examples, and How Does It Work|
 |[Adapat to Survive: LLMs Meet Evolution](https://levelup.gitconnected.com/adapat-to-survive-llms-meet-evolution-a79250c7190c)|--|Evolving Language Models for Better Adaptability, Accuracy, and Performance |
 |[Only the Beginning Matters: How the LLM Decides Where to Focus Attention](https://levelup.gitconnected.com/only-the-beginning-matters-how-the-llm-decides-where-to-focus-attention-5048d1a265be)|--|Understanding How the First Token Shapes LLM’s Focus and Responses |
 | [What if Hallucination Is a Spark of Creativity? Harnessing LLM Flaws for Drug Discovery](https://levelup.gitconnected.com/what-if-hallucination-is-a-spark-of-creativity-harnessing-llm-flaws-for-drug-discovery-eb98be47b2ee)|--|Exploring the Unexpected Potential of AI Hallucinations to Revolutionize Drug Development |
