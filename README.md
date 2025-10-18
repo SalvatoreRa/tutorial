@@ -304,6 +304,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[]()|--| |
 |[]()|--| |
 |[]()|--| |
+|[Creativity in LLMs: Optimizing for Diversity and Uniqueness](https://medium.com/data-science-collective/creativity-in-llms-optimizing-for-diversity-and-uniqueness-f5c7208f4d99)|--|Creative writing does not provide a single “gold” answer but allows many valid answers. In short, no, LLMs are capable of generating text but lack creativity.|
+|[Knowing Isn’t Doing: Teach Reasoning, Not Facts, to Your LLM](https://levelup.gitconnected.com/knowing-isnt-doing-teach-reasoning-not-facts-to-your-llm-give-a-subtitle-3ee344fb965f)|--|Decoupling Knowledge and Cognition for Efficient Domain Reasoning |
 |[Can Machines Dream? On the Creativity of Large Language Models](https://medium.com/data-science/can-machines-dream-on-the-creativity-of-large-language-models-d1d20cf51939)|--| Exploring the Role of Hallucinations, Dependencies, and Imagination in AI Creativity|
 |[Do You Know Yourself, ChatGPT? Can You Explain Your Behavior?](https://levelup.gitconnected.com/do-you-know-yourself-chatgpt-can-you-explain-your-behavior-d87fefeb41bf)|--| Exploring the Spontaneous Articulation of Implicit Behaviors in Large Language Models|
 |[Follow the Ants, They Know the Path: Enhancing LLM Reasoning with ACO-ToT](https://levelup.gitconnected.com/follow-the-ants-they-know-the-path-enhancing-llm-reasoning-with-aco-tot-7974c4928658)|--| Harnessing Swarm Intelligence and Tree of Thought Optimization to Unlock Advanced AI Reasoning|
@@ -388,6 +390,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+| [Apes Strong Together, AI Agents Not: Why Multi-Agent Systems Fail](https://levelup.gitconnected.com/apes-strong-together-ai-agents-not-why-multi-agent-systems-fail-8a328be48a5d)|--| A Taxonomy of Failure Modes Across 150 Tasks and Five MAS Frameworks|
 | [Beyond Text: Navigating Toward a Multimodal RAG Horizon](https://levelup.gitconnected.com/beyond-text-navigating-toward-a-multimodal-rag-horizon-b5bf3285db01)|--|Harnessing the Power of Videos and Multimodal Integration for Next-Generation Retrieval-Augmented Generation |
 | [You Cache Only Once: Cache-Augmented Generation (CAG) Instead Of RAG](https://levelup.gitconnected.com/you-cache-only-once-cache-augmented-generation-cag-instead-of-rag-25f19cf239f6)|--| Streamlining Knowledge Tasks with Cache-Augmented Generation: A Simpler Alternative to Retrieval-Based Approaches|
 | [Do Not Flip a Coin: When to Use RAG or Long Context LLMs](https://levelup.gitconnected.com/do-not-flip-a-coin-when-to-use-rag-or-long-context-llms-6f51a39de98c)|--|Understanding the Trade-offs and Best Practices for Optimizing LLMs with External Knowledge Sources |
