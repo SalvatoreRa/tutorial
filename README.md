@@ -300,6 +300,10 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[]()|--| |
+|[]()|--| |
+|[]()|--| |
+|[]()|--| |
 |[Only the Beginning Matters: How the LLM Decides Where to Focus Attention](https://levelup.gitconnected.com/only-the-beginning-matters-how-the-llm-decides-where-to-focus-attention-5048d1a265be)|--|Understanding How the First Token Shapes LLM’s Focus and Responses |
 | [What if Hallucination Is a Spark of Creativity? Harnessing LLM Flaws for Drug Discovery](https://levelup.gitconnected.com/what-if-hallucination-is-a-spark-of-creativity-harnessing-llm-flaws-for-drug-discovery-eb98be47b2ee)|--|Exploring the Unexpected Potential of AI Hallucinations to Revolutionize Drug Development |
 | [Can I Really Trust You, ChatGPT? Bridging AI Confidence and Human Understanding](https://levelup.gitconnected.com/can-i-really-trust-you-chatgpt-bridging-ai-confidence-and-human-understanding-6c02d770cfb8)|--|Exploring the Calibration and Communication Gaps Shaping Trust in AI-Driven Decisions |
