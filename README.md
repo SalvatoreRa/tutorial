@@ -89,6 +89,7 @@ year = {2024}
 
 # What is new
 
+* Oct 25 - updated with all the latest articles
 * May 25 - 50 datasets available
 * Sep 24 - tutorial reorganization. 
 
@@ -301,8 +302,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
-|[]()|--| |
-|[]()|--| |
+|[Too Many Thoughts for Nothing: Can Large Reasoning Models Really Reason?](https://levelup.gitconnected.com/too-many-thoughts-for-nothing-can-large-reasoning-models-really-reason-aeddbe191670)|--| Going deep into the Capabilities, Limits, and Failure Modes of Thought-Generating AI|
 |[OpenAI Thinks Overconfidence is LLM’s Hallucination Cause](https://levelup.gitconnected.com/openai-thinks-overconfidence-is-llms-hallucination-cause-d8130e72aad9)|--| The new recipe: reward humility, curb hallucinations.|
 |[The Socratic AI: Knows Others, But Not Itself](https://levelup.gitconnected.com/the-socratic-ai-knows-others-but-not-itself-7c2efadbe92c)|--| How Language Models Excel at Prediction but Fail at Introspection|
 |[To Know or To Do? Your LLM Can’t Have It All (Yet)](https://levelup.gitconnected.com/to-know-or-to-do-your-llm-cant-have-it-all-yet-2875fb6610e0)|--| When Bigger Isn’t Always Better for Every Skill|
