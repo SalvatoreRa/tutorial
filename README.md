@@ -211,6 +211,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[On the Other Side of the Mirror: How Language Models Align with the Human Brain](https://levelup.gitconnected.com/on-the-other-side-of-the-mirror-how-language-models-align-with-the-human-brain-f48184009434)|--| Exploring the Evolution of Linguistic Competence and Brain Alignment in Large Language Models|
 | [I, LLM: Mapping Cognitive Parallels in Humans and AI](https://levelup.gitconnected.com/i-llm-mapping-cognitive-parallels-in-humans-and-ai-87f1e58473e1) | -- |Exploring Specialization and Functionality in Neural and Artificial Minds |
 | [The Cybernetic Neuroscientist: Smarter Than Experts?](https://levelup.gitconnected.com/the-cybernetic-neuroscientist-smarter-than-experts-f349d8d35ae1) | -- |Exploring How AI Outperforms Human Expertise in Predicting Neuroscience Breakthroughs |
 |[AI Planning or Serendipity? Where Do the Best Research Ideas Come From?](https://ai.gopubby.com/ai-planning-or-serendipity-where-do-the-best-research-ideas-come-from-f8e5e6692964)| -- |Can AI Planning Replace Human Researchers in Generating Novel Ideas? |
@@ -303,7 +304,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[]()|--| |
 |[]()|--| |
 |[]()|--| |
-|[]()|--| |
+|[Adapat to Survive: LLMs Meet Evolution](https://levelup.gitconnected.com/adapat-to-survive-llms-meet-evolution-a79250c7190c)|--|Evolving Language Models for Better Adaptability, Accuracy, and Performance |
 |[Only the Beginning Matters: How the LLM Decides Where to Focus Attention](https://levelup.gitconnected.com/only-the-beginning-matters-how-the-llm-decides-where-to-focus-attention-5048d1a265be)|--|Understanding How the First Token Shapes LLM’s Focus and Responses |
 | [What if Hallucination Is a Spark of Creativity? Harnessing LLM Flaws for Drug Discovery](https://levelup.gitconnected.com/what-if-hallucination-is-a-spark-of-creativity-harnessing-llm-flaws-for-drug-discovery-eb98be47b2ee)|--|Exploring the Unexpected Potential of AI Hallucinations to Revolutionize Drug Development |
 | [Can I Really Trust You, ChatGPT? Bridging AI Confidence and Human Understanding](https://levelup.gitconnected.com/can-i-really-trust-you-chatgpt-bridging-ai-confidence-and-human-understanding-6c02d770cfb8)|--|Exploring the Calibration and Communication Gaps Shaping Trust in AI-Driven Decisions |
