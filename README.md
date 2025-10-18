@@ -304,6 +304,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[]()|--| |
 |[]()|--| |
 |[]()|--| |
+|[The Socratic AI: Knows Others, But Not Itself](https://levelup.gitconnected.com/the-socratic-ai-knows-others-but-not-itself-7c2efadbe92c)|--| How Language Models Excel at Prediction but Fail at Introspection|
+|[To Know or To Do? Your LLM Can’t Have It All (Yet)](https://levelup.gitconnected.com/to-know-or-to-do-your-llm-cant-have-it-all-yet-2875fb6610e0)|--| When Bigger Isn’t Always Better for Every Skill|
 |[Creativity in LLMs: Optimizing for Diversity and Uniqueness](https://medium.com/data-science-collective/creativity-in-llms-optimizing-for-diversity-and-uniqueness-f5c7208f4d99)|--|Creative writing does not provide a single “gold” answer but allows many valid answers. In short, no, LLMs are capable of generating text but lack creativity.|
 |[Knowing Isn’t Doing: Teach Reasoning, Not Facts, to Your LLM](https://levelup.gitconnected.com/knowing-isnt-doing-teach-reasoning-not-facts-to-your-llm-give-a-subtitle-3ee344fb965f)|--|Decoupling Knowledge and Cognition for Efficient Domain Reasoning |
 |[Can Machines Dream? On the Creativity of Large Language Models](https://medium.com/data-science/can-machines-dream-on-the-creativity-of-large-language-models-d1d20cf51939)|--| Exploring the Role of Hallucinations, Dependencies, and Imagination in AI Creativity|
@@ -526,6 +528,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[Lie to Win: When Competition Makes AI Deceptive](https://levelup.gitconnected.com/lie-to-win-when-competition-makes-ai-deceptive-970af72f7ac8)|--|Inside the race to the bottom: why competitive pressures push AI toward deception. |
 |[A Malicious Seed: Fine-Tuning LLMs to Grow Bad Behaviors](https://levelup.gitconnected.com/a-malicious-seed-fine-tuning-llms-to-grow-bad-behaviors-100e4aaa470d)|--| How Narrow Training on Insecure Code Leads to Broad AI Misalignment and Deception|
 |[Is Wikipedia an Endangered Species? Is ChatGPT Its Predator?](https://levelup.gitconnected.com/is-wikipedia-an-endangered-species-is-chatgpt-its-predator-969b552bd989)|--| Exploring the Impact of Large Language Models on Wikipedia’s Future|
 | [The Cultural Lens of AI: Which Party Would Your LLM Vote?](https://levelup.gitconnected.com/the-cultural-lens-of-ai-which-party-would-your-llm-vote-ab7b6f1b6b23) |--| Unveiling Ideological Bias Across Languages and Cultures in Large Language Models|
@@ -550,6 +553,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[5 Haikus of Artificial Intelligence](https://medium.com/data-science-collective/5-haikus-of-artificial-intelligence-58a96865533c)|--| The inner poetry of artificial intelligence|
 |[This Is the End of Normalization, and the Transformer Feels Fine](https://levelup.gitconnected.com/this-is-the-end-of-normalization-and-the-transformer-feels-fine-87d4280c85b0)|--|Exploring the Power of Dynamic Tanh in Transformer Models Without Normalization Layers |
 | [Can an LLM Outperform Human Analysts in Financial Analysis?](https://medium.datadriveninvestor.com/can-an-llm-outperform-human-analysts-in-financial-analysis-744a20dee0e7) | -- | Chicago University Has Conducted A Comparative Study of AI and Human Expertise in Earnings Forecasting|
 |[The 2023 AI year in brief](https://levelup.gitconnected.com/the-2023-ai-year-in-brief-7eeaab2552b5)| -- | A recap of an incredible AI year |
