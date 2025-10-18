@@ -303,7 +303,7 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 | ------- | ----------- | ------ |
 |[]()|--| |
 |[]()|--| |
-|[]()|--| |
+|[OpenAI Thinks Overconfidence is LLM’s Hallucination Cause](https://levelup.gitconnected.com/openai-thinks-overconfidence-is-llms-hallucination-cause-d8130e72aad9)|--| The new recipe: reward humility, curb hallucinations.|
 |[The Socratic AI: Knows Others, But Not Itself](https://levelup.gitconnected.com/the-socratic-ai-knows-others-but-not-itself-7c2efadbe92c)|--| How Language Models Excel at Prediction but Fail at Introspection|
 |[To Know or To Do? Your LLM Can’t Have It All (Yet)](https://levelup.gitconnected.com/to-know-or-to-do-your-llm-cant-have-it-all-yet-2875fb6610e0)|--| When Bigger Isn’t Always Better for Every Skill|
 |[Creativity in LLMs: Optimizing for Diversity and Uniqueness](https://medium.com/data-science-collective/creativity-in-llms-optimizing-for-diversity-and-uniqueness-f5c7208f4d99)|--|Creative writing does not provide a single “gold” answer but allows many valid answers. In short, no, LLMs are capable of generating text but lack creativity.|
@@ -392,6 +392,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[The Limits of Embeddings: Why One Vector Can’t Fit All Queries](https://levelup.gitconnected.com/the-limits-of-embeddings-why-one-vector-cant-fit-all-queries-e10d35a917d0)|--| Exploring the theoretical and practical limits of embedding vector retrieval|
+|[AI Agent, You’re Better Off Alone. Debate Is a Trap](https://levelup.gitconnected.com/ai-agent-youre-better-off-alone-debate-is-a-trap-2848bf74c6ce)|--| Why adding more agents can reduce accuracy, and how to avoid the trap|
 | [Apes Strong Together, AI Agents Not: Why Multi-Agent Systems Fail](https://levelup.gitconnected.com/apes-strong-together-ai-agents-not-why-multi-agent-systems-fail-8a328be48a5d)|--| A Taxonomy of Failure Modes Across 150 Tasks and Five MAS Frameworks|
 | [Beyond Text: Navigating Toward a Multimodal RAG Horizon](https://levelup.gitconnected.com/beyond-text-navigating-toward-a-multimodal-rag-horizon-b5bf3285db01)|--|Harnessing the Power of Videos and Multimodal Integration for Next-Generation Retrieval-Augmented Generation |
 | [You Cache Only Once: Cache-Augmented Generation (CAG) Instead Of RAG](https://levelup.gitconnected.com/you-cache-only-once-cache-augmented-generation-cag-instead-of-rag-25f19cf239f6)|--| Streamlining Knowledge Tasks with Cache-Augmented Generation: A Simpler Alternative to Retrieval-Based Approaches|
