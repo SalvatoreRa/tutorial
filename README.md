@@ -304,6 +304,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 |[]()|--| |
 |[]()|--| |
 |[]()|--| |
+|[Can Machines Dream? On the Creativity of Large Language Models](https://medium.com/data-science/can-machines-dream-on-the-creativity-of-large-language-models-d1d20cf51939)|--| Exploring the Role of Hallucinations, Dependencies, and Imagination in AI Creativity|
+|[Do You Know Yourself, ChatGPT? Can You Explain Your Behavior?](https://levelup.gitconnected.com/do-you-know-yourself-chatgpt-can-you-explain-your-behavior-d87fefeb41bf)|--| Exploring the Spontaneous Articulation of Implicit Behaviors in Large Language Models|
 |[Follow the Ants, They Know the Path: Enhancing LLM Reasoning with ACO-ToT](https://levelup.gitconnected.com/follow-the-ants-they-know-the-path-enhancing-llm-reasoning-with-aco-tot-7974c4928658)|--| Harnessing Swarm Intelligence and Tree of Thought Optimization to Unlock Advanced AI Reasoning|
 |[The LLMs’ Dilemma: Thinking Too Much OR Too Little?](https://levelup.gitconnected.com/the-llms-dilemma-thinking-too-much-or-too-little-619a7532a47e)|--| Exploring the fine line between deep reasoning and computational overkill in large language models.|
 |[How Much Data Does ChatGPT Need to Reason? Less Than You Think](https://levelup.gitconnected.com/how-much-data-does-chatgpt-need-to-reason-less-than-you-think-a6e152e11c1e)|--| Challenging the Big Data Myth: How AI Achieves Complex Reasoning with Surprisingly Few Examples, and How Does It Work|
