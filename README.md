@@ -518,6 +518,8 @@ In this series of tutorials, I will focus on artificial intelligence (neural net
 
 | Articles | notebook | description |
 | ------- | ----------- | ------ |
+|[A Malicious Seed: Fine-Tuning LLMs to Grow Bad Behaviors](https://levelup.gitconnected.com/a-malicious-seed-fine-tuning-llms-to-grow-bad-behaviors-100e4aaa470d)|--| How Narrow Training on Insecure Code Leads to Broad AI Misalignment and Deception|
+|[Is Wikipedia an Endangered Species? Is ChatGPT Its Predator?](https://levelup.gitconnected.com/is-wikipedia-an-endangered-species-is-chatgpt-its-predator-969b552bd989)|--| Exploring the Impact of Large Language Models on Wikipedia’s Future|
 | [The Cultural Lens of AI: Which Party Would Your LLM Vote?](https://levelup.gitconnected.com/the-cultural-lens-of-ai-which-party-would-your-llm-vote-ab7b6f1b6b23) |--| Unveiling Ideological Bias Across Languages and Cultures in Large Language Models|
 |[Be Yourself: Does Assigning Roles Hurt AI Performance?](https://levelup.gitconnected.com/be-yourself-does-assigning-roles-hurt-ai-performance-ae4b7f74602f)| -- |Does Personality Matter? How Roles in System Prompts Affect AI Output |
 |[Power Corrupts: Hierarchies, Persuasion, and Anti-Social Behavior in LLMs](https://ai.gopubby.com/power-corrupts-hierarchies-persuasion-and-anti-social-behavior-in-llms-b3c4dd5575cb)| -- | Unraveling Power Dynamics and Ethical Implications in LLM Agents|
